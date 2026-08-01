@@ -14,8 +14,8 @@
 // em janeiro. Nada de "hoje é domingo, tudo fechado" — isso varia por cidade e
 // entraria como inferência vestida de fato.
 //
-// O texto de cada faixa vai para o francês junto com o resto do app (o comprador
-// é francês). Registro cortês e caloroso ("vous"), upbeat.
+// O texto de cada faixa vai para o italiano junto com o resto do app (o comprador
+// é italiano). Registro caloroso e informal ("tu"), upbeat.
 
 export interface Ambiente {
   /** HH:MM na Espanha peninsular. */
@@ -56,18 +56,18 @@ function horaEmEspanha(d: Date): { hora: string; minutos: number } {
 
 // Faixas do dia, do começo de cada uma. A última cobre a virada da meia-noite.
 const FAIXAS: { de: number; linha: string }[] = [
-  { de: 0, linha: 'Les cuisines sont fermées, les bars non. Demandez l’addition avant qu’on vous la réclame.' },
-  { de: 5 * 60, linha: 'Rien n’est encore ouvert. Les premiers cafés lèvent le rideau vers sept heures.' },
-  { de: 7 * 60, linha: 'Le petit-déjeuner, c’est un café et une tartine, debout au comptoir. Rien de plus.' },
-  { de: 10 * 60 + 30, linha: 'En milieu de matinée, toute la rue s’arrête pour un cortado et une petite chose à grignoter.' },
-  { de: 12 * 60, linha: 'Trop tôt pour déjeuner. Un vermouth et une tapa, c’est exactement l’heure.' },
-  { de: 14 * 60, linha: 'C’est l’heure du déjeuner, et le menú del día est le meilleur rapport qualité-prix d’Espagne.' },
-  { de: 15 * 60 + 30, linha: 'La sobremesa : la table est à vous tant que vous ne demandez pas l’addition. Personne ne vous presse.' },
-  { de: 16 * 60 + 30, linha: 'Les cuisines changent d’équipe. Un bar vous servira quand même une tapa.' },
-  { de: 18 * 60, linha: 'La merienda — un café et quelque chose de sucré. Le dîner, c’est encore dans trois heures.' },
-  { de: 20 * 60, linha: 'Les cuisines se réveillent. Réservez pour neuf heures et demie, et vous serez à l’heure espagnole.' },
-  { de: 21 * 60, linha: 'Partout les cuisines sont ouvertes. Pour dîner, vous êtes en avance, pas en retard.' },
-  { de: 22 * 60 + 30, linha: 'Ici, dix heures du soir, c’est le cœur de la soirée. Les dernières commandes passent vers onze heures et demie.' }
+  { de: 0, linha: 'Le cucine sono chiuse, i bar no. Chiedi il conto prima che te lo chiedano loro.' },
+  { de: 5 * 60, linha: 'Non è ancora aperto niente. I primi bar alzano la saracinesca verso le sette.' },
+  { de: 7 * 60, linha: 'La colazione è un caffè e pane tostato, in piedi al bancone. Niente di più.' },
+  { de: 10 * 60 + 30, linha: 'A metà mattina tutta la strada si ferma per un cortado e qualcosa da sgranocchiare.' },
+  { de: 12 * 60, linha: 'Troppo presto per pranzo. Un vermut e una tapa: è proprio l’ora giusta.' },
+  { de: 14 * 60, linha: 'È l’ora di pranzo, e il menú del día è il miglior rapporto qualità-prezzo di Spagna.' },
+  { de: 15 * 60 + 30, linha: 'La sobremesa: il tavolo è tuo finché non chiedi il conto. Nessuno ti mette fretta.' },
+  { de: 16 * 60 + 30, linha: 'Le cucine cambiano turno. Un bar ti servirà comunque una tapa.' },
+  { de: 18 * 60, linha: 'La merienda — un caffè e qualcosa di dolce. Alla cena mancano ancora tre ore.' },
+  { de: 20 * 60, linha: 'Le cucine si svegliano. Prenota per le nove e mezza e sarai in orario spagnolo.' },
+  { de: 21 * 60, linha: 'Le cucine sono aperte ovunque. Per la cena sei in anticipo, non in ritardo.' },
+  { de: 22 * 60 + 30, linha: 'Qui le dieci di sera sono il cuore della serata. Le ultime ordinazioni si fanno verso le undici e mezza.' }
 ];
 
 export function ambienteAgora(d: Date = new Date()): Ambiente {

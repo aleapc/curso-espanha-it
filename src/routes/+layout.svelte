@@ -49,7 +49,7 @@
   >
     <a href="{base}/" class="flex items-baseline gap-1.5">
       <span class="text-lg font-extrabold text-terracota">¡Dime!</span>
-      <span class="hidden text-xs font-medium text-carvao/50 sm:inline">· L'espagnol de survie en Espagne</span>
+      <span class="hidden text-xs font-medium text-carvao/50 sm:inline">· Lo spagnolo per sopravvivere in Spagna</span>
     </a>
     <div class="flex gap-1">
       {#each PROFILES as p}

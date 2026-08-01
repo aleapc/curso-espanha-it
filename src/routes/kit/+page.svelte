@@ -37,7 +37,7 @@
 </script>
 
 <svelte:head>
-  <title>L’antisèche · ¡Dime!</title>
+  <title>Il bigliettino · ¡Dime!</title>
 </svelte:head>
 
 <KitTela>
@@ -71,20 +71,20 @@
             : 'bg-white text-carvao ring-carvao/15'}"
         >
           {#if estado === 'baixando'}⬇ {progresso}%
-          {:else if estado === 'pronto'}✓ Voyage
-          {:else if estado === 'parcial'}↻ Voyage
-          {:else if estado === 'sem-suporte'}— Voyage
-          {:else}⬇ Voyage{/if}
+          {:else if estado === 'pronto'}✓ Viaggio
+          {:else if estado === 'parcial'}↻ Viaggio
+          {:else if estado === 'sem-suporte'}— Viaggio
+          {:else}⬇ Viaggio{/if}
         </button>
       {/if}
     </div>
     {#if estado === 'parcial'}
       <p role="status" class="mt-1 text-center text-[0.72rem] font-semibold text-terracota">
-        Quelques clips ne sont pas passés — touchez de nouveau ↻ Voyage tant que vous avez du réseau.
+        Alcuni clip non sono arrivati — tocca di nuovo ↻ Viaggio finché hai segnale.
       </p>
     {:else if estado === 'sem-suporte'}
       <p role="status" class="mt-1 text-center text-[0.72rem] font-semibold text-terracota">
-        Ce navigateur ne peut pas enregistrer l’audio. Ajoutez d’abord l’app à l’écran d’accueil.
+        Questo browser non può salvare l’audio. Aggiungi prima l’app alla schermata Home.
       </p>
     {/if}
   {/snippet}

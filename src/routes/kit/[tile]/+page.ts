@@ -10,7 +10,7 @@ export const entries: EntryGenerator = () => tiles.map((t) => ({ tile: t.id }));
 
 export const load: PageLoad = ({ params }) => {
   const tile = tilePorId(params.tile);
-  if (!tile) throw error(404, 'Ne fait pas partie de l’antisèche');
+  if (!tile) throw error(404, 'Non fa parte del bigliettino');
   return {
     tile,
     folhas: folhasDoTile(tile.id).map((folha) => ({

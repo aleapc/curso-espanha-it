@@ -9,8 +9,8 @@ export type Profile = 'ale' | 'dea';
 // Perfis do casal viajante (ids internos 'ale'/'dea' mantidos pelo formato de
 // sync — são só chaves; os NOMES é que aparecem).
 export const PROFILES: { id: Profile; nome: string; emoji: string }[] = [
-  { id: 'ale', nome: 'Toi', emoji: '🧳' },
-  { id: 'dea', nome: 'Compagnon de voyage', emoji: '🕶️' }
+  { id: 'ale', nome: 'Tu', emoji: '🧳' },
+  { id: 'dea', nome: 'Compagno di viaggio', emoji: '🕶️' }
 ];
 
 interface Persisted {
@@ -64,7 +64,7 @@ function save() {
   } catch (e) {
     // Quota cheia (a origem aleapc.github.io é COMPARTILHADA pelos outros PWAs).
     // O progresso segue em memória na sessão; não derruba markDone/importSync.
-    console.warn('Dime : impossible d\'enregistrer votre progression (mémoire pleine ?)', e);
+    console.warn('Dime: impossibile salvare i tuoi progressi (memoria piena?)', e);
   }
 }
 

@@ -50,7 +50,7 @@
         </ul>
       {:else}
         <p class="px-4 py-3 text-sm text-carvao/70">
-          Rien sous ce mot. Essayez l’endroit où vous vous trouvez — les douze là-haut.
+          Niente sotto questa parola. Prova il posto in cui ti trovi — i dodici qui sopra.
         </p>
       {/if}
     </div>
@@ -65,8 +65,8 @@
       autocapitalize="off"
       autocorrect="off"
       spellcheck="false"
-      placeholder="Tapez un mot — bière, ticket, taximètre…"
-      aria-label="Chercher dans l’antisèche"
+      placeholder="scrivi una parola — birra, biglietto, tassametro…"
+      aria-label="Cerca nel bigliettino"
       class="h-12 min-w-0 flex-1 bg-transparent text-[1.05rem] outline-none placeholder:text-carvao/45"
     />
     {#if termo}
@@ -74,7 +74,7 @@
         type="button"
         class="-mr-1 px-2 py-2 text-lg text-carvao/60"
         onclick={() => (termo = '')}
-        aria-label="Effacer la recherche">✕</button
+        aria-label="Cancella la ricerca">✕</button
       >
     {/if}
   </div>

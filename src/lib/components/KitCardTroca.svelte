@@ -61,7 +61,7 @@
 >
   {#if card.aviso}
     <p class="mb-2 text-[0.7rem] font-bold uppercase tracking-wide text-terracota">
-      ⚠ quand ça tourne mal
+      ⚠ quando va storto
     </p>
   {/if}
 
@@ -75,7 +75,7 @@
         class="mb-2 block w-full rounded-xl bg-carvao/[0.04] px-3 py-2 text-left ring-1 ring-black/5 active:bg-carvao/10"
       >
         <span class="block text-[0.65rem] font-bold uppercase tracking-wide text-carvao/60"
-          >On dit</span
+          >Si dice</span
         >
         <span class="mt-0.5 flex items-baseline gap-2">
           <span class="flex-1 text-[1.05rem] font-semibold leading-snug">{t.es}</span>
@@ -87,11 +87,11 @@
   {/each}
 
   {#if sua}
-    <p class="mb-1 text-[0.7rem] font-bold uppercase tracking-wide text-carvao/60">Vous dites</p>
+    <p class="mb-1 text-[0.7rem] font-bold uppercase tracking-wide text-carvao/60">Tu dici</p>
     <button
       type="button"
       onclick={tocarSuaFala}
-      aria-label={revelado ? `Écouter : ${sua.es}` : 'Révéler la phrase'}
+      aria-label={revelado ? `Ascolta: ${sua.es}` : 'Rivela la frase'}
       class="block w-full rounded-2xl px-3.5 py-3 text-left ring-2 transition active:scale-[0.99]
         {tocandoIdx === indiceDaSuaFala
         ? 'bg-sol/25 ring-terracota'
@@ -116,7 +116,7 @@
         >
         <span class="mt-1 block text-[0.95rem] text-carvao/75">{sua.en}</span>
         <span class="mt-1 block text-[0.8rem] font-semibold text-oceano"
-          >Vous la connaissez déjà — touchez pour révéler</span
+          >La conosci già — tocca per rivelare</span
         >
       {/if}
     </button>
@@ -132,7 +132,7 @@
         class="mt-2 block w-full rounded-xl bg-oceano/[0.07] px-3 py-2 text-left ring-1 ring-oceano/20 active:bg-oceano/15"
       >
         <span class="block text-[0.65rem] font-bold uppercase tracking-wide text-oceano"
-          >Ce qui revient</span
+          >Cosa torna</span
         >
         <span class="mt-0.5 flex items-baseline gap-2">
           <span class="flex-1 text-[1.05rem] font-semibold leading-snug">{t.es}</span>
@@ -148,7 +148,7 @@
         class="mt-2 block w-full rounded-xl bg-creme px-3 py-2 text-left ring-1 ring-carvao/15 active:bg-sol/20"
       >
         <span class="block text-[0.65rem] font-bold uppercase tracking-wide text-carvao/60"
-          >Puis vous dites</span
+          >Poi dici</span
         >
         <span class="mt-0.5 flex items-baseline gap-2">
           <span class="flex-1 text-[1.15rem] font-bold leading-snug">{t.es}</span>
@@ -168,7 +168,7 @@
 
   {#if falhou}
     <p role="status" class="mt-2 text-[0.8rem] font-semibold text-terracota">
-      ⚠️ Pas d’audio pour celle-ci — téléchargez l’antisèche avant de partir.
+      ⚠️ Nessun audio per questa — scarica il bigliettino prima di partire.
     </p>
   {/if}
 </article>

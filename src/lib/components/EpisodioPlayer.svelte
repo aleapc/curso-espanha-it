@@ -32,9 +32,9 @@
 
   // Velocidade da pausa pra responder (persistida)
   const velocidades = [
-    { nome: 'court', f: 0.7 },
-    { nome: 'moyen', f: 1 },
-    { nome: 'long', f: 1.5 }
+    { nome: 'breve', f: 0.7 },
+    { nome: 'medio', f: 1 },
+    { nome: 'lungo', f: 1.5 }
   ];
   let fator = $state(
     typeof localStorage !== 'undefined' ? Number(localStorage.getItem('it-pausa')) || 1 : 1
@@ -350,13 +350,13 @@
     Ploy: 'Ploy'
   };
   const acao: Record<string, string> = {
-    ouvir: 'Écoutez',
-    responde: 'À vous',
-    shadow: 'Répétez avec eux'
+    ouvir: 'Ascolta',
+    responde: 'Tocca a te',
+    shadow: 'Ripeti con loro'
   };
   function badge(s?: Step): string {
     if (!s) return '';
-    if (s.tipo === 'intro' || s.tipo === 'recap') return vozNome[s.voz ?? ''] ?? 'Guide';
+    if (s.tipo === 'intro' || s.tipo === 'recap') return vozNome[s.voz ?? ''] ?? 'Guida';
     return acao[s.tipo] ?? '';
   }
 
@@ -364,7 +364,7 @@
     if (typeof navigator !== 'undefined' && 'mediaSession' in navigator) {
       try {
         navigator.mediaSession.metadata = new MediaMetadata({
-          title: `${episodio.titulo} (Ép. ${episodio.numero}${episodio.parte ? ' · ' + episodio.parte : ''})`,
+          title: `${episodio.titulo} (Ep. ${episodio.numero}${episodio.parte ? ' · ' + episodio.parte : ''})`,
           artist: 'Dime Spanish',
           album: 'Dime Spanish'
         });
@@ -413,7 +413,7 @@
       ? 'bg-white shadow text-terracota'
       : 'text-carvao/60'}"
   >
-    📚 Étudier
+    📚 Studia
   </button>
   <button
     type="button"
@@ -423,13 +423,13 @@
       ? 'bg-white shadow text-terracota'
       : 'text-carvao/60'}"
   >
-    🚗 Voiture
+    🚗 Auto
   </button>
 </div>
 
 <div class="flex items-center justify-between text-sm">
   <span class="font-semibold text-oceano">
-    Épisode {episodio.numero}{episodio.parte ? ` · ${episodio.parte}` : ''}
+    Episodio {episodio.numero}{episodio.parte ? ` · ${episodio.parte}` : ''}
   </span>
   <span class="text-carvao/50">{index + 1} / {total}</span>
 </div>
@@ -451,7 +451,7 @@
 
   {#if fase === 'pausa' && step?.tipo === 'responde'}
     <p class="text-lg font-medium text-carvao/80">{step.promptPt}</p>
-    <p class="text-2xl font-extrabold text-terracota">🎤 Parlez maintenant !</p>
+    <p class="text-2xl font-extrabold text-terracota">🎤 Parla adesso!</p>
     {#key index}
       <div class="h-2 w-40 overflow-hidden rounded-full bg-black/10">
         <div class="barra h-full bg-terracota" style="animation-duration: {pausaMs(step)}ms"></div>
@@ -464,14 +464,14 @@
       {#if step.pinyin}<p class="text-lg font-medium text-oceano">{step.pinyin}</p>{/if}
       <p class="text-carvao/55">{step.pt}</p>
     {:else}
-      <p class="text-sm text-carvao/50">Vous l'avez dit ? Écoutez l'original — ou passez simplement à la suite.</p>
+      <p class="text-sm text-carvao/50">L'hai detto? Ascolta l'originale, o passa semplicemente al prossimo.</p>
     {/if}
     {#if recUrl}
-      <button class="btn bg-oceano text-white text-sm" onclick={ouvirVoce}>▶ vous écouter</button>
+      <button class="btn bg-oceano text-white text-sm" onclick={ouvirVoce}>▶ ascoltarti</button>
     {/if}
   {:else if fase === 'pausa' && step?.tipo === 'shadow'}
-    <p class="text-2xl font-extrabold text-terracota">🗣️ Répétez avec eux !</p>
-    <p class="text-sm text-carvao/50">essayez sans lire</p>
+    <p class="text-2xl font-extrabold text-terracota">🗣️ Ripeti con loro!</p>
+    <p class="text-sm text-carvao/50">prova senza leggere</p>
   {:else if ehPt}
     <p class="text-lg leading-relaxed text-carvao/90">{step?.pt}</p>
   {:else}
@@ -496,13 +496,13 @@
 
   {#if !ehPt && !mostrarEs && fase !== 'pausa'}
     <button class="-m-2 p-3 text-xs text-oceano underline" onclick={() => (mostrarEs = true)}
-      >Afficher le texte</button
+      >Mostra il testo</button
     >
   {/if}
 
   {#if erroAudio}
     <p role="status" class="text-xs font-medium text-terracota">
-      ⚠️ Audio indisponible — vérifiez votre connexion (ou enregistrez hors ligne avant de partir).
+      ⚠️ Audio non disponibile — controlla la connessione (o salva offline prima di partire).
     </p>
   {/if}
 </div>
@@ -512,29 +512,29 @@
   <button
     class="btn bg-white text-lg ring-1 ring-black/10"
     onclick={anterior}
-    aria-label="Étape précédente">⏮</button
+    aria-label="Passo precedente">⏮</button
   >
 
   {#if fase === 'aguardando'}
-    <button class="btn-primary px-6 py-3" onclick={ouvirResposta}>▶ Écouter la réponse</button>
-    <button class="btn bg-salvia px-6 py-3 text-white" onclick={proximo}>⏭ suivant</button>
+    <button class="btn-primary px-6 py-3" onclick={ouvirResposta}>▶ Ascolta la risposta</button>
+    <button class="btn bg-salvia px-6 py-3 text-white" onclick={proximo}>⏭ avanti</button>
   {:else}
     <button class="btn-primary px-8 py-3 text-lg" onclick={botaoCentral}>
-      {#if fase === 'parado'}{index === 0 ? '▶ Commencer' : '▶ Continuer'}
-      {:else if fase === 'fim'}↺ Recommencer
-      {:else}⏸ Pause{/if}
+      {#if fase === 'parado'}{index === 0 ? '▶ Inizia' : '▶ Continua'}
+      {:else if fase === 'fim'}↺ Ricomincia
+      {:else}⏸ Pausa{/if}
     </button>
   {/if}
 
   <button
     class="btn bg-white text-lg ring-1 ring-black/10"
     onclick={proximo}
-    aria-label="Étape suivante">⏭</button
+    aria-label="Passo successivo">⏭</button
   >
 </div>
 
 <div class="mt-3 flex flex-wrap items-center justify-center gap-4 text-sm">
-  <button class="-my-2 px-2 py-3 text-oceano" onclick={repetir}>⟲ Répéter l'étape</button>
+  <button class="-my-2 px-2 py-3 text-oceano" onclick={repetir}>⟲ Ripeti il passo</button>
   <label class="flex cursor-pointer items-center gap-1 py-2 text-carvao/60">
     <input
       type="checkbox"
@@ -543,17 +543,17 @@
         if (!gravando) releaseMic();
       }}
     />
-    🎙️ enregistrer ma voix
+    🎙️ registra la mia voce
   </label>
 </div>
 {#if micErro}
   <p role="status" class="mt-1 text-center text-xs text-terracota">
-    ⚠️ Pas d'accès au micro — autorisez-le dans Réglages iPhone › Dime › Microphone.
+    ⚠️ Nessun accesso al microfono — autorizzalo in Impostazioni iPhone › Dime › Microfono.
   </p>
 {/if}
 
 <div class="mt-2 flex items-center justify-center gap-2 text-xs text-carvao/70">
-  <span>Pause pour parler :</span>
+  <span>Pausa per parlare:</span>
   {#each velocidades as v}
     <button
       type="button"
@@ -576,21 +576,21 @@
     onclick={baixarParte}
     disabled={baixando || baixado}
   >
-    {#if baixando}⬇ téléchargement… {baixaProg}/{clipKeys.length}
-    {:else if baixado}✅ enregistré hors ligne
-    {:else}⬇ enregistrer cette partie hors ligne{/if}
+    {#if baixando}⬇ scaricamento… {baixaProg}/{clipKeys.length}
+    {:else if baixado}✅ salvato offline
+    {:else}⬇ salva questa parte offline{/if}
   </button>
 </div>
 
 {#if modo === 'carro'}
   <p class="mt-3 text-center text-xs text-carvao/45">
-    🚗 Mode Voiture : tout s'enchaîne tout seul. Utilisez les boutons du volant / l'écran verrouillé
-    pour lire, mettre en pause et passer.
+    🚗 Modalità Auto: va avanti tutto da solo. Usa i pulsanti del volante / lo schermo bloccato
+    per riprodurre, mettere in pausa e saltare.
   </p>
 {/if}
 
 {#if fase === 'fim'}
-  <p class="mt-5 text-center text-lg font-semibold text-salvia">✅ Partie terminée !</p>
+  <p class="mt-5 text-center text-lg font-semibold text-salvia">✅ Parte finita!</p>
 {/if}
 
 <style>

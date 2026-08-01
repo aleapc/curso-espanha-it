@@ -62,7 +62,7 @@
       class="flex h-14 items-center gap-2 rounded-2xl bg-white px-4 text-[1.05rem] font-bold shadow-sm ring-2 ring-carvao/15 active:scale-[0.99]"
     >
       <span class="text-xl text-oceano">◀</span>
-      <span>Les douze</span>
+      <span>Tutte e dodici</span>
     </a>
   {/snippet}
 </KitTela>

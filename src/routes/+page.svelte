@@ -23,8 +23,8 @@
     const r = importSync(cola);
     msgOk = !!r;
     msg = r
-      ? `Importé : +${r.ale} de vous, +${r.dea} de l'autre personne. 🎉`
-      : 'Code invalide — vous avez tout copié ? Il commence par DE1.';
+      ? `Importato: +${r.ale} da te, +${r.dea} dall'altra persona. 🎉`
+      : 'Codice non valido — hai copiato tutto? Inizia con IT1.';
   }
 
   const dotBg: Record<string, string> = {
@@ -63,7 +63,7 @@
     ¡Hola! 👋
   </h1>
   <p class="mt-1 text-carvao/70">
-    L'espagnol et la culture de survie pour l'Espagne — écoutez, répétez à voix haute, et ne vous faites pas avoir.
+    Lo spagnolo e la cultura di sopravvivenza per la Spagna — ascolta, ripeti ad alta voce e non farti fregare.
   </p>
 </section>
 
@@ -75,7 +75,7 @@
   href="{base}/kit/"
   class="fixed bottom-[max(1rem,env(safe-area-inset-bottom))] right-4 z-20 inline-flex items-center gap-2 rounded-full bg-carvao px-4 py-2.5 text-sm font-bold text-white shadow-lg transition active:scale-95"
 >
-  🧭 L’antisèche · à consulter
+  🧭 Il bigliettino · da consultare
 </a>
 
 <a
@@ -86,17 +86,17 @@
 >
   <span class="grid h-11 w-11 shrink-0 place-items-center rounded-xl bg-terracota/15 text-2xl">🗣️</span>
   <span class="min-w-0 flex-1">
-    <span class="block font-bold leading-tight text-carvao">Traducteur hors ligne</span>
+    <span class="block font-bold leading-tight text-carvao">Traduttore offline</span>
     <span class="block text-xs text-carvao/60"
-      >Installez <b>Google Traduction</b> et téléchargez l'<b>espagnol</b> hors ligne — l'appareil
-      photo lit les menus, les étiquettes et les formulaires sur le vif.</span
+      >Scarica <b>Google Traduttore</b> e il pacchetto <b>spagnolo</b> offline — la fotocamera legge
+      menù, etichette e moduli al volo.</span
     >
   </span>
   <span class="shrink-0 text-lg text-carvao/30">↗</span>
 </a>
 <p class="mt-1 px-1 text-[11px] text-carvao/45">
-  💡 Configurez ça AVANT de décoller. Ça vous sauve face aux petites lignes — mais ça ne commande pas
-  votre bière, et ça ne vous dit pas que la même boisson a trois prix.
+  💡 Configuralo PRIMA di partire. Ti salva con le scritte in piccolo — ma non ordina
+  la tua birra, e non ti dice che la stessa bevanda costa tre prezzi diversi.
 </p>
 
 {#each niveis as nivel}
@@ -106,7 +106,7 @@
     <div class="mb-1 flex items-center gap-2">
       <span class="h-3 w-3 rounded-full {dotBg[nivel.cor]}"></span>
       <h2 class="text-lg font-bold">{nivel.nome}</h2>
-      <span class="text-xs text-carvao/50">{feitas}/{totalP} parties</span>
+      <span class="text-xs text-carvao/50">{feitas}/{totalP} parti</span>
     </div>
     <p class="mb-3 text-sm text-carvao/60">{nivel.descricao}</p>
 
@@ -135,7 +135,7 @@
             <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/15 to-transparent"></div>
             <div class="absolute inset-x-2.5 bottom-2 text-white">
               <div class="text-[10px] font-bold uppercase tracking-wide opacity-90">
-                Épisode {i + 1}
+                Episodio {i + 1}
               </div>
               <div class="line-clamp-2 text-sm font-bold leading-snug drop-shadow">{ep.nome}</div>
             </div>
@@ -166,7 +166,7 @@
               type="button"
               class="ml-auto text-sm text-carvao/40"
               onclick={() => (aberto = null)}
-              aria-label="Fermer">✕</button
+              aria-label="Chiudi">✕</button
             >
           </div>
           <div class="space-y-1.5">
@@ -193,7 +193,7 @@
                   >
                   <span class="flex-1 text-sm font-medium">{p.titulo}</span>
                   <span class="text-[10px] font-semibold uppercase tracking-wide text-carvao/40"
-                    >bientôt</span
+                    >a breve</span
                   >
                 </div>
               {/if}
@@ -206,7 +206,7 @@
                 class="flex items-center gap-3 rounded-xl border border-dashed border-black/15 px-3 py-2.5 transition hover:bg-black/5"
               >
                 <span class="grid h-7 w-7 shrink-0 place-items-center rounded-full text-xs {softBg[nivel.cor]}">🎧</span>
-                <span class="flex-1 text-sm font-medium">Quiz de l'épisode</span>
+                <span class="flex-1 text-sm font-medium">Quiz dell'episodio</span>
                 <span class="text-sm">{isDone(quizDoEpisodio[ep.id]) ? '✅' : '▶'}</span>
               </a>
             {/if}
@@ -225,7 +225,7 @@
         <span class="text-xl">🎬</span>
         <span class="flex-1">
           <span class="block text-sm font-bold">Test {nivel.nome}</span>
-          <span class="block text-xs opacity-90">Audio plus long + test de compréhension</span>
+          <span class="block text-xs opacity-90">Audio più lungo + test di comprensione</span>
         </span>
         <span class="text-sm">{isDone(examDoNivel[nivel.nivel]) ? '✅' : '▶'}</span>
       </a>
@@ -236,16 +236,16 @@
 <!-- Sincronizar com o casal -->
 <section class="mt-8">
   <div class="card p-4">
-    <h2 class="mb-1 font-bold">👯 Synchronisez avec votre compagnon de voyage</h2>
+    <h2 class="mb-1 font-bold">👯 Sincronizzati con il tuo compagno di viaggio</h2>
     <p class="mb-3 text-sm text-carvao/60">
-      Générez un code et envoyez-le pour fusionner ce que vous avez fait tous les deux — aucun compte,
-      aucun serveur.
+      Genera un codice e invialo per unire quello che avete fatto entrambi — nessun account,
+      nessun server.
     </p>
     <div class="flex flex-wrap gap-2">
-      <button type="button" class="btn-primary" onclick={gerar}>Générer mon code</button>
+      <button type="button" class="btn-primary" onclick={gerar}>Genera il mio codice</button>
       {#if codigo}
         <a class="btn bg-salvia text-white" href={whatsappUrl(codigo)} target="_blank" rel="noopener">
-          Envoyer par WhatsApp
+          Invia su WhatsApp
         </a>
       {/if}
     </div>
@@ -258,14 +258,14 @@
     {/if}
 
     <div class="mt-4 border-t border-black/5 pt-3">
-      <p class="mb-2 text-sm text-carvao/60">Vous avez reçu un code ? Collez-le ici :</p>
+      <p class="mb-2 text-sm text-carvao/60">Hai ricevuto un codice? Incollalo qui:</p>
       <textarea
         bind:value={cola}
-        placeholder="DE1...."
+        placeholder="IT1...."
         class="w-full rounded-xl border border-black/10 p-2 text-xs"
         rows="2"
       ></textarea>
-      <button type="button" class="btn-primary mt-2" onclick={importar}>Importer</button>
+      <button type="button" class="btn-primary mt-2" onclick={importar}>Importa</button>
       {#if msg}
         <p role="status" class="mt-2 text-sm {msgOk ? 'text-salvia' : 'text-terracota'}">
           {msgOk ? '✅' : '⚠️'}

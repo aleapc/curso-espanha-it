@@ -64,16 +64,16 @@
            preenche. Dizer isso é melhor que esconder a folha: quem procurou
            "the meter" e caiu aqui fica sabendo que o assunto tem lugar. -->
       <div class="rounded-2xl bg-white p-4 shadow-sm ring-1 ring-black/10">
-        <p class="text-[1.05rem] font-bold leading-snug">Rien ici pour l’instant.</p>
+        <p class="text-[1.05rem] font-bold leading-snug">Ancora niente qui.</p>
         <p class="mt-1 text-[0.9rem] leading-snug text-carvao/75">
-          Le point est sur la carte, mais les phrases correspondantes ne sont pas encore arrivées
-          dans l’antisèche. Le reste de {data.tile.rotulo} a peut-être déjà ce qu’il vous faut.
+          Questo punto è sulla mappa, ma le frasi corrispondenti non sono ancora arrivate
+          nel bigliettino. Il resto di {data.tile.rotulo} forse ha già quello che ti serve.
         </p>
         <a
           href="{base}/kit/{data.tile.id}/"
           class="mt-3 inline-flex items-center gap-1.5 rounded-xl bg-creme px-3 py-2 text-[0.95rem] font-bold ring-1 ring-carvao/15"
         >
-          <span class="text-oceano">◀</span> Retour à {data.tile.rotulo}
+          <span class="text-oceano">◀</span> Torna a {data.tile.rotulo}
         </a>
       </div>
     {/if}

@@ -13,6 +13,6 @@ export const entries: EntryGenerator = () =>
 export const load: PageLoad = ({ params }) => {
   const folha = folhaPorId(`${params.tile}/${params.folha}`);
   const tile = tilePorId(params.tile);
-  if (!folha || !tile) throw error(404, 'Ne fait pas partie de l’antisèche');
+  if (!folha || !tile) throw error(404, 'Non fa parte del bigliettino');
   return { tile, folha, cards: cardsDaFolha(folha.id) };
 };

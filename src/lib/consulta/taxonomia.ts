@@ -40,131 +40,131 @@ import type { Folha, Tile } from './tipos';
 // destino, e quem escrever B02/I02/I10 confirma ou troca.
 
 export const TILES: Tile[] = [
-  { id: 'chegar', ordem: 1, rotulo: 'Bonjour & au revoir', icone: 'porta' },
-  { id: 'mesa', ordem: 2, rotulo: 'Bar & Restaurant', icone: 'garfo' },
-  { id: 'dieta', ordem: 3, rotulo: 'Je ne supporte pas', icone: 'escudo' },
-  { id: 'pagar', ordem: 4, rotulo: 'Payer', icone: 'cartao' },
-  { id: 'taxi', ordem: 5, rotulo: 'Taxi & voiture', icone: 'carro' },
-  { id: 'transporte', ordem: 6, rotulo: 'Métro & train', icone: 'trilho' },
-  { id: 'quarto', ordem: 7, rotulo: 'Hôtel & chambre', icone: 'cama' },
-  { id: 'compras', ordem: 8, rotulo: 'Boutiques & marché', icone: 'sacola' },
-  { id: 'saude', ordem: 9, rotulo: 'Pharmacie & petits maux', icone: 'cruz' },
-  { id: 'simpatia', ordem: 10, rotulo: 'Des mots gentils', icone: 'brinde' },
-  { id: 'reparo', ordem: 11, rotulo: 'Pas compris', icone: 'ouvido' },
-  { id: 'apuro', ordem: 12, rotulo: 'Ça a mal tourné', icone: 'alerta' }
+  { id: 'chegar', ordem: 1, rotulo: 'Ciao & arrivederci', icone: 'porta' },
+  { id: 'mesa', ordem: 2, rotulo: 'Bar & Ristorante', icone: 'garfo' },
+  { id: 'dieta', ordem: 3, rotulo: 'Non lo sopporto', icone: 'escudo' },
+  { id: 'pagar', ordem: 4, rotulo: 'Pagare', icone: 'cartao' },
+  { id: 'taxi', ordem: 5, rotulo: 'Taxi & auto', icone: 'carro' },
+  { id: 'transporte', ordem: 6, rotulo: 'Metro & treno', icone: 'trilho' },
+  { id: 'quarto', ordem: 7, rotulo: 'Hotel & camera', icone: 'cama' },
+  { id: 'compras', ordem: 8, rotulo: 'Negozi & mercato', icone: 'sacola' },
+  { id: 'saude', ordem: 9, rotulo: 'Farmacia & piccoli malanni', icone: 'cruz' },
+  { id: 'simpatia', ordem: 10, rotulo: 'Parole gentili', icone: 'brinde' },
+  { id: 'reparo', ordem: 11, rotulo: 'Non ho capito', icone: 'ouvido' },
+  { id: 'apuro', ordem: 12, rotulo: 'È andata storta', icone: 'alerta' }
 ];
 
 // Nível 2 — LOCAL da Espanha, rótulos em francês. `reativa: true` marca a folha de
 // "deu errado": sempre a última do tile, e contada pelo G8 (teto de 15% dos cards).
 export const FOLHAS: Folha[] = [
   // 1 · chegar
-  { id: 'chegar/entrar', tile: 'chegar', rotulo: 'Entrer' },
-  { id: 'chegar/balcao', tile: 'chegar', rotulo: 'Se faire servir au comptoir' },
-  { id: 'chegar/ultimo', tile: 'chegar', rotulo: '« C’est qui le dernier ? »' },
-  { id: 'chegar/sair', tile: 'chegar', rotulo: 'Sortir' },
+  { id: 'chegar/entrar', tile: 'chegar', rotulo: 'Entrare' },
+  { id: 'chegar/balcao', tile: 'chegar', rotulo: 'Farsi servire al banco' },
+  { id: 'chegar/ultimo', tile: 'chegar', rotulo: '« Chi è l’ultimo? »' },
+  { id: 'chegar/sair', tile: 'chegar', rotulo: 'Uscire' },
   // ANDAIME. No SKU inglês esta folha é «Tú or usted, in one line» — o anglófono
   // não tem a máquina T/V e decide no escuro. O comprador francês TEM tu/vous e a
   // roda calibrada para a França, onde vous é o default no balcão; na Espanha o
   // default é `tú`. O problema muda de "escolher" para "recalibrar", e o rótulo
   // segue essa mudança. Confirmar ao escrever B02/I02.
-  { id: 'chegar/tu-usted', tile: 'chegar', rotulo: 'Le « vous » n’est pas usted : tú au comptoir' },
+  { id: 'chegar/tu-usted', tile: 'chegar', rotulo: 'Il « Lei » non è usted: tú al banco' },
 
   // 2 · mesa
-  { id: 'mesa/mesa', tile: 'mesa', rotulo: 'Une table' },
-  { id: 'mesa/carta', tile: 'mesa', rotulo: 'La carte' },
-  { id: 'mesa/bebida', tile: 'mesa', rotulo: 'Quelque chose à boire' },
-  { id: 'mesa/comida', tile: 'mesa', rotulo: 'À manger' },
-  { id: 'mesa/tamanho', tile: 'mesa', rotulo: 'Tapa, ración ou media' },
-  { id: 'mesa/agua-pao', tile: 'mesa', rotulo: 'Eau & pain' },
-  { id: 'mesa/conta', tile: 'mesa', rotulo: 'L’addition' },
-  { id: 'mesa/errado', tile: 'mesa', rotulo: 'Ce n’est pas ce que j’ai commandé', reativa: true },
+  { id: 'mesa/mesa', tile: 'mesa', rotulo: 'Un tavolo' },
+  { id: 'mesa/carta', tile: 'mesa', rotulo: 'Il menù' },
+  { id: 'mesa/bebida', tile: 'mesa', rotulo: 'Qualcosa da bere' },
+  { id: 'mesa/comida', tile: 'mesa', rotulo: 'Da mangiare' },
+  { id: 'mesa/tamanho', tile: 'mesa', rotulo: 'Tapa, ración o media' },
+  { id: 'mesa/agua-pao', tile: 'mesa', rotulo: 'Acqua & pane' },
+  { id: 'mesa/conta', tile: 'mesa', rotulo: 'Il conto' },
+  { id: 'mesa/errado', tile: 'mesa', rotulo: 'Non è quello che ho ordinato', reativa: true },
 
   // 3 · dieta
-  { id: 'dieta/dizer', tile: 'dieta', rotulo: 'Le dire (les trois niveaux)' },
-  { id: 'dieta/cartao', tile: 'dieta', rotulo: 'Montrer la carte' },
-  { id: 'dieta/o-que-tem', tile: 'dieta', rotulo: 'Qu’est-ce qu’il y a dedans ?' },
-  { id: 'dieta/sem', tile: 'dieta', rotulo: 'Sans viande / sans porc / sans gluten' },
-  { id: 'dieta/nao-levam-a-serio', tile: 'dieta', rotulo: 'On ne me prend pas au sérieux', reativa: true },
-  { id: 'dieta/acontecendo', tile: 'dieta', rotulo: 'C’est en train d’arriver', reativa: true },
+  { id: 'dieta/dizer', tile: 'dieta', rotulo: 'Dirlo (i tre livelli)' },
+  { id: 'dieta/cartao', tile: 'dieta', rotulo: 'Mostrare la scheda' },
+  { id: 'dieta/o-que-tem', tile: 'dieta', rotulo: 'Cosa c’è dentro?' },
+  { id: 'dieta/sem', tile: 'dieta', rotulo: 'Senza carne / senza maiale / senza glutine' },
+  { id: 'dieta/nao-levam-a-serio', tile: 'dieta', rotulo: 'Non mi prendono sul serio', reativa: true },
+  { id: 'dieta/acontecendo', tile: 'dieta', rotulo: 'Sta succedendo', reativa: true },
 
   // 4 · pagar
-  { id: 'pagar/pedir', tile: 'pagar', rotulo: 'Demander l’addition' },
+  { id: 'pagar/pedir', tile: 'pagar', rotulo: 'Chiedere il conto' },
   // ANDAIME. No SKU inglês: «Card — and "en euros"», porque o britânico paga em
   // libras e a maquininha oferece DCC. O comprador da zona do euro paga em euros
   // com Carte en euros: o DCC NÃO EXISTE para ele e `sin conversión` sai do curso.
   // O que sobra de caro no cartão aqui é outra coisa — ver B14. Confirmar ao
   // escrever B14; esta folha pode acabar mudando de recheio inteiro.
-  { id: 'pagar/cartao', tile: 'pagar', rotulo: 'Payer par carte' },
-  { id: 'pagar/dinheiro', tile: 'pagar', rotulo: 'Espèces & le billet de cinquante' },
-  { id: 'pagar/gorjeta', tile: 'pagar', rotulo: 'Le pourboire' },
-  { id: 'pagar/rachar', tile: 'pagar', rotulo: 'Payer séparément' },
-  { id: 'pagar/errado', tile: 'pagar', rotulo: 'Mauvaise addition, mauvaise monnaie', reativa: true },
+  { id: 'pagar/cartao', tile: 'pagar', rotulo: 'Pagare con la carta' },
+  { id: 'pagar/dinheiro', tile: 'pagar', rotulo: 'Contanti & la banconota da cinquanta' },
+  { id: 'pagar/gorjeta', tile: 'pagar', rotulo: 'La mancia' },
+  { id: 'pagar/rachar', tile: 'pagar', rotulo: 'Pagare separatamente' },
+  { id: 'pagar/errado', tile: 'pagar', rotulo: 'Conto sbagliato, resto sbagliato', reativa: true },
 
   // 5 · taxi
-  { id: 'taxi/destino', tile: 'taxi', rotulo: 'Dire où aller' },
-  { id: 'taxi/taximetro', tile: 'taxi', rotulo: 'Taximètre & prix' },
-  { id: 'taxi/parar', tile: 'taxi', rotulo: 'Arrêtez-vous ici / le reçu' },
-  { id: 'taxi/locadora', tile: 'taxi', rotulo: 'Le comptoir de location' },
-  { id: 'taxi/estacionar', tile: 'taxi', rotulo: 'Se garer & la caméra ZBE' },
-  { id: 'taxi/errado', tile: 'taxi', rotulo: 'Pas de carte / mauvaise direction', reativa: true },
+  { id: 'taxi/destino', tile: 'taxi', rotulo: 'Dire dove andare' },
+  { id: 'taxi/taximetro', tile: 'taxi', rotulo: 'Tassametro & prezzo' },
+  { id: 'taxi/parar', tile: 'taxi', rotulo: 'Fermarsi qui / la ricevuta' },
+  { id: 'taxi/locadora', tile: 'taxi', rotulo: 'Il banco dell’autonoleggio' },
+  { id: 'taxi/estacionar', tile: 'taxi', rotulo: 'Parcheggiare & la telecamera ZBE' },
+  { id: 'taxi/errado', tile: 'taxi', rotulo: 'Niente carta / direzione sbagliata', reativa: true },
 
   // 6 · transporte
-  { id: 'transporte/bilhete', tile: 'transporte', rotulo: 'Le bon billet' },
-  { id: 'transporte/qual-trem', tile: 'transporte', rotulo: 'Métro, cercanías ou Renfe' },
-  { id: 'transporte/plataforma', tile: 'transporte', rotulo: 'Quai & accès' },
-  { id: 'transporte/bagagem', tile: 'transporte', rotulo: 'Bagages & scanner' },
-  { id: 'transporte/placas', tile: 'transporte', rotulo: 'Les panneaux qui coûtent cher' },
-  { id: 'transporte/perdi', tile: 'transporte', rotulo: 'Je l’ai raté', reativa: true },
+  { id: 'transporte/bilhete', tile: 'transporte', rotulo: 'Il biglietto giusto' },
+  { id: 'transporte/qual-trem', tile: 'transporte', rotulo: 'Metro, cercanías o Renfe' },
+  { id: 'transporte/plataforma', tile: 'transporte', rotulo: 'Binario & accesso' },
+  { id: 'transporte/bagagem', tile: 'transporte', rotulo: 'Bagagli & scanner' },
+  { id: 'transporte/placas', tile: 'transporte', rotulo: 'I cartelli che costano caro' },
+  { id: 'transporte/perdi', tile: 'transporte', rotulo: 'L’ho perso', reativa: true },
 
   // 7 · quarto
-  { id: 'quarto/checkin', tile: 'quarto', rotulo: 'Le check-in' },
-  { id: 'quarto/pedir', tile: 'quarto', rotulo: 'Demander quelque chose' },
+  { id: 'quarto/checkin', tile: 'quarto', rotulo: 'Il check-in' },
+  { id: 'quarto/pedir', tile: 'quarto', rotulo: 'Chiedere qualcosa' },
   { id: 'quarto/nao-funciona', tile: 'quarto', rotulo: '« No funciona »' },
-  { id: 'quarto/mala', tile: 'quarto', rotulo: 'Laisser la valise' },
-  { id: 'quarto/checkout', tile: 'quarto', rotulo: 'Le check-out & la taxe de séjour' },
+  { id: 'quarto/mala', tile: 'quarto', rotulo: 'Lasciare la valigia' },
+  { id: 'quarto/checkout', tile: 'quarto', rotulo: 'Il check-out & la tassa di soggiorno' },
 
   // 8 · compras
-  { id: 'compras/balcao', tile: 'compras', rotulo: 'Au comptoir' },
-  { id: 'compras/quanto', tile: 'compras', rotulo: 'Combien / quelle taille' },
-  { id: 'compras/so-olhando', tile: 'compras', rotulo: 'Je regarde seulement' },
-  { id: 'compras/pagar', tile: 'compras', rotulo: 'Payer & le ticket de caisse' },
-  { id: 'compras/devolver', tile: 'compras', rotulo: 'Rapporter un article', reativa: true },
+  { id: 'compras/balcao', tile: 'compras', rotulo: 'Al banco' },
+  { id: 'compras/quanto', tile: 'compras', rotulo: 'Quanto / che taglia' },
+  { id: 'compras/so-olhando', tile: 'compras', rotulo: 'Sto solo guardando' },
+  { id: 'compras/pagar', tile: 'compras', rotulo: 'Pagare & lo scontrino' },
+  { id: 'compras/devolver', tile: 'compras', rotulo: 'Restituire un articolo', reativa: true },
 
   // 9 · saude
-  { id: 'saude/algo-para', tile: 'saude', rotulo: '« Quelque chose contre… »' },
-  { id: 'saude/receita', tile: 'saude', rotulo: 'Avec ou sans ordonnance' },
-  { id: 'saude/minha-alergia', tile: 'saude', rotulo: 'Mon allergie, mon médicament' },
+  { id: 'saude/algo-para', tile: 'saude', rotulo: '« Qualcosa contro… »' },
+  { id: 'saude/receita', tile: 'saude', rotulo: 'Con o senza ricetta' },
+  { id: 'saude/minha-alergia', tile: 'saude', rotulo: 'La mia allergia, il mio farmaco' },
   { id: 'saude/guardia', tile: 'saude', rotulo: 'Farmacia de guardia' },
-  { id: 'saude/112', tile: 'saude', rotulo: '112 & l’hôpital', reativa: true },
+  { id: 'saude/112', tile: 'saude', rotulo: '112 & l’ospedale', reativa: true },
 
   // 10 · simpatia — a folha que o G8 protege com um piso de 8 cards.
   // É onde a viagem fica boa, e é exatamente a que a deriva defensiva esvazia:
   // nas 252 frases-alvo do curso antigo, a ÚNICA fala de apreciação que o aluno
   // produzia era «¿Qué me recomienda?».
-  { id: 'simpatia/elogiar-comida', tile: 'simpatia', rotulo: 'Complimenter le repas' },
-  { id: 'simpatia/elogiar-lugar', tile: 'simpatia', rotulo: 'Complimenter l’endroit' },
-  { id: 'simpatia/agradecer', tile: 'simpatia', rotulo: 'Merci & au revoir' },
-  { id: 'simpatia/brindar', tile: 'simpatia', rotulo: 'Trinquer' },
-  { id: 'simpatia/puxar-conversa', tile: 'simpatia', rotulo: 'Engager la conversation' },
-  { id: 'simpatia/convite', tile: 'simpatia', rotulo: 'Accepter ou décliner une invitation' },
+  { id: 'simpatia/elogiar-comida', tile: 'simpatia', rotulo: 'Fare i complimenti per il cibo' },
+  { id: 'simpatia/elogiar-lugar', tile: 'simpatia', rotulo: 'Fare i complimenti per il posto' },
+  { id: 'simpatia/agradecer', tile: 'simpatia', rotulo: 'Grazie & arrivederci' },
+  { id: 'simpatia/brindar', tile: 'simpatia', rotulo: 'Brindare' },
+  { id: 'simpatia/puxar-conversa', tile: 'simpatia', rotulo: 'Attaccare bottone' },
+  { id: 'simpatia/convite', tile: 'simpatia', rotulo: 'Accettare o rifiutare un invito' },
 
   // 11 · reparo
-  { id: 'reparo/devagar', tile: 'reparo', rotulo: 'Plus lentement / encore une fois' },
-  { id: 'reparo/escreve', tile: 'reparo', rotulo: 'Écrivez-le / montrez-le-moi' },
+  { id: 'reparo/devagar', tile: 'reparo', rotulo: 'Più lentamente / ancora una volta' },
+  { id: 'reparo/escreve', tile: 'reparo', rotulo: 'Scrivilo / fammelo vedere' },
   // ANDAIME. Fica no INGLÊS como degrau universal de propósito: em Mallorca
   // «¿Hay alguien que hable francés?» funciona e em Sevilha não, e instalar a fuga
   // para o francês dentro do kit de reparo é ensinar o aluno a não usar o curso.
   // O francês como fato local sai uma vez, em I09/A05. Confirmar ao escrever B03.
-  { id: 'reparo/ingles', tile: 'reparo', rotulo: 'Parlez-vous anglais ? (et sinon)' },
-  { id: 'reparo/como-se-diz', tile: 'reparo', rotulo: 'Comment on dit… ?' },
-  { id: 'reparo/apontar', tile: 'reparo', rotulo: 'Montrer et obtenir' },
+  { id: 'reparo/ingles', tile: 'reparo', rotulo: 'Parli inglese? (e se no)' },
+  { id: 'reparo/como-se-diz', tile: 'reparo', rotulo: 'Come si dice…?' },
+  { id: 'reparo/apontar', tile: 'reparo', rotulo: 'Indicare e ottenere' },
 
   // 12 · apuro — o único tile reativo. Um de doze: 8%.
-  { id: 'apuro/roubo', tile: 'apuro', rotulo: 'On m’a volé', reativa: true },
-  { id: 'apuro/perdi', tile: 'apuro', rotulo: 'J’ai perdu quelque chose / quelqu’un', reativa: true },
-  { id: 'apuro/denuncia', tile: 'apuro', rotulo: 'Police & plainte', reativa: true },
+  { id: 'apuro/roubo', tile: 'apuro', rotulo: 'Mi hanno derubato', reativa: true },
+  { id: 'apuro/perdi', tile: 'apuro', rotulo: 'Ho perso qualcosa / qualcuno', reativa: true },
+  { id: 'apuro/denuncia', tile: 'apuro', rotulo: 'Polizia & denuncia', reativa: true },
   { id: 'apuro/112', tile: 'apuro', rotulo: '112', reativa: true },
-  { id: 'apuro/golpes', tile: 'apuro', rotulo: 'Les arnaques, par leur nom', reativa: true },
+  { id: 'apuro/golpes', tile: 'apuro', rotulo: 'Le truffe, chiamate per nome', reativa: true },
   { id: 'apuro/reclamacoes', tile: 'apuro', rotulo: 'Hoja de reclamaciones', reativa: true }
 ];
 
@@ -178,7 +178,7 @@ export const FOLHAS: Folha[] = [
 // do par), mas o que ela empurra muda de balcão — quem faz as três perguntas aqui
 // é o check-in do hotel e o balcão da locadora. Confirmar ao escrever B05.
 export const JANELAS = [
-  { id: 'antes-de-voar', de: -7, ate: -1, rotulo: 'Avant le départ' },
-  { id: 'fronteira', de: 0, ate: 0, rotulo: 'Arrivée & le premier guichet' },
-  { id: 'volta', de: 'ultimo-dia', ate: 'ultimo-dia', rotulo: 'Le retour' }
+  { id: 'antes-de-voar', de: -7, ate: -1, rotulo: 'Prima della partenza' },
+  { id: 'fronteira', de: 0, ate: 0, rotulo: 'Arrivo & il primo sportello' },
+  { id: 'volta', de: 'ultimo-dia', ate: 'ultimo-dia', rotulo: 'Il ritorno' }
 ] as const;
