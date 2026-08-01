@@ -1,0 +1,677 @@
+{
+  "id": "a08",
+  "slot": "A08",
+  "nivel": "avancado",
+  "numero": 36,
+  "parte": "36",
+  "titulo": "L'au revoir qui dure dix minutes — et les huit mots à garder",
+  "subtitulo": "Prendre congé d'un comptoir de sorte qu'on vous reconnaisse l'an prochain, prendre l'invitation ouverte au mot, et la poignée de choses que ce cours garderait s'il ne pouvait en garder qu'une",
+  "moldura": "ganha",
+
+  "cena": "Onze heures et demie, votre dernier soir : la table prend congé depuis dix minutes et personne ne s'est levé, et l'homme qui vous a fait le café chaque matin se tient derrière le comptoir.",
+
+  "decisao": "si les cinq dernières minutes du voyage vous achètent un visage qu'on connaîtra l'an prochain, ou si vous partez comme la plupart — par la porte, d'un signe de tête",
+  "emJogo": "tempo",
+
+  "permissao": "Vous avez le droit de dire que vous reviendrez sans nommer de mois — personne ne vous tient à une date, et la phrase s'entend comme de la chaleur, pas comme une réservation. Vous avez le droit de quitter un endroit que vous avez aimé sans discours : huit mots au comptoir font plus qu'une carte et un gros pourboire. Et vous avez le droit de finir ce cours en mettant encore les terminaisons à l'envers — «guiri» est bien plus souvent dit avec affection que sans, et on se souvient de celui qui a bien pris congé, pas de celui qui l'a fait sans faute.",
+  "permissaoAudioKey": "a08-n18",
+
+  "espelho": "Le «il faut qu'on se refasse ça» qu'on dit sur son propre palier et qu'on pense rarement — c'est ça qui détonne là-bas. Là, on le prend au mot, et quelqu'un vous demande quel week-end.",
+
+  "frasePiso": "Vous prenez congé d'un bar de sorte qu'on vous reconnaisse l'an prochain. La plupart passent deux semaines au même endroit et sortent par la porte, d'un signe de tête.",
+
+  "fichasCulturais": [
+    {
+      "sinal": "Quelqu'un dit qu'il s'en va, et onze minutes plus tard tout le monde est encore assis et répète qu'il s'en va.",
+      "suaLeitura": "On est poli les uns envers les autres alors que tout le monde veut partir, et l'un de nous devrait être courageux et se lever le premier.",
+      "oQueEAli": "L'au revoir est un morceau de la soirée, pas un instant dedans. Il commence par un «bueno», court sur la même chaleur que le reste de la nuit, et qui se lève au premier finit la soirée pour tout le monde dix minutes trop tôt.",
+      "oQueVoceFaz": "Annoncer, puis rester assis et continuer à parler jusqu'à ce que les autres commencent à bouger. Partir au deuxième ou au troisième au revoir, pas au premier.",
+      "oQueMelhora": "Vous obtenez les dix meilleures minutes de la nuit — celles où se disent les choses que personne n'a dites à table — au lieu d'attendre à la porte, le manteau sur le dos.",
+      "ondeNaoVale": "Pas là où une horloge mène la salle. Un déjeuner de travail finit, un bar qui monte les chaises finit, le dernier métro finit — là, le premier au revoir est le vrai, et personne ne le prend mal.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["a08-n05", "a08-n06", "a08-n07", "a08-n17", "a08-n17b", "a08-n17c"]
+    },
+    {
+      "sinal": "Vous repartez, et quelqu'un vous laisse une invitation ouverte sans date — revenez, vous savez bien où nous sommes.",
+      "suaLeitura": "C'est la formule polie qu'on dit sur le pas d'une porte. Elle ne veut rien dire, et je ne dois pas y répondre.",
+      "oQueEAli": "Dit à quelqu'un qui est entré et sorti une semaine durant, c'est plus proche d'une adresse qu'on vous met dans la main que d'une amabilité. Personne n'attend une date ; que la phrase soit vraie, oui.",
+      "oQueVoceFaz": "Répondez comme à un projet, pas comme à un compliment — dites quand vous serez de nouveau dans le pays, même si ce quand est à un an.",
+      "oQueMelhora": "Vous revenez et vous êtes un visage qu'on connaît — c'est la différence entre être servi et être accueilli, et pour qui repasse la frontière chaque été au même endroit, en voisin, elle n'est pas petite.",
+      "ondeNaoVale": "Pas le «hasta luego» d'une vendeuse ou à la pharmacie. C'est simplement le mot pour au revoir, dit à des gens qu'on ne revoit jamais, et il ne promet rien du tout.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["a08-n10", "a08-n11", "a08-n12"]
+    },
+    {
+      "sinal": "Le dernier matin, vous payez le café, vous faites un signe de tête à l'homme qui le prépare chaque jour depuis lundi, et il vous le rend et se tourne vers la machine.",
+      "suaLeitura": "On a eu une semaine avec quelque chose, et ça lui était égal. J'étais le touriste, et maintenant je m'en vais.",
+      "oQueEAli": "Il ne sait pas que c'est le dernier. La semaine de petits saluts ne devient une semaine, pour lui, qu'au moment où quelqu'un dit tout haut qu'elle se termine — et presque aucun client ne le dit jamais.",
+      "oQueVoceFaz": "Dire que c'est le dernier matin, dire comment la semaine a été, et dire que vous reviendrez — trois phrases courtes, debout, la valise à la porte.",
+      "oQueMelhora": "L'au revoir qu'on vous rend n'a pas la même taille que le signe de tête, et l'an prochain le deuxième café arrive souvent sans qu'on le commande.",
+      "ondeNaoVale": "Pas dans un endroit avec une équipe de vingt et une file derrière vous. Là, personne ne vous a servi toute la semaine — personne deux fois — et un signe de tête est toute l'offre.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["a08-n08", "a08-n09"]
+    }
+  ],
+
+  "fatosDatados": [
+    {
+      "id": "grade-do-dia",
+      "afirmacao": "La cena commence vers 21h00, les cuisines rouvrent de 20h00 à 20h30, dernière commande vers 23h30. Qui arrive à sept heures mange des tapas.",
+      "valor": "21:00 · ~23:30",
+      "fonte": "docs/pesquisa-espanha.md §7.1 — consenso de fontes secundárias (guias gastronômicos e de viagem); o INE não publica hora média da cena. Mesmo id declarado em ep-i01 (I01), onde o fato nasce; aqui volta na cola de bolso.",
+      "ano": 2026,
+      "revisarAte": "2028-01-01",
+      "evidencia": "CONSENSO",
+      "risco": "baixo",
+      "audioKeys": ["a08-r02"]
+    },
+    {
+      "id": "menu-del-dia-preco",
+      "afirmacao": "La moyenne nationale d'un menú del día tourne autour de 14,20 euros — le moins cher aux Canaries, dans les Asturies, en Andalousie et à Murcie, le plus cher aux Baléares.",
+      "valor": "€14,20",
+      "fonte": "Hostelería de España + Edenred, divulgado em 2026 — docs/pesquisa-espanha.md §7.2. Mesmo id declarado em ep-i03 (I03), onde o fato nasce; aqui volta na cola de bolso, arredondado para «autour de quatorze euros».",
+      "ano": 2026,
+      "revisarAte": "2027-04-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["a08-r03"]
+    },
+    {
+      "id": "agua-del-grifo-gratis",
+      "afirmacao": "L'eau du robinet, demandée dans un établissement de restauration, est gratuite par la loi depuis 2022.",
+      "fonte": "Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular, art. 18.3 (BOE); síntese em docs/pesquisa-espanha.md §7.3. Mesmo id declarado em ep-b10 (B10) e ep-b11 (B11).",
+      "ano": 2022,
+      "revisarAte": "2028-01-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": ["a08-r04"]
+    },
+    {
+      "id": "farmacia-de-guardia-rodizio",
+      "afirmacao": "Dans chaque localité, en dehors des heures d'ouverture, au moins une pharmacie est de garde, et le tableau est affiché sur la porte de chaque pharmacie, y compris celle, fermée, devant laquelle vous êtes.",
+      "fonte": "docs/pesquisa-espanha.md §7.1 — rede de Colegios Oficiales de Farmacéuticos, prática nacional; agregador nacional farmacias365.com. Mesmo id declarado em ep-b10 (B10), onde o fato nasce; aqui volta na cola de bolso.",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": ["a08-r04"]
+    },
+    {
+      "id": "tres-precios-lista-obrigatoria",
+      "afirmacao": "Un bar peut demander des montants différents au comptoir, en salle et en terrasse, mais doit l'indiquer sur une liste de prix visible ; le montant affiché est définitif, taxe comprise.",
+      "fonte": "RDL 1/2007, Texto Refundido de la Ley General para la Defensa de los Consumidores, com regulação autonômica de consumo — síntese em docs/pesquisa-espanha.md §7.2. Mesmo id declarado em ep-b11 (B11), onde o fato nasce; aqui volta na cola de bolso.",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["a08-r05"]
+    },
+    {
+      "id": "propina-pratica-por-situacao",
+      "afirmacao": "Pratique espagnole selon le cas : café ou petite bière au comptoir, rien ou la monnaie ; bar de quartier ou menu du jour, arrondir de cinquante centimes à un euro ; un endroit moyen qui vous a plu, cinq à dix pour cent, et la plupart laissent moins ou rien. Jamais un cinquième.",
+      "fonte": "consenso de guias de viagem 2025–2026, registrado em docs/pesquisa-espanha.md §7.3 — a mesma seção marca o valor médio de gorjeta como NÃO PÚBLICO (§11.3), e por isso nenhum número médio é afirmado. Mesmo id declarado em ep-i10 (I10), onde o fato nasce.",
+      "ano": 2026,
+      "revisarAte": "2028-01-01",
+      "evidencia": "CONSENSO",
+      "risco": "baixo",
+      "audioKeys": ["a08-r06"]
+    }
+  ],
+
+  "_notas": {
+    "_": "PARTE ESCRITA EM FRANCÊS (o andaime saiu; `cena` declarado). A fala espanhola é ativo de DESTINO e não foi tocada: nenhum campo `es`, `audioKey` ou `tts` alterado, os mesmos 14 clipes espanhóis reusados verbatim do curso base. CLIPE ESPANHOL NOVO: ZERO (e01b-12, a08-crudo1-e, a08-crudo2-c, a08-crudo3-e, b18-genial-c, a08-ultima-e, a08-vuelve-c, a08-anoquiene-e, a08-aquiestamos-c, e01a-18, b18-hasta-e, i08-vayabien-c, a08-osvaya-e, a08-paciencia-c). Vozes-guia renomeadas: Juli→GuiaFem, Thomas→GuiaMasc (placeholders do audio.config, guiaLingua `fr`). O que este SKU paga aqui é a narração FRANCESA e o respelling.",
+    "e_leio_a_sala_nao_e_casa": "A08 é LEIO A SALA (M3) e o FECHO do curso, e NÃO carrega molde nenhum — o roster não ancora molde neste slot (a relação com os moldes é auditiva, `m3`: reconhecer, não montar). Por isso a raiz `moldes[]` fica AUSENTE — não vazia — e o G16 não cobra `clique`. O que o produto entrega aqui não é peça nova: é entender a gente que atendeu você e sair de um jeito que te faz voltar como conhecido.",
+    "recalibragem_do_par": "Onde o par alemão emoldura este slot como quem VOLTA (Baleares 42%, ~8 noites), o comprador FRANCÊS volta AINDA MAIS, e por motivos próprios: 65% chega de CARRO, o destino é o litoral continental CONTÍGUO (Catalunha 30% + Valência 17%), muitos têm casa e muitos repetem (DERIVACAO §3.1). Os slots de relação continuada (I05, I08, A08) pesam MAIS neste par. Por isso a ficha 2 (o convite aberto) e a ficha 3 (o balcão que te conhece) carregam o slot, e a frase de venda é «ser reconhecido como vizinho que volta», não «se virar da primeira vez».",
+    "espelho": "Bloco `espelho` em DOIS lugares, como o M3 pede: o campo `espelho` e os três steps do GuiaMasc (a08-t01..t03). A floresta francesa é «il faut qu'on se refasse ça / se revoie» dito e não cumprido no próprio palier — em primeira pessoa, COMPORTAMENTO com consequência (a família em Cádiz que o toma ao pé da letra) e NUNCA traço de povo, para não disparar o G6. Sem «GUIRI ALERT» nem nome do scaffold alemão.",
+    "falso_amigo_leve": "Nível CULTURAL: o custo NÃO é falso amigo, e nenhum morde forte aqui — a parte é cultural + fonética BRINDE. O resquício francês aparece só no respelling: a TÔNICA oxítona (volveré, madrugar), a JOTA como som novo em `genial`/`español` (kh), o `u`=[y] forçado a [u] (ou), as NASAIS (jamón/bien/con são consoante plena) e os FINAIS apagados (o `-s` de gracias/vamos, o `-e` de viene). Nenhuma regra de leitura nova é plantada — A08 não tem molde.",
+    "respelling_para_leitor_frances": "Campo `pinyin` re-derivado para o OLHO FRANCÊS (INFERÊNCIA — exige revisor FR-L1 + espanhol peninsular antes do áudio), mesma convenção de i07/b10: MAIÚSCULA = tônica (a oxítona é o erro nº1 do francês; marca-se onde o soco NÃO cai no fim) · `ou`=[u] (bloqueia o `u`=[y]) · `ss`=z, c+e/i e s intervocálico (bloqueia o [z] francês) · `tch`=ch [tʃ] · `y`=ll/y (de «yaourt») · `b`=v/b · `h` some · `qu`=k (brinde) · `kh`=jota [x] · `gn`=ñ · finais `-s`/`-r`/`-e` MOSTRADOS (o francês os apaga), `-e` final→`-é`. Saíram as marcas alemãs (`ch de Bach`, o «ss porque s alemão é [z]», o `-e`→`-eh`).",
+    "tratamento": "GuiaFem e GuiaMasc tratam o aluno por «vous» em todo o SKU; a assimetria FECHA o curso: a guia vousvoie o aluno até a última linha, e a fala que o aluno produz no balcão que o conhece é de tú.",
+    "pendencia_G14": "A guia (francesa) CITA espanhol dentro da narração francesa (`bueno`, `de guardia`, `hasta luego`, `guiri`, `¡Buen viaje!`) e nunca o FALA; Carmen e Emilio (peninsulares) não dizem uma palavra de francês. Nomes de voz já reconciliados aqui (GuiaFem/GuiaMasc, não Juli/Thomas), o que o G14 exige para checar a narração. INV-5 mantém a conferência humana obrigatória enquanto o G14 voz×língua roda por audio.config."
+  },
+
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n01",
+      "bloco": "aquecimento",
+      "gesto": 4,
+      "tom": "ganha",
+      "pt": "Partie trente-six, la dernière. Échauffement, le flick : bol-bé-RÉ, PROK-ssi-ma. Un seul toucher de langue sur le r, jamais deux."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "promptAudioKey": "a08-p01",
+      "promptPt": "Dernier après-midi. Une boutique où vous vous êtes réfugié du soleil, et vous en ressortez les mains vides. Deux mots en passant. Parlez maintenant.",
+      "audioKey": "e01b-12",
+      "es": "Vale, gracias. Hasta luego.",
+      "pinyin": "BA-lé, GRA-syass. ASS-ta LOUÉ-go",
+      "pt": "les deux, en sortant"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n03",
+      "bloco": "cena",
+      "pt": "Onze heures et demie, votre dernier soir. La table prend congé depuis dix minutes, et personne ne s'est levé."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n04",
+      "pt": "Écoutez, et ne cherchez pas de mots. Vous n'êtes pas censé en avoir ici."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a08-crudo1-e",
+      "receptivo": true,
+      "acao": "Rester assis. C'est le premier de plusieurs, et personne ne le pense comme le dernier.",
+      "es": "Bueno... pues nada, que nos vamos yendo, ¿eh?",
+      "pinyin": "BOUÉ-no... pouess NA-da, ké noss BA-moss YEN-do, é",
+      "pt": "👂 Pas traduit, et vous n'en avez pas besoin. Regardez ce qui suit : rien.",
+      "tts": "Bueno... pues nada, que nos vamos yendo, ¿eh?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "a08-crudo2-c",
+      "receptivo": true,
+      "acao": "Rester assis, et continuer à parler.",
+      "es": "Sí, sí, venga. Que mañana hay que madrugar.",
+      "pinyin": "si, si, BEN-ga. ké ma-GNA-na aï ké ma-drou-GAR",
+      "pt": "👂 Le deuxième. Toujours aucune chaise qui bouge.",
+      "tts": "Sí, sí, venga. Que mañana hay que madrugar."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a08-crudo3-e",
+      "receptivo": true,
+      "acao": "Ne suivre que quand les autres se lèvent.",
+      "es": "Bueno, pues nada. Venga, venga.",
+      "pinyin": "BOUÉ-no, pouess NA-da. BEN-ga, BEN-ga",
+      "pt": "👂 Le troisième. Et tout le monde est encore assis.",
+      "tts": "Bueno, pues nada. Venga, venga."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n05",
+      "pt": "Trois au revoir, et aucune chaise n'a bougé. Ce n'est pas de l'hésitation. C'est l'au revoir lui-même."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n06",
+      "pt": "Il commence au premier «bueno» et dure une dizaine de minutes. Personne n'attend personne."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n07",
+      "pt": "Levez-vous au premier, vous finissez la soirée pour cinq personnes. Restez assis, vous en êtes encore."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n08",
+      "bloco": "capsula",
+      "tom": "ganha",
+      "pt": "Maintenant la partie que presque personne ne fait. Elle coûte huit mots, au comptoir, le dernier matin."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b18-genial-c",
+      "es": "Ha estado genial. Volveré.",
+      "pinyin": "a ess-TA-do khé-NYAL. bol-bé-RÉ",
+      "pt": "C'était super. Je reviendrai. — le vôtre depuis la partie dix-huit, aujourd'hui il lui faut un début devant.",
+      "tts": "Ha estado genial. Volveré."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n09",
+      "pt": "Il ne sait pas que c'est le vôtre, le dernier. Tant que personne ne le dit, une semaine n'était que beaucoup de cafés."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a08-ultima-e",
+      "es": "Mañana nos vamos. Ha estado genial.",
+      "pinyin": "ma-GNA-na noss BA-moss. a ess-TA-do khé-NYAL",
+      "pt": "On repart demain. C'était super. — d'abord le fait, puis comment c'était.",
+      "tts": "Mañana nos vamos. Ha estado genial."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["simpatia/agradecer", "chegar/sair"],
+      "promptAudioKey": "a08-p02",
+      "promptPt": "L'homme qui vous fait le café chaque matin depuis lundi essuie le comptoir et pense que vous reviendrez jeudi. Dites-lui ce qu'il en est, puis comment la semaine a été. Parlez maintenant.",
+      "audioKey": "a08-ultima-e",
+      "es": "Mañana nos vamos. Ha estado genial.",
+      "pinyin": "ma-GNA-na noss BA-moss. a ess-TA-do khé-NYAL",
+      "pt": "le fait, puis comment c'était"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n10",
+      "pt": "Écoutez ce qui revient par-dessus le comptoir. Ne le mettez pas au compte de la gentillesse envers le client."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "a08-vuelve-c",
+      "receptivo": true,
+      "acao": "Ne pas balayer d'un merci. Répondez par un quand.",
+      "es": "Pues cuando volváis, ya sabéis dónde estamos.",
+      "pinyin": "pouess KOUAN-do bol-BAÏSS, ya sa-BÉÏSS DON-dé ess-TA-moss",
+      "pt": "👂 «Quand vous reviendrez, vous savez où nous sommes.» — une adresse, mise dans la main.",
+      "tts": "Pues cuando volváis, ya sabéis dónde estamos."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n11",
+      "pt": "Chez vous, c'est une phrase gentille sur le pas de la porte. Ici, c'est plus proche d'une clé dans votre main."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n12",
+      "pt": "Répondez donc comme à un projet, pas comme à un compliment. Une année entière le porte."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a08-anoquiene-e",
+      "es": "Nos vemos el año que viene.",
+      "pinyin": "noss BÉ-moss el A-gno ké BYÉ-né",
+      "pt": "On se voit l'an prochain. — pas de mois, pas de promesse que vous ne pouvez pas tenir, et ça tombe quand même comme une promesse.",
+      "tts": "Nos vemos el año que viene."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["simpatia/convite", "simpatia/agradecer"],
+      "promptAudioKey": "a08-p03",
+      "promptPt": "Il vient de vous dire où ils sont — pour le jour où vous reparaîtrez. Donnez-lui un quand plutôt qu'un merci, et ne nommez pas de mois. Parlez maintenant.",
+      "audioKey": "a08-anoquiene-e",
+      "es": "Nos vemos el año que viene.",
+      "pinyin": "noss BÉ-moss el A-gno ké BYÉ-né",
+      "pt": "un quand, pas un merci"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "a08-aquiestamos-c",
+      "receptivo": true,
+      "acao": "Ne rien ajouter. C'était le oui à votre projet.",
+      "es": "Pues aquí estamos. Aquí no nos movemos.",
+      "pinyin": "pouess a-KI ess-TA-moss. a-KI no noss mo-BÉ-moss",
+      "pt": "👂 «Nous sommes ici. Nous ne bougeons pas.» — la réponse qui veut dire que ça a été pris au sérieux.",
+      "tts": "Pues aquí estamos. Aquí no nos movemos."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n13",
+      "pt": "Et maintenant l'autre bout. La même semaine a des gens à qui vous ne devez rien."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01a-18",
+      "receptivo": true,
+      "es": "Hasta luego.",
+      "pinyin": "ASS-ta LOUÉ-go",
+      "pt": "👂 Le mot pour au revoir. Dit à quelqu'un que vous ne reverrez jamais, et il ne promet rien.",
+      "tts": "Hasta luego."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "a08-p04",
+      "promptPt": "Neuf étages dans l'ascenseur avec une femme et un petit chien, en silence, et la porte s'ouvre à votre étage. Deux mots en sortant. Parlez maintenant.",
+      "audioKey": "e01a-18",
+      "es": "Hasta luego.",
+      "pinyin": "ASS-ta LOUÉ-go",
+      "pt": "deux mots, rien de dû"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n14",
+      "pt": "Les mêmes deux syllabes toute la semaine, et elles ne coûtent rien. Le suivant porte du poids."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b18-hasta-e",
+      "es": "Muchas gracias por todo. Hasta la próxima.",
+      "pinyin": "MOU-tchass GRA-syass por TO-do. ASS-ta la PROK-ssi-ma",
+      "pt": "Merci pour tout. À la prochaine. — celui-là est une petite promesse, et s'entend comme telle.",
+      "tts": "Muchas gracias por todo. Hasta la próxima."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["simpatia/agradecer", "quarto/checkout"],
+      "promptAudioKey": "a08-p05",
+      "promptPt": "La femme de la réception qui vous a trouvé une table jeudi et prêté un parapluie vendredi. Votre valise est à la porte, la voiture attend dehors. Parlez maintenant.",
+      "audioKey": "b18-hasta-e",
+      "es": "Muchas gracias por todo. Hasta la próxima.",
+      "pinyin": "MOU-tchass GRA-syass por TO-do. ASS-ta la PROK-ssi-ma",
+      "pt": "pour tout, et la petite promesse à la fin"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n15",
+      "pt": "Encore un, et celui-là est un vœu, pas un au revoir. Dit en entier, jamais démonté."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i08-vayabien-c",
+      "es": "Que vaya bien.",
+      "pinyin": "ké BA-ya byen",
+      "pt": "Bonne continuation. — le vôtre depuis le soir où l'on vous avait invité chez quelqu'un. Celui-là vise une personne.",
+      "tts": "Que vaya bien."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a08-osvaya-e",
+      "es": "Que os vaya muy bien.",
+      "pinyin": "ké oss BA-ya mouï byen",
+      "pt": "La version pour les deux, et le «muy» en fait un mot d'adieu.",
+      "tts": "Que os vaya muy bien."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n15b",
+      "pt": "Deux comme ça, appris en entier : un pour une personne, un pour un couple. Rien ne bouge à l'intérieur."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["chegar/sair", "simpatia/agradecer"],
+      "promptAudioKey": "a08-p06",
+      "promptPt": "Le couple à qui appartient le bar à tapas où vous êtes revenu trois soirs de suite se tient à deux derrière le comptoir quand vous sortez pour la dernière fois. Aux deux. Parlez maintenant.",
+      "audioKey": "a08-osvaya-e",
+      "es": "Que os vaya muy bien.",
+      "pinyin": "ké oss BA-ya mouï byen",
+      "pt": "aux deux, en sortant"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n16",
+      "pt": "Et un qui ne vaut que ce soir — pour celui sur qui vous vous êtes entraîné deux semaines durant."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "a08-paciencia-c",
+      "es": "Gracias por la paciencia con mi español.",
+      "pinyin": "GRA-syass por la pa-SSYEN-ssya kon mi ess-pa-GNOL",
+      "pt": "Merci d'avoir supporté mon espagnol. — et oui, on vous dira que votre espagnol était bon.",
+      "tts": "Gracias por la paciencia con mi español."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n16b",
+      "pt": "Dites-le, puis attendez. En retour vient un démenti net : vous n'auriez jamais eu besoin de patience."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["simpatia/agradecer", "reparo/devagar"],
+      "promptAudioKey": "a08-p07",
+      "promptPt": "La femme de la boulangerie a ralenti pour vous chaque matin et n'est pas passée une seule fois à l'anglais. Remerciez-la pour ce qu'elle a vraiment fait. Parlez maintenant.",
+      "audioKey": "a08-paciencia-c",
+      "es": "Gracias por la paciencia con mi español.",
+      "pinyin": "GRA-syass por la pa-SSYEN-ssya kon mi ess-pa-GNOL",
+      "pt": "pour ce qu'elle a vraiment fait"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "a08-t01",
+      "bloco": "espelho",
+      "pt": "Sur mon propre palier, je dis «il faut qu'on se revoie». C'est ma dernière alerte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "a08-t02",
+      "pt": "Je ne l'ai presque jamais pensé. Dit à une famille à Cadix — ils ont demandé quel week-end."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "a08-t03",
+      "pt": "Ils n'étaient pas envahissants. Ils m'ont pris au mot. Maintenant je ne le dis que si je viendrais."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n17",
+      "pt": "Retour à la table qui ne voulait pas se lever. L'au revoir, là, est le dernier plat du repas."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n17b",
+      "pt": "Écourtez-le, et toute la soirée se lit comme un rendez-vous que vous venez d'expédier."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n17c",
+      "pt": "Où ça ne vaut pas : un déjeuner de travail finit, et un bar qui monte les chaises finit. L'horloge gagne."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n18",
+      "bloco": "permissao",
+      "tom": "ganha",
+      "pt": "Vous avez le droit de dire que vous reviendrez sans nommer de mois. Personne ne vous y tient."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n18b",
+      "pt": "Et vous avez le droit de finir ce cours avec les terminaisons à l'envers. «Guiri», c'est le plus souvent de l'affection."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "a08-r01",
+      "bloco": "recap",
+      "pt": "Pour finir, la liste pour la poche. Quelques choses, cinq secondes chacune, et la valise est faite."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "a08-r02",
+      "tom": "ganha",
+      "pt": "Dîner à partir de neuf heures environ. À sept heures, des tapas — un bon soir aussi, juste pas celui réservé."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "a08-r03",
+      "pt": "À midi en semaine, le menu du jour, autour de quatorze euros. Le meilleur rapport qualité-prix, et vous pouvez le demander."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "a08-r04",
+      "pt": "Une carafe d'eau du robinet est gratuite. Et «de guardia», c'est la pharmacie ouverte — la liste est affichée sur celle qui est fermée."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "a08-r05",
+      "tom": "protege",
+      "pt": "Avant la terrasse, lire la liste des prix. Comptoir, salle et terrasse peuvent légalement avoir trois montants."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "a08-r06",
+      "pt": "Arrondir, jamais un cinquième. Le sac devant soi dans le métro, le téléphone hors de la table, et non au brin de romarin."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "a08-r07",
+      "tom": "ganha",
+      "pt": "Et le moins cher pour finir : «hola» en entrant, «hasta luego» en sortant. Chaque porte, chaque fois."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-s00",
+      "pt": "Répétez, puis deux à voix haute. Voyelles nettes, un coup par mot, avec eux."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "b18-genial-c",
+      "es": "Ha estado genial. Volveré.",
+      "pinyin": "a ess-TA-do khé-NYAL. bol-bé-RÉ",
+      "pt": "C'était super. Je reviendrai."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "a08-osvaya-e",
+      "es": "Que os vaya muy bien.",
+      "pinyin": "ké oss BA-ya mouï byen",
+      "pt": "Bonne continuation à vous deux."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a08-n19",
+      "bloco": "piso",
+      "tom": "ganha",
+      "pt": "On vous reconnaîtra l'an prochain. La plupart passent deux semaines au même endroit et se contentent d'un signe de tête."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "a08-r08",
+      "pt": "Encore deux à voix haute, à des endroits où l'on ne s'est pas trouvés aujourd'hui, et c'est tout."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["simpatia/convite"],
+      "promptAudioKey": "a08-p08",
+      "promptPt": "La femme du stand de fromage vous a coupé un morceau chaque samedi et vous demande justement si vous serez là le week-end prochain. Vous n'y serez pas. Parlez maintenant.",
+      "audioKey": "a08-anoquiene-e",
+      "es": "Nos vemos el año que viene.",
+      "pinyin": "noss BÉ-moss el A-gno ké BYÉ-né",
+      "pt": "plus loin qu'elle ne croit, et pourtant un projet"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "a08-p09",
+      "promptPt": "Le couple à qui appartient la pension se tient dans l'entrée quand vous descendez avec la valise, et vous avait inscrit jusqu'à dimanche. Deux phrases courtes. Parlez maintenant.",
+      "audioKey": "a08-ultima-e",
+      "es": "Mañana nos vamos. Ha estado genial.",
+      "pinyin": "ma-GNA-na noss BA-moss. a ess-TA-do khé-NYAL",
+      "pt": "le fait, puis comment c'était"
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "a08-rend",
+      "pt": "C'était tout. Valise faite, et vous savez ce que fait la salle. ¡Buen viaje!"
+    }
+  ],
+
+  "aprofundar": {
+    "titulo": "Le long au revoir, l'invitation ouverte et la liste pour la poche (lecture optionnelle)",
+    "secoes": [
+      {
+        "titulo": "Pourquoi l'au revoir dure dix minutes",
+        "corpo": "Ce qu'il faut remarquer, ce n'est pas qu'on part lentement — c'est que le départ est traité comme un morceau de la soirée, avec sa propre forme, et non comme l'instant où la soirée s'arrête. Il s'ouvre sur un «bueno», souvent une main sur le genou, et «bueno» fait ici le travail qu'ailleurs fait une chaise qu'on recule : il annonce, rien de plus. Suit une série de secondes pensées, de dernières histoires et de ce que personne n'a dit à table, et c'est très souvent le meilleur moment de la nuit. Puis quelqu'un se lève pour de bon, et toute la table bouge d'un coup. Qui se lève au premier «bueno» n'a pas été efficace : il a pris aux cinq autres les dix dernières minutes, et la soirée se lit au bout comme une réunion. En pratique : annoncer, rester assis, partir au deuxième ou au troisième au revoir. Bruits utiles pour l'élan, aucun que vous ayez à produire vous-même : «venga» (allez, bon), «que ya es tarde» (il se fait tard), «que mañana madrugo» (je me lève tôt demain). Les exceptions sont toutes en forme d'horloge — un déjeuner de travail, un bar qui monte les chaises, le dernier métro —, et là, le premier au revoir est le vrai.",
+        "exemplos": [
+          {
+            "es": "Bueno, pues nada.",
+            "pt": "BOUÉ-no, pouess NA-da — 👂 allez, bon — l'ouverture de l'au revoir, pas sa fin"
+          },
+          {
+            "es": "Venga, que mañana madrugo.",
+            "pt": "BEN-ga, ké ma-GNA-na ma-DROU-go — 👂 allez, je me lève tôt demain"
+          }
+        ]
+      },
+      {
+        "titulo": "«Hasta luego», «hasta la próxima» et «nos vemos» sont trois tailles",
+        "corpo": "«Hasta luego» a l'air de vouloir dire «à tout à l'heure» et de vous engager sur un horaire. Il n'en est rien. C'est le mot ordinaire pour au revoir, dit en sortant d'une boutique à quelqu'un que vous ne reverrez jamais, et c'est ce que vous dites neuf fois par jour pendant deux semaines. «Adiós» fait la même chose, un cran plus plat. «Hasta la próxima» — à la prochaine — est une taille au-dessus : pour quelqu'un avec qui vous avez eu une semaine, et il dit qu'il y a une prochaine fois. «Nos vemos» a le même poids et une forme plus lâche : «nos vemos el año que viene», «nos vemos en septiembre», «nos vemos pronto». Et «que os vaya bien» — ou «que te vaya bien» à une personne — est un vœu plutôt qu'un au revoir, dit à des gens qui ont quelque chose devant eux : un service, une route, le reste de leur semaine. Tous s'apprennent en entier. Rien là-dedans ne se calcule sur le pas d'une porte, et rien ne se démonte jamais : «que te vaya bien» et «que os vaya bien» sont deux choses à emporter, une pour une personne, une pour un couple.",
+        "exemplos": [
+          {
+            "es": "Nos vemos en septiembre.",
+            "pt": "noss BÉ-moss en sep-TYEM-bré — on se voit en septembre"
+          },
+          {
+            "es": "Que te vaya bien.",
+            "pt": "ké té BA-ya byen — bonne continuation (à une personne)"
+          }
+        ]
+      },
+      {
+        "titulo": "Prendre l'invitation ouverte au mot",
+        "corpo": "«Cuando volváis, ya sabéis dónde estamos» — quand vous reviendrez, vous savez où nous sommes — n'est pas une formule à saluer d'un hochement de tête. Dans un bar ou une boutique où vous êtes allé chaque jour une semaine durant, c'est plus proche d'une adresse qu'on vous met dans la main : personne n'attend de date, mais la phrase est sincère, et y répondre par un merci au lieu d'un quand est une petite occasion manquée. La réponse qui porte est un projet sans entrée d'agenda : «nos vemos el año que viene». Elle ne coûte rien, s'entend comme vraie, et c'est pour ça que le deuxième café arrive sans qu'on le demande l'été suivant. C'est exactement l'inverse de l'habitude de dire «il faut qu'on se revoie» pour finir une conversation : là-bas, la phrase est prise au pied de la lettre, et l'honnête est soit de la penser, soit de prendre un au revoir plus petit. Un autre entre dans le même tiroir : si quelqu'un dit «a ver si nos vemos» — voyons si on se voit —, c'est une ouverture vraie, quoique douce, et on l'accepte en nommant quelque chose, aussi petit soit-il.",
+        "exemplos": [
+          {
+            "es": "A ver si nos vemos.",
+            "pt": "a ber si noss BÉ-moss — 👂 voyons si on se voit — doux, et vrai"
+          },
+          {
+            "es": "Ya sabéis dónde estamos.",
+            "pt": "ya sa-BÉÏSS DON-dé ess-TA-moss — 👂 vous savez où nous sommes"
+          }
+        ]
+      },
+      {
+        "titulo": "Prendre congé de ceux qui vous ont servi toute la semaine",
+        "corpo": "Le comptoir où vous vous êtes tenu chaque matin est la relation la moins chère du voyage, et celle que la plupart laissent intacte. La raison est structurelle, pas impolie : il ne sait pas que c'est votre dernier jour. Une semaine de hochements ne devient une semaine qu'au moment où quelqu'un dit tout haut qu'elle se termine. Trois phrases courtes font tout, debout, la valise à la porte : «Mañana nos vamos» — on repart demain ; «Ha estado genial» — c'était super ; «Volveré» ou «nos vemos el año que viene». Avec ça «gracias por la paciencia con mi español» pour celui qui a ralenti pour vous et n'est jamais passé à l'anglais, et attendez-vous à ce qu'on vous dise que votre espagnol était excellent, ce qu'il n'est pas et ce dont il ne s'agit pas. Si deux personnes vous ont servi, «que os vaya muy bien» les prend toutes les deux d'un coup. Rien de tout ça n'est un discours : l'ensemble dure moins de quinze secondes, et c'est la différence entre une clientèle et un visage. Là où ça ne vaut pas, c'est un grand endroit avec une équipe — vingt personnes, une file derrière vous, personne qui vous a servi deux fois. Là, un signe de tête est honnêtement toute l'offre, et rien n'a raté.",
+        "exemplos": [
+          {
+            "es": "Mañana nos vamos. Ha estado genial.",
+            "pt": "ma-GNA-na noss BA-moss — on repart demain. C'était super"
+          },
+          {
+            "es": "Gracias por la paciencia con mi español.",
+            "pt": "GRA-syass por la pa-SSYEN-ssya — merci d'avoir supporté mon espagnol"
+          }
+        ]
+      }
+    ]
+  }
+}

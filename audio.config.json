@@ -1,0 +1,22 @@
+{
+  "_comentario": "¡Dime! (FR → Espanha): voz-guia FRANCESA — DUAS vozes novas, uma feminina (educadora, fr-FR) + um masculino de alertas (o equivalente do George/Thomas). AS DUAS ESTÃO POR DEFINIR NO CASTING: os voiceId abaixo são PLACEHOLDER ('TODO-FR-...') e o áudio-guia NÃO SE GERA até o casting fechar. Fala-alvo em espanhol PENINSULAR — Carmen + Emilio, e Ivan + Matilda SÓ no ear module (A01) — JÁ GRAVADAS e reusadas verbatim do curso base (589 clipes na cabeça do dono; a biblioteca de destino é a mesma dos três pares, custo de crédito ZERO). REGRA INV-5 / portão G14: a voz-guia FRANCESA nunca fala espanhol e a voz nativa peninsular nunca fala francês. Nenhuma voz multilíngue.",
+  "_voz_guia_pendente": "PENDÊNCIA QUE BLOQUEIA O ÁUDIO-GUIA. Falta escolher as duas vozes-guia FRANCESAS (fem. educadora + masc. de alertas). Enquanto os voiceId `GuiaFem`/`GuiaMasc` forem 'TODO-FR-...', o gerador NÃO deve emitir job de narração-guia. A narração das 36 partes está por escrever, em FRANCÊS; nada vira áudio antes do casting E antes da revisão nativa da fonética (revisor FR-L1 + espanhol peninsular — DERIVACAO-FR §5). Amostras a testar: pendente (DE usou Downloads/DE-amostras; o equivalente FR ainda não foi coletado).",
+  "_acervo": "static/audio traz mp3 de fala espanhola copiados verbatim do curso base com os mesmos audioKey (Carmen + Emilio no corpo, Ivan + Matilda no ear module A01) — custo de crédito zero, ativo de DESTINO. O que este SKU vai pagar é a narração FRANCESA (as duas vozes-guia novas), a fala espanhola NOVA (pequena: a gag de balcão `largo`, `embarazada`/`vaso`/`en absoluto` se as cenas os pedirem, e o que B04/B05/B14 pedirem reescritos — conferir cada frase contra o manifesto antes de sintetizar) e o componente de gesto novo (`GestoRitmoFR.svelte`).",
+  "_fonetica_do_par": "O erro nº 1 do comprador francês NÃO é de boca (a boca dele já faz quase tudo) nem de olho: é de CONFIANÇA — o FALSO AMIGO, a língua-irmã que engana (~75% cognata). BRINDES que NÃO devem ganhar áudio (copiá-los é o anti-padrão 9): `qu`=[k] (`quería` limpo), `h` mudo (`¿Hay?` natural), liaison/encadeamento (zero golpe de glote), `ñ` nativo, ritmo silábico, vogais puras, e a distinção `b`≠`v` (que MATA a gag alemã `vino`×`fino`). CAROS/NOVOS: a TÔNICA oxítona (o soco, motor central de B01), os FINAIS apagados (`-s`/`-e`/`-r`), o `u`=[y], a JOTA como som novo [ʒ] (`jamón`→«zhamón», pior que no alemão), o `ch`=[ʃ] (`mucho`→«musho»), a NASALIZAÇÃO (`un`/`con`/`jamón`) e o `r` uvular. Detalhe em docs/DERIVACAO-FR.md §1; toda consequência no espanhol é INFERÊNCIA e exige revisor antes do áudio.",
+  "model": "eleven_flash_v2_5",
+  "modelZh": "eleven_multilingual_v2",
+  "GuiaFem": "TODO-IT-guia-feminina",
+  "GuiaMasc": "TODO-IT-guia-alertas",
+  "_casting": "Escolhidas por ficha em 2026-07-29 (o dono deu autonomia; eu não tenho ouvido, escolho por metadado). GuiaFem = «Céline - Warm & Immersive» (fr standard, middle_aged, confident) — a educadora. GuiaMasc = «Enrick - Calm French Narrator» (fr standard, calm) — a voz de alertas. Amostra enviada ao dono para veto de ouvido; trocar é 1 linha aqui + regerar. Alternativas fem: Helene (documentário/classy), Louise (jovem/soft). Alt masc: Armel/Bass (mais graves).",
+  "Carmen": "h2cd3gvcqTp3m65Dysk7",
+  "Emilio": "ZCh4e9eZSUf41K4cmCEL",
+  "Ivan": "FVkjSdzllLpQkLZaNmJl",
+  "Matilda": "tSdO3lUIODN7SK6eWVhu",
+  "_ear_module": "A01 usa Ivan e Matilda, NÃO Carmen e Emilio (usar o modelo padrão também como voz de variação contamina o modelo — anti-padrão 14). Ivan e Matilda são as duas ÚNICAS vozes peninsulares da biblioteca pública e NENHUMA é verificadamente regional — por isso A01 não alega sotaque de região. Neste SKU, se houver voz CATALÃ/VALENCIANA verificada, a prioridade de casting da 5ª voz passa a ser o Levante/Catalunha (30% + 17% do destino), não Sevilha nem as ilhas — DERIVACAO-FR §4.3.",
+  "_g14": {
+    "guia": ["GuiaFem", "GuiaMasc"],
+    "guiaLingua": "it",
+    "alvo": ["Carmen", "Emilio"],
+    "alvoLingua": "es"
+  }
+}

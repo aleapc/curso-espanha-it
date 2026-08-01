@@ -1,0 +1,757 @@
+{
+  "id": "i06",
+  "slot": "I06",
+  "nivel": "intermediario",
+  "numero": 24,
+  "parte": "24",
+  "titulo": "Où vous étiez hier, et où il vous envoie demain",
+  "subtitulo": "Trois courtes phrases apprises entières, jamais démontées — le lieu, l'assiette et la chose qui vous a plu — et la recommandation qui revient par-dessus le comptoir",
+  "moldura": "ganha",
+  "cena": "Neuf heures du soir, votre troisième soir dans le même bar, et l'homme qui vous a servi mardi pose le verre, s'accoude et demande ce que vous avez fait aujourd'hui.",
+  "decisao": "d'où vient le lendemain — la table qui sait rendre compte d'hier en trois phrases se fait envoyer ailleurs, loin de la place, et on lui dit quoi manger là-bas ; la table qui répond «tout était très bien, merci» passe le reste des deux semaines sur le programme avec lequel elle est arrivée, et paie sur la place les prix où tous les visiteurs sont déjà assis",
+  "emJogo": "ambos",
+  "moldes": [],
+  "clique": {
+    "contagem": [
+      "le comptoir",
+      "le taxi",
+      "l'étal du marché",
+      "la réception"
+    ],
+    "desconto": "Ces phrases, personne ne vous les a apprises. Il y a trois débuts, vous avez changé la fin toute la soirée, et aucun début n'a bougé.",
+    "piso": "Vous dites où vous étiez, ce que vous avez mangé et ce qui vous a plu, et on vous comprend. La plupart des visiteurs passent deux semaines à répondre ça en anglais."
+  },
+  "cliqueAudioKey": "i06-n25",
+  "frasePiso": "Vous dites où vous étiez, ce que vous avez mangé et ce qui vous a plu, et on vous comprend. La plupart des visiteurs passent deux semaines à répondre ça en anglais.",
+  "permissao": "Vous avez le droit de raconter tout hier en trois courtes phrases et de vous arrêter — le lieu, l'assiette et la chose qui vous a plu. Personne n'attend une histoire, personne ne compte vos mots, et vous pouvez dire les mêmes trois phrases chaque soir pendant deux semaines. Et si le mot du plat vous manque : montrez l'assiette de la table d'à côté et dites que c'est ça que vous avez pris. Montrer, c'en est la moitié légitime.",
+  "permissaoAudioKey": "i06-n23",
+  "espelho": "«Tout était très bien, merci» est modeste chez vous et clôt poliment la conversation. Ici, ça ne rend rien, et la porte qu'on vient de vous tenir se referme toute seule.",
+  "fichasCulturais": [
+    {
+      "sinal": "Il demande comment s'est passée votre journée, puis il reste là — les coudes sur le comptoir, n'essuie rien, attend la pause pendant que vous sortez les mots.",
+      "suaLeitura": "Il est poli et je le retiens. Je devrais faire un geste, dire «tout va bien» et le laisser continuer.",
+      "oQueEAli": "À un comptoir qui vous a déjà servi deux fois, cette question est le début d'un bilan, pas un bouche-trou. Ce que vous répondez, c'est ce qu'il transmet quand le suivant lui demande où envoyer quelqu'un.",
+      "oQueVoceFaz": "Dire les trois courtes phrases, lentement, puis s'arrêter. Ne pas faire de geste ni passer à l'anglais pour en finir plus vite.",
+      "oQueMelhora": "Vous n'êtes plus un numéro de chambre, mais la table qui était à Tolède — et la table, on lui dit jeudi où aller manger.",
+      "ondeNaoVale": "Pas à la caisse d'une chaîne ni au comptoir du petit-déjeuner avec la file derrière — là, la même question est un bonjour, et deux mots en retour sont la bonne réponse.",
+      "evidencia": "CONSENSO",
+      "audioKeys": [
+        "i06-n20",
+        "i06-n21",
+        "i06-n22"
+      ]
+    },
+    {
+      "sinal": "Vous dites que toute la ville était magnifique, et l'autre hoche la tête une fois et détourne le regard ; vous nommez une place, et il se penche et se met à raconter.",
+      "suaLeitura": "Plus l'éloge est grand, mieux il passe — je devrais dire que tout le voyage était formidable.",
+      "oQueEAli": "Un éloge sur tout ne lui met rien en main. Une chose nommée lui donne quelque chose qu'il connaît par cœur, et ce par-cœur est la part qu'il savoure.",
+      "oQueVoceFaz": "Nommer un lieu, une assiette, une chose. Puis se taire et le laisser filer.",
+      "oQueMelhora": "La conversation continue sans que vous ayez besoin d'un mot d'espagnol de plus — et c'est exactement tout le tour de cette partie.",
+      "ondeNaoVale": "Pas dans un endroit qui vit des visiteurs, où les trois mêmes noms passent quarante fois par jour par-dessus le comptoir — là, le nom de la grande église rapporte un hochement et rien d'autre, et rien n'a raté.",
+      "evidencia": "CONSENSO",
+      "audioKeys": [
+        "i06-n13",
+        "i06-n14"
+      ]
+    }
+  ],
+  "_notas": {
+    "_": "PARTE DERIVADA PARA O FRANCÊS a partir do andaime alemão. A fala espanhola é ativo de DESTINO: cada `es`, `audioKey` e `tts` está IDÊNTICO ao par alemão (clipes reusados verbatim do curso base, custo de crédito espanhol ZERO). O que se re-derivou é a narração-guia (agora em FRANCÊS, GuiaFem + GuiaMasc de alertas), a `cena`, os `promptPt`, os `acao`, os `encaixeGloss` e o respelling `pinyin` (re-derivado para o OLHO FRANCÊS). Nenhum clipe espanhol novo.",
+    "as_tres_formas_fixas": "O coração desta parte são TRÊS formas fixas, aprendidas inteiras e PROIBIDAS de abrir: `Ayer fui a + [lieu]`, `Comí + [plat]`, `Me encantó + [une chose]`. Elas NÃO são moldes e NÃO se chamam «le moule» — a palavra do vocabulário de molde NÃO aparece uma vez no áudio desta parte, exatamente como o alemão nunca disse «Baustein» aqui. Chamá-las de molde prometeria que abrem, e o produto promete o contrário: o aluno troca só o lieu, o plat e a chose, e o começo nunca se mexe. Por isso `moldes: []` na raiz — I06 não é CASA de molde nenhum, e o G16 só cobra clique de casa.",
+    "eixo_do_par_nesta_parte": "O eixo do curso francês é O FALSO AMIGO (a proximidade que engana), mas ESTA parte não tem falso amigo lexical de peso — é das mais CULTURAIS do nível, e o custo é de REENQUADRE, não de vocabulário. O que ela carrega do eixo é a variante TRANSPARÊNCIA FALSA por EXCESSO DO PERFEITO (DERIVACAO-FR §_eixo e moldes.json ME-HE-DEJADO nota I06): o francês superusa o `passé composé` e quase não usa o `passé simple`, então a orelha dele quer construir `he ido`/`he comido` onde o balcão peninsular, com `ayer`, pede `fui`/`comí`. É o beat protegido do GuiaMasc (i06-t01, i06-t02), grudado à cena e DEPOIS de o aluno já ter ouvido `ayer fui` — nunca uma regra de gramática, e nenhum nome de paradigma entra no áudio (G16/T1). Pior que no alemão, que ao menos alterna perfeito/pretérito; o francês superusa o perfeito num sentido só.",
+    "fonetica_brinde": "Parte de fonética LEVE, quase toda BRINDE para o francês: o `h` mudo (`os ha gustado`, `habéis` saem de graça, onde o alemão lia «Ha-»), as vogais puras, o `qu`=[k]. O único resquício francês que rende no aquecimento é o `r` (uvular, CARO — a mão do flick, gesto 4, que VOLTA a ser tap peninsular) e, uma única vez, a JOTA como som novo em `genial` (⟨g⟩+e = [x], respelling «khe-NYAL» — sem palestra, a casa da jota é B13/LLEVA). A TÔNICA oxítona aparece de brinde: os verbos-âncora `fui`/`comí`/`encantó` SÃO oxítonos e o francês os acerta por instinto; o risco fica só nos nomes de lugar paroxítonos (to-LE-do, mer-KA-do), tratado no respelling, sem beat próprio.",
+    "soy_de_londres": "DECISÃO DE AUTORIA HERDADA E MANTIDA. O único clipe com forma de SOY-ESTOY no andaime de I06 é `i05-londres-e` («Soy de Londres, ¿y tú?»), e o roster manda SOY-ESTOY redisparar em I06 (moldes.json: casa B13, redisparos B17/I05/I06). Um comprador francês NÃO é de Londres, e um `responde` o mandaria dizer que é — conteúdo falso. Então o step fica `ouvir` RECEPTIVO (👂): o vizinho de balcão diz de onde é e devolve a pergunta, e o aluno reconhece a forma voltando (já a produziu em B13/I05). O redisparo é cumprido como RECONHECIMENTO — a tag `molde:\"SOY-ESTOY\"` fica no step de ouvir e o G9c aceita qualquer step. NÃO se tocou no `es`.",
+    "preferencia_redisparo": "PREFERENCIA (casa I05, redisparos I06/I09 — moldes.json) redispara aqui com encaixe NOVO e produção real: `Prefiero el norte` (i06-p10) e `Prefiero los pueblos` (i06-p11), ambos com `molde:\"PREFERENCIA\"` no step, mais o shadow `i06-prefieronorte-c`. É o BRINDE do roster (a inversão de `gustar` é nativa via `plaire`), mas aqui `prefiero` entra como bloco pronto — sem explicar inversão, sem a palavra «verbe». `moldes: []` na raiz porque a CASA de PREFERENCIA é I05, não esta parte.",
+    "recomendar_escribir": "`¿Me puede recomendar otro sitio?` e `¿Me lo puede escribir, por favor?` têm forma de ME-PUEDE, mas o roster do par francês NÃO lista I06 nos redisparos de ME-PUEDE (casa B03; redisparos B04/B07/B09/B13/B14/B17/I07). Para não divergir do roster — que é a fonte de verdade — os dois ficam `responde` de ferramenta que volta, com `encaixe` mas SEM tag `molde`. `¿Me lo puede escribir?` reusa o clipe `e01c-escribir-c` (o mais velho do curso). Se o dono quiser I06 como redisparo de ME-PUEDE, edita-se o roster primeiro e este arquivo depois — nunca o contrário.",
+    "reenquadre_frances": "O conteúdo do destino (o balcão, o balanço de ontem, a recomendação que sai por cima do balcão) é COMPARTILHADO entre compradores e não muda. O que se re-derivou é a NARRAÇÃO e a COMPARAÇÃO com o comprador (§5 do aprofundar): saiu o ângulo alemão de Mallorca (inglês forte + rede em alemão como escotilha) e entrou o do francês — LITORAL CONTINENTAL (Costa Brava, Catalunha/Valência 30%+17%, DERIVACAO-FR §3.1), SEM escotilha de fuga (inglês moderado empatado com o anfitrião, sem rede em francês fora da faixa catalã, §3.2). Isso INVERTE o peso: a recomendação de balcão é a única saída do circuito, e a promessa de M1 volta a ser produção real, não «você já se vira». Dois brindes franceses aproveitados na explicação: `a + el = al` é o mesmo gesto do `à + le = au` (aprofundar §2), e `me encantó` funciona como `plaire`=`ça me plaît` (§3) — ambos ditos em ≤5 palavras, sem jargão. G6 respeitado: nenhum adjetivo de povo; o «sem escotilha» é fato (EF EPI) da situação do comprador, não «o francês é…».",
+    "respelling_para_leitor_frances": "O campo `pinyin` foi RE-DERIVADO para o OLHO FRANCÊS (INFERÊNCIA — exige revisor FR-L1 + espanhol peninsular antes do áudio; DERIVACAO-FR §1, §5). Convenção do SKU (a mesma de i07/b10): MAIÚSCULA = tônica · ⟨u⟩→«ou» (o `u` francês é [y]; força o [u]: `fui`→foui, `museo`→mou-SSE-o) · ⟨s⟩ intervocálico, ⟨z⟩, ⟨c⟩+e,i→«ss» (bloqueia o [z] francês: `cocido`→ko-SSI-do, `plaza`→PLA-ssa) · ⟨j⟩/⟨g⟩+e,i→«kh» (a jota, souffle de gorge: `genial`→khe-NYAL) · ⟨ll⟩/⟨y⟩→«y» (de «yaourt»: `playa`→PLA-ya, `Sevilla`→sse-BI-ya) · ⟨v⟩→«b» (`todavía`→to-da-BI-a) · ⟨h⟩ some (`hay`/`ha`→a) · ⟨qu⟩→«k» (brinde) · finais `-s`/`-r`/`-d`/`-e` MOSTRADOS, porque o francês os apaga; `-e` final → «-é». Saíram as marcas alemãs (o «ch de Bach» virou «kh», o «J» de `A-JER` virou «Y»).",
+    "vozes_e_g14": "Vozes-guia renomeadas do scaffold alemão (`Juli`/`Thomas`) para `GuiaFem`/`GuiaMasc` — os nomes que `audio.config.json._g14.guia` declara para este SKU (guiaLingua `fr`). Sem isso o G14 (voz × língua) passaria a narração francesa SEM ser checada. GuiaFem carrega a educadora; GuiaMasc é o masculino de alertas (o beat do perfeito, i06-t01/t02). Carmen e Emilio (peninsulares, alvo) intocados e nunca falam francês; a guia francesa CITA espanhol («ayer fui», «me encantó») e nunca o fala. Conferência humana obrigatória enquanto o G14 roda pela metade (INV-5). ZERO resíduo alemão nesta parte: nenhum tratamento formal alemão nem palavra alemã sobrevive na narração.",
+    "pendencias": [
+      "REVISOR FR-L1 + espanhol peninsular: todo o respelling `pinyin` é INFERÊNCIA; o glifo da jota (`kh` em `genial`) e a tônica em MAIÚSCULA precisam de decisão do revisor.",
+      "VOZ-GUIA FRANCESA (casting): `GuiaFem`/`GuiaMasc` são PLACEHOLDER em audio.config (`TODO-FR-...`); o áudio-guia não se gera até fechar o casting.",
+      "`moldes.json` lista SOY-ESTOY e PREFERENCIA como redisparos de I06, cumpridos aqui; enquanto as demais partes seguirem em alemão, o G9 pode acusar «molde aparece em poucas partes» — aviso agregado da obra em andamento, não regressão."
+    ]
+  },
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n01",
+      "bloco": "aquecimento",
+      "gesto": 4,
+      "tom": "ganha",
+      "pt": "Partie vingt-quatre. Échauffement, dix secondes : le r. Un coup bref, du bout de la langue, pas le r du fond de la gorge. a-YER."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n02",
+      "pt": "Le reste tombe juste à votre oreille : le h ne sonne pas, les voyelles sont pures. Vous partez avec une longueur d'avance."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i05-londres-e",
+      "bloco": "callback",
+      "molde": "SOY-ESTOY",
+      "receptivo": true,
+      "es": "Soy de Londres, ¿y tú?",
+      "pinyin": "ssoi de LON-dress, i TOU",
+      "pt": "👂 «Je suis de Londres, et toi ?» — le voisin de comptoir vous retourne la question.",
+      "acao": "Rendre votre origine — «soy de…», comme hier.",
+      "tts": "Soy de Londres, ¿y tú?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n03",
+      "bloco": "cena",
+      "pt": "Neuf heures du soir, votre troisième soir, et derrière le comptoir le même homme qui vous a servi mardi."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n04",
+      "pt": "Il pose le verre, s'accoude, et ne s'en va pas."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i06-quetal-e",
+      "receptivo": true,
+      "es": "¿Qué tal el día?",
+      "pinyin": "ké tal el DI-a",
+      "pt": "👂 «Comment s'est passée la journée ?» — accoudé au comptoir, ça veut dire qu'il ne s'en va pas.",
+      "acao": "Répondre avec les trois phrases : le lieu, l'assiette, la chose.",
+      "tts": "¿Qué tal el día?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n05",
+      "pt": "C'est une porte ouverte, et la plupart la referment d'un sourire."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n06",
+      "pt": "Trois phrases passent. Trois, pas quatre. Ce qui n'entre dans aucune, vous le montrez du doigt."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i06-ayertoledo-e",
+      "es": "Ayer fui a Toledo.",
+      "pinyin": "a-YER foui a to-LE-do",
+      "pt": "Hier, je suis allé à Tolède.",
+      "tts": "Ayer fui a Toledo."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n07",
+      "bloco": "molde",
+      "pt": "Voilà la première des trois phrases toutes faites. Ayer fui a — puis le lieu. Le début reste en place."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i06-ayerplaya-c",
+      "es": "Ayer fui a la playa.",
+      "pinyin": "a-YER foui a la PLA-ya",
+      "pt": "Le même début, ailleurs — et à celui-ci colle un petit mot : la.",
+      "tts": "Ayer fui a la playa."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i06-ayermercado-e",
+      "es": "Ayer fui al mercado.",
+      "pinyin": "a-YER foui al mer-KA-do",
+      "pt": "Ici le petit mot a fondu dans le début : a + el = al. Exactement votre «au». Prenez le bloc entier.",
+      "tts": "Ayer fui al mercado."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n08",
+      "pt": "Apprenez chaque lieu avec son petit mot collé, comme la cuenta. Ensuite, vous ne le regardez plus."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "i06-t01",
+      "tom": "protege",
+      "pt": "Attention. Chez vous, hier se raconte au passé composé : «je suis allé». Votre oreille veut bâtir «he ido». Pas ici."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "i06-t02",
+      "pt": "«Ayer» et «fui» vont ensemble, un seul bloc. Ayer fui, puis le lieu. Prenez la paire entière."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "encaixe": "Sevilla",
+      "encaixeGloss": "Séville",
+      "promptAudioKey": "i06-p01",
+      "promptPt": "Il veut savoir où vous êtes allé hier. À sept heures vous étiez dans le train vers le sud, rentré à minuit, dans la ville aux orangers dans chaque rue. Parlez maintenant.",
+      "audioKey": "i06-sevilla-e",
+      "es": "Ayer fui a Sevilla.",
+      "pinyin": "a-YER foui a sse-BI-ya",
+      "pt": "le lieu, accroché derrière"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "encaixe": "la catedral",
+      "encaixeGloss": "la cathédrale",
+      "promptAudioKey": "i06-p02",
+      "promptPt": "Le lendemain matin, dans le taxi, et le chauffeur demande ce que vous avez vu hier. C'était l'énorme chose au milieu de la vieille ville, et vous êtes monté à la tour. Parlez maintenant.",
+      "audioKey": "i06-catedral-c",
+      "es": "Ayer fui a la catedral.",
+      "pinyin": "a-YER foui a la ka-te-DRAL",
+      "pt": "avec son petit mot collé",
+      "consulta": [
+        "simpatia/puxar-conversa"
+      ]
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "encaixe": "al museo",
+      "encaixeGloss": "le musée",
+      "promptAudioKey": "i06-p03",
+      "promptPt": "La réception, la clé en main, et elle demande comment s'est passée la journée. Trois heures dessus sur un sol de pierre, dans un bâtiment plein de tableaux. Parlez maintenant.",
+      "audioKey": "i06-museo-e",
+      "es": "Ayer fui al museo.",
+      "pinyin": "a-YER foui al mou-SSE-o",
+      "pt": "le al fondu"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n09",
+      "pt": "Le deuxième, et c'est celui qu'il veut savoir d'abord. Un mot, puis l'assiette."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i06-comipaella-c",
+      "es": "Comí paella.",
+      "pinyin": "ko-MI pa-E-ya",
+      "pt": "J'ai mangé une paella. — un mot, puis l'assiette, rien entre les deux.",
+      "tts": "Comí paella."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i06-comipulpo-e",
+      "es": "Comí pulpo.",
+      "pinyin": "ko-MI POUL-po",
+      "pt": "Le même mot, une autre assiette. Elle arrive nue, cette fois.",
+      "tts": "Comí pulpo."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n10",
+      "pt": "Ici, pas de petit mot. Comí, puis ce que vous avez mangé. C'est tout."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "encaixe": "cocido",
+      "encaixeGloss": "le pot-au-feu",
+      "promptAudioKey": "i06-p04",
+      "promptPt": "Une autre table, un autre soir, et l'homme qui verse le vin veut savoir ce que vous avez pris hier. C'est venu en trois services — d'abord le bouillon, puis les pois chiches, puis une assiette de viande. Parlez maintenant.",
+      "audioKey": "i06-cocido-c",
+      "es": "Comí cocido.",
+      "pinyin": "ko-MI ko-SSI-do",
+      "pt": "l'assiette, nue"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "encaixe": "tortilla",
+      "encaixeGloss": "l'omelette",
+      "promptAudioKey": "i06-p05",
+      "promptPt": "Onze heures du matin, un étal de marché, un gros morceau jaune avec de la pomme de terre dedans, mangé debout sur une serviette en papier. Il demande ce que vous avez pris. Parlez maintenant.",
+      "audioKey": "i06-tortilla-e",
+      "es": "Comí tortilla.",
+      "pinyin": "ko-MI tor-TI-ya",
+      "pt": "debout, sur la serviette",
+      "consulta": [
+        "simpatia/puxar-conversa",
+        "simpatia/elogiar-comida"
+      ]
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n11",
+      "tom": "ganha",
+      "pt": "Le troisième, et c'est lui qui fait tourner la conversation quand vous avez déjà cessé de parler."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i06-encantotoledo-e",
+      "es": "Me encantó Toledo.",
+      "pinyin": "mé en-kan-TO to-LE-do",
+      "pt": "Tolède m'a beaucoup plu. — une chose nommée, jamais le pays entier.",
+      "tts": "Me encantó Toledo."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i06-encantoplaza-c",
+      "es": "Me encantó la plaza.",
+      "pinyin": "mé en-kan-TO la PLA-ssa",
+      "pt": "Le même début, autre chose derrière. Devant, rien ne bouge.",
+      "tts": "Me encantó la plaza."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n12",
+      "pt": "Quoi que vous accrochiez derrière, le début reste exactement comme il est. C'est cadeau."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i06-osgustado-e",
+      "receptivo": true,
+      "es": "¿Y os ha gustado?",
+      "pinyin": "i oss a gouss-TA-do",
+      "pt": "👂 «Et, ça vous a plu ?» — adressé à vous deux, une seule réponse suffit.",
+      "acao": "Répondre pour vous, au singulier — «me encantó…» suffit.",
+      "tts": "¿Y os ha gustado?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "encaixe": "el mercado",
+      "encaixeGloss": "le marché",
+      "promptAudioKey": "i06-p06",
+      "promptPt": "La femme de l'épicerie du coin emballe votre pain et demande ce qui vous a le plus plu jusqu'ici. C'était la halle au poisson sur la glace, et un homme qui criait les prix au-dessus de vos têtes. Parlez maintenant.",
+      "audioKey": "i06-encantomercado-c",
+      "es": "Me encantó el mercado.",
+      "pinyin": "mé en-kan-TO el mer-KA-do",
+      "pt": "une chose nommée"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "encaixe": "el pulpo",
+      "encaixeGloss": "le poulpe",
+      "promptAudioKey": "i06-p07",
+      "promptPt": "De retour au comptoir, et il veut savoir lequel des plats d'hier soir vous reprendriez aujourd'hui. C'était celui avec le paprika dessus. Parlez maintenant.",
+      "audioKey": "i06-encantopulpo-e",
+      "es": "Me encantó el pulpo.",
+      "pinyin": "mé en-kan-TO el POUL-po",
+      "pt": "celui que vous reprendriez"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n13",
+      "bloco": "espelho",
+      "tom": "protege",
+      "pt": "Dites «tout était très bien» — il répond «muy bien», essuie le comptoir et s'en va. La phrase ne lui donne rien."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n14",
+      "pt": "Nommez une chose, pas le pays. Puis taisez-vous et laissez-le partir dessus."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n15",
+      "pt": "Deux autres, entières, rien à changer dedans. La première est pour la bonne journée."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i06-genial-c",
+      "es": "Estuvo genial.",
+      "pinyin": "ess-TOU-bo khe-NYAL",
+      "pt": "C'était génial. — deux mots, et ils couvrent une soirée ou la semaine entière.",
+      "tts": "Estuvo genial."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i06-p08",
+      "promptPt": "Il a demandé comment était hier soir, et c'était nettement mieux que tout ce que vous aviez réservé. Deux mots. Parlez maintenant.",
+      "audioKey": "i06-genial-c",
+      "es": "Estuvo genial.",
+      "pinyin": "ess-TOU-bo khe-NYAL",
+      "pt": "deux mots, puis stop"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i06-habeisestado-e",
+      "receptivo": true,
+      "es": "¿Habéis estado en Granada?",
+      "pinyin": "a-BE-iss ess-TA-do en gra-NA-da",
+      "pt": "👂 «Vous êtes allés à Grenade ?» — il ne bavarde pas, il prépare quelque chose.",
+      "acao": "«Todavía no» — pas encore, et la porte reste ouverte.",
+      "tts": "¿Habéis estado en Granada?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n16",
+      "pt": "Le deuxième entier, c'est la réponse à ça — et il l'amène à vous raconter le reste."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i06-todavia-c",
+      "es": "Todavía no.",
+      "pinyin": "to-da-BI-a no",
+      "pt": "Pas encore. — «pas encore» est une invitation, là où «non» est un point final.",
+      "tts": "Todavía no."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i06-p09",
+      "promptPt": "Il vient de nommer une ville à deux heures à l'ouest et a haussé les sourcils. Il vous reste quatre jours et aucun plan pour ça. Deux mots, et laissez la porte ouverte. Parlez maintenant.",
+      "audioKey": "i06-todavia-c",
+      "es": "Todavía no.",
+      "pinyin": "to-da-BI-a no",
+      "pt": "deux mots, porte ouverte",
+      "consulta": [
+        "simpatia/convite",
+        "simpatia/puxar-conversa"
+      ]
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n17",
+      "pt": "Et on ne vous laisse pas longtemps sur la barrière. L'un des deux — le début, vous l'avez déjà."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i06-prefieronorte-c",
+      "es": "Prefiero el norte.",
+      "pinyin": "pre-FYE-ro el NOR-te",
+      "pt": "Je préfère le nord. — trois mots, et la question est réglée pour la table.",
+      "tts": "Prefiero el norte."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "PREFERENCIA",
+      "encaixe": "el norte",
+      "encaixeGloss": "le nord",
+      "promptAudioKey": "i06-p10",
+      "promptPt": "Deux au comptoir se disputent sur la moitié du pays où vous auriez dû commencer, et tous deux se tournent vers vous. Vous êtes entré par Bilbao et vous recommenceriez. Parlez maintenant.",
+      "audioKey": "i06-prefieronorte-c",
+      "es": "Prefiero el norte.",
+      "pinyin": "pre-FYE-ro el NOR-te",
+      "pt": "votre moitié à vous",
+      "consulta": [
+        "simpatia/puxar-conversa"
+      ]
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i06-pueblos-e",
+      "es": "Prefiero los pueblos.",
+      "pinyin": "pre-FYE-ro loss POUÉ-bloss",
+      "pt": "Les mêmes trois mots, autre chose derrière. Pour le pluriel, devant, rien ne bouge.",
+      "tts": "Prefiero los pueblos."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "PREFERENCIA",
+      "encaixe": "los pueblos",
+      "encaixeGloss": "les villages",
+      "promptAudioKey": "i06-p11",
+      "promptPt": "De nouveau dans le taxi, et le chauffeur demande ce que vous voulez de vos trois derniers jours. Vous en avez assez des files et des grandes églises — les petits endroits, là-haut dans les collines. Parlez maintenant.",
+      "audioKey": "i06-pueblos-e",
+      "es": "Prefiero los pueblos.",
+      "pinyin": "pre-FYE-ro loss POUÉ-bloss",
+      "pt": "les petits, dans les collines"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n18",
+      "tom": "ganha",
+      "pt": "Maintenant la partie pour laquelle tout ça existait. Il sait où vous étiez, et il a un avis sur demain."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i06-recomendar-e",
+      "es": "¿Me puede recomendar otro sitio?",
+      "pinyin": "mé POUÉ-dé rre-ko-men-DAR O-tro SSI-tyo",
+      "pt": "Pouvez-vous m'en conseiller un autre ? — le début de la partie trois, avec demain au bout.",
+      "tts": "¿Me puede recomendar otro sitio?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "encaixe": "recomendar otro sitio",
+      "encaixeGloss": "ailleurs",
+      "promptAudioKey": "i06-p12",
+      "promptPt": "Il vient de vous dire que l'endroit d'hier, c'est là où va chaque visiteur, et ça l'amuse de le dire. Demandez-lui. Parlez maintenant.",
+      "audioKey": "i06-recomendar-e",
+      "es": "¿Me puede recomendar otro sitio?",
+      "pinyin": "mé POUÉ-dé rre-ko-men-DAR O-tro SSI-tyo",
+      "pt": "pour demain",
+      "consulta": [
+        "simpatia/puxar-conversa",
+        "mesa/comida"
+      ]
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i06-tienesqueir-c",
+      "receptivo": true,
+      "es": "Pues entonces tienes que ir a…",
+      "pinyin": "pouess en-TON-ssess TYE-ness ké ir a",
+      "pt": "👂 «Alors il faut que tu ailles à…» — c'est le tuyau, et le nom arrive vite.",
+      "acao": "Ne pas retenir le nom — demandez-lui de l'écrire.",
+      "tts": "Pues entonces tienes que ir a…"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n19",
+      "pt": "Le nom file d'un bloc et il est parti. Les mots qui l'arrêtent, vous les avez déjà."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "encaixe": "escribir",
+      "encaixeGloss": "écrire",
+      "promptAudioKey": "i06-p13",
+      "promptPt": "Il a déjà dit le nom de l'endroit deux fois, et ça ne tient pas. Son stylo est sur la caisse, et vos deux mains sont pleines. Parlez maintenant.",
+      "audioKey": "e01c-escribir-c",
+      "es": "¿Me lo puede escribir, por favor?",
+      "pinyin": "mé lo POUÉ-dé ess-kri-BIR, por fa-BOR",
+      "pt": "sur le papier, avant qu'il reparte",
+      "consulta": [
+        "reparo/escreve"
+      ]
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n20",
+      "bloco": "capsula",
+      "pt": "Revenons à sa question. À un comptoir qui vous a servi deux fois, ce n'est pas du bavardage."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n21",
+      "pt": "Votre réponse, c'est ce qu'il transmet quand le suivant lui demande où envoyer quelqu'un."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n22",
+      "pt": "Pas à la caisse avec la file derrière. Là, c'est un bonjour, et deux mots en retour suffisent."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n23",
+      "bloco": "permissao",
+      "pt": "Vous avez le droit de raconter tout hier en trois courtes phrases et de vous arrêter. La version longue, personne n'en veut."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n24",
+      "pt": "Et si le mot du plat vous manque : montrez l'assiette de la table d'à côté et dites que c'est ça que vous avez pris."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n25",
+      "bloco": "clique",
+      "tom": "ganha",
+      "pt": "Comptez avec moi. Le comptoir, le taxi, l'étal du marché, la réception. Trois débuts les ont tous couverts."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n26",
+      "pt": "Ces phrases, personne ne vous les a apprises. Vous avez seulement changé la fin, et aucun début n'a bougé."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n27",
+      "bloco": "piso",
+      "tom": "ganha",
+      "pt": "Vous dites où vous étiez, ce que vous avez mangé et ce qui vous a plu. La plupart répondent ça en anglais."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-s00",
+      "pt": "Répétez. Fort, avec eux, un coup du bout de la langue pour chaque r — pas le r du fond de la gorge."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "i06-ayertoledo-e",
+      "es": "Ayer fui a Toledo.",
+      "pinyin": "a-YER foui a to-LE-do",
+      "pt": "Hier, je suis allé à Tolède."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "i06-comipaella-c",
+      "es": "Comí paella.",
+      "pinyin": "ko-MI pa-E-ya",
+      "pt": "J'ai mangé une paella."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "i06-prefieronorte-c",
+      "molde": "PREFERENCIA",
+      "es": "Prefiero el norte.",
+      "pinyin": "pre-FYE-ro el NOR-te",
+      "pt": "Je préfère le nord."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "i06-r01",
+      "bloco": "recap",
+      "pt": "Encore une fois, à voix haute, à un endroit où nous n'étions pas aujourd'hui — et personne ne vous a rien demandé."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "encaixe": "la playa",
+      "encaixeGloss": "la plage",
+      "promptAudioKey": "i06-p14",
+      "promptPt": "Petit-déjeuner, deuxième matin, et la femme à la cafetière s'arrête à votre table sans rien faire. Hier vous avez passé la journée dans le sable, et vos épaules le racontent encore. Commencez vous-même. Parlez maintenant.",
+      "audioKey": "i06-ayerplaya-c",
+      "es": "Ayer fui a la playa.",
+      "pinyin": "a-YER foui a la PLA-ya",
+      "pt": "cette fois, c'est vous qui commencez"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i06-n28",
+      "tom": "ganha",
+      "pt": "C'est tout. Vous y étiez, vous avez mangé, ça vous a plu, et il vous a dit où aller ensuite. Hasta luego."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Trois phrases, et pourquoi il n'y en a pas de quatrième (lecture optionnelle)",
+    "secoes": [
+      {
+        "titulo": "Pourquoi vous recevez trois phrases toutes faites, pas une machine",
+        "corpo": "L'espagnol a tout un appareil pour parler d'hier, et l'apprendre correctement prend des mois que vous n'avez pas avant ce vol. Ce que deux semaines en Espagne vous demandent vraiment est bien plus petit : quelqu'un veut savoir où vous étiez, ce que vous avez mangé et si ça vous a plu. Alors vous recevez les trois phrases toutes faites qui répondent exactement à ça, apprises entières, avec un seul trou chacune — le lieu, l'assiette, la chose. Fui, comí et encantó ne vous sont pas remis comme des formes à règles, mais comme les moitiés avant de trois phrases, de la même façon que la cuenta vous a été remis en un seul mot. De quatrième, il n'y en a pas, volontairement. Tout le reste d'hier entre dans l'une des trois ou se montre du doigt, et montrer est une moitié légitime de cette partie, pas un échec. Et un mot qui est à la fois votre avantage et votre piège : chez vous, hier se raconte au passé composé, «je suis allé, j'ai mangé». Votre oreille veut le refaire et attrape «he ido», «he comido». Avec ayer, le comptoir espagnol n'en veut pas — là, c'est ayer fui, ayer comí. Apprenez ayer et fui comme un seul bloc, et la question ne revient plus.",
+        "exemplos": [
+          {
+            "es": "Ayer fui a Toledo. Comí cocido. Me encantó.",
+            "pt": "a-YER foui a to-LE-do — les trois s'enchaînent comme une seule réponse, en quatre secondes environ, et la troisième peut laisser tomber sa fin si vous venez de nommer la chose"
+          },
+          {
+            "es": "Hoy no he hecho nada.",
+            "pt": "oi no e É-tcho NA-da — 👂 «Aujourd'hui je n'ai rien fait» — vous l'entendrez sans arrêt en retour, et c'est une réponse complète et honorable (et ici, avec hoy au lieu d'ayer, le he est bel et bien juste)"
+          }
+        ]
+      },
+      {
+        "titulo": "Le petit mot qui vient avec le lieu",
+        "corpo": "Ayer fui a prend un nom de lieu directement — a Toledo, a Sevilla, a Bilbao —, et c'est la moitié facile. Quand le lieu porte un article, l'espagnol garde le sien et le colle : a la playa, a la catedral, a la plaza. Et quand le mot est masculin, les deux petits mots se fondent en une syllabe : a + el devient al. Al mercado. Al museo. Ça, vous le faites déjà tous les jours : c'est votre «au» — à + le donne au, de + le donne du. L'espagnol fait exactement le même geste, une seule fois, avec a + el. Rien à calculer au comptoir : apprenez le lieu avec son petit mot déjà collé, comme vous avez appris la cuenta et el baño plutôt que cuenta et baño, et ça ne revient plus. À l'envers, il ne se passe rien : ayer fui a el museo est compris aussitôt et lu comme un accent, pas comme une faute. La seule raison pour laquelle nous avons enregistré les trois formes, c'est que votre oreille ait déjà entendu chacune avant que votre bouche en ait besoin.",
+        "exemplos": [
+          {
+            "es": "Ayer fui al pueblo de al lado.",
+            "pt": "a-YER foui al POUÉ-blo de al LA-do — hier je suis allé au village d'à côté"
+          },
+          {
+            "es": "Ayer fui a la sierra.",
+            "pt": "a-YER foui a la SSYE-rra — hier je suis allé là-haut dans la montagne"
+          }
+        ]
+      },
+      {
+        "titulo": "Me encantó — et pourquoi la fin ne bouge jamais",
+        "corpo": "Me encantó est la phrase qui surprend, parce que la chose qui vous a plu se met derrière et que le début, lui, ne bouge pas : me encantó el mercado, me encantó la plaza, me encantó Toledo. À la rigueur, c'est construit à l'envers de ce que vous pensez — c'est le marché qui enchante, et vous êtes celui à qui ça arrive —, et c'est exactement la forme de me gusta de la partie d'avant. Votre avantage est grand, et vous pouvez l'entendre tranquillement : chez vous, c'est pareil. Ça me plaît — la chose devant, vous derrière. C'est le mécanisme de plaire, mot pour mot. Il n'y a rien de plus à savoir, alors traitez-le comme un cadeau : un début, n'importe quoi au bout, aucun accord à réfléchir. Le seul endroit où ça bouge, c'est quand plusieurs choses vous ont plu — me encantaron las plazas —, et nous ne l'avons pas enseigné exprès, parce que nommer une chose est tout le sens de la phrase, et en nommer trois pousse l'autre à décrocher.",
+        "exemplos": [
+          {
+            "es": "Me encantó el barrio.",
+            "pt": "mé en-kan-TO el BA-rryo — le quartier m'a beaucoup plu"
+          },
+          {
+            "es": "Me encantó, de verdad.",
+            "pt": "mé en-kan-TO, dé ber-DAD — ça m'a vraiment plu (ce de verdad est le même que pour le merci)"
+          }
+        ]
+      },
+      {
+        "titulo": "Estuvo genial, todavía no, et quand on vous demande à deux",
+        "corpo": "Estuvo genial, ce sont deux mots sur comment une chose était — une soirée, un concert, une sortie —, et ça n'a besoin de rien derrière. Ses voisins sont estuvo muy bien (c'était très bien) et estuvo bien (c'était bien, et c'est vraiment bien). Vous entendrez aussi ha estado genial chez des gens dont quelque chose vient de finir ; les deux sont justes, aucun ne compte, et un seul suffit. Todavía no est l'autre entier de deux mots, et il fait plus qu'il n'en a l'air : à la question de savoir si vous êtes déjà allé quelque part, no ferme le sujet, et «pas encore» demande qu'on vous en parle — exactement la réponse qui vous vaut l'itinéraire. Son partenaire est ya — déjà, fait. L'autre chose à savoir avant qu'on vous la demande : si vous voyagez à deux, la question vient très souvent au pluriel — ¿y qué habéis hecho?, ¿os ha gustado? —, parce qu'elle vise les deux à la fois. Vous répondez au singulier, et rien ne rate : ayer fui a la playa est une réponse tout à fait normale à une question posée à deux, parce que vous répondez pour vous. Reconnaître habéis et os comme «vous deux» est la part qui compte, et elle vit dans l'oreille, pas dans la bouche.",
+        "exemplos": [
+          {
+            "es": "Estuvo muy bien.",
+            "pt": "ess-TOU-bo mouï byen — c'était très bien"
+          },
+          {
+            "es": "Todavía no. ¿Merece la pena?",
+            "pt": "to-da-BI-a no. mé-RE-ssé la PE-na — pas encore. Ça vaut le coup ? (la deuxième moitié est facultative et lui redonne la main)"
+          },
+          {
+            "es": "¿Y qué habéis hecho hoy?",
+            "pt": "i ké a-BE-iss É-tcho oi — 👂 «et qu'avez-vous fait tous les deux aujourd'hui ?» — répondez au singulier"
+          }
+        ]
+      },
+      {
+        "titulo": "Ce que ces trois phrases vous rapportent vraiment",
+        "corpo": "La raison d'être de cette partie n'est pas de faire la conversation. Tout ce que le cours vous a donné jusqu'ici, vous l'utilisez pour demander quelque chose — une boisson, une table, un quai, une pharmacie. Ces trois-là sont les premières qui rendent quelque chose, et ça change ce que l'autre fait ensuite. Un bar qui vous a servi deux fois et sait que vous étiez à Tolède hier vous dit où aller demain ; un bar qui vous a servi deux fois et n'a eu qu'un sourire et un hochement continue de vous servir et ne dit rien — et c'est ce qui arrive à presque tout le monde. Il vaut la peine d'être clair sur la taille de l'écart, parce que c'est toute la raison de se donner le mal : la recommandation qui vient par-dessus un comptoir, c'est celle qui n'est pas dans le guide, pas sur la place, pas pleine. Et pour vous, l'écart est plus grand que pour d'autres visiteurs : vous n'avez pas de filet. Votre anglais est moyen, à égalité avec celui d'en face, et hors de la frange catalane il n'y a pas de réseau en français — la conversation se fait en espagnol ou ne se fait pas. Là où d'autres «se débrouillent» dans un circuit qui parle leur langue, vous, une phrase en espagnol vous fait entrer là où personne n'allait vous recevoir. Ce que ces trois phrases achètent, c'est la sortie du circuit touristique — la Costa Brava au-delà de la place, le village dans les collines. Et le ramassage, vous l'avez déjà en main : vous dites les trois phrases, il vous dit où, et si le nom passe trop vite, vous lui demandez de l'écrire — la plus vieille phrase de ce cours.",
+        "exemplos": [
+          {
+            "es": "¿Y usted dónde va a comer?",
+            "pt": "i ouss-TED DON-dé ba a ko-MER — 👂 «et vous, où allez-vous manger ?» — la question qu'un habitant pose à un autre ; vous n'avez pas à la produire, mais la reconnaître vous dit à quoi ressemble une vraie recommandation"
+          },
+          {
+            "es": "¿Me lo puede escribir, por favor?",
+            "pt": "mé lo POUÉ-dé ess-kri-BIR — pourriez-vous me l'écrire, s'il vous plaît ? (de la partie trois, pour le travail le plus précieux qu'il fera jamais)"
+          }
+        ]
+      }
+    ]
+  }
+}

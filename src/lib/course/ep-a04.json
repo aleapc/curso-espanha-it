@@ -1,0 +1,595 @@
+{
+  "id": "a04",
+  "slot": "A04",
+  "nivel": "avancado",
+  "numero": 32,
+  "parte": "32",
+  "titulo": "La vieille querelle",
+  "subtitulo": "Vous n'avez pas à parler catalan, basque ou galicien — reconnaître les trois suffit, et savoir quel sujet on laisse tranquille",
+  "moldura": "protege",
+
+  "cena": "Deuxième verre de vin sur une terrasse à Gérone, et l'homme d'un certain âge à la table voisine se tourne et vous demande tout net ce qu'on pense, en France, de l'indépendance catalane.",
+
+  "frasePiso": "Vous renvoyez une question politique sans prendre parti, et vous connaissez les cinq sujets qu'on n'ouvre pas avec quelqu'un rencontré il y a vingt minutes. La plupart passent deux semaines ici sans voir qu'il y avait quoi que ce soit à réussir.",
+
+  "permissao": "Vous avez le droit de n'avoir aucun avis sur la querelle : «No conozco bien el tema» est une réponse entière et honnête, pas une esquive. Ici, vous n'offensez personne en parlant espagnol — pas une âme ; «Bon dia» est une politesse, pas une obligation, et pour vous presque une langue de la maison. Et il n'y a aucun risque juridique : ça se tranche chaque semaine à la télévision. En échange, vous récupérez la demi-heure où quelqu'un vous explique son propre pays.",
+  "permissaoAudioKey": "a04-n20",
+
+  "espelho": "Ce qui détonne là-bas, c'est la réponse pondérée. Chez vous, «les deux camps ont raison» est de la bonne éducation ; à cette table, ça se lit comme si vous n'aviez pas écouté — et c'est la seule réponse pire que de prendre parti. Votre réflexe de peser le pour et le contre joue ici contre vous.",
+
+  "fichasCulturais": [
+    {
+      "sinal": "Deuxième verre de vin, et l'homme de la table voisine se tourne et vous demande tout net ce qu'on pense, en France, de l'indépendance catalane.",
+      "suaLeitura": "Il cherche la bagarre, ou il me teste, et ce que je vais dire maintenant sera la mauvaise réponse.",
+      "oQueEAli": "Le sujet se tranche ici chaque semaine, ouvertement, à la télévision ; le poser à un visiteur tient plus du sujet intéressant qu'on vous tend que du piège. Il veut la parole, pas votre verdict.",
+      "oQueVoceFaz": "Renvoyez-la — «no conozco bien el tema, cuénteme» — puis demandez et écoutez, au lieu de juger.",
+      "oQueMelhora": "Vous récupérez la demi-heure de la soirée où quelqu'un vous explique son propre pays — la part qu'un visiteur ne se voit presque jamais offrir.",
+      "ondeNaoVale": "Pas si c'est vous qui l'avez ouvert. Le même sujet, lancé par vous vingt minutes après vous être assis, se lit à l'envers — et là, la sortie de secours ne vous sauve pas, puisque c'est vous qui l'avez ouverte.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["a04-n14", "c03b-18"]
+    },
+    {
+      "sinal": "Quelqu'un au comptoir passe au catalan avec le patron, et vous vous surprenez à en déduire sa position sur l'indépendance.",
+      "suaLeitura": "Il parle la langue, donc il veut partir — c'est bien à ça qu'elle sert.",
+      "oQueEAli": "Les deux ne vont pas ensemble. Qui parle catalan en Catalogne a été, sondage après sondage, majoritairement contre l'indépendance, et on sent quand on est lu sur une carte qu'on n'a jamais dessinée.",
+      "oQueVoceFaz": "Demandez où la personne se situe, au lieu de le calculer à partir de la langue, de l'accent ou de la ville.",
+      "oQueMelhora": "La conversation va là où vous ne seriez pas allé, et vous repartez avec la version d'une personne, pas celle d'un titre de journal.",
+      "ondeNaoVale": "Pas comme règle de rester vague. Si la personne a dit où elle se situe, continuer à louvoyer se lit, là encore, comme si vous n'aviez pas écouté.",
+      "evidencia": "FATO",
+      "audioKeys": ["a04-n13b"]
+    },
+    {
+      "sinal": "On vous appelle «guiri» dans les trois premiers jours, le plus souvent par quelqu'un qui sourit en le disant.",
+      "suaLeitura": "Je viens de me faire insulter, et toute la table a regardé.",
+      "oQueEAli": "C'est le mot ordinaire pour un visiteur d'Europe du Nord, et il va bien plus souvent du neutre au chaleureux que l'inverse. Il décrit de quoi vous avez l'air, pas ce que vous valez.",
+      "oQueVoceFaz": "Prenez-le comme il est dit. Un sourire et on continue — demander s'il y avait de la méchanceté transforme un mot léger en mot lourd.",
+      "oQueMelhora": "Vous êtes le visiteur qui en est un sans se crisper, et la table se détend au même rythme que vous.",
+      "ondeNaoVale": "Pas dans une rue résidentielle à onze heures du matin, en maillot, banane à la ceinture et chaussettes dans les sandales. Là, le mot est employé à juste titre.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["a04-n18"]
+    }
+  ],
+
+  "fatosDatados": [
+    {
+      "id": "cooficiais-proporcao",
+      "afirmacao": "Grosso modo deux personnes sur cinq en Espagne vivent là où une deuxième langue est co-officielle.",
+      "valor": "~40%",
+      "fonte": "NÃO consta de docs/pesquisa-espanha.md, que descreve as cooficiais (§7.8) sem quantificar. É aritmética de população sobre as comunidades cooficiais contra o total — ordem de grandeza ~40%, sem série do INE conferida. Vai ao ar como «deux sur cinq», nunca número exato.",
+      "ano": 2026,
+      "revisarAte": "2029-01-01",
+      "evidencia": "INFERENCIA",
+      "risco": "medio",
+      "audioKeys": ["a04-n02c"]
+    },
+    {
+      "id": "cooficialidade-1978",
+      "afirmacao": "Le catalan, le basque et le galicien ont été réprimés dans la vie publique sous Franco, et sont redevenus langues officielles avec la Constitution de 1978.",
+      "fonte": "Constitución Española de 1978, art. 3 (BOE-A-1978-31229) para a cooficialidade; a supressão anterior é consenso histórico de fontes secundárias. Mesmo fato declarado em A05 sob o id `cooficialidade-1978`.",
+      "ano": 1978,
+      "revisarAte": "2030-01-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": ["a04-n15c"]
+    },
+    {
+      "id": "catalanofalantes-contra-independencia",
+      "afirmacao": "Les gens qui parlent catalan en Catalogne ont été, sondage après sondage, majoritairement contre l'indépendance — «parle catalan, veut partir» est faux.",
+      "fonte": "docs/pesquisa-espanha.md §7.8 — «Catalães falantes de catalão são maioritariamente contrários à independência em várias medições». Síntese secundária; o dossiê não nomeia o instituto nem a onda (a série habitual é o CEO da Generalitat). ⚠️ SÉRIE VIVA: a afirmação mais perecível desta parte, e a única que uma virada eleitoral desmente sozinha.",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "CONSENSO",
+      "risco": "alto",
+      "audioKeys": ["a04-n13b"]
+    },
+    {
+      "id": "protestos-turismo-2024-2025",
+      "afirmacao": "En juillet 2024, à Barcelone, des manifestants ont aspergé au pistolet à eau des clients en terrasse ; en juin 2025, des manifestations coordonnées ont eu lieu à Barcelone, Palma, Lisbonne, Venise et Naples.",
+      "fonte": "docs/pesquisa-espanha.md §7.8 — FATO (Reuters/CNN/NPR, jul/2024 e jun/2025), protestos coordenados sob a rede SET, adesivos «Tourist go home» em portas de hotéis.",
+      "ano": 2025,
+      "revisarAte": "2027-06-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["a04-n16", "a04-n16b"]
+    },
+    {
+      "id": "habitacao-barcelona-68",
+      "afirmacao": "À Barcelone, le coût du logement a grimpé d'environ 68 pour cent en une décennie, et c'est la racine du ressentiment que l'on cite.",
+      "valor": "68%",
+      "fonte": "docs/pesquisa-espanha.md §7.8 — FATO (dado citado pelas autoridades locais). Número citado por autoridade, não série primária conferida.",
+      "ano": 2025,
+      "revisarAte": "2027-06-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["a04-n17"]
+    },
+    {
+      "id": "guiri-registro",
+      "afirmacao": "«Guiri» est le mot courant pour un visiteur d'Europe du Nord, le plus souvent sans hostilité et souvent affectueux — pas une insulte.",
+      "fonte": "docs/pesquisa-espanha.md §7.8 — «gíria para turista do norte europeu, normalmente sem hostilidade, às vezes afetuosa». Mesmo id declarado em A02 e a mesma afirmação em A07 (`guiri-nao-e-insulto`).",
+      "ano": 2026,
+      "revisarAte": "2029-01-01",
+      "evidencia": "CONSENSO",
+      "risco": "baixo",
+      "audioKeys": ["a04-n18"]
+    }
+  ],
+
+  "_notas": {
+    "_": "Parte ESCRITA em FRANCÊS (andaime saiu; voz-guia renomeada Juli/Thomas→GuiaFem/GuiaMasc, `guiaLingua: fr`). Slot A04, dono DESTINO, a ÚNICA parte defensiva de LEIO A SALA (moldura protege, teto avancado 1). Fala espanhola e cooficial é ativo de DESTINO: nenhum campo `es`, `tts`, `audioKey` ou voz de Carmen/Emilio foi tocado — os dez clipes c03b-* vêm do par EN pelas mesmas chaves e os mp3 estão em disco. O que este SKU paga aqui é a narração FRANCESA (GuiaFem + um beat da GuiaMasc).",
+    "clipe_espanhol_novo": "NENHUM, e nenhuma dependência cross-part. Os dez audioKey de fala (c03b-03, -05, -06, -09, -11, -12, -14, -15, -16, -18) já existem em mp3 herdados do par EN. Os `responde` reusam os clipes que a própria parte modela como `ouvir` antes (padrão idêntico ao alemão): c03b-05/-09/-06 e o c03b-18 da cena. Custo de crédito espanhol ZERO.",
+    "escopo_e_a_briga_certa": "A04 é a briga INTERNA da Espanha — as línguas cooficiais e a identidade —, não a relação França–Espanha (essa é de A03, a maior exposição ao G6 do produto, com pesquisa própria + revisor; trazê-la para cá seria abrir aqui um assunto que o produto decidiu tratar noutro slot). Por isso a parte porta o conteúdo do par EN e só REAPONTA o mapa. Onde o alemão apontava Palma/Baleares (42% daquele comprador), aqui o mapa é o LITORAL CONTINENTAL catalão — Catalunha 30% + Valência 17% (DERIVACAO-FR §4.3) —, para onde 65% deste comprador chega de carro. A cena migra para Girona/Costa Brava, a primeira parada catalã ao cruzar a fronteira. Os protestos de jun/2025 tocaram Barcelona diretamente — FATO da pesquisa, entra apontado ao modelo, não ao comprador. É o mesmo reenquadre do B10 francês (porta cooficial balear→catalão continental).",
+    "reenquadre_transfronteirico": "O ângulo francês central desta parte, e o INVERSO exato do alemão. O catalão fala-se no Rosselló/Roussillon (Pyrénées-Orientales) e o basco é a mesma língua dos dois lados da fronteira (Iparralde). Para este comprador, catalão e basco NÃO são línguas estrangeiras — são línguas de parentesco transfronteiriço; «Bon dia» quase não é exótico e «Adéu» é primo de «adieu». O alemão é hóspede num arquipélago; o francês é vizinho de fronteira cujo próprio país contém falantes de catalão e de basco. Reenquadrado (n05, n06, aprofundar §1), NÃO copiado do alemão traduzido (anti-padrão 9).",
+    "recalibragem_local": "Duas coisas específicas do francês. (1) O falso amigo `discutir`≠`discuter` (DERIVACAO §4.2; moldes.json `_regras.falsos_amigos.discutir`): em espanhol `discutir` é BRIGAR/discutir acaloradamente, não conversar. `No quiero discutir` = «je ne veux pas me disputer», NÃO «je ne veux pas en parler». É MAIS traiçoeiro que no alemão, porque `discuter` em francês significa genuinamente conversar/debater — o registro se inverte. Mora no beat da GuiaMasc (a04-t01), social e não fonético. (2) A recalibragem vous/usted, que aqui joga A FAVOR do comprador: `cuénteme` é a forma usted, e com o homem mais velho na terraza ela é a certa — o default francês (vouvoiement) acerta o alvo. Dito em a04-n14c, uma linha; leve e (no resto do curso) bidirecional, nunca o bloco anti-Sie alemão.",
+    "respelling_para_leitor_frances": "O campo `pinyin` foi RE-DERIVADO para o OLHO FRANCÊS (mesmo esquema de B10/I07, INFERÊNCIA que exige revisor FR-L1 + peninsular): MAIÚSCULA = tônica · ⟨u⟩→«ou» (bloqueia o [y] francês) · ⟨s⟩ intervocálico, ⟨z⟩ e ⟨c⟩+e,i→«ss» (bloqueia o [z] francês: conozco→ko-NOSS-ko) · ⟨ch⟩→«tch» · ⟨ll⟩/⟨y⟩→«y» · ⟨v⟩→«b» · ⟨h⟩ some · ⟨qu⟩→«k» (brinde) · finais `-s`/`-r`/`-e` MOSTRADOS (o francês os apaga). As palavras cooficiais (Bon dia, Adéu, Moltes gràcies, Eskerrik asko, Grazas e as placas) são respelladas por aproximação de ouvido francês — e aqui o francês LÊ MELHOR que qualquer comprador (Adéu~adieu, sortida~sortie). Saíram as marcas alemãs (tsch, «ch de Bach», o «ss porque s alemão é [z]»→«ss porque s francês é [z]»). O `pinyin` é display; ao TTS vai só `tts`/`es`.",
+    "fonetica_e_regra_desta_parte": "Toque LEVE — A04 não é casa de regra de leitura (moram em B01–B16) nem da jota (B13/LLEVA). Nenhum clipe carrega jota [x]. O único apoio de leitura é o falso amigo `discutir`, que é SEMÂNTICO, não fonético; a nota do ⟨s⟩ intervocálico ([z] proibido) já chega pelo respelling (conozco, gràcies). Cena → produção → regra continua valendo: o beat do `discutir` vem DEPOIS de o aluno já ter produzido o notausgang (c03b-18).",
+    "previas_cumpridas": "Nenhuma. Nenhum molde tem casa, redisparo ou prévia em A04 (o roster não ancora molde neste slot; LEIO A SALA não produz molde — moldes.json `_regras.m3`). Nenhum step declara `molde` e a parte fica fora da conta do G9.",
+    "pendencia_G14": "O portão voz × língua roda neste SKU (audio.config.json._g14, guiaLingua `fr`) e esta parte sai com zero divergência DEPOIS da renomeação GuiaFem/GuiaMasc: GuiaFem e GuiaMasc CITAM espanhol e cooficial dentro da narração francesa (é o trabalho da guia — «Bon dia», «adéu», «no conozco bien el tema», «discutir», «No quiero discutir») e nunca os falam; Carmen e Emilio não dizem uma palavra de francês. INV-5 exige conferência humana enquanto o G14 for a metade que roda por audio.config."
+  },
+
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n01",
+      "bloco": "aquecimento",
+      "gesto": 2,
+      "tom": "ganha",
+      "pt": "Partie 32. Pour finir, la querelle qu'a chaque pays. Échauffement en même temps : main à plat, syllabes égales, on tient la dernière."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n02",
+      "bloco": "corpo",
+      "pt": "L'Espagne a quatre langues. Le castillan, celui que vous apprenez, est officiel partout — on vous y répond dès qu'on entend l'accent."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n02b",
+      "pt": "À côté, le catalan en Catalogne, à Valence et aux Baléares ; le basque au Pays basque ; le galicien en Galice."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n02c",
+      "pt": "Deux personnes sur cinq, ici, vivent là où une deuxième langue est co-officielle. Votre destination en fait partie."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n03",
+      "tom": "ganha",
+      "pt": "D'abord la permission, et elle est large : en Catalogne, vous n'offensez personne en parlant espagnol. Pas une âme."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n03b",
+      "pt": "«Bon dia» est une politesse, pas une obligation, et gratuite. Les trois autres : à reconnaître, sur la porte et la carte."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "consulta": ["transporte/placas"],
+      "promptAudioKey": "a04-p01",
+      "promptPt": "Rappel de la partie précédente. Une place à Gérone, une canette à la main, et pas un panneau à l'horizon. Arrêtez quelqu'un et demandez si c'est seulement permis ici. Parlez maintenant.",
+      "audioKey": "c03b-03",
+      "es": "Perdone, ¿se puede beber aquí?",
+      "pinyin": "per-DO-né, sé POUÉ-dé bé-BER a-KI",
+      "pt": "Pardon — on peut boire ici ?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n04",
+      "pt": "Le catalan d'abord — c'est là que vont la plupart. Ce n'est ni un patois ni du mauvais espagnol : c'est une langue à part entière."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n04b",
+      "pt": "L'appeler «dialecte» est le moyen le plus rapide de froisser quelqu'un qui a été aimable toute la soirée."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n05",
+      "pt": "Et pour vous, ce n'est pas exotique : on le parle aussi en Roussillon. «Bon dia» en entrant, et regardez ce qui change au comptoir."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n05b",
+      "pt": "Pas parce que c'est nécessaire — on passe aussitôt à l'espagnol pour vous. Mais parce que vous avez fait le geste."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "c03b-05",
+      "es": "Bon dia.",
+      "pinyin": "bon DI-a",
+      "pt": "Bonjour. — Du catalan, dit en entrant. Presque le cousin de «bonjour».",
+      "tts": "Bon dia."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "c03b-06",
+      "es": "Moltes gràcies.",
+      "pinyin": "MOL-tess GRA-ssiess",
+      "pt": "Merci beaucoup. — Du catalan. La fin est un «-es» doux, pas le «-as» espagnol.",
+      "tts": "Moltes gràcies."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "tom": "ganha",
+      "consulta": ["simpatia/puxar-conversa"],
+      "promptAudioKey": "a04-p02",
+      "promptPt": "Vous poussez la porte d'un petit bar de quartier à Gérone. Quatre personnes au comptoir lèvent les yeux. Saluez la salle — en catalan. Parlez maintenant.",
+      "audioKey": "c03b-05",
+      "es": "Bon dia.",
+      "pinyin": "bon DI-a",
+      "pt": "le bonjour catalan, en entrant"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "c03b-09",
+      "es": "Adéu.",
+      "pinyin": "a-DÉ-ou",
+      "pt": "Au revoir. — Du catalan, cousin d'«adieu». Deux syllabes, toutes les deux pleines.",
+      "tts": "Adéu."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["simpatia/agradecer"],
+      "promptAudioKey": "a04-p03",
+      "promptPt": "Payé, veste sur le dos, vous quittez le même bar. Ne sortez pas sans rien dire — prenez congé en catalan. Parlez maintenant.",
+      "audioKey": "c03b-09",
+      "es": "Adéu.",
+      "pinyin": "a-DÉ-ou",
+      "pt": "le mot catalan pour prendre congé"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["simpatia/agradecer"],
+      "promptAudioKey": "a04-p04",
+      "promptPt": "Le patron vous a donné la meilleure table en terrasse sans que vous demandiez. Remerciez-le — en catalan, et pas juste d'un mot. Parlez maintenant.",
+      "audioKey": "c03b-06",
+      "es": "Moltes gràcies.",
+      "pinyin": "MOL-tess GRA-ssiess",
+      "pt": "le merci entier, pas juste un mot"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n06",
+      "pt": "Deux mots pour les deux dernières, puis fini. Le basque n'est parent d'aucune langue vivante — et le même chez vous, côté français."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "c03b-11",
+      "es": "Eskerrik asko.",
+      "pinyin": "ess-KÉ-rrik ASS-ko",
+      "pt": "Merci. — Du basque. Rien là-dedans ne rappelle l'espagnol, et c'est tout le sujet.",
+      "tts": "Eskerrik asko."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n07",
+      "pt": "En Galice, qui sonne plus portugais qu'on ne croit, merci se dit «grazas». Personne n'attend ces mots — c'est pour ça qu'ils portent."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "c03b-12",
+      "es": "Grazas.",
+      "pinyin": "GRA-ssass",
+      "pt": "Merci. — Du galicien. Le même «th» que dans gracias, une syllabe de moins.",
+      "tts": "Grazas."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n08",
+      "bloco": "capsula",
+      "tom": "ganha",
+      "pt": "Maintenant ce qui compte tous les jours : reconnaître, rien à dire, juste les yeux. La carte au mur peut n'être qu'en catalan."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "c03b-14",
+      "receptivo": true,
+      "acao": "Reconnaître seulement, ne pas prononcer.",
+      "es": "SORTIDA · OBERT · TANCAT",
+      "pinyin": "sour-TI-da · ou-BÉRT · tan-KAT",
+      "pt": "👂 Panneaux catalans : SORTIE · OUVERT · FERMÉ. «Sortida», c'est la salida — cousin de «sortie» ; «tancat», c'est cerrado.",
+      "tts": "Sortida. Obert. Tancat."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "c03b-15",
+      "receptivo": true,
+      "acao": "Attention à «estirar» — ça veut dire TIRER, pas pousser.",
+      "es": "ESTIRAR · EMPÈNYER · LAVABOS",
+      "pinyin": "ess-ti-RAR · em-PÈ-gner · la-BA-boss",
+      "pt": "👂 Portes en catalan : TIRER · POUSSER · TOILETTES. Attention : «estirar», c'est TIRER, pas le tirar espagnol.",
+      "tts": "Estirar. Empènyer. Lavabos."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "c03b-16",
+      "receptivo": true,
+      "acao": "Emporter les quatre mots de sortie et de fermé des deux autres langues.",
+      "es": "IRTEERA · KOMUNA · SAÍDA · PECHADO",
+      "pinyin": "ir-té-É-ra · ko-MOU-na · sa-I-da · pé-TCHA-do",
+      "pt": "👂 Basque : SORTIE · TOILETTES. Galicien : SORTIE · FERMÉ. Quatre mots que vous n'aimeriez pas rater.",
+      "tts": "Irteera. Komuna. Saída. Pechado."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n09",
+      "bloco": "piso",
+      "tom": "ganha",
+      "pt": "Le plancher est bas : reconnaître «sortida» à la sortie et «tancat» sur la porte, et cette partie n'aura pas été vaine."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n10",
+      "bloco": "capsula",
+      "tom": "protege",
+      "pt": "Maintenant la querelle — bonne nouvelle d'abord : aucun risque juridique, aucun. Ça se tranche ici chaque semaine à la télévision."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n11",
+      "tom": "protege",
+      "pt": "Le risque est social. N'ouvrez pas ça avec des inconnus : l'indépendance catalane, l'ETA, Franco, la monarchie, la guerre civile."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n11b",
+      "pt": "C'est comme demander, dans un pub de Belfast, de quel côté était la famille."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n12",
+      "pt": "S'ils l'ouvrent eux-mêmes — ça arrive, ça les intéresse —, alors écoutez et posez des questions, au lieu de juger."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n13",
+      "pt": "Et le camp de quelqu'un, on ne le devine jamais à la ville, à l'accent ou à la langue."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n13b",
+      "pt": "Qui parle catalan en Catalogne a été, dans les sondages, majoritairement contre ; le tiroir est faux, et il se remarque."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n14",
+      "tom": "ganha",
+      "pt": "Voici votre sortie de secours, et elle marche parce qu'elle est vraie."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "c03b-18",
+      "tom": "ganha",
+      "es": "No conozco bien el tema, cuénteme.",
+      "pinyin": "no ko-NOSS-ko byén el TÉ-ma, KOUÉN-té-mé",
+      "pt": "Je ne connais pas bien le sujet — racontez-moi.",
+      "tts": "No conozco bien el tema, cuénteme."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "tom": "ganha",
+      "consulta": ["chegar/tu-usted", "simpatia/puxar-conversa"],
+      "promptAudioKey": "a04-p05",
+      "promptPt": "Deuxième verre de vin sur une terrasse à Gérone, et l'homme d'un certain âge à la table voisine se tourne et vous demande tout net ce qu'on pense, en France, de l'indépendance catalane. N'ayez pas d'avis — rendez-lui la parole. Parlez maintenant.",
+      "audioKey": "c03b-18",
+      "es": "No conozco bien el tema, cuénteme.",
+      "pinyin": "no ko-NOSS-ko byén el TÉ-ma, KOUÉN-té-mé",
+      "pt": "le renvoi honnête, qui repasse la parole"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n14c",
+      "tom": "ganha",
+      "pt": "«Cuénteme» est la forme vous — juste pour l'homme âgé, et là votre réflexe tombe bien. Entre gens du même âge : «cuéntame», avec un a."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "a04-t01",
+      "pt": "Un faux ami : «discutir» n'est pas «discuter», mais se disputer. «No quiero discutir», c'est «je ne veux pas me disputer» — pas «en parler»."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n15",
+      "pt": "Deux phrases fâchent chacune une moitié : «l'Espagne et la Catalogne» comme deux pays — et «de toute façon c'est tout l'Espagne»."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n15b",
+      "pt": "Le foot est la politique par d'autres moyens. Barça et Madrid, ce n'est pas du bavardage — «j'aime les deux» est la pire réponse."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n15c",
+      "pt": "Une ligne sur le pourquoi : ces langues ont été réprimées sous Franco et ne sont redevenues officielles qu'en 1978."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n16",
+      "bloco": "capsula",
+      "tom": "protege",
+      "pt": "Encore un point, puis une promesse. Juillet 2024, Barcelone : des manifestants aspergent au pistolet à eau des clients en terrasse."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n16b",
+      "tom": "protege",
+      "pt": "En juin 2025, manifestations coordonnées à Barcelone, Palma, Lisbonne, Venise et Naples. Peut-être êtes-vous arrivé un peu nerveux."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n17",
+      "tom": "ganha",
+      "pt": "Pour être précis : la colère vise le logement. À Barcelone, il a grimpé d'environ 68 pour cent en dix ans — voilà la racine."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n17b",
+      "tom": "ganha",
+      "pt": "Ça vise le modèle, pas vous. Deux choses vous mettent aussitôt du mauvais côté, toutes deux évitables gratuitement :"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n17c",
+      "tom": "ganha",
+      "pt": "traîner une valise à deux heures du matin dans une rue résidentielle, et faire du bruit dans l'escalier. C'est toute la demande."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n18",
+      "tom": "ganha",
+      "pt": "Et «guiri» : on vous appellera ainsi dès les premiers jours. Ce n'est pas une insulte, et le plus souvent sans méchanceté."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n19",
+      "bloco": "espelho",
+      "pt": "Ce qui détonne, c'est la réponse pondérée : «les deux ont raison» sonne comme si vous n'aviez pas écouté — pire que tout camp."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n20",
+      "bloco": "permissao",
+      "tom": "ganha",
+      "pt": "La permission : vous pouvez n'avoir aucun avis. «No conozco bien el tema» est une réponse entière et honnête, pas une esquive."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n20b",
+      "tom": "ganha",
+      "pt": "Et là, vous récupérez la demi-heure où quelqu'un vous explique son propre pays — la part qu'un visiteur n'obtient presque jamais."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n21",
+      "bloco": "piso",
+      "tom": "ganha",
+      "pt": "Vous renvoyez une question politique sans prendre parti, et vous connaissez les cinq sujets qu'on laisse tranquilles."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a04-n21b",
+      "tom": "ganha",
+      "pt": "La plupart passent deux semaines ici sans voir qu'il y avait quoi que ce soit à réussir."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "c03b-05",
+      "es": "Bon dia.",
+      "pinyin": "bon DI-a",
+      "pt": "Bonjour. — Du catalan."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "c03b-18",
+      "es": "No conozco bien el tema, cuénteme.",
+      "pinyin": "no ko-NOSS-ko byén el TÉ-ma, KOUÉN-té-mé",
+      "pt": "Je ne connais pas bien le sujet — racontez-moi."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "a04-rec",
+      "bloco": "recap",
+      "tom": "ganha",
+      "pt": "Partie 32 bouclée. «Bon dia» en entrant, «adéu» en sortant. Et si la querelle vient : no conozco bien el tema, cuénteme."
+    }
+  ],
+
+  "aprofundar": {
+    "titulo": "Quatre langues, une querelle — les détails (lecture optionnelle)",
+    "secoes": [
+      {
+        "titulo": "Qui parle quoi, et où",
+        "corpo": "Le castillan est langue officielle dans tout le pays et c'est lui que ce cours enseigne. Le catalan est co-officiel en Catalogne, à Valence (où il s'appelle officiellement valencià) et aux Baléares ; le basque (euskara) au Pays basque et au nord de la Navarre ; le galicien (galego) en Galice. Le catalan et le galicien sont des langues romanes — le galicien écrit et une bonne part du catalan, vous les comprendrez à moitié, d'autant que le catalan se parle aussi de votre côté de la frontière, en Roussillon, et que le basque est le même des deux côtés. Le basque n'est apparenté à aucune langue vivante connue, et c'est pour ça que rien n'y semble familier. On vous sert partout en espagnol ; la langue co-officielle ne vous touche presque qu'à l'écrit — et, si vous poussez jusqu'aux îles, sous la forme baléare, avec les noms de lieux en «es» et «sa» qui ont leur propre chapitre dans la partie 33.",
+        "exemplos": [
+          {
+            "es": "Bon dia · Bona tarda · Si us plau · Gràcies · Adéu",
+            "pt": "Catalan : bonjour · bon après-midi · s'il vous plaît · merci · au revoir. De l'autre côté, en Roussillon, on les dit aussi."
+          },
+          {
+            "es": "Kaixo · Eskerrik asko / Bo día · Grazas",
+            "pt": "Basque : salut · merci / Galicien : bonjour · merci"
+          }
+        ]
+      },
+      {
+        "titulo": "Le sujet politique : aucun risque juridique, seulement social",
+        "corpo": "Contrairement à certaines destinations, il n'y a ici aucun danger juridique — la Catalogne, la monarchie et la guerre civile se discutent ouvertement et sans cesse. Ce que vous risquez de perdre, c'est la soirée. N'ouvrez pas le sujet avec des inconnus. S'il s'ouvre sur vous, demandez et écoutez : «No conozco bien el tema, cuénteme» (forme vous) ou «cuéntame» (forme tu) rend la parole et fait presque toujours retomber la pression. Et un mot qui piège le francophone : «discutir» ne veut pas dire discuter, mais se disputer — «No quiero discutir», c'est «je ne veux pas me disputer», pas «je ne veux pas en parler». Ne devinez jamais la position de quelqu'un à la ville, à l'accent ou à la langue : qui parle catalan en Catalogne a été, dans plusieurs mesures, majoritairement contre l'indépendance. Évitez les deux — «l'Espagne et la Catalogne» comme deux pays, et «de toute façon c'est tout l'Espagne» —, qui fâchent des moitiés opposées. Et le foot n'est pas un terrain neutre ; être pour les deux, Barça et Madrid, est pire que de choisir.",
+        "exemplos": [
+          {
+            "es": "No conozco bien el tema, cuénteme.",
+            "pt": "Forme vous — l'homme plus âgé, l'uniforme, le guichet formel"
+          },
+          {
+            "es": "No conozco bien el tema, cuéntame.",
+            "pt": "Forme tu — quelqu'un de votre âge, au bar. Le réglage par défaut en Espagne."
+          }
+        ]
+      },
+      {
+        "titulo": "Les manifestations 2024-25, bien lues",
+        "corpo": "En juillet 2024, à Barcelone, des manifestants ont aspergé au pistolet à eau des clients en terrasse ; en juin 2025, sous le réseau SET, des manifestations coordonnées ont eu lieu à Barcelone, Palma, Lisbonne, Venise et Naples, avec des autocollants «Tourist go home» sur les portes d'hôtel. La racine que l'on cite, c'est le logement : les autorités locales avancent une hausse du coût du logement à Barcelone d'environ 68 pour cent sur la décennie. Ça vise le modèle, pas la personne. Deux comportements mettent un visiteur aussitôt du mauvais côté, et tous deux sont évitables gratuitement : traîner une valise à deux heures du matin dans une rue résidentielle, et faire du bruit dans la cage d'escalier commune. «Guiri» est familier pour un visiteur d'Europe du Nord et le plus souvent chaleureux ou neutre, pas une insulte."
+      }
+    ]
+  }
+}

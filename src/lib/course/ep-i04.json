@@ -1,0 +1,786 @@
+{
+  "id": "i04",
+  "slot": "I04",
+  "nivel": "intermediario",
+  "numero": 22,
+  "parte": "22",
+  "titulo": "La soirée commence plus tard que vous ne croyez",
+  "subtitulo": "Vingt-deux heures trente, c'est tôt ; le deuxième bar est là où la soirée se passe ; et la tournée se prend entière — une chacun, et ça revient vers vous",
+  "moldura": "ganha",
+  "cena": "Vingt-deux heures trente, un jeudi, vous marchez, et la place que vous avez traversée à vingt heures se remplit au lieu de se vider — à vingt-trois heures des enfants y courent encore, et dehors il ne reste plus une table libre.",
+  "decisao": "À quelle heure vous sortez, et ce qui se passe à table quand les verres sont vides — chez vous, le repas est toute la soirée ; ici, il l'ouvre. À vingt heures, la seule salle pleine est celle qui vit de clients qui ne connaissent pas l'heure ; à vingt-deux heures trente vous avez la table, vous prenez une tournée entière au lieu de compter vos propres verres, et la soirée, le deuxième bar et la tournée vous coûtent ce qu'ils coûtent à tout le monde.",
+  "emJogo": "ambos",
+  "frasePiso": "Vous obtenez une table à vingt-deux heures trente, vous prenez une tournée entière et vous partez pendant qu'elle tourne encore. La plupart des visiteurs sont déjà couchés.",
+  "clique": {
+    "contagem": [
+      "le premier bar",
+      "le bar à vins",
+      "le troisième bar",
+      "la table de huit",
+      "la place"
+    ],
+    "desconto": "Personne ne vous les a données aujourd'hui. Deux débuts qui étaient déjà à vous ont fait toute la soirée, et le plus court fait deux mots.",
+    "piso": "Vous obtenez une table à vingt-deux heures trente, vous prenez une tournée entière et vous partez pendant qu'elle tourne encore. La plupart des visiteurs sont déjà couchés."
+  },
+  "cliqueAudioKey": "i04-n34",
+  "permissao": "Vous avez le droit de faire durer un verre une heure, et personne ne vous poussera vers la sortie. Vous avez le droit de partir après un seul et d'aller ailleurs — c'est la soirée qui bouge, pas vous qu'on chasse. Et vous avez le droit de laisser quelqu'un d'autre payer pour tout le monde sans en discuter : vous prenez celle d'après.",
+  "permissaoAudioKey": "i04-n32",
+  "espelho": "Ce qui détonne là-bas, ce n'est pas de partager l'addition — c'est de traiter le repas comme toute la soirée et de se lever de table au moment où la rue commence. Celui qui débarque de Madrid à Lyon à vingt-deux heures et trouve les cuisines fermées se trompe exactement pareil, dans l'autre sens.",
+  "fichasCulturais": [
+    {
+      "sinal": "Vingt-deux heures trente, la place est plus pleine qu'à vingt heures, des enfants y courent encore, et il n'y a rien au calendrier.",
+      "suaLeitura": "Il se passe quelque chose ce soir — une fête, un match —, et de toute façon la soirée va se terminer d'un moment à l'autre.",
+      "oQueEAli": "Les cuisines prennent la dernière commande vers vingt-trois heures trente : l'heure que vous appelez tard est le milieu. L'écart avec chez vous n'est pas énorme — une heure, une heure et demie —, mais la forme change : là-bas le repas est la soirée, ici il l'ouvre.",
+      "oQueVoceFaz": "Sortir plus tard que ça ne vous semble juste, et prendre le deuxième bar plutôt que le premier sur votre chemin.",
+      "oQueMelhora": "Vous avez la table qui n'existait pas à vingt heures, dans la salle où se trouve la rue, au même prix.",
+      "ondeNaoVale": "Pas le dernier métro ni le dernier train : ils roulent à l'horaire imprimé et ne s'intéressent pas à votre soirée. Et pas la voiture — vous êtes nombreux à venir avec, et qui conduit ne boit pas, quelle que soit l'heure.",
+      "evidencia": "CONSENSO",
+      "audioKeys": [
+        "i04-n03",
+        "i04-cocina-e",
+        "i04-n30"
+      ]
+    },
+    {
+      "sinal": "Les verres sont vides, quelqu'un dit deux mots au serveur sans demander à personne, et quatre nouveaux arrivent.",
+      "suaLeitura": "Il vient de commander pour tout le monde sans se concerter, et à la fin il y aura la conversation gênante sur l'argent.",
+      "oQueEAli": "Vous avez déjà ce geste : «c'est ma tournée» se dit dans n'importe quel bar chez vous. Ce qui change, c'est qu'ici elle traverse la rue — la suivante se prend au bar suivant, personne ne tient de comptes, et c'est une ardoise entre amis, pas une dette qu'on solde à la porte.",
+      "oQueVoceFaz": "Laissez tourner, et à la prochaine série de verres vides, c'est vous qui parlez. Si quelqu'un vous devance, réservez-vous celle d'après, à voix haute.",
+      "oQueMelhora": "Vous êtes dedans au lieu d'être à côté, personne ne recompte la soirée, et on vous réinvite.",
+      "ondeNaoVale": "Pas à huit, la moitié qui mange et la moitié non, et pas avec des gens rencontrés il y a une heure. Là, vous demandez à payer séparément — au moment de commander, pas quand l'addition est écrite.",
+      "evidencia": "CONSENSO",
+      "audioKeys": [
+        "i04-n12",
+        "i04-n14",
+        "i04-n16"
+      ]
+    },
+    {
+      "sinal": "Des gens boivent debout devant la porte, verre à la main, et vingt mètres plus loin quelqu'un remonte la rue avec une canette.",
+      "suaLeitura": "C'est la même rue, donc c'est la même règle, et personne n'a l'air dérangé.",
+      "oQueEAli": "La ligne, c'est le sol sous licence où le bar a le droit de servir — ce n'est pas l'alcool. Deux mètres d'un côté, c'est une table ; deux mètres de l'autre, c'est la voie publique, et y boire est une infraction.",
+      "oQueVoceFaz": "Laisser le verre du côté terrasse de la ligne, et en repartant le poser sur le comptoir au lieu de l'emporter.",
+      "oQueMelhora": "Vous restez dehors jusqu'à trois heures comme tout le monde, les mains vides et rien à expliquer.",
+      "ondeNaoVale": "Pas la table de terrasse à deux mètres du même trottoir, où le même verre est ordinaire toute la soirée — ni la fête de village avec bar de rue autorisé, où pendant trois jours la rue entière est le bar.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "i04-n18",
+        "i04-n19",
+        "i04-n20"
+      ]
+    },
+    {
+      "sinal": "Le propriétaire, la gentillesse même à la remise des clés, vous écrit à minuit et demi comme si vous aviez mis le feu.",
+      "suaLeitura": "Il réagit de façon complètement disproportionnée pour quatre personnes qui parlent dans l'escalier.",
+      "oQueEAli": "La plainte du voisin ne va pas à lui : elle va à la police locale, et dans un logement touristique sous licence, des plaintes répétées mettent la licence elle-même en jeu. Ce que vous voyez, c'est une licence qu'on protège, pas une nuit mal dormie.",
+      "oQueVoceFaz": "Voix basse dans l'escalier après minuit, rien dans la cour après vingt-trois heures, pas de roulettes de valise dans une rue résidentielle à deux heures du matin.",
+      "oQueMelhora": "Le propriétaire reste de votre côté du début à la fin, et les voisins n'apprennent jamais votre nom.",
+      "ondeNaoVale": "Pas dans le bar. Un bar est bruyant ici, personne ne s'en plaint, et baisser la voix à l'intérieur est la seule chose qui vous fera remarquer.",
+      "evidencia": "CONSENSO",
+      "audioKeys": [
+        "i04-n22",
+        "c03a-16"
+      ]
+    }
+  ],
+  "fatosDatados": [
+    {
+      "id": "beber-na-rua-nacional",
+      "afirmacao": "Boire de l'alcool sur la voie publique est une infraction dans tout le pays : de cent à six cents euros.",
+      "fonte": "Ley Orgánica 4/2015 de protección de la seguridad ciudadana, art. 37.17 — citada em docs/pesquisa-espanha.md §7.7(b)",
+      "ano": 2015,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "i04-n18"
+      ]
+    },
+    {
+      "id": "baleares-excessos",
+      "afirmacao": "Dans les zones baléares de tourisme d'excès — Playa de Palma, Magaluf, Sant Antoni —, c'est de cinq cents à mille cinq cents euros, et entre vingt et une heures trente et huit heures du matin les commerces n'ont pas le droit de vendre d'alcool.",
+      "fonte": "decreto balear reportado por BBC/agências e confirmado pelo UK FCDO — docs/pesquisa-espanha.md §7.7(b)",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "i04-n19"
+      ]
+    },
+    {
+      "id": "horas-de-descanso",
+      "afirmacao": "Les heures de repos vont typiquement de vingt-deux ou vingt-trois heures à huit heures du matin, fixées par la commune et par le règlement de l'immeuble ; la plainte du voisin va à la police locale, pas au propriétaire, et dans une location touristique sous licence, des plaintes répétées mettent la licence en jeu.",
+      "fonte": "competência municipal + regime de condomínio; NÃO PÚBLICO — não há tabela nacional de multas, e por isso o curso não cita valor — docs/pesquisa-espanha.md §7.7(c)",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "CONSENSO",
+      "risco": "baixo",
+      "audioKeys": [
+        "i04-n22"
+      ]
+    }
+  ],
+  "_notas": {
+    "_": "Parte ESCRITA em FRANCÊS a partir da base alemã. A fala espanhola é ativo de DESTINO: NENHUM campo `es`, `audioKey` ou `tts` foi tocado — os 16 audioKey de fala e os mp3 em disco continuam os do curso base, conferidos verbatim contra ep-i04.json do par DE (diff programático, campo a campo). O que este SKU paga aqui é a narração FRANCESA: 39 clipes de voz-guia e 12 prompts. Custo de crédito espanhol: ZERO. Nenhum clipe espanhol NOVO.",
+    "modulo": "APROVEITO (M2). Não introduz molde OPERACIONAL: troca os encaixes. Os dois redisparos que o roster promete para I04 são cumpridos — OTRA (casa B11: `Otra, por favor.` e `Otra ronda, por favor.`) e ELECCION (casa I03: `¿Cuál me recomienda, el tinto o el blanco?` e `¿Cuál está mejor, este o aquel?`). Ambas as casas vêm ANTES de I04 na ordem canônica. I04 NÃO é casa de molde nenhum: por isso não declara `moldes[]` na raiz e não NOMEIA `le moule` (o G15 só cobra o batismo da peça na casa).",
+    "reenquadre_do_comprador_FR": "O CONTEÚDO DO DESTINO É O MESMO (hora de sair, rodada, linha da calçada, escada do prédio); o que se re-derivou é a COMPARAÇÃO com o comprador, e ela é OUTRA. (1) A DEFASAGEM DO JANTAR É MENOR, não maior (DERIVACAO-FR §3.3 item 4): o alemão janta ~18h30 e vem de uma defasagem de ~2h30; o francês janta ~19h30–20h30 e a defasagem cai para ~1h–1h30. Copiar o «zu Hause hätten Sie um halb sieben gegessen» seria o anti-padrão 9. O delta francês NÃO é a hora, é a FORMA: chez lui o repas É a soirée (uma mesa, uma sentada, e a noite acaba à mesa); aqui o repas ABRE a soirée e ela anda de bar em bar. É isso que n03/n29/espelho dizem, e é a frase que organiza a parte inteira. (2) RACHAR A CONTA DESCE DE PESO (§3.4 item 3 e §4.2): era o item CENTRAL do par alemão (`getrennt zahlen`, ratear item a item é controvérsia doméstica alemã); o francês está PERTO do default espanhol (`a partes iguales` é comum na mesa mediterrânea), então n16 diz «chez vous non plus, on ne recompte pas chacun son plat» e o que sobra é só o RELÓGIO da frase (dita ao PEDIR, não depois). (3) A RODADA VIRA BRINDE DE RECONHECIMENTO: `c'est ma tournée` / `je t'invite` é gesto nativo de bar francês, e `invitar`=`inviter` (pagar) bate um-a-um — n12 diz «vous avez déjà le geste», não «anders als zu Hause». O que resta de novo é que a rodada ATRAVESSA A RUA (bar a bar), e é isso que n14 carrega.",
+    "reponderacao_baleares": "O bloco de rua PORTA os valores e a lei do par base, mas MUDA DE PESO NO SENTIDO INVERSO ao alemão. Lá as Baleares eram manchete (42% do comprador desembarca no arquipélago); aqui não: o comprador francês é de LITORAL CONTINENTAL — Cataluña 30%, C. Valenciana 17%, Andalucía 11%, 65% chega de carro (Turespaña, ficha executiva Francia). Então o PISO NACIONAL (LO 4/2015 art. 37.17, €100–600) é a regra da calçada em que ele está e vira a manchete (n18), e o decreto balear (€500–1.500 + proibição de venda 21h30–08h) fica como o EXTREMO, marcado «si vous descendez aux Baléares» (n19). Os fatos e as fontes são os mesmos do par base — é reponderação com dado, não conteúdo novo. O prompt p08 saiu de «uma praça em Palma» para «une place de la Costa Brava», que é o destino deste comprador. NÃO usei os clipes/valores exclusivos de Barcelona do par EN.",
+    "carro": "Delta francês próprio, e é o único item que ENTRA: 65% chega por carretera (FATO, Turespaña). O `ondeNaoVale` da ficha 1 e o n31 acrescentam o carro ao lado do último metrô — «qui conduit ne boit pas», SEM número de taxa de alcoolemia, que não está na pesquisa de destino e não se inventa. É norma universal dita em uma linha, não fato citado.",
+    "falso_amigo": "UM, leve, e é o da CENA: `salir` = SAIR (a noite inteira gira em torno de `salir de noche`) e o olho francês o cruza com `salir` = SUJAR (`sale` = sujo) — moldes.json `_regras.falsos_amigos.salir_salida`, o mesmo que pende em DONDE/B08. Entregue por CITAÇÃO DA GUIA em n06 («Sortir se dit «salir» — et ça ne salit rien»), sem clipe nativo novo, sem virar drill, e DEPOIS de o aluno já ter produzido duas frases. Regra de redação respeitada: um por parte, grudado à cena onde morde, nunca lista lida em voz alta. Candidato de apoio DESCARTADO do áudio para não estourar a regra: `pronto` (ES = cedo ≠ FR `prompt` = rápido), que aparece em `¡Pero si es pronto!` — vive só no texto do `aprofundar`, que é leitura opcional.",
+    "fonetica": "Uma nota, no aquecimento, como manda a regra (grudada a palavra que a parte diz). Gesto 4 (flick) PORTA do alemão porque o `r` é caro nos dois — mas o alvo muda: n01 soma o TAP e a TÔNICA («le coup tombe sur RA, jamais à la fin»), que é o motor central deste par (a oxítona rígida do francês: `separadó`, `otrá`). BRINDES conferidos e deliberadamente NÃO gastos em áudio (copiá-los é o anti-padrão 9): o `h` de `ahora`, o `qu` de `aquí`, a liaison de `¿se puede beber aquí?`, o `ñ` de `mañana`, as vogais puras. A JOTA (`mejor`→mé-KHOR, `bajamos`→ba-KHA-moss, som NOVO para o francês) e a NASAL (`invito` — o `n` espanhol é consoante plena, não o `in` do nariz) ficaram no `aprofundar`, em texto, para não abrir uma segunda nota falada.",
+    "respelling_para_leitor_frances": "O campo `pinyin` é respelling para o OLHO FRANCÊS e NUNCA vai ao TTS (INV-6). Mesmo esquema de ep-i07/ep-b10: MAIÚSCULA = tônica · ⟨u⟩→«ou» (bloqueia o [y]: `puede`→POUÉ-dé, `público`→POU-bli-ka) · ⟨s⟩ intervocálico/⟨z⟩/⟨c⟩+e,i→«ss» (bloqueia o [z] francês: `cocina`→ko-SSI-na) · ⟨j⟩ e ⟨g⟩+e,i→«kh» (convenção de ep-b10: `mejor`→mé-KHOR) · ⟨ll⟩/⟨y⟩→«y» · ⟨v⟩→«b» · ⟨h⟩ some · ⟨qu⟩→«k» · finais `-s`/`-r`/`-e` MOSTRADOS, porque o francês os apaga (`más`→mass, `once`→ON-ssé). ACRÉSCIMO DECLARADO desta parte: ⟨ñ⟩→«gn» (`mañana`→ma-GNA-na) — o [ɲ] é BRINDE nativo do francês (`agneau`, `montagne`) e a grafia francesa dele é `gn`; escrever «nj» seria portar a muleta alemã. INFERÊNCIA: exige revisor FR-L1 + espanhol peninsular antes do áudio.",
+    "relogio": "A armadilha alemã `halb zehn` ≠ `las nueve y media` NÃO EXISTE no francês (§3.3 item 3): `onze heures et demie` = `las once y media` = 23h30, traço a traço. O gloss de `La cocina cierra a las once y media` usa exatamente «onze heures et demie» — o brinde entra pela porta dos fundos, sem uma linha de aula sobre ele.",
+    "G6": "Zero adjetivo de povo, e o risco deste par é maior porque a comparação é constante. O hábito do comprador é dito por «chez vous»/«le vôtre», o comportamento espanhol por «ici»/«là-bas». Nenhuma frase começa por «les Espagnols» ou «les Français», nenhum «typiquement espagnol». O espelho (trava C) é o madrilenho que chega a Lyon às 22h e encontra as cozinhas fechadas: o mesmo erro, no sentido inverso.",
+    "pendencia_G14": "A guia francesa CITA espanhol dentro da narração francesa (`salir`, `salud`, `hasta luego` — é o trabalho dela) e nunca o FALA; Carmen e Emilio não dizem uma palavra de francês. As vozes-guia são os PLACEHOLDERS `GuiaFem`/`GuiaMasc` de audio.config (`TODO-FR-…`), e esta parte usa só `GuiaFem` — a base alemã não tinha clipe do guia de alertas em I04, e inventar um criaria audioKey novo. Enquanto o casting não fechar e o G14 de voz × língua não rodar no script, INV-5 exige conferência humana."
+  },
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n01",
+      "bloco": "aquecimento",
+      "gesto": 4,
+      "tom": "ganha",
+      "pt": "Échauffement : le petit r. RON-da. O-tra. ssé-pa-RA-do. Un coup de la pointe de la langue — et le coup de voix tombe sur RA, jamais à la fin."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "molde": "OTRA",
+      "consulta": [
+        "mesa/bebida"
+      ],
+      "promptAudioKey": "i04-p01",
+      "promptPt": "Vingt et une heures dix, le premier bar de la soirée, votre verre est vide depuis un moment, et il repasse avec le plateau. Deux mots et un s'il vous plaît. Parlez maintenant.",
+      "audioKey": "e03a-otra-c",
+      "es": "Otra, por favor.",
+      "pinyin": "O-tra, por fa-BOR",
+      "pt": "encore un du même"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n02",
+      "bloco": "cena",
+      "tom": "ganha",
+      "pt": "La place que vous avez traversée à vingt heures était vide. Regardez-la maintenant : à vingt-deux heures trente, elle est plus pleine que de toute la journée."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n03",
+      "tom": "ganha",
+      "pt": "C'est le milieu de la soirée, pas la fin. Chez vous, le repas EST la soirée ; ici, il l'ouvre."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i04-cocina-e",
+      "receptivo": true,
+      "acao": "Compter à l'envers : chercher une table à vingt-deux heures trente est normal, pas tard.",
+      "es": "La cocina cierra a las once y media.",
+      "pinyin": "la ko-SSI-na SSIÉ-rra a lass ON-ssé i MÉ-dya",
+      "pt": "👂 «La cuisine ferme à onze heures et demie.» — dit à la porte, et personne ne vous presse.",
+      "tts": "La cocina cierra a las once y media."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n04",
+      "pt": "Entrez à vingt heures, et la seule salle pleine sera celle qui vit de clients qui ne connaissent pas l'heure."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n05",
+      "tom": "ganha",
+      "pt": "À vingt-deux heures trente, vous êtes assis dans la salle où se trouve la rue. Même argent, meilleure soirée."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n06",
+      "pt": "Et personne ne reste dans le même bar : un verre, on sort, on continue. Sortir se dit «salir» — et ça ne salit rien."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i04-otrositio-c",
+      "receptivo": true,
+      "acao": "Suivre. Le deuxième bar est celui où la soirée a lieu.",
+      "es": "¿Nos vamos a otro sitio?",
+      "pinyin": "noss BA-moss a O-tro SSI-tyo",
+      "pt": "👂 «On va ailleurs ?» — après un verre, et ça ne veut pas dire qu'on veut se débarrasser de vous.",
+      "tts": "¿Nos vamos a otro sitio?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n07",
+      "pt": "Deuxième bar. Derrière lui, une ardoise avec douze noms et pas un prix que vous puissiez lire."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n08",
+      "pt": "La phrase pour ça vient de la partie vingt et un. Elle rend le choix au lieu de le demander."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i04-tinto-e",
+      "es": "¿Cuál me recomienda, el tinto o el blanco?",
+      "pinyin": "koual mé rré-ko-MIEN-da, el TIN-to o el BLAN-ko",
+      "pt": "Lequel me conseillez-vous, le rouge ou le blanc ?",
+      "tts": "¿Cuál me recomienda, el tinto o el blanco?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n09",
+      "pt": "Deux choses entrent, il en choisit une. Ce n'est pas «qu'est-ce qui est bon ?» — et la réponse, celle-là, vous la comprendrez."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "ELECCION",
+      "encaixe": "el tinto o el blanco",
+      "encaixeGloss": "le rouge ou le blanc",
+      "promptAudioKey": "i04-p02",
+      "promptPt": "Le bar à vins, deuxième étape, douze noms sur l'ardoise, et un verre arrivera de toute façon. Posez-lui le choix entre deux. Parlez maintenant.",
+      "audioKey": "i04-tinto-e",
+      "es": "¿Cuál me recomienda, el tinto o el blanco?",
+      "pinyin": "koual mé rré-ko-MIEN-da, el TIN-to o el BLAN-ko",
+      "pt": "donnez-lui deux, il choisit"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n10",
+      "tom": "ganha",
+      "pt": "Il répond par l'un des deux, et un mot suffit en retour. La même chose marche sur tout ce qu'un doigt peut montrer."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i04-mejor-c",
+      "es": "¿Cuál está mejor, este o aquel?",
+      "pinyin": "koual ess-TA mé-KHOR, ESS-té o a-KEL",
+      "pt": "Lequel est le meilleur, celui-ci ou celui-là ? — pour deux choses que vous pouvez montrer du doigt.",
+      "tts": "¿Cuál está mejor, este o aquel?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "ELECCION",
+      "encaixe": "este o aquel",
+      "encaixeGloss": "celui-ci ou celui-là",
+      "consulta": [
+        "mesa/comida"
+      ],
+      "promptAudioKey": "i04-p03",
+      "promptPt": "Le troisième bar, presque minuit, deux plateaux derrière la vitre et aucune étiquette lisible d'où vous êtes. Montrez les deux et laissez-le choisir. Parlez maintenant.",
+      "audioKey": "i04-mejor-c",
+      "es": "¿Cuál está mejor, este o aquel?",
+      "pinyin": "koual ess-TA mé-KHOR, ESS-té o a-KEL",
+      "pt": "montrer les deux, il choisit"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n11",
+      "tom": "ganha",
+      "pt": "Deux verres vides, la table de nouveau libre. Le début vient de la partie onze ; seule la fin est neuve."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "OTRA",
+      "encaixe": "ronda",
+      "encaixeGloss": "une pour les quatre",
+      "consulta": [
+        "mesa/bebida"
+      ],
+      "promptAudioKey": "i04-p04",
+      "promptPt": "À quatre au deuxième bar, quatre verres vides en même temps, et tout le monde sauf vous a déjà commandé une fois. Parlez maintenant.",
+      "audioKey": "i04-ronda-c",
+      "es": "Otra ronda, por favor.",
+      "pinyin": "O-tra RRON-da, por fa-BOR",
+      "pt": "toute la table, pas un verre"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n12",
+      "pt": "Maintenant, comment ça se paie. Vous avez déjà le geste : «c'est ma tournée» se dit dans n'importe quel bar chez vous."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i04-invito-e",
+      "es": "Invito yo.",
+      "pinyin": "in-BI-to yo",
+      "pt": "«C'est moi qui invite.» — les quatre verres, et pas de discussion après.",
+      "tts": "Invito yo."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": [
+        "pagar/rachar",
+        "simpatia/convite"
+      ],
+      "promptAudioKey": "i04-p05",
+      "promptPt": "Les verres arrivent sur la table, et une main part déjà vers la poche arrière. Prenez les devants — ce soir, c'est votre tour. Deux mots. Parlez maintenant.",
+      "audioKey": "i04-invito-e",
+      "es": "Invito yo.",
+      "pinyin": "in-BI-to yo",
+      "pt": "deux mots, et c'est la vôtre"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n13",
+      "pt": "Et si quelqu'un vous devance, une phrase vous garde dedans. Dite tout de suite — et ensuite vous le faites."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i04-proxima-c",
+      "es": "La próxima la pago yo.",
+      "pinyin": "la PROK-ssi-ma la PA-go yo",
+      "pt": "«La prochaine, c'est moi.» — dit tout de suite, et ensuite vous le faites.",
+      "tts": "La próxima la pago yo."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i04-p06",
+      "promptPt": "Il avait le portefeuille dehors avant que vous ayez retiré votre veste, et la soirée est longue. Réservez-vous celle d'après. Parlez maintenant.",
+      "audioKey": "i04-proxima-c",
+      "es": "La próxima la pago yo.",
+      "pinyin": "la PROK-ssi-ma la PA-go yo",
+      "pt": "vous réserver celle d'après"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n14",
+      "pt": "Voilà le calcul : même argent, autre ordre, personne ne fait la somme. Ce qui change, c'est qu'ici la tournée traverse la rue."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n15",
+      "pt": "Là où la tournée ne va pas — la table de huit, la moitié qui mange —, il y a une phrase, et elle a une horloge."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i04-separado-e",
+      "es": "¿Podemos pagar por separado?",
+      "pinyin": "po-DÉ-moss pa-GAR por ssé-pa-RA-do",
+      "pt": "Pouvons-nous payer séparément ? — l'horloge, c'est le moment de commander, pas la fin.",
+      "tts": "¿Podemos pagar por separado?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n16",
+      "pt": "Chez vous non plus, on ne recompte pas chacun son plat. La seule différence : ici, ça se dit en commandant, pas quand l'addition est écrite."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": [
+        "pagar/rachar"
+      ],
+      "promptAudioKey": "i04-p07",
+      "promptPt": "Une table de huit, la moitié mange, la moitié non, et il arrive pour la première fois avec son carnet. Maintenant, avant que rien ne soit noté. Parlez maintenant.",
+      "audioKey": "i04-separado-e",
+      "es": "¿Podemos pagar por separado?",
+      "pinyin": "po-DÉ-moss pa-GAR por ssé-pa-RA-do",
+      "pt": "avant que rien ne soit noté"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e03c-cuenta-c",
+      "es": "La cuenta, por favor.",
+      "pinyin": "la KOUÉN-ta, por fa-BOR",
+      "pt": "Et celle de la partie quatorze, tout à la fin. Elle ne vient jamais toute seule.",
+      "tts": "La cuenta, por favor."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n17",
+      "tom": "protege",
+      "pt": "Une chose change après vingt-deux heures dans la rue, et elle coûte de l'argent. Donc quatre-vingt-dix secondes."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n18",
+      "tom": "protege",
+      "pt": "Boire sur la voie publique est une infraction dans tout le pays : de cent à six cents euros. Et c'est le plancher."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n19",
+      "tom": "protege",
+      "pt": "Si vous descendez aux Baléares, dans les zones de fête — Playa de Palma, Magaluf —, c'est cinq cents à mille cinq cents, et plus une bouteille vendue en boutique après vingt et une heures trente."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n20",
+      "pt": "Deux mètres plus loin, à la table de terrasse, le même verre ne coûte rien. C'est le sol, pas la boisson."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "c03a-10",
+      "receptivo": true,
+      "acao": "Le verre reste du côté terrasse de la ligne ; en repartant, sur le comptoir.",
+      "es": "PROHIBIDO EL CONSUMO DE ALCOHOL EN LA VÍA PÚBLICA",
+      "pinyin": "pro-i-BI-do el kon-SSOU-mo dé al-ko-OL en la BI-a POU-bli-ka",
+      "pt": "👂 Panneau : INTERDICTION DE CONSOMMER DE L'ALCOOL SUR LA VOIE PUBLIQUE. Au lampadaire, le montant est déjà fixé.",
+      "tts": "Prohibido el consumo de alcohol en la vía pública."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n21",
+      "pt": "Et là où aucun panneau ne pend, une question vaut mieux que la découverte d'après."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "c03a-12",
+      "es": "Perdone, ¿se puede beber aquí?",
+      "pinyin": "per-DO-né, ssé POUÉ-dé bé-BER a-KI",
+      "pt": "Pardon, on peut boire ici ?",
+      "tts": "Perdone, ¿se puede beber aquí?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i04-p08",
+      "promptPt": "Onze heures du soir sur une place de la Costa Brava, une demi-douzaine de personnes debout avec des canettes, et aucun panneau nulle part. Arrêtez l'homme du kiosque. Parlez maintenant.",
+      "audioKey": "c03a-12",
+      "es": "Perdone, ¿se puede beber aquí?",
+      "pinyin": "per-DO-né, ssé POUÉ-dé bé-BER a-KI",
+      "pt": "demander, au lieu de découvrir après"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n22",
+      "tom": "protege",
+      "pt": "Deuxième chose : la cage d'escalier. Repos à partir de vingt-deux heures ; le voisin appelle la police, pas le propriétaire — et dans une location, c'est la licence qui est en jeu."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "c03a-16",
+      "es": "Perdón, bajamos la voz ahora mismo.",
+      "pinyin": "per-DON, ba-KHA-moss la boss a-O-ra MISS-mo",
+      "pt": "Pardon, on baisse la voix tout de suite.",
+      "tts": "Perdón, bajamos la voz ahora mismo."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i04-p09",
+      "promptPt": "Minuit et demi, votre location, et le voisin du dessous tape au plafond avec un manche à balai. Ouvrez la porte et réglez ça en une phrase. Parlez maintenant.",
+      "audioKey": "c03a-16",
+      "es": "Perdón, bajamos la voz ahora mismo.",
+      "pinyin": "per-DON, ba-KHA-moss la boss a-O-ra MISS-mo",
+      "pt": "une phrase, et ça s'arrête"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n23",
+      "tom": "ganha",
+      "pt": "C'est tout : le verre du côté terrasse, la voix haute à l'intérieur du bar. Vous tenez la rue aussi longtemps que vous voulez."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n24",
+      "tom": "ganha",
+      "pt": "Et puis ce que personne ne répète : se lever d'une table qui tourne encore."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i04-yendo-e",
+      "es": "Yo me voy yendo.",
+      "pinyin": "yo mé boï YEN-do",
+      "pt": "«Je vais y aller doucement.» — dit debout, la veste déjà sur le dos.",
+      "tts": "Yo me voy yendo."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n25",
+      "pt": "Ce qui revient n'est pas un au revoir. C'est une protestation, et elle est amicale."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i04-pronto-c",
+      "receptivo": true,
+      "acao": "Pas droit à la porte. Un sourire, et vous le redites une deuxième fois.",
+      "es": "¡Pero si es pronto!",
+      "pinyin": "PÉ-ro ssi ess PRON-to",
+      "pt": "👂 «Mais il est tôt !» — le premier refus est un rituel. Le vôtre repasse une fois.",
+      "tts": "¡Pero si es pronto!"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": [
+        "simpatia/convite"
+      ],
+      "promptAudioKey": "i04-p10",
+      "promptPt": "Une heure moins le quart, la table est encore pleine et encore bruyante, et vous êtes debout, la veste à la main. Parlez maintenant.",
+      "audioKey": "i04-yendo-e",
+      "es": "Yo me voy yendo.",
+      "pinyin": "yo mé boï YEN-do",
+      "pt": "debout, et en partant"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n26",
+      "pt": "Puis la deuxième fois, avec une raison. N'importe laquelle suffit, et celle-là, tout le monde la prend."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i04-madrugo-c",
+      "es": "Es que mañana madrugo.",
+      "pinyin": "ess ké ma-GNA-na ma-DROU-go",
+      "pt": "«Je me lève tôt demain.» — un seul verbe pour ça, et personne ne le discute.",
+      "tts": "Es que mañana madrugo."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i04-p11",
+      "promptPt": "On vous a demandé deux fois de rester, et vous devez être quelque part à huit heures. Deuxième fois, avec la raison. Parlez maintenant.",
+      "audioKey": "i04-madrugo-c",
+      "es": "Es que mañana madrugo.",
+      "pinyin": "ess ké ma-GNA-na ma-DROU-go",
+      "pt": "la raison que personne ne discute"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n27",
+      "tom": "ganha",
+      "pt": "Et vous partez sans que la table parte avec vous. Tout le monde reste. C'est là tout le truc d'une bonne sortie."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n28",
+      "bloco": "capsula",
+      "tom": "ganha",
+      "pt": "Retour sur la place à vingt-trois heures, les enfants sont encore là. Il ne se passe rien de spécial. C'est un jeudi."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n29",
+      "pt": "La chaleur est tombée, le repas est fini : la soirée commence là où la vôtre s'arrêterait."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n30",
+      "pt": "Sortez plus tard que ça ne vous semble juste, et prenez le deuxième bar. C'est là qu'est la table libre."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n31",
+      "pt": "Sauf le dernier métro : il roule à l'horaire, et votre soirée ne l'intéresse pas. La voiture non plus — qui conduit ne boit pas."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n32",
+      "bloco": "permissao",
+      "tom": "ganha",
+      "pt": "Vous avez le droit de faire durer un verre une heure. De partir après un seul. Et de laisser quelqu'un d'autre payer pour tout le monde."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n33",
+      "bloco": "espelho",
+      "pt": "Ce qui détonne, ce n'est pas de partager l'addition : c'est de se lever de table au moment où la rue commence."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n34",
+      "bloco": "clique",
+      "pt": "Comptez les endroits : le premier bar, le bar à vins, le troisième bar, la table de huit, la place. Deux débuts les ont tous servis."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n35",
+      "pt": "Personne ne vous les a données. Deux débuts qui étaient déjà à vous ont fait la soirée, et le plus court fait deux mots."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n36",
+      "bloco": "piso",
+      "tom": "ganha",
+      "pt": "Une table à vingt-deux heures trente, une tournée entière à votre nom, et vous partez pendant qu'elle tourne. La plupart des visiteurs dorment déjà."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-s00",
+      "pt": "Répétez. Fort, avec eux, un temps par mot. Les deux dont vous aurez besoin chaque soir dehors :"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "i04-ronda-c",
+      "molde": "OTRA",
+      "es": "Otra ronda, por favor.",
+      "pinyin": "O-tra RRON-da, por fa-BOR",
+      "pt": "Une autre tournée, s'il vous plaît."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "i04-invito-e",
+      "es": "Invito yo.",
+      "pinyin": "in-BI-to yo",
+      "pt": "C'est moi qui invite."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "i04-rend",
+      "bloco": "recap",
+      "pt": "Encore une fois à voix haute, à une table où l'on ne s'est pas encore assis — et cette fois personne n'a encore payé."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i04-p12",
+      "promptPt": "Une fête de rue, une table en plastique, quatre personnes, et les premiers verres viennent d'atterrir devant vous. Deux mots, avant tout le monde. Parlez maintenant.",
+      "audioKey": "i04-invito-e",
+      "es": "Invito yo.",
+      "pinyin": "in-BI-to yo",
+      "pt": "deux mots, avant tout le monde"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i04-n37",
+      "pt": "Voilà. Sorti tard, deuxième bar, une tournée entière, et parti sans la défaire. Hasta luego."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Le deuxième bar, la tournée et la ligne sur le trottoir (lecture optionnelle)",
+    "secoes": [
+      {
+        "titulo": "Pourquoi vingt-deux heures, c'est tôt — et ce que ça vous rapporte",
+        "corpo": "Rien de tout cela n'est officiel, c'est simplement la forme habituelle : le repas principal tombe vers quatorze heures, il y a quelque chose de petit vers dix-sept ou dix-huit heures, et le dîner démarre à partir de vingt et une heures, les cuisines prenant la dernière commande vers vingt-trois heures trente. Comptez à l'envers, et la soirée sort exactement dans la forme que vous avez vue — une place plus vide à vingt heures qu'à vingt-deux heures trente, et la queue devant un bar à vingt-trois heures. L'écart avec chez vous est plus petit qu'on ne le dit : vous dînez vers vingt heures, pas à dix-huit heures trente, et une table qui dure trois heures ne vous étonne pas une seconde. Ce qui change n'est donc pas la longueur du repas, c'est sa PLACE dans la soirée : chez vous, on se met à table et la soirée est là ; ici, on se met à table et la soirée n'a pas encore commencé. Le bénéfice pratique n'est pas un théâtre d'authenticité, c'est un filtre : une maison qui sert des dîners complets à dix-neuf heures vit, presque par définition, de gens qui ne connaissent pas les horaires, et c'est exactement là que logent l'addition gonflée et le menu touristique sans prix. Deux exceptions à écrire sur la main. Les transports ne suivent pas la soirée : le dernier métro et le dernier train partent à l'horaire imprimé, qui ne sait rien de votre nuit. Et si vous êtes descendu en voiture — c'est le cas de la plupart de ceux qui viennent de chez vous —, la soirée est longue, elle est faite pour marcher d'un bar à l'autre, et celui qui conduit ne boit pas. Réservez pour vingt et une heures trente, et vérifiez le dernier train avant de commander la deuxième bouteille, pas après.",
+        "exemplos": [
+          {
+            "es": "La cocina cierra a las once y media.",
+            "pt": "la ko-SSI-na SSIÉ-rra — 👂 la cuisine ferme à onze heures et demie (`las once y media` = 23h30 : la demie se compte comme chez vous, exactement)"
+          },
+          {
+            "es": "¿Hasta qué hora está abierto?",
+            "pt": "ASS-ta ké O-ra ess-TA a-BIER-to — jusqu'à quelle heure êtes-vous ouverts ?"
+          }
+        ]
+      },
+      {
+        "titulo": "La tournée : invito yo, la próxima, et quand on paie séparément",
+        "corpo": "Vous partez d'ici avec un avantage : le geste existe déjà chez vous, et même le verbe. «Invito yo» — c'est moi qui invite — est le frère de «je t'invite», et il veut dire la même chose : je paie. Les verres se prennent donc par tournées entières, pas verre par verre. Quelqu'un dit «invito yo», la tournée suivante est celle d'un autre, et ça tourne sur la soirée et souvent sur plusieurs bars — c'est la seule vraie différence avec chez vous : la tournée traverse la rue avec le groupe au lieu de rester au même comptoir. Personne ne tient de comptes ; on suppose que ça s'équilibre, et la plupart du temps ça s'équilibre. Deux conséquences. D'abord, celui qui paie chaque fois son propre verre n'est pas prudent : il se place discrètement en dehors du groupe, et ça se voit. Ensuite, si quelqu'un vous devance, la réparation tient en une phrase, dite tout de suite — «la próxima la pago yo» — et ensuite vous le faites vraiment. Les variantes marchent toutes pareil : «esta la pago yo» pour celle-ci, «te invito» quand c'est une seule personne, et «invita la casa» est ce que vous entendez quand c'est le bar qui offre, ce qui arrive. Là où la tournée ne va vraiment pas — huit personnes dont la moitié mange, ou une table d'inconnus que vous ne reverrez pas —, la phrase est «¿podemos pagar por separado?», et elle a une horloge : dites-la au moment de commander. Une fois l'addition additionnée en un seul chiffre, la défaire est l'affaire de la caisse, et la réponse est souvent non. «A partes iguales» — à parts égales — est l'autre sortie ordinaire, et elle vous est familière : à une table espagnole comme à une table du Midi, on partage en parts égales bien plus souvent qu'on ne recompte qui a bu la bière en plus. Une note de bouche, sur les deux mots que vous direz le plus : dans «invito», le `n` sonne comme une consonne pleine — «in-vi-to», pas le «in» du nez.",
+        "exemplos": [
+          {
+            "es": "Esta la pago yo.",
+            "pt": "ESS-ta la PA-go yo — celle-ci, c'est moi (même geste, autres mots)"
+          },
+          {
+            "es": "Pagamos a partes iguales.",
+            "pt": "pa-GA-moss a PAR-tess i-GOUA-less — on partage à parts égales"
+          }
+        ]
+      },
+      {
+        "titulo": "Se lever d'une table qui tourne encore",
+        "corpo": "Le départ se joue en deux coups, et le premier n'est pas censé marcher. Vous vous levez, vous dites «yo me voy yendo» — littéralement «je m'en vais en allant», et c'est exactement cette mollesse qui le fait passer —, et il vous revient «¡pero si es pronto!» ou «anda, quédate un poco más». Ce n'est pas une tentative de vous retenir : c'est la forme ordinaire de l'échange, et filer droit à la porte au premier coup se lit comme si quelque chose s'était mal passé. Attention à un mot au passage : «pronto» ici ne veut pas dire rapide, il veut dire tôt — «¡pero si es pronto!», c'est «mais il est tôt !», pas «mais c'est rapide !». Le deuxième coup est celui où vous partez pour de bon, et il veut une raison collée : «es que mañana madrugo» — je me lève tôt demain —, celle que tout le monde accepte parce qu'on ne peut rien répondre contre. Notez qu'ils ont un verbe entier pour ça, `madrugar`, là où il vous en faut trois mots. Puis «hasta luego» ou «nos vemos», et vous partez — et le point décisif est que la table ne part pas avec vous. Personne ne se lève, personne n'enfile sa veste, personne ne se sent obligé d'arrêter la soirée parce que vous l'arrêtez. Deux phrases que vous entendrez en sortant sans jamais avoir à les dire : «que sigáis bien» et «que os vaya bien», ce que ceux qui restent souhaitent à celui qui s'en va. Version la plus courte : dites-le une fois, acceptez la protestation, dites-le une deuxième fois avec la raison, partez.",
+        "exemplos": [
+          {
+            "es": "Anda, quédate un poco más.",
+            "pt": "AN-da, KÉ-da-té oun PO-ko mass — 👂 allez, reste encore un peu"
+          },
+          {
+            "es": "Nos vemos mañana.",
+            "pt": "noss BÉ-moss ma-GNA-na — on se voit demain (le `ñ` est le vôtre : `montagne`, `agneau`)"
+          }
+        ]
+      },
+      {
+        "titulo": "La ligne sur le trottoir, avec les chiffres et les dates",
+        "corpo": "Ce n'est pas l'alcool qui constitue l'infraction, c'est le sol. Boire sur la voie publique est une infraction dans tout le pays — Ley Orgánica 4/2015, article 37.17 — et elle coûte de cent à six cents euros ; c'est le plancher national, pas toute l'histoire, parce que la vraie règle est municipale et se durcit là où la ville a décidé de la durcir. C'est la règle du trottoir sur lequel vous vous tenez : la plupart de ceux qui viennent de chez vous descendent sur la côte méditerranéenne continentale — la Catalogne d'abord, puis le Levant et l'Andalousie —, et le plus souvent en voiture. Aux Baléares, si vous y allez, les chiffres sont d'un autre ordre : dans les zones dites de tourisme d'excès — Playa de Palma, Magaluf, Sant Antoni —, boire hors d'une surface autorisée coûte de cinq cents à mille cinq cents euros, les happy hours et les tournées de bars organisées sont interdites, entre vingt et une heures trente et huit heures du matin les commerces n'ont pas le droit de vous vendre d'alcool, et le «balconing» est interdit sur tout l'archipel. Deux mètres plus loin, à la table de terrasse autorisée du même trottoir, le même verre est simplement un verre. Les montants et les arrêtés bougent : c'est l'état de 2026, et une règle communale peut changer en un seul conseil municipal.",
+        "exemplos": [
+          {
+            "es": "¿Se puede beber aquí?",
+            "pt": "ssé POUÉ-dé bé-BER a-KI — on peut boire ici ? (le `qu` de `aquí` fait `k`, comme chez vous)"
+          },
+          {
+            "es": "Perdone, ¿hay alguna zona permitida?",
+            "pt": "per-DO-né, aï al-GOU-na SSO-na per-mi-TI-da — pardon, y a-t-il une zone autorisée ?"
+          }
+        ]
+      },
+      {
+        "titulo": "L'appartement, la cage d'escalier, et pourquoi le propriétaire panique",
+        "corpo": "Les heures de repos — «las horas de descanso» — vont typiquement de vingt-deux ou vingt-trois heures à huit heures du matin, et elles sont fixées par la commune et par le règlement de l'immeuble, pas au niveau national. Il n'existe pas de barème national d'amendes : traitez donc avec prudence chaque chiffre que vous lirez en ligne ; ce qui est fiable, c'est le chemin que prend la plainte. Le voisin appelle la police locale, pas votre propriétaire, et dans un logement touristique sous licence, des plaintes répétées mettent en jeu la licence de l'appartement. C'est ça, et non son sommeil, qu'il y a derrière le message de minuit et demi envoyé par quelqu'un qui était la gentillesse même à la remise des clés. Les règles de corps ne coûtent rien : voix basse dans l'escalier après minuit, ni cour ni terrasse après vingt-trois heures, et pas de roulettes de valise dans une rue résidentielle à deux heures du matin — ce dernier point étant, dans une ville qui se dispute son logement, la façon la plus sûre de se faire un ennemi en quatre secondes. Si quelqu'un frappe quand même, ne discutez pas à travers la porte : «perdón, bajamos la voz ahora mismo» met fin à l'affaire, parce que le regret plus l'action immédiate désamorcent à peu près tout ici. Et retenez le renversement : le bar, lui, est bruyant, personne ne s'en plaint, et baisser la voix à l'intérieur est la seule chose qui vous fera remarquer. Le volume appartient au bar. Le silence appartient à la cage d'escalier.",
+        "exemplos": [
+          {
+            "es": "¿A qué hora son las horas de descanso?",
+            "pt": "a ké O-ra sson lass O-rass dé dess-KAN-sso — à quelle heure commencent les heures de repos ?"
+          },
+          {
+            "es": "Perdón, bajamos la voz ahora mismo.",
+            "pt": "ba-KHA-moss la boss — pardon, on baisse la voix tout de suite (le `j` de `bajamos` : un son du fond de la gorge, là où vous faites votre `r`)"
+          }
+        ]
+      }
+    ]
+  }
+}

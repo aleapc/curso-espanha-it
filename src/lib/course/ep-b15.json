@@ -1,0 +1,826 @@
+{
+  "id": "b15",
+  "slot": "B15",
+  "nivel": "basico",
+  "numero": 15,
+  "parte": "15",
+  "titulo": "Ne pas toucher — et le cinquante ne passe pas",
+  "subtitulo": "Ce que ça coûte, quelle taille il reste et ce que le ticket vaut encore demain — et les deux heures où la petite boutique est fermée",
+  "moldura": "ganha",
+  "moldes": [],
+
+  "cena": "Midi passé, à un étal de marché : vous tendez la main vers les tomates, la femme derrière les cageots parle avant que votre main n'arrive — et dans votre porte-monnaie, un seul billet, un cinquante.",
+
+  "permissao": "Vous avez le droit d'entrer, de regarder et de ressortir sans rien — «solo estoy mirando» est fait pour ça, et personne ne vous compte la visite. Vous avez le droit de demander le prix avant de toucher quoi que ce soit, et essayer n'est pas encore un engagement. Et si le mot de la chose vous manque : montrez-la du doigt et dites la quantité. Le reste, c'est le début que vous avez déjà qui le porte.",
+  "permissaoAudioKey": "b15-n33",
+
+  "frasePiso": "Vous sortez de la boutique le ticket dans la poche, et vous savez ce qu'il vaut encore demain. La plupart des visiteurs le laissent sur le comptoir et ne s'en aperçoivent que quand la chemise ne va pas.",
+
+  "espelho": "Mettre soi-même la main au cageot pour trier la marchandise, c'est ça qui se remarque à l'étal — pas la langue, la main. Et se présenter avec le gros billet à la petite caisse est la seconde chose : chez vous il n'a rien de spécial, ici il vide le tiroir.",
+
+  "fichasCulturais": [
+    {
+      "sinal": "Deux heures vingt, vous êtes devant la petite boutique où vous avez marché vingt minutes : lumière éteinte, grille à moitié baissée, aucun mot sur la porte.",
+      "suaLeitura": "Fermé pour de bon — ou jour de repos aujourd'hui, et ça aurait pu être écrit quelque part.",
+      "oQueEAli": "La petite boutique ferme vers une heure et demie et rouvre vers quatre heures et demie. Ce n'est ni un jour férié ni de la malchance : c'est la journée de travail qu'elle a. Midi est au repas, et la vente reprend le soir jusqu'à huit heures.",
+      "oQueVoceFaz": "Placer les petites courses avant une heure et demie ou après cinq heures. Les heures entre les deux sont celles où vous voulez de toute façon être à table.",
+      "oQueMelhora": "Votre après-midi cesse d'être une file de portes closes, et vous mangez à l'heure où la cuisine travaille vraiment.",
+      "ondeNaoVale": "Pas au supermarché, au grand magasin ni dans les grandes chaînes, qui font la journée continue ; pas les restaurants, dont c'est justement la meilleure heure ; pas les musées. Et en centre-ville comme en zone touristique, beaucoup de boutiques restent ouvertes.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["b15-n10", "b15-n11", "b15-n12", "b15-n13"]
+    },
+    {
+      "sinal": "Vous tendez la main vers les tomates, et celle de la femme derrière les cageots y est avant la vôtre.",
+      "suaLeitura": "Elle me prend pour quelqu'un qui abîme la marchandise — ou j'ai déjà mal fait sans dire un mot.",
+      "oQueEAli": "À l'étal traditionnel, c'est le vendeur qui choisit, et un panneau le dit aussi. Elle sait quel cageot passe aujourd'hui et lequel tient jusqu'à vendredi ; choisir est sa part du travail, pas un examen de vos mains.",
+      "oQueVoceFaz": "Garder les mains en bas, dire la quantité et montrer du doigt. Si c'est pour ce soir, dites-le — elle choisira en conséquence.",
+      "oQueMelhora": "Vous repartez avec le fruit qu'elle prendrait elle-même, et la troisième fois le sac est prêt avant que vous ayez fini de parler.",
+      "ondeNaoVale": "Pas au supermarché : là vous prenez vous-même, pesez vous-même et collez l'étiquette vous-même, et les gants près de la balance sont faits pour ça.",
+      "evidencia": "FATO",
+      "audioKeys": ["b15-n17", "b15-n18", "b15-n19", "b15-n20"]
+    },
+    {
+      "sinal": "Trois euros vingt, vous posez un billet de cinquante, et sa main s'arrête à mi-chemin de la caisse.",
+      "suaLeitura": "Il croit le billet faux, ou il ne veut pas me servir.",
+      "oQueEAli": "La petite caisse commence la journée avec peu de monnaie dans le tiroir. Un cinquante pour un achat de trois euros lui prend la monnaie d'une demi-matinée. C'est de l'arithmétique, pas de la méfiance.",
+      "oQueVoceFaz": "Casser le billet là où il ne gêne personne — supermarché, chaîne, station-service — et garder les petits pour le bar, le marché et le taxi. Dans le doute, demander avant de commander.",
+      "oQueMelhora": "On ne vous renvoie plus d'aucun comptoir, et la monnaie qui revient est de l'argent que vous pouvez dépenser dans le quartier.",
+      "ondeNaoVale": "Pas au grand magasin, au supermarché ni à la station-service, où cinquante n'est rien. Et là où «SOLO EFECTIVO» est à la porte, il faut de toute façon des espèces — là, la taille du billet compte double.",
+      "evidencia": "INFERENCIA",
+      "audioKeys": ["b15-n29", "b15-n30", "b15-n31"]
+    }
+  ],
+
+  "fatosDatados": [
+    {
+      "id": "horario-comercio-pequeno",
+      "afirmacao": "Le petit commerce ferme vers 13h30/14h00 et rouvre vers 16h30/17h00, jusque vers 20h00/20h30. Grands magasins, supermarchés et chaînes font la journée continue, les restaurants ont là leur heure de pointe. Le dimanche, l'alimentaire et le commerce de détail sont majoritairement fermés, bars et restaurants non.",
+      "fonte": "consenso de fontes de comércio espanholas 2025–2026 — síntese em docs/pesquisa-espanha.md §7.1 («Siesta comercial ≠ siesta»: ~10:00 → 13:30/14:00 → 16:30/17:00 → 20:00/20:30; e o parágrafo «Domingo e agosto» logo abaixo)",
+      "ano": 2026,
+      "revisarAte": "2028-01-01",
+      "evidencia": "CONSENSO",
+      "risco": "baixo",
+      "audioKeys": ["b15-n10", "b15-n11", "b15-n13"]
+    },
+    {
+      "id": "rebajas-enero-julio",
+      "afirmacao": "REBAJAS, DESCUENTOS et LIQUIDACIÓN sont les panneaux des soldes ; les deux périodes où presque chaque vitrine les affiche sont janvier et juillet.",
+      "fonte": "docs/pesquisa-espanha.md §6.3 (modo placa, comércio): «REBAJAS / DESCUENTOS / LIQUIDACIÓN — temporadas oficiais (jan e jul)»",
+      "ano": 2026,
+      "revisarAte": "2028-01-01",
+      "evidencia": "CONSENSO",
+      "risco": "baixo",
+      "audioKeys": ["b15-n16"]
+    },
+    {
+      "id": "no-tocar-la-fruta",
+      "afirmacao": "À l'étal de marché traditionnel, c'est le vendeur qui choisit la marchandise ; le panneau NO TOCAR LA FRUTA le dit expressément. Au supermarché, c'est l'inverse : là, le client se sert et pèse lui-même.",
+      "fonte": "docs/pesquisa-espanha.md §6.3 (modo placa: «NO TOCAR LA FRUTA — mercado tradicional: quem pega é o vendedor») e §5.I, frase 110. A EXISTÊNCIA DA PLACA é FATO documentado; a prática geral do balcão que ela descreve é CONSENSO, e o rótulo abaixo é o do elo mais fraco (PRODUTO §preâmbulo).",
+      "ano": 2026,
+      "revisarAte": "2028-01-01",
+      "evidencia": "CONSENSO",
+      "risco": "baixo",
+      "audioKeys": ["b15-n17", "b15-n18"]
+    },
+    {
+      "id": "billete-de-cincuenta",
+      "afirmacao": "Un billet de cinquante euros bloque le petit bar, l'étal de marché et le taxi : leurs caisses gardent peu de monnaie d'avance.",
+      "fonte": "docs/pesquisa-espanha.md §5.D, frase 73 («Nota de 50 € trava bar pequeno e táxi») e §8.2, que rotula a afirmação-mãe («notas de €50 são rotineiramente recusadas em comércio pequeno») como INFERÊNCIA / regra prática — o rótulo abaixo é o da fonte, não uma promoção. NOTA DE PAR (docs/DERIVACAO-FR.md §3.3 item 1): a França é país de CARTÃO, ao contrário dos 45% em espécie da Alemanha, então este comprador carrega o billete grande MENOS vezes; a cena é a mesma, a frequência é menor — o que não muda o rótulo da afirmação.",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "INFERENCIA",
+      "risco": "baixo",
+      "audioKeys": ["b15-n29", "b15-n30"]
+    },
+    {
+      "id": "tique-para-cambio",
+      "afirmacao": "Sans ticket de caisse, pas d'échange. L'échange est la promesse habituelle en boutique, le remboursement souvent non ; chaque maison fixe elle-même sa règle et l'affiche à la caisse.",
+      "fonte": "docs/pesquisa-espanha.md §5.I, frase 116 («Guarde o tique: sem ele, não há troca») — a prática de reembolso NÃO tem fonte jurídica no corpus e por isso nenhuma afirmação de lei entra no áudio",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "CONSENSO",
+      "risco": "medio",
+      "audioKeys": ["b15-n26", "b15-n27"]
+    }
+  ],
+
+  "_notas": {
+    "_": "PARTE ESCRITA EM FRANCÊS. `cena` declarado. Nenhum campo `es`/`tts`/`audioKey` de clipe reusado foi tocado e nenhum clipe espanhol NOVO foi criado: o custo de crédito espanhol desta parte é ZERO — os 21 steps do andaime foram usados com a fala peninsular verbatim do curso base. B15 é redisparo PURO (casa de nenhum molde), por isso `moldes: []` na raiz e o bloco final é «Gramática em foco», não o clique. Tudo que é voz-guia (GuiaFem, GuiaMasc — os PLACEHOLDER do audio.config) é escrito em FRANCÊS e só se grava depois do casting da voz FR e da revisão nativa da fonética (DERIVACAO-FR §5).",
+    "voz_guia_renomeada": "As vozes-guia passaram de `Juli`/`Thomas` (resíduo do scaffold alemão) para `GuiaFem`/`GuiaMasc`, que são os nomes que o audio.config.json._g14.guia declara para este SKU. NÃO é cosmético: o G14 (voz × língua) só confere um clipe cuja `voz` está no conjunto `guia` ou `alvo` — com `Juli`/`Thomas` a narração francesa passaria SEM SER CHECADA. GuiaMasc (o masculino de alertas, a batida do método do falso amigo) carrega b15-t01/t02/t03; GuiaFem carrega a educadora. Carmen e Emilio (peninsulares, alvo) intocados.",
+    "o_que_muda_vs_alemao": "A batida da voz masculina INVERTE. No alemão o Thomas (b15-t01/t02/t03) ensinava a REGRA DE LEITURA ⟨v⟩=[f]: `¿Cuánto vale?` viraria «fale», e o mesmo `b` estava em `devolver`. Para o francês isso MORREU: o francês DISTINGUE `b` de `v` e diz [vale]/[debolber], que são ENTENDIDOS — a gag alemã do ⟨v⟩ não porta (DERIVACAO-FR §1.2 linha 13). O bloco do GuiaMasc foi RE-DERIVADO para carregar o eixo do curso — o FALSO AMIGO — e para reenquadrar `¿Cuánto vale?` como BRINDE: o preço não custa um som ao francês, custa uma palavra que parece francesa (b15-t01). É a inversão exata do alemão, no mesmo lugar.",
+    "falso_amigo_desta_parte": "`quitar` (RECEPTIVO), a assinatura do slot. Para o francês `quitter`=deixar/abandonar; em espanhol `quitar`=tirar/remover. Entregue pelo GuiaMasc (b15-t02/t03) como palavra que o aluno vai OUVIR na boutique (`¿le quito esto?` = «eu tiro isto para você?»), e a mordida cai na cena do provador (`probármelo`, `talla`). O aluno NUNCA produz `quitar` — não há clipe espanhol novo (o único gravado é `Se la quito por encima`, em ep-b13, e não entra aqui). Regra respeitada: UM falso amigo por parte, grudado à cena, e receptivo como o `salida` de B10. FALSO AMIGO secundário e leve: `nombre` em `a nombre de` — para o francês `nombre`=número, em espanhol é o NOME; fica no `aprofundar`, junto da factura, e não no corpo, porque a casa dele é B05/B16 (inventário congelado, medido: `a nombre de` gravado em ep-b05/b16/b18) — aqui é só menção receptiva de reconhecimento.",
+    "numerais_sao_brinde": "O b15-n32 alemão avisava a inversão dos numerais («treinta y cuatro» = vierunddreißig; quem inverte anota dreiundvierzig). Para o francês isso é BRINDE (DERIVACAO-FR §3.3 item 2): `trente-quatre` = MESMA ordem de `treinta y cuatro`, os dezenas antes das unidades dos dois lados. O b15-n32 foi RE-DERIVADO para enunciar o delta — os números vêm na sua ordem; o que ainda tropeça é a VELOCIDADE, e a ação (olhar o display/tique em vez de adivinhar) continua sendo a de e05b-sc3-e. Onde o alemão penava, o francês ganha de graça.",
+    "fonetica_desta_parte": "Toque LEVE — B15 é redisparo puro. A JOTA reaparece nas placas (`REBAJAS`, `CAJA`) e em `jamón`, mas como LEMBRETE, não primeira aparição: a casa da jota é B13/LLEVA, onde ela vira treino; b15-n15 amarra a B13 e dá o glifo francês («le souffle du fond, pas le j de jour», rre-BA-khass, KA-kha) — som novo [ʒ]→[x], não o «ch de Bach» alemão. Correntes: a TÔNICA e os FINAIS apagados (o `-s` do plural em `tomates`/`gramos`/`aceitunas`/`probadores`; o `-e` de `tique`→TI-ké); o `u`=[y] só no respelling (`ou`). BRINDES não gastos em áudio (copiá-los é o anti-padrão 9): `qu`=[k] (`tique`, `quería`), `h` mudo, e a distinção `b`≠`v` (`vale`/`devolver`/`favor` entendidos — a gag alemã do ⟨v⟩ está morta).",
+    "respelling_para_leitor_frances": "O campo `pinyin` segue a convenção FRANCESA fixada em B10 (a parte que a documentou), nunca o respelling alemão (que dizia «ch de Bach» e `ss` por s-intervocálico [z] alemão — nada disso quer dizer algo para um francês). MAIÚSCULA = tônica · `ou` = o `u` espanhol [u], nunca o `u` francês [y] (según→se-GOUN) · `kh` = a jota [x], souffle de gorge (jamón→kha-MON, caja→KA-kha) · `y` = [j] (talla→TA-ya, llevas→YE-bass) · `b` = o v/b espanhol (vale→BA-lé) · `ss` = z, c+e/i e s intervocálico, sempre duro [s] · `gn` = ñ (pequeño→pe-KE-gno) · `h` mudo cai · `qu` = k (tique→TI-ké) · finais escritas a pronunciar, `-e` final → `-é`. ESTA CONVENÇÃO É INFERÊNCIA e é PENDÊNCIA de revisor FR-L1 + peninsular antes do áudio — o glifo da jota (`kh`) e as vogais que o olho francês pode nasalizar (`cien`→ssien, `veinte`→BEIN-té, `jamón`) são os mais frágeis, e nenhum respelling os resolve sozinho.",
+    "callback_e_o_cartao": "`b14-voytarjeta-c` (`Voy a pagar con tarjeta.`) é o callback de abertura, recuperação legítima de B14 — a mesma peça que no par alemão repôs o step removido `e03b-sinconversion-c` («Sin conversión.»), porque o DCC não existe na Eurozona e o francês também paga em euros com cartão em euros (DERIVACAO-FR §3.3 item 1). DELTA declarado: o argumento do `con tarjeta` é MAIS FRACO que no alemão — o francês JÁ usa cartão com naturalidade (país de cartão), então quase não há «surpresa invertida»; o callback vale como anúncio-de-ação («aviso o que vou fazer»), não como revelação. Nenhum espanhol tocado.",
+    "moldes_redisparados": "Os quatro que o roster promete para B15 (ME-PONE, QUERIA, PUEDO, OTRA — casas B11, B12, B06, B11, todas ANTES de B15), todos DEPOIS da casa na ordem canônica (G9d limpo) e todos com encaixe NOVO, medido contra as partes já escritas: ME-PONE ganha `cien gramos de jamón`, `medio kilo de aceitunas` e `medio kilo de tomates`; QUERIA ganha `medio kilo de esto`; PUEDO ganha `probármelo`; OTRA ganha `otra talla`. B15 não é casa de molde nenhum → `moldes: []` na raiz e nenhum `clique` (o G16 só cobra clique de uma casa). O lugar do clique é ocupado por b15-n35, que CONTA os quatro moules sem reapresentar nenhum — «le moule», nunca Baustein.",
+    "tratamento": "GuiaFem e GuiaMasc tratam o aluno por `vous`, como em B01 e B10. A observação sobre `Póngame` (b15-n05) é a forma-vous do mesmo pedido, dada como OBSERVAÇÃO e não regra («ao balcão, espelhe o que a pessoa do outro lado usa») — a recalibragem `vous`≠`usted` é LEVE e BIDIRECIONAL e sua casa é B02/I02, não reaberta aqui (redisparo é sem reapresentação). Copiar o bloco anti-`Sie` do curso alemão seria o anti-padrão 9. GuiaFem/GuiaMasc CITAM espanhol dentro da narração francesa (trabalho da guia, INV-5) e nunca o falam; Carmen e Emilio não dizem uma palavra de francês.",
+    "pendencias": [
+      "REVISOR FR-L1 + espanhol PENINSULAR: todo o `pinyin` e toda consequência fonética desta parte são INFERÊNCIA (DERIVACAO-FR §1). Nada NÃO CONFERIDO vira áudio (PRODUTO §preâmbulo).",
+      "VOZ-GUIA FRANCESA (casting): GuiaFem + GuiaMasc são placeholder («TODO-FR-...») no audio.config; o gerador não emite job de narração-guia até os voiceId saírem.",
+      "G14 (voz × língua) por conferência HUMANA em toda entrega: guia francesa nunca fala espanhol, Carmen/Emilio nunca falam francês. Este repositório já teve o acidente do mp3 na língua errada.",
+      "`nombre` em `a nombre de` é menção RECEPTIVA e leve aqui (casa em B05/B16); e `probarse`≠`prouver` (`probármelo`) é candidato NÃO CONFERIDO — nomeado para o revisor, não escrito no áudio, porque não está na lista confirmada da DERIVACAO-FR §1.6."
+    ]
+  },
+
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n01",
+      "bloco": "aquecimento",
+      "gesto": 4,
+      "tom": "ganha",
+      "pt": "Échauffement, dix secondes : un coup de langue par r. pro-ba-DO-ress. Pas au fond de la gorge — devant, sec."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "promptAudioKey": "b15-p01",
+      "promptPt": "La caisse d'une petite boutique. Elle tape encore le total, le terminal éteint derrière elle sur l'étagère. Annoncez ce qui va se passer. Parlez maintenant.",
+      "audioKey": "b14-voytarjeta-c",
+      "es": "Voy a pagar con tarjeta.",
+      "pinyin": "boï a pa-GAR kon tar-KHÉ-ta",
+      "pt": "l'annonce, avant qu'il installe quoi que ce soit"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n02",
+      "bloco": "cena",
+      "pt": "Midi passé, un étal de marché. Vous tendez la main vers les tomates, et la femme derrière les cageots dit quelque chose."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n03",
+      "pt": "Et dans votre porte-monnaie, un seul billet. Un cinquante. Les deux se règlent ici."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n04",
+      "bloco": "corpo",
+      "pt": "D'abord le comptoir. Le début du bar a ici une deuxième forme, et c'est celle-là qu'on entend à l'étal."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e05b-pongame-c",
+      "es": "Póngame medio kilo de tomates, por favor.",
+      "pinyin": "PON-ga-mé ME-dio KI-lo dé to-MA-tess, por fa-BOR",
+      "pt": "Une livre de tomates, s'il vous plaît.",
+      "tts": "Póngame medio kilo de tomates, por favor."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n05",
+      "pt": "«Póngame», c'est la forme vous de la même demande. À l'étal, c'est elle qu'on entend — vous n'avez qu'à la renvoyer."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n06",
+      "pt": "«Medio kilo», c'est une livre au gramme près ; «cien gramos», cent grammes. Là, rien à convertir."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b15-jamon-e",
+      "es": "Póngame cien gramos de jamón, por favor.",
+      "pinyin": "PON-ga-mé ssien GRA-moss dé kha-MON, por fa-BOR",
+      "pt": "Cent grammes de jambon, s'il vous plaît. (Le j gratte au fond, pas le j de «jour».)",
+      "tts": "Póngame cien gramos de jamón, por favor."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PONE",
+      "encaixe": "cien gramos de jamón",
+      "encaixeGloss": "cent grammes de jambon",
+      "consulta": ["compras/balcao"],
+      "promptAudioKey": "b15-p02",
+      "promptPt": "Le comptoir où les jambons pendent à des crochets au-dessus. Le couteau est déjà dans sa main, il attend un chiffre. Cent grammes, pour ce soir sur le balcon. Parlez maintenant.",
+      "audioKey": "b15-jamon-e",
+      "es": "Póngame cien gramos de jamón, por favor.",
+      "pinyin": "PON-ga-mé ssien GRA-moss dé kha-MON, por fa-BOR",
+      "pt": "cent grammes de celui qui pend au crochet"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e05b-pongame2-e",
+      "es": "Póngame medio kilo de aceitunas, por favor.",
+      "pinyin": "PON-ga-mé ME-dio KI-lo dé a-ssei-TOU-nass, por fa-BOR",
+      "pt": "Une livre d'olives, s'il vous plaît.",
+      "tts": "Póngame medio kilo de aceitunas, por favor."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PONE",
+      "encaixe": "medio kilo de aceitunas",
+      "encaixeGloss": "une livre d'olives",
+      "promptAudioKey": "b15-p03",
+      "promptPt": "Un étal à douze bacs ouverts, tout vert et noir et luisant, et vous avez choisi celui à l'ail. Une livre de celles-là. Parlez maintenant.",
+      "audioKey": "e05b-pongame2-e",
+      "es": "Póngame medio kilo de aceitunas, por favor.",
+      "pinyin": "PON-ga-mé ME-dio KI-lo dé a-ssei-TOU-nass, por fa-BOR",
+      "pt": "une livre du bac à l'ail"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n07",
+      "pt": "Et si le mot vous manque, montrez du doigt. L'autre début, celui de la table, porte le reste."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b15-esto-c",
+      "es": "Quería medio kilo de esto.",
+      "pinyin": "ke-RI-a ME-dio KI-lo dé ESS-to",
+      "pt": "Une livre de ça. (Le doigt dit de quoi.)",
+      "tts": "Quería medio kilo de esto."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "QUERIA",
+      "encaixe": "medio kilo de esto",
+      "encaixeGloss": "une livre de ça",
+      "promptAudioKey": "b15-p04",
+      "promptPt": "Un cageot plein de quelque chose de long et de violet, jamais vu chez vous, et trois personnes attendent derrière. Une livre, et votre doigt fait le reste. Parlez maintenant.",
+      "audioKey": "b15-esto-c",
+      "es": "Quería medio kilo de esto.",
+      "pinyin": "ke-RI-a ME-dio KI-lo dé ESS-to",
+      "pt": "une livre de ce que vous ne savez pas nommer"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n08",
+      "pt": "Deux débuts, un étal : l'un prend la quantité, l'autre prend ce que vous ne savez pas nommer."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e05b-sc2-e",
+      "receptivo": true,
+      "acao": "Répondre. Sans réponse, il continue d'emballer.",
+      "es": "¿Algo más?",
+      "pinyin": "AL-go mass",
+      "pt": "👂 «Autre chose ?» — la question qui clôt l'achat ou le prolonge.",
+      "tts": "¿Algo más?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n09",
+      "pt": "Avant que rien n'entre dans le sac, deux mots qui rendent votre semaine moins chère."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e05b-nadamas-c",
+      "es": "Nada más, gracias. ¿Cuánto vale?",
+      "pinyin": "NA-da mass, GRA-ssiass. KOUAN-to BA-lé",
+      "pt": "C'est tout, merci. Ça fait combien ?",
+      "tts": "Nada más, gracias. ¿Cuánto vale?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b15-t01",
+      "pt": "Ici, l'alerte. «¿Cuánto vale?», la question du prix : pour vous, c'est cadeau — le v sonne comme un b, on vous comprend. Ce qui coûte ici n'est pas un son."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b15-t02",
+      "pt": "C'est un mot. En boutique, vous entendrez «¿le quito esto?» : ce n'est pas «quitter», mais «je vous l'enlève?». Vous ne faites que l'entendre."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b15-t03",
+      "pt": "La ressemblance aide et trahit : «cambiar», c'est «changer» ; «quitar» n'est pas «quitter». Le faux ami : l'air français, le sens espagnol."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["compras/quanto"],
+      "promptAudioKey": "b15-p05",
+      "promptPt": "Il a tout emballé, vous tend le sac et vous regarde, au cas où il manque quelque chose. Il ne manque rien — sauf un chiffre. Parlez maintenant.",
+      "audioKey": "e05b-nadamas-c",
+      "es": "Nada más, gracias. ¿Cuánto vale?",
+      "pinyin": "NA-da mass, GRA-ssiass. KOUAN-to BA-lé",
+      "pt": "clore, et prendre le chiffre"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n10",
+      "bloco": "capsula",
+      "pt": "Et une heure qui vous découpe l'après-midi si vous l'ignorez : une heure et demie."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n11",
+      "pt": "La petite boutique baisse le rideau et rouvre vers quatre heures et demie. Le pays ne dort pas."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n12",
+      "pt": "Le dimanche, vous le connaissez de chez vous. Le trou de midi, non — chez vous il n'existe pas, ici oui."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n13",
+      "tom": "ganha",
+      "pt": "Donc : la petite course avant une heure et demie, ou après cinq. Grands magasins, chaînes et supermarchés font la journée continue."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n14",
+      "bloco": "corpo",
+      "pt": "Quatre mots pendent aux vitrines et aux murs. On les lit, on ne les dit pas."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e05b-placas-e",
+      "receptivo": true,
+      "acao": "En entrant, longer les murs des yeux avant de toucher quoi que ce soit.",
+      "es": "REBAJAS · CAJA · PROBADORES · NO TOCAR LA FRUTA",
+      "pinyin": "rre-BA-khass · KA-kha · pro-ba-DO-ress · no to-KAR la FROU-ta",
+      "pt": "👂 Soldes · Caisse · Cabines d'essayage · Ne pas toucher les fruits",
+      "tts": "Rebajas. Caja. Probadores. No tocar la fruta."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n15",
+      "pt": "Deux d'entre eux portent un j, et c'est la jota de B13 — le souffle du fond, pas le j de «jour» : rre-BA-khass, KA-kha."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n16",
+      "pt": "«Rebajas» pend en janvier et en juillet presque partout. Le quatrième panneau, lui, est à l'étal."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n17",
+      "bloco": "capsula",
+      "pt": "Retour aux cageots. Vous tendez la main, elle dit quelque chose — et ce n'est pas contre vous."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n18",
+      "pt": "À l'étal, c'est elle qui choisit. Elle sait quel cageot passe aujourd'hui et lequel tient jusqu'à vendredi."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n19",
+      "tom": "ganha",
+      "pt": "Mains en bas, dire la quantité, montrer du doigt. La troisième fois, le sac est prêt avant vous."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n20",
+      "pt": "Au supermarché, c'est l'inverse : là vous prenez vous-même, pesez, et collez l'étiquette."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n21",
+      "bloco": "espelho",
+      "pt": "Mettre soi-même la main au cageot pour trier, c'est ça qui se remarque là-bas. Pas la langue — la main."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n22",
+      "bloco": "corpo",
+      "pt": "La boutique. Il est sur vous avant deux pas, et une phrase le renvoie gentiment."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e05b-mirando-e",
+      "es": "Solo estoy mirando, gracias.",
+      "pinyin": "SO-lo ess-TOÏ mi-RAN-do, GRA-ssiass",
+      "pt": "Je regarde seulement, merci. (Mot pour mot ce que vous diriez chez vous.)",
+      "tts": "Solo estoy mirando, gracias."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["compras/so-olhando"],
+      "promptAudioKey": "b15-p06",
+      "promptPt": "Deuxième pas dans la boutique, et il est déjà à côté de vous, demandant s'il peut aider. Vous ne voulez rien, vous voulez la paix — poliment. Parlez maintenant.",
+      "audioKey": "e05b-mirando-e",
+      "es": "Solo estoy mirando, gracias.",
+      "pinyin": "SO-lo ess-TOÏ mi-RAN-do, GRA-ssiass",
+      "pt": "le panneau poli"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n23",
+      "tom": "ganha",
+      "pt": "Ce n'est pas battre en retraite. La phrase vous achète dix minutes tranquilles, et ensuite vous demandez ciblé."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b15-probar-c",
+      "es": "¿Puedo probármelo?",
+      "pinyin": "POUÉ-do pro-BAR-me-lo",
+      "pt": "Je peux l'essayer ? (Deux r, deux petits coups.)",
+      "tts": "¿Puedo probármelo?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "PUEDO",
+      "encaixe": "probármelo",
+      "encaixeGloss": "l'essayer",
+      "promptAudioKey": "b15-p07",
+      "promptPt": "La chemise en lin en haut de la pile a juste la bonne couleur, et les cabines sont au fond, derrière un rideau. Demandez avant d'y aller avec. Parlez maintenant.",
+      "audioKey": "b15-probar-c",
+      "es": "¿Puedo probármelo?",
+      "pinyin": "POUÉ-do pro-BAR-me-lo",
+      "pt": "demander d'abord, passer le rideau ensuite"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n24",
+      "pt": "Deux mots pour la taille, et ils ne sont pas pareils : «talla» pour les vêtements, «número» pour la chaussure."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b15-talla-c",
+      "es": "¿Tiene una talla más grande?",
+      "pinyin": "TIE-né OU-na TA-ya mass GRAN-dé",
+      "pt": "Vous l'avez une taille au-dessus ? (talla avec un y : TA-ya.)",
+      "tts": "¿Tiene una talla más grande?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b15-p08",
+      "promptPt": "Vous êtes devant le miroir, et ça tire aux épaules. Rendez-la-lui et dites dans quel sens il faut aller. Parlez maintenant.",
+      "audioKey": "b15-talla-c",
+      "es": "¿Tiene una talla más grande?",
+      "pinyin": "TIE-né OU-na TA-ya mass GRAN-dé",
+      "pt": "une taille vers le haut"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b15-otratalla-e",
+      "es": "¿Tiene otra talla?",
+      "pinyin": "TIE-né O-tra TA-ya",
+      "pt": "Vous avez une autre taille ? (plus court, si le sens vous est égal)",
+      "tts": "¿Tiene otra talla?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "OTRA",
+      "encaixe": "otra talla",
+      "encaixeGloss": "une autre taille",
+      "promptAudioKey": "b15-p09",
+      "promptPt": "Deuxième boutique, deuxième chemise, et cette fois vous ne savez pas vous-même si c'est trop large ou trop juste. Vous voulez juste une autre de la même pile. Parlez maintenant.",
+      "audioKey": "b15-otratalla-e",
+      "es": "¿Tiene otra talla?",
+      "pinyin": "TIE-né O-tra TA-ya",
+      "pt": "n'importe laquelle d'autre, le sens égal"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n25",
+      "pt": "Le petit mot du comptoir est venu avec vous. Ici il ne cherche pas une deuxième tournée, mais la taille suivante."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n26",
+      "tom": "protege",
+      "pt": "Un bout de papier décide si vous pourrez échanger la chemise demain. Réclamez-le s'il ne vient pas."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b15-tique-e",
+      "es": "¿Me da el tique, por favor?",
+      "pinyin": "mé da el TI-ké, por fa-BOR",
+      "pt": "Vous me donnez le ticket, s'il vous plaît. («tique» avec un k : TI-ké.)",
+      "tts": "¿Me da el tique, por favor?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["compras/pagar"],
+      "promptAudioKey": "b15-p10",
+      "promptPt": "Elle a déjà emballé et se tourne vers le client suivant, et sur le comptoir reste une étroite bande blanche que personne ne vous a donnée. Parlez maintenant.",
+      "audioKey": "b15-tique-e",
+      "es": "¿Me da el tique, por favor?",
+      "pinyin": "mé da el TI-ké, por fa-BOR",
+      "pt": "le papier qui porte l'échange"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b15-cambiar-c",
+      "es": "¿Se puede cambiar o devolver?",
+      "pinyin": "sé POUÉ-dé kam-BIAR o dé-bol-BER",
+      "pt": "On peut échanger ou rendre ? (Les deux v sont des b.)",
+      "tts": "¿Se puede cambiar o devolver?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["compras/devolver"],
+      "promptAudioKey": "b15-p11",
+      "promptPt": "La chemise est pour quelqu'un à la maison, et vous ne connaissez ses épaules qu'à peu près. Réglez ce qui se passe si elle ne va pas — avant de payer. Parlez maintenant.",
+      "audioKey": "b15-cambiar-c",
+      "es": "¿Se puede cambiar o devolver?",
+      "pinyin": "sé POUÉ-dé kam-BIAR o dé-bol-BER",
+      "pt": "la question avant l'achat, pas après"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b15-coneltique-e",
+      "receptivo": true,
+      "acao": "Si ça vient : garder le ticket et faire l'échange tant que vous êtes encore en ville.",
+      "es": "Cambiar sí, con el tique. Devolver el dinero, no.",
+      "pinyin": "kam-BIAR ssi, kon el TI-ké. dé-bol-BER el di-NE-ro, no",
+      "pt": "👂 «Échange oui, avec le ticket. Rendre l'argent, non.» — la réponse la plus fréquente en petite boutique.",
+      "tts": "Cambiar sí, con el tique. Devolver el dinero, no."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n27",
+      "pt": "L'échange est courant, le remboursement souvent non. Chaque maison fixe sa règle, affichée à la caisse."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n28",
+      "tom": "protege",
+      "pt": "En cas de vrai défaut, c'est autre chose. Et si une boutique se bute, la même échelle qu'à table s'applique."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n29",
+      "bloco": "capsula",
+      "pt": "Reste le billet. Trois euros vingt, vous posez cinquante, et sa main s'arrête à mi-chemin."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e05b-sc4-e",
+      "receptivo": true,
+      "acao": "Ne pas discuter : payer plus petit, ou faire de la monnaie ailleurs et revenir.",
+      "es": "Uy, de cincuenta no. Lo siento.",
+      "pinyin": "ouï, dé ssin-KOUEN-ta no. lo SIEN-to",
+      "pt": "👂 «Oh, pas sur cinquante. Désolé.» — pas de la méfiance, un tiroir vide.",
+      "tts": "Uy, de cincuenta no. Lo siento."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b15-maspequeno-e",
+      "receptivo": true,
+      "acao": "S'il vous tutoie : restez-y, ne repassez pas soudain au vous.",
+      "es": "De cincuenta no tengo. ¿No llevas nada más pequeño?",
+      "pinyin": "dé ssin-KOUEN-ta no TEN-go. no YE-bass NA-da mass pe-KE-gno",
+      "pt": "👂 «Sur cinquante je n'ai pas. T'as rien de plus petit?» — le même tiroir, en tu.",
+      "tts": "De cincuenta no tengo. ¿No llevas nada más pequeño?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n30",
+      "pt": "La petite caisse démarre la journée avec peu de monnaie. Un cinquante pour trois euros la vide."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e05b-cambio50-c",
+      "es": "¿Tiene cambio de cincuenta?",
+      "pinyin": "TIE-né KAM-bio dé ssin-KOUEN-ta",
+      "pt": "Vous avez la monnaie sur cinquante ? (Demander avant, pas après.)",
+      "tts": "¿Tiene cambio de cincuenta?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["pagar/dinheiro"],
+      "promptAudioKey": "b15-p12",
+      "promptPt": "Un café à quatre tabourets, deux tasses déjà sur le comptoir, et dans votre porte-monnaie seulement le gros billet de ce matin. Demandez avant qu'il encaisse. Parlez maintenant.",
+      "audioKey": "e05b-cambio50-c",
+      "es": "¿Tiene cambio de cincuenta?",
+      "pinyin": "TIE-né KAM-bio dé ssin-KOUEN-ta",
+      "pt": "régler avant, au lieu de rester planté après"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n31",
+      "tom": "ganha",
+      "pt": "Changez-le où il ne gêne personne : supermarché, chaîne, station-service. Le petit, c'est pour le quartier."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n32",
+      "pt": "Bonne nouvelle sur les chiffres : ils viennent dans votre ordre — «treinta y cuatro», trente-quatre, pas à l'envers. Ce qui trébuche, c'est la vitesse."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e05b-sc3-e",
+      "receptivo": true,
+      "acao": "Ne pas deviner : sur les chiffres rapides, regarder l'écran ou le ticket.",
+      "es": "Tres euros con veinte.",
+      "pinyin": "tress EU-ross kon BEIN-té",
+      "pt": "👂 «Trois euros vingt.» — et «veinte» commence par un b, on comprend.",
+      "tts": "Tres euros con veinte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n33",
+      "bloco": "permissao",
+      "tom": "ganha",
+      "pt": "Vous avez le droit d'entrer, de regarder et de repartir sans rien. C'est de la clientèle, pas de l'impolitesse."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n34",
+      "tom": "ganha",
+      "pt": "Vous avez le droit de demander le prix avant de toucher. Et essayer n'est encore un engagement à rien."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n35",
+      "bloco": "corpo",
+      "tom": "ganha",
+      "pt": "Quatre moules des parties d'avant ont travaillé aujourd'hui. Aucun n'était nouveau."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n36",
+      "bloco": "piso",
+      "pt": "Vous sortez avec le ticket dans la poche. La plupart le laissent sur le comptoir."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-s00",
+      "pt": "À répéter. Fort, avec eux, le r devant. Les deux qui marchent à tous les comptoirs :"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "b15-esto-e",
+      "molde": "QUERIA",
+      "es": "Quería medio kilo de esto.",
+      "pinyin": "ke-RI-a ME-dio KI-lo dé ESS-to",
+      "pt": "Une livre de ça."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "e05b-nadamas-c",
+      "es": "Nada más, gracias. ¿Cuánto vale?",
+      "pinyin": "NA-da mass, GRA-ssiass. KOUAN-to BA-lé",
+      "pt": "C'est tout, merci. Ça fait combien ?"
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "b15-rend",
+      "bloco": "recap",
+      "pt": "Encore une fois, à voix haute, dans une halle où nous n'étions pas aujourd'hui. Vous saluez d'abord."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PONE",
+      "encaixe": "medio kilo de tomates",
+      "encaixeGloss": "une livre de tomates",
+      "promptAudioKey": "b15-p13",
+      "promptPt": "Nouveau matin, autre halle, premier étal à gauche, et la femme derrière lève les yeux. Dites d'abord bonjour, puis une livre des rouges. Parlez maintenant.",
+      "audioKey": "e05b-sc1-c",
+      "es": "Buenos días. Póngame medio kilo de tomates, por favor.",
+      "pinyin": "BOUÉ-noss DI-ass. PON-ga-mé ME-dio KI-lo dé to-MA-tess, por fa-BOR",
+      "pt": "salué et commandé, d'un seul trait",
+      "tts": "Buenos días. Póngame medio kilo de tomates, por favor."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b15-n37",
+      "pt": "C'est tout. Pesé, essayé, échangé et payé juste. Hasta luego."
+    }
+  ],
+
+  "aprofundar": {
+    "titulo": "Le comptoir, le ticket et les deux heures (lecture facultative)",
+    "secoes": [
+      {
+        "titulo": "«Póngame», «ponme», «quería» — trois fois la même demande",
+        "corpo": "Au comptoir vous avez appris «¿me pones?», la forme tu ; dans la même famille se tiennent «ponme», demande brève, et «póngame», sa forme vous. À l'étal du marché et à la charcuterie, «póngame» est ce que vous entendez le plus, et cela tient moins à la politesse qu'au procédé : vous dites la quantité, quelqu'un d'autre la pose sur la balance. La règle pratique pour tout le voyage n'est pas un calcul mais une observation — prenez la forme que la personne en face utilise, et restez-y. Qui vous tutoie, on le tutoie ; qui vouvoie, on le vouvoie. Et si en plein milieu vous remarquez que vous aviez choisi l'autre forme : personne ne vous reprend, et cela ne coûte rien. À côté, «quería», de la partie douze, fait autre chose : il va chercher une chose, pas une quantité, et il marche même quand vous ne connaissez pas le nom de la chose — «quería medio kilo de esto», un doigt, et le reste est son travail. Un mot pour plus tard, au même comptoir : «¿algo más?» veut dire «autre chose?», et «nada más, gracias» clôt l'achat avant qu'il ne grossisse.",
+        "exemplos": [
+          {
+            "es": "Póngame cien gramos de jamón, por favor.",
+            "pt": "PON-ga-mé ssien GRA-moss dé kha-MON — Cent grammes de jambon. (le j gratte au fond, pas le j de «jour»)"
+          },
+          {
+            "es": "Quería medio kilo de esto.",
+            "pt": "ke-RI-a ME-dio KI-lo dé ESS-to — Une livre de ça. (le doigt dit de quoi)"
+          }
+        ]
+      },
+      {
+        "titulo": "Grammes, livres — et le chiffre qui vient dans votre ordre",
+        "corpo": "Les quantités sont le morceau le moins cher de cet épisode, parce que le système est le vôtre : «cien gramos», cent grammes ; «doscientos gramos», deux cents ; «medio kilo», votre livre au gramme près ; «un kilo», un kilo. Vous ne convertissez rien, vous le dites autrement. Pour le jambon et le fromage, cent grammes par personne sont une commande courante ; pour les olives et les salades, un quart suffit pour deux. Et ici — à l'inverse de bien des voyageurs — le chiffre est un cadeau : l'espagnol dit d'abord les dizaines, puis les unités, «treinta y cuatro» égale trente-quatre, dans l'ordre même où c'est écrit, celui que vous dites déjà chez vous. Rien à retourner dans la tête. Ce qui coûte encore, c'est la vitesse : sur tout montant qui arrive vite, regardez l'écran, le ticket ou la balance, au lieu de deviner. Et «¿cuánto vale?» est la question de prix qu'on entend vraiment en Espagne ; «¿cuánto cuesta?» marche aussi, d'un cran plus formel. Toutes deux commencent par un mot que votre œil lit de travers : le v de «vale» est un b — et on vous comprend de toute façon.",
+        "exemplos": [
+          {
+            "es": "Nada más, gracias. ¿Cuánto vale?",
+            "pt": "NA-da mass, GRA-ssiass. KOUAN-to BA-lé — C'est tout, merci. Ça fait combien ?"
+          },
+          {
+            "es": "Tres euros con veinte.",
+            "pt": "tress EU-ross kon BEIN-té — 👂 Trois euros vingt. (le v de «veinte» sonne comme un b)"
+          }
+        ]
+      },
+      {
+        "titulo": "Le ticket, l'échange — et l'échelle si une boutique se bute",
+        "corpo": "«Un tique», c'est le ticket de caisse ; «la factura», la facture à votre nom — l'un porte l'échange, l'autre porte l'assurance. Pour une chemise il vous faut le ticket, et il vous le faut vraiment : sans lui, pas d'échange, et personne ne vous l'établira après coup. Ce qu'une boutique propose pour une marchandise qui ne va pas, elle le décide largement elle-même, et elle l'affiche à la caisse : échange ou avoir sont les promesses habituelles, l'argent rendu souvent non. Lisez l'affiche avant de payer, et demandez en une phrase s'il n'y a rien — «¿se puede cambiar o devolver?». Un mot à ranger, sans l'affirmer : si on vous demande «¿a nombre de quién?» — pour la facture —, c'est votre NOM qu'on veut, pas un numéro ; «nombre» en espagnol, c'est le nom, pas le nombre. Tout autre est une marchandise avec un défaut ; là, ce n'est pas de la bonne volonté, et là s'applique l'échelle que vous connaissez de la partie quatorze et qui marche en boutique comme à table : rester calme, nommer le point, et si personne ne bouge, réclamer le formulaire officiel — «la hoja de reclamaciones, por favor». Tout établissement qui vend au consommateur doit l'avoir et le remettre gratuitement, et le refus est en soi une infraction. Et la marche d'après vous suit chez vous : consommateur d'un pays de l'UE, un Centre Européen des Consommateurs traite gratuitement les litiges transfrontaliers.",
+        "exemplos": [
+          {
+            "es": "¿Me da el tique, por favor?",
+            "pt": "mé da el TI-ké — Vous me donnez le ticket ? (qu = k, jamais kv)"
+          },
+          {
+            "es": "¿Se puede cambiar o devolver?",
+            "pt": "sé POUÉ-dé kam-BIAR o dé-bol-BER — Échanger ou rendre ? (les deux v sont des b)"
+          }
+        ]
+      },
+      {
+        "titulo": "Les heures où la petite boutique est fermée",
+        "corpo": "Le rythme qui peut vous découper l'après-midi si vous l'ignorez : le petit commerce ouvre vers dix heures, ferme entre une heure et demie et deux, rouvre vers quatre heures et demie et tient jusqu'à huit ou huit heures et demie. Grands magasins, supermarchés et grandes chaînes font la journée continue ; restaurants et musées ont justement là leur heure de pointe. Pour vous : la pharmacie, la retoucherie, la boutique du seul objet qu'il vous faut — avant une heure et demie ou après cinq. Le dimanche, vous l'apportez déjà juste : alimentaire et détail majoritairement fermés, bars, restaurants et sites non, et en zone touristique déclarée les boutiques ouvrent aussi. Le quartier de votre location n'en est en général pas, donc la grosse course est une course du samedi. En août s'ajoute une troisième chose, qui aura sa propre partie plus loin : les commerces familiaux ferment le mois entier, collent «cerrado por vacaciones» à la porte, et la carte sur votre téléphone l'ignore souvent — avant une marche de vingt-cinq minutes, appelez. Et août, pour ce voyage, a une arête que d'autres n'ont pas : c'est le cœur de vos grandes vacances, vous arrivez au moment même où le rideau est baissé. Deux périodes de panneaux, enfin, sur le même calendrier : «rebajas» pend en janvier et en juillet presque partout, et c'est aussi quand les cabines sont pleines.",
+        "exemplos": [
+          {
+            "es": "REBAJAS · CAJA · PROBADORES",
+            "pt": "rre-BA-khass · KA-kha · pro-ba-DO-ress — Soldes · Caisse · Cabines (deux fois la jota du fond ; «probadores» n'en a pas, mais deux r)"
+          },
+          {
+            "es": "NO TOCAR LA FRUTA",
+            "pt": "no to-KAR la FROU-ta — Ne pas toucher les fruits. (à l'étal c'est elle qui choisit, au supermarché c'est vous)"
+          }
+        ]
+      }
+    ]
+  }
+}

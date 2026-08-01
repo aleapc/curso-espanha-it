@@ -1,0 +1,1157 @@
+{
+  "id": "b17",
+  "slot": "B17",
+  "nivel": "basico",
+  "numero": 17,
+  "parte": "17",
+  "titulo": "D'abord la pharmacie — et la carte, vous l'avez déjà",
+  "subtitulo": "Dire ce qui fait mal, ressortir avec la boîte que vous vouliez — et la plainte que vous remplissez en français, qui ne devient une plainte qu'avec votre signature",
+  "moldura": "protege",
+  "moldes": [],
+  "permissao": "Vous avez le droit d'aller à la pharmacie avant que rien ne soit grave — le comptoir est là pour ça, et il ne coûte pas une consultation. Vous avez le droit de montrer l'endroit au lieu de le nommer. Vous avez le droit de parler anglais au 112, la ligne est faite pour ça. Et vous avez le droit de remplir la plainte chez vous, au téléphone, en français, au calme, à votre rythme.",
+  "permissaoAudioKey": "b17-n37",
+  "espelho": "Se ranger en silence tout au fond, là où personne ne se tient, voilà ce qui se remarque là-bas. La file est parlée, pas peinte : qui n'annonce rien en entrant se retrouve à la fin nulle part — et prend ça pour de l'impolitesse des autres.",
+  "frasePiso": "Vous ressortez avec la boîte que vous vouliez, et avec le reçu dans la poche. La plupart des visiteurs prennent ce qui atterrit sur le comptoir, et ne s'aperçoivent qu'une fois rentrés qu'il leur manque le papier qui va avec.",
+  "fichasCulturais": [
+    {
+      "sinal": "Dix heures et demie du soir, la pharmacie est dans le noir, et sur la porte vitrée une feuille avec des adresses et des dates.",
+      "suaLeitura": "Fermé. C'était donc fini pour cette nuit, et demain matin est un autre jour.",
+      "oQueEAli": "Dans chaque localité, au moins une pharmacie est de garde à tout moment, et laquelle est affiché sur la porte de toutes les autres — même celle, fermée, devant laquelle vous êtes. La feuille est le tour de garde, et le mot dessus, c'est « guardia ».",
+      "oQueVoceFaz": "Ne pas repartir. Lire quatre secondes à la porte, taper l'adresse dans le téléphone — ou demander à la première personne encore éveillée.",
+      "oQueMelhora": "Vous obtenez à minuit et demi ce que vous attendriez sinon jusqu'à neuf heures du matin, et vous tenez le mot pour le reste du voyage.",
+      "ondeNaoVale": "Le rayon n'est pas celui de chez vous : sur la côte ou dans un petit village, celle de garde est souvent déjà au village voisin, et la nuit rien n'y va. Pour ce qui ne peut pas attendre demain, ce n'est pas la pharmacie, c'est le 112.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "b17-n09",
+        "b17-n10",
+        "b17-n11",
+        "b17-n12"
+      ]
+    },
+    {
+      "sinal": "Dans la salle d'attente, sept personnes assises un peu partout, aucune file, et quand la porte s'ouvre, l'une d'elles se lève.",
+      "suaLeitura": "Ici, c'est apparemment qui s'impose le mieux. J'aurais dû me mettre devant tout de suite.",
+      "oQueEAli": "La file existe, elle est juste parlée au lieu d'être peinte. Qui entre demande une fois à la salle qui est le dernier, retient le visage de la personne d'avant et s'assoit — ensuite il en fait partie et répond la même question au suivant.",
+      "oQueVoceFaz": "En entrant, demander à voix haute qui est le dernier, retenir le visage, s'asseoir. Et répondre quand, après vous, quelqu'un demande.",
+      "oQueMelhora": "Vous ne perdez pas vingt minutes au profit de gens venus après vous, et vous tenez la même phrase à l'étal du boucher et au guichet des billets.",
+      "ondeNaoVale": "Pas là où une borne distribue des numéros ou où l'on travaille sur rendez-vous — dans bien des centres de santé et à la comisaría, le ticket est la file, et la question passe alors pour un examen.",
+      "evidencia": "CONSENSO",
+      "audioKeys": [
+        "b17-n13",
+        "b17-n14",
+        "b17-n15"
+      ]
+    },
+    {
+      "sinal": "Vous êtes devant deux maisons dans la même rue. Les deux ont une enseigne, les deux un accueil, et dans les deux on vous soignerait tout de suite.",
+      "suaLeitura": "Je vais dans la plus lumineuse. J'ai ma carte, et on soigne partout.",
+      "oQueEAli": "La carte au dos de votre carte Vitale — la CEAM — vaut dans le réseau public : au centre de santé et à l'hôpital public, aux mêmes conditions que pour un résident. Dans une clinique privée, elle ne vaut pas, et la facture tombe quand même.",
+      "oQueVoceFaz": "Avant de glisser la carte sur le comptoir, une question : public ou privé. Et si c'est privé et que vous restez, réclamer le reçu avant de partir.",
+      "oQueMelhora": "Vous décidez vous-même dans quelle maison vous entrez, au lieu de le lire à la couleur de la façade — et le voyage finit sans une facture dont personne, chez vous, ne saura quoi faire.",
+      "ondeNaoVale": "Dans une vraie urgence, pas du tout : l'ambulance va où elle va, et là on ne trie personne. Et qui a une assurance voyage qui paie la clinique privée en direct y est aussi à sa place — alors la question n'est plus qu'un renseignement, pas un panneau.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "b17-n16",
+        "b17-n17",
+        "b17-n18"
+      ]
+    },
+    {
+      "sinal": "Le soir, à l'hôtel, vous remplissez un formulaire en français, vous recevez un numéro par mail, et après ça l'affaire semble réglée.",
+      "suaLeitura": "Fini. Je l'envoie demain à l'assurance, et le papier fait le reste.",
+      "oQueEAli": "En ligne, la plainte est à moitié faite. Elle n'en devient une qu'une fois signée au guichet, et le délai pour ça est court et figure dans la confirmation. L'assurance veut la plainte signée, pas la capture d'écran du formulaire.",
+      "oQueVoceFaz": "Lire le mail de confirmation tout de suite pour le délai, et y aller le jour même si c'est possible. Emporter une pièce d'identité — sans, rien n'est enregistré.",
+      "oQueMelhora": "Vous rentrez avec un papier qui compte, au lieu d'un numéro périmé, et avec le passeport de secours que cette même signature rend seul possible.",
+      "ondeNaoVale": "Pas s'il y a eu violence ou menace : alors ça ne passe pas en ligne et le guichet est d'emblée le seul chemin. Et pas si vous savez qui c'était, ou s'il y a des témoins — là non plus le formulaire ne le prend pas.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "b17-n24",
+        "b17-n25",
+        "b17-n26",
+        "b17-n27"
+      ]
+    }
+  ],
+  "fatosDatados": [
+    {
+      "id": "farmacia-de-guardia-na-porta",
+      "afirmacao": "Dans chaque localité, en dehors des heures d'ouverture, au moins une pharmacie est toujours de garde, et le tour de garde est affiché sur la porte de chaque pharmacie — même celle qui est fermée.",
+      "fonte": "rede de Colegios Oficiales de Farmacéuticos, prática nacional (ex.: COFM, Madri); agregador farmacias365.com — citado em docs/pesquisa-espanha.md §7.1",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "b17-n10",
+        "b17-n11",
+        "b17-n12"
+      ]
+    },
+    {
+      "id": "sin-receta-e-a-caixa-maior",
+      "afirmacao": "Antidouleurs, fébrifuges, anti-inflammatoires, antihistaminiques et protecteurs gastriques s'obtiennent sans ordonnance ; la boîte porte alors la mention « sin receta médica ». Les antibiotiques, jamais. La boîte d'ibuprofène 600 exige sans exception une ordonnance.",
+      "fonte": "marco regulatório espanhol de dispensação, 2026, amplamente reportado pelo setor farmacêutico — citado em docs/pesquisa-espanha.md §8.5",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "b17-n05",
+        "b17-n06"
+      ]
+    },
+    {
+      "id": "cartao-europeu-so-vale-na-rede-publica",
+      "afirmacao": "La Carte Européenne d'Assurance Maladie (CEAM, au dos de la carte Vitale) donne accès aux soins publics, aux mêmes conditions que pour un résident — au centre de santé et à l'hôpital public. Dans une clinique privée, elle ne vaut pas.",
+      "fonte": "regra intra-UE da CEAM/EHIC (no verso do cartão Vitale; Cleiss / Assurance Maladie), e o desenho do sistema espanhol descrito em docs/pesquisa-espanha.md §8.5",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "b17-n17",
+        "b17-n18"
+      ]
+    },
+    {
+      "id": "denuncia-online-em-frances-e-a-assinatura",
+      "afirmacao": "La plainte peut se déposer en ligne, le formulaire existe en français (avec l'anglais, l'italien et l'allemand), et il couvre le vol à la tire et la perte de documents et d'affaires. En cas de violence ou de menace, ce n'est pas possible. Elle ne devient valable qu'une fois signée au guichet, et le délai figure dans la confirmation.",
+      "fonte": "Policía Nacional, denuncias.policia.es (formulário em inglês, francês, italiano e alemão) — citado em docs/pesquisa-espanha.md §7.5",
+      "ano": 2026,
+      "revisarAte": "2027-01-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "b17-n25",
+        "b17-n26",
+        "b17-n27"
+      ]
+    },
+    {
+      "id": "sate-e-a-costa-continental",
+      "afirmacao": "Le guichet SATE — plainte, blocage des cartes, consulat et renseignements à un seul comptoir, avec interprète — existe à treize endroits. Sur la côte où ce voyageur débarque le plus, il est à Benidorm et Gandía (Costa Blanca) et le long de la Costa del Sol (Málaga, Marbella, Estepona, Benalmádena) ; en Catalogne et à Barcelone, première destination française, il n'y en a pas, et c'est le comptoir ordinaire qui en tient lieu.",
+      "fonte": "Policía Nacional / Guardia Civil, Plan Turismo Seguro (13 postos SATE) — docs/pesquisa-espanha.md §7.5; a reponderação para o litoral continental (Catalunha/Valência/Andaluzia) é leitura da DERIVACAO-FR §3.1 e §4.2",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "b17-n29",
+        "b17-n30"
+      ]
+    },
+    {
+      "id": "falso-policial-pede-carteira",
+      "afirmacao": "Un vrai agent demande la pièce d'identité, jamais le portefeuille. Qui réclame le porte-monnaie n'en est pas un — et qui propose d'aller ensemble à la comisaría perd tout intérêt.",
+      "fonte": "golpe do falso policial — docs/pesquisa-espanha.md §7.4 (d)",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "b17-n34",
+        "b17-n35"
+      ]
+    },
+    {
+      "id": "112-atende-em-ingles",
+      "afirmacao": "Le 112 est le numéro unique pour la police, les pompiers et l'ambulance, et on y répond aussi en anglais.",
+      "fonte": "112 número único, atendimento em inglês — docs/pesquisa-espanha.md §7.5 e §8.5",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "b17-n19",
+        "b17-n20"
+      ]
+    }
+  ],
+  "_notas": {
+    "_": "PARTE ESCRITA EM FRANCÊS, re-derivada da parte alemã contra a DERIVACAO-FR §4.2 (B17 = MÉDIA, para menos). Nenhum campo `es`/`tts` foi tocado e nenhum `audioKey` de clipe espanhol foi renomeado: as chaves espanholas vêm do andaime e o custo de crédito espanhol desta parte é ZERO. O que se re-derivou é a camada francesa — a narração-guia inteira, a `cena`, os prompts, as fichas, os `fatosDatados`, o `aprofundar` e o respelling `pinyin` (esquema francês, não o alemão). Vozes-guia trocadas para os placeholders do audio.config: Juli→GuiaFem (educadora), Thomas→GuiaMasc (alertas), guiaLingua `fr`. Carmen/Emilio (peninsulares) intocados.",
+    "voz_guia_renomeada": "Os steps de voz-guia passaram de `Juli`/`Thomas` (resíduo do scaffold alemão) para `GuiaFem`/`GuiaMasc`, os nomes que o audio.config.json._g14.guia declara para este SKU. NÃO é cosmético: o G14 (voz × língua) só confere um clipe cuja `voz` está no conjunto `guia` ou `alvo` — com `Juli`/`Thomas` a narração francesa passaria SEM SER CHECADA. GuiaMasc carrega a batida de alerta (o falso amigo `constipado`, b17-t01/t02) e as duas notas fonéticas (b17-t03, b17-t04/t05). Os voiceId FR são PLACEHOLDER: o áudio-guia NÃO se gera até o casting fechar (DERIVACAO §5).",
+    "o_eixo_nesta_parte": "O EIXO DO SKU é o FALSO AMIGO (DERIVACAO §4.0), e B17 é uma das cenas onde ele morde. A fonética aqui é quase toda BRINDE para o francês, e o custo migra para o LÉXICO. O falso amigo de ASSINATURA da parte é `constipado`=RESFRIADO (NÃO `constipé`=prisão de ventre), na voz da GuiaMasc grudado à cena da farmácia (b17-t01/t02), DEPOIS de o aluno já ter produzido a frase — e é AINDA mais traiçoeiro que no alemão/inglês por ser cognato quase idêntico (DERIVACAO §1.6, moldes.json SOY-ESTOY). Uma advertência de SENTIDO, não de som. Regra do G4 respeitada: um falso amigo por parte, grudado à cena.",
+    "a_fonetica_que_o_frances_ganha_de_graca": "A GRANDE INVERSÃO vs o alemão, e é o que MATA a moldura de leitura alemã. O andaime alemão fazia de `¿Hay alguien que hable inglés?` um TESTE de leitura — «três armadilhas em cinco palavras: dois ⟨h⟩ e um ⟨qu⟩». Para o francês os TRÊS são BRINDES: o `h` é mudo (`hôtel`), o `qu` é [k] (`qui`) — copiar o teste alemão aqui é o anti-padrão 9 em ato. Os dois beats da GuiaMasc (b17-t04/t05) FORAM VIRADOS: t04 afirma o brinde (você lê isso certo sem pensar), t05 fica com o ÚNICO custo real, a TÔNICA — `HA-ble` frappe o começo, não o fim (`ha-BLÉ` é o erro), eco de B01. Nada de ⟨qu⟩=[kv] nem de ⟨h⟩ audível: são notas alemãs que o francês não precisa.",
+    "o_brinde_da_preposicao": "Onde o alemão AVISAVA («alérgico a, nie contra» — o alemão erra com `gegen`), o francês GANHA: `alérgico a` = `allergique à`, a preposição COINCIDE (DERIVACAO §2.2 SOY-ESTOY, moldes.json). `b17-n08` foi reescrito de aviso para brinde — «pour une fois la préposition tombe juste» — e aponta para a parte treze, casa de SOY-ESTOY, onde o `a` mora grudado à frase-martelo.",
+    "a_gag_do_movil_e_o_v": "O andaime alemão fazia de `móvil` um callback da gag `vino`×`fino` (⟨v⟩=[f], «kostet keinen Sherry»). Essa gag MORRE no francês: o francês distingue `b`≠`v` e diz [v], que é ENTENDIDO (DERIVACAO §1.2 linha 13, §1.4). `b17-t03` foi rebaixado de alarme a NOTA LEVE e receptiva, e reenquadrado no eixo: dois cognatos, dois destinos — `constipado` mentiu, `móvil` não; o `v` espanhol soa como `b` («MO-bil») e você é entendido de qualquer jeito. Nenhum sherry, nenhum callback a uma gag que este SKU não tem.",
+    "sate_reponderado_para_o_continente": "CORREÇÃO DE REPONDERAÇÃO, do mesmo tipo que I09. O andaime alemão nomeava os QUATRO SATE BALEARES (Manacor, Playa de Palma, Ibiza, Mahón) porque 42% do comprador alemão desembarca nas ilhas. Para o francês o destino é o LITORAL CONTINENTAL (Catalunha 30%, Valência 17%, Andaluzia 11% — DERIVACAO §3.1). Conferido em disco (pesquisa §7.5): os 13 postos são Madrid, Sevilla, Granada, Málaga, Marbella, Estepona, Benalmádena, Benidorm, Gandía, Manacor, Playa de Palma, Ibiza, Mahón. Os relevantes para este comprador são Benidorm e Gandía (Costa Blanca) e o cacho da Costa del Sol — e o dado HONESTO, que a parte diz em voz alta (b17-n29/n30, fato 5): a Catalunha, primeira destinação francesa, NÃO tem posto SATE, então na Costa Brava e em Barcelona o balcão comum é o balcão dele. Isto casa com a §3.5 (o francês não tem escotilha; usa o balcão normal). `b17-p12` mudou de «Playa de Palma» para «Benidorm».",
+    "a_denuncia_em_frances": "É o único SKU do catálogo em que isto pode ser dito, e está CONFERIDO: pesquisa §7.5 (denuncias.policia.es) registra o formulário disponível em «inglês, francês, italiano e alemão». `b17-n25` diz que o formulário existe em francês (moldura de poder, `ganha`), e a armadilha vem logo atrás na mesma cápsula (b17-n26/n27): online é meia denúncia, só vale assinada, e o prazo é curto. Fato 4 leva a língua francesa e a fonte.",
+    "o_que_a_derivacao_mandou_encolher": "B17 é MÉDIA-para-menos (DERIVACAO §4.2). (1) A farmácia que TRIA antes do hospital NÃO é ensinada como conceito: `b17-n04` a trata como reconhecimento — «ce comptoir trie, conseille et délivre, comme celui de chez vous ; neufs, il n'y a que les mots» —, que é a tese inteira do slot para este comprador e volta no fecho (`b17-n40`). (2) O `farmacia de guardia` NÃO ganha bloco de descoberta: o francês já conhece a pharmacie de garde, então a ficha vira reconhecimento em três clipes e o tempo devolvido paga o CAMPO 6 (o raio do rodízio, qualitativo, sem número). (3) `¿Quién es el último?` mantém a FALA e corta a explicação: a lógica da fila falada o francês já reconhece; o que a parte entrega é a regra de responder ao próximo.",
+    "numeros_que_NAO_foram_ao_audio": "Três, portados do andaime porque a razão é do destino, não do comprador. (1) O PRAZO DE RATIFICAÇÃO: pesquisa §7.5 registra CONFLITO 48 h × 72 h — fora do áudio; a linha gravada é «le délai est court et il est dans le mail de confirmation», verdadeira nas duas hipóteses. (2) O TELEFONE `902 102 112`: numeração 902 é tarifada e em migração (§7.5 R10) — fora; fica o NOME do serviço (SATE). (3) O IBUPROFENO 600: fato datado com `risco: medio` e a pesquisa §8.5 anota ⚠️ «Confirmar ficha AEMPS (R9)». A narração foi escrita para NÃO depender da miligramagem: a caixa mais forte precisa de papel do médico e a ação é PERGUNTAR (`¿Esto necesita receta?`), certo mesmo se a ficha AEMPS mudar. E o raio do rodízio da farmácia de guardia é qualitativo («sur la côte, celle de garde est souvent déjà au village voisin»), sem os «quarenta minutos» que o andaime alemão chegou a inventar.",
+    "moldes_e_o_fecho": "Quatro redisparos que o roster promete para B17 (moldes.json), todos com casa ANTES de B17 (G9d): ME-PUEDE (casa B03) em `algo para el dolor de cabeza`, `algo para las quemaduras del sol`, `algo para el dolor de estómago`; HAY (casa B08) em `una farmacia de guardia` e `alguien que hable inglés`; DONDE (casa B08) em `el consulado`; SOY-ESTOY (casa B13) em `alérgico a la penicilina`. Mais `Me han robado + [X]` (`ensinados_mas_nao_declarados`, casa B17) em `la cartera` e `el móvil`. O encaixe `dar la factura para el seguro` de ME-PUEDE NÃO foi reusado (B04 já o produz; redisparo com encaixe velho é recall de frase). A raiz NÃO declara `moldes[]` — B17 não é casa de nenhum —, e por isso o fecho é «Grammaire en bref» (PRODUTO T4): `b17-n40` CONTA os moules que trabalharam, sem reapresentar nenhum, e fecha com a heurística desta parte — «neufs, il n'y avait que les mots», eco literal de `b17-n04`.",
+    "consulta": "Sete `responde` marcados, cobrindo dez folhas (o índice é multigrafo, PRODUTO §6): `saude/algo-para`, `saude/receita`, `saude/minha-alergia`, `saude/guardia`, `saude/112`, `apuro/112`, `apuro/roubo`, `apuro/denuncia`, `chegar/ultimo`, `apuro/golpes`. `apuro/golpes` só é enchida por esta parte no curso inteiro (as três frases de maschen — `Déjeme en paz.`, `Enséñeme su placa. Vamos a la comisaría.`, `No he pedido esto…` — só existem neste arquivo), e o step `responde` de `e08b-placa-e` é o único que enche essa folha.",
+    "respelling_re_derivado": "O campo `pinyin` foi RE-DERIVADO para o OLHO FRANCÊS (o respelling alemão não porta e nunca vai ao TTS, INV-6). Convenção idêntica à de B10: MAIÚSCULA = tônica · `ou` = o `u` espanhol [u] (nunca [y]) · `kh` = a jota [x] (`cajero`→ka-KHÉ-ro, `déjeme`→DÉ-khé-mé, `urgencias`→our-KHEN-ssiass) · `b` = o v/b espanhol (`móvil`→MO-bil, `privado`→pri-BA-do) · `ss` = z, c+e/i e s intervocálico, sempre duro (`cabeza`→ka-BÉ-ssa, `pasaporte`→pa-ssa-POR-té) · `gn` = ñ (`enséñeme`→en-SÉ-gné-mé) · `gw` = gu+a (`guardia`→GWAR-dia) · `y` = ll/y ([j], `llame`→YA-mé) · `h` mudo cai · `qu`=k · finais escritas pronunciadas, `-e` final → `-é`. É INFERÊNCIA e PENDÊNCIA de revisor FR-L1 + peninsular antes do áudio, em especial o glifo da jota.",
+    "pendencia_G14": "O portão voz × língua roda neste SKU (audio.config, guiaLingua `fr`) e esta parte sai com zero divergência DEPOIS da renomeação. GuiaFem e GuiaMasc CITAM espanhol dentro da narração francesa — `guardia`, `constipado`, `alérgico a`, `Me han robado`, `móvil`, `SATE` — e isso é o trabalho da guia (INV-5); nenhum step de voz-guia carrega uma frase espanhola como fala. Carmen e Emilio não dizem uma palavra de francês. INV-5 segue exigindo conferência humana (este repositório já teve o acidente do mp3 na língua errada).",
+    "modelo_antes_da_producao": "Conferido step a step: todo `responde` tem um `ouvir` da MESMA chave antes dele, dentro da parte, com duas exceções declaradas iguais às do andaime. (1) O callback `e07a-aire-e`, modelado e produzido em B16 — é o desenho do slot de callback. (2) `e08a-estomago-e`, modelado no bloco da farmácia e só produzido no recap doze minutos depois: é o terceiro encaixe de ME-PUEDE, e fica de propósito no balcão do aeroporto porque é a chave que B18 recolhe como callback dela."
+  },
+  "cena": "Dix heures et demie du matin, deuxième jour, la tête cogne depuis le réveil — et en biais, entre deux boutiques, clignote une croix verte.",
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n01",
+      "bloco": "aquecimento",
+      "gesto": 4,
+      "tom": "ganha",
+      "pt": "Échauffement, dix secondes. Un petit coup sec par r : fa-r-macia, r-eceta, ca-r-tera. Un coup de langue en avant, jamais du fond."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "promptAudioKey": "b17-p01",
+      "promptPt": "Trois heures du matin, trente et un degrés, et le bloc au mur reste muet. En bas, quelqu'un est au comptoir. Signalez la chose — juste la chose. Parlez maintenant.",
+      "audioKey": "e07a-aire-e",
+      "es": "El aire acondicionado no funciona.",
+      "pinyin": "el AÏ-ré a-kon-di-ssio-NA-do no foun-SSIO-na",
+      "pt": "le truc au mur qui ne fait rien"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n02",
+      "bloco": "cena",
+      "pt": "Dix heures et demie, deuxième jour. La tête cogne, les épaules brûlent, et ici personne ne connaît votre médecin."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n03",
+      "tom": "ganha",
+      "pt": "Bonne nouvelle d'abord : vous n'avez nulle part où aller, et juste en face clignote déjà une croix verte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n04",
+      "tom": "ganha",
+      "pt": "Ce comptoir trie, conseille et délivre — comme celui de chez vous. Neufs, il n'y a que les mots."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e08a-cabeza-c",
+      "es": "¿Me puede recomendar algo para el dolor de cabeza?",
+      "pinyin": "mé POUÉ-dé rré-ko-men-DAR AL-go PA-ra el do-LOR dé ka-BÉ-ssa",
+      "pt": "Vous pouvez me conseiller quelque chose contre le mal de tête ?",
+      "tts": "¿Me puede recomendar algo para el dolor de cabeza?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "bloco": "corpo",
+      "molde": "ME-PUEDE",
+      "encaixe": "algo para el dolor de cabeza",
+      "encaixeGloss": "le mal de tête",
+      "promptAudioKey": "b17-p02",
+      "promptPt": "La pharmacie du quartier, dix heures. Depuis hier soir ça cogne derrière votre front, et le nom de la boîte qui arrête ça, vous l'ignorez. Parlez maintenant.",
+      "audioKey": "e08a-cabeza-c",
+      "es": "¿Me puede recomendar algo para el dolor de cabeza?",
+      "pinyin": "mé POUÉ-dé rré-ko-men-DAR AL-go PA-ra el do-LOR dé ka-BÉ-ssa",
+      "pt": "contre ce qui cogne depuis hier",
+      "consulta": [
+        "saude/algo-para",
+        "saude/receita"
+      ]
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e08a-esparausted-e",
+      "receptivo": true,
+      "acao": "Répondre par oui ou non — et si vous prenez déjà quelque chose, montrer la boîte au lieu de l'épeler.",
+      "es": "¿Es para usted? ¿Toma alguna otra medicación?",
+      "pinyin": "éss PA-ra ouss-TÉ? TO-ma al-GOU-na O-tra mé-di-ka-SSION",
+      "pt": "👂 « C'est pour vous ? Vous prenez autre chose ? » — les deux questions qui viennent toujours.",
+      "tts": "¿Es para usted? ¿Toma alguna otra medicación?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e08a-quemaduras-c",
+      "es": "¿Me puede recomendar algo para las quemaduras del sol?",
+      "pinyin": "mé POUÉ-dé rré-ko-men-DAR AL-go PA-ra lass ké-ma-DOU-rass del sol",
+      "pt": "Vous pouvez me conseiller quelque chose contre les coups de soleil ?",
+      "tts": "¿Me puede recomendar algo para las quemaduras del sol?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PUEDE",
+      "encaixe": "algo para las quemaduras del sol",
+      "encaixeGloss": "le coup de soleil",
+      "promptAudioKey": "b17-p03",
+      "promptPt": "La pharmacie du bord de plage, six heures du soir. Votre dos est si brûlant que dans le bus vous n'avez pas pu vous adosser. Parlez maintenant.",
+      "audioKey": "e08a-quemaduras-c",
+      "es": "¿Me puede recomendar algo para las quemaduras del sol?",
+      "pinyin": "mé POUÉ-dé rré-ko-men-DAR AL-go PA-ra lass ké-ma-DOU-rass del sol",
+      "pt": "contre ce qu'ont fait deux heures de transat"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e08a-estomago-e",
+      "es": "¿Me puede recomendar algo para el dolor de estómago?",
+      "pinyin": "mé POUÉ-dé rré-ko-men-DAR AL-go PA-ra el do-LOR dé éss-TO-ma-go",
+      "pt": "Vous pouvez me conseiller quelque chose contre le mal de ventre ?",
+      "tts": "¿Me puede recomendar algo para el dolor de estómago?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n05",
+      "pt": "Une question décide si vous ressortez avec la boîte ou s'il vous faut d'abord un médecin."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e08a-receta-e",
+      "es": "¿Esto necesita receta?",
+      "pinyin": "ESS-to né-ssé-SSI-ta rré-SSÉ-ta",
+      "pt": "Il faut une ordonnance pour ça ?",
+      "tts": "¿Esto necesita receta?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b17-p04",
+      "promptPt": "Il vous pose une boîte qui, chez vous, est en libre accès. Avant la caisse, réglez la seule chose qui peut être différente ici. Parlez maintenant.",
+      "audioKey": "e08a-receta-e",
+      "es": "¿Esto necesita receta?",
+      "pinyin": "ESS-to né-ssé-SSI-ta rré-SSÉ-ta",
+      "pt": "il en faut une ?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e08a-eldeseiscientos-c",
+      "receptivo": true,
+      "acao": "Prendre la plus faible et essayer avec. Si ça ne suffit pas, le médecin est l'étape suivante, pas la discussion.",
+      "es": "Este no. El de seiscientos sí.",
+      "pinyin": "ESS-té no. el dé séiss-SSIEN-toss si",
+      "pt": "👂 « Celui-ci non. Celui de six cents, oui. » — la boîte la plus forte ne part qu'avec un papier du médecin.",
+      "tts": "Este no. El de seiscientos sí."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n06",
+      "tom": "ganha",
+      "pt": "Antidouleur, fièvre, allergie, estomac : tout ça sur l'étagère, sans ordonnance. Les antibiotiques, jamais."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b17-t01",
+      "pt": "ATTENTION. « Estoy constipado » veut dire : j'ai un rhume. Rien à voir avec `constipé` — le mot vous ressemble trop, et c'est là le piège."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b17-t02",
+      "pt": "Qui le lit à la française repart avec exactement le mauvais remède — et s'en aperçoit seulement le soir."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e08a-constipado-e",
+      "es": "Estoy constipado.",
+      "pinyin": "éss-TOÏ konss-ti-PA-do",
+      "pt": "J'ai un rhume.",
+      "tts": "Estoy constipado."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b17-p05",
+      "promptPt": "Troisième jour, clim dans le car, et ce matin le nez est bouché et la gorge gratte. Dites à l'homme derrière le comptoir ce qui ne va pas. Parlez maintenant.",
+      "audioKey": "e08a-constipado-e",
+      "es": "Estoy constipado.",
+      "pinyin": "éss-TOÏ konss-ti-PA-do",
+      "pt": "nez bouché, gorge qui gratte"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n07",
+      "pt": "Il tend déjà la main vers l'étagère, et il reste un seul instant pour dire une chose de plus."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e08a-penicilina-c",
+      "es": "Soy alérgica a la penicilina.",
+      "pinyin": "soi a-LÉR-khi-ka a la pé-ni-ssi-LI-na",
+      "pt": "Je suis allergique à la pénicilline.",
+      "tts": "Soy alérgica a la penicilina."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e08a-penicilina-e",
+      "es": "Soy alérgico a la penicilina.",
+      "pinyin": "soi a-LÉR-khi-ko a la pé-ni-ssi-LI-na",
+      "pt": "Je suis allergique à la pénicilline.",
+      "tts": "Soy alérgico a la penicilina."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "SOY-ESTOY",
+      "encaixe": "alérgico a la penicilina",
+      "promptAudioKey": "b17-p06",
+      "promptPt": "La boîte est déjà sur le comptoir. Depuis l'enfance, une substance que vous ne supportez pas — et il vient de vous poser la question. Parlez maintenant.",
+      "audioKey": "e08a-penicilina-e",
+      "es": "Soy alérgico a la penicilina.",
+      "pinyin": "soi a-LÉR-khi-ko a la pé-ni-ssi-LI-na",
+      "pt": "ce que vous ne supportez pas",
+      "consulta": [
+        "saude/minha-alergia"
+      ]
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n08",
+      "pt": "Pour une fois la préposition tombe juste : `alérgico a`, exactement comme `allergique à` — le même petit `a` qu'à la partie treize."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n09",
+      "bloco": "capsula",
+      "tom": "protege",
+      "pt": "Dix heures et demie du soir, la pharmacie est éteinte. Ne partez pas. Sur la vitre, une feuille est collée."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n10",
+      "tom": "ganha",
+      "pt": "Cette feuille, vous la connaissez — chez vous, la pharmacie de garde. Le mot, ici, c'est « guardia »."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n11",
+      "pt": "Elle est sur la porte de chaque pharmacie, même celle qui est fermée. Quatre secondes de lecture suffisent."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n12",
+      "tom": "protege",
+      "pt": "Le rayon n'est pas le vôtre : sur la côte, celle de garde est souvent déjà au village voisin."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e08a-guardia-c",
+      "es": "¿Hay una farmacia de guardia por aquí?",
+      "pinyin": "aï OU-na far-MA-ssia dé GWAR-dia por a-KI",
+      "pt": "Il y a une pharmacie de garde par ici ?",
+      "tts": "¿Hay una farmacia de guardia por aquí?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "HAY",
+      "encaixe": "una farmacia de guardia",
+      "encaixeGloss": "celle qui est ouverte",
+      "promptAudioKey": "b17-p07",
+      "promptPt": "Onze heures du soir, quartier inconnu, l'enfant a de la fièvre, et trois vitrines de suite sont éteintes. L'homme ferme justement son bar. Parlez maintenant.",
+      "audioKey": "e08a-guardia-c",
+      "es": "¿Hay una farmacia de guardia por aquí?",
+      "pinyin": "aï OU-na far-MA-ssia dé GWAR-dia por a-KI",
+      "pt": "celle qui est ouverte cette nuit",
+      "consulta": [
+        "saude/guardia"
+      ]
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n13",
+      "bloco": "capsula",
+      "pt": "Sept personnes assises un peu partout dans la salle, et aucune file. La file existe pourtant."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n14",
+      "pt": "Elle est parlée, pas peinte. Quatre mots en entrant, et vous avez votre place dedans."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e08a-ultimo-c",
+      "es": "¿Quién es el último?",
+      "pinyin": "kién éss el OUL-ti-mo",
+      "pt": "Qui est le dernier ?",
+      "tts": "¿Quién es el último?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b17-p08",
+      "promptPt": "La salle d'attente du centre de santé, six personnes assises un peu partout, personne ne lève les yeux. Lancez la question à la salle. Parlez maintenant.",
+      "audioKey": "e08a-ultimo-c",
+      "es": "¿Quién es el último?",
+      "pinyin": "kién éss el OUL-ti-mo",
+      "pt": "la question qu'on lance à toute la salle",
+      "consulta": [
+        "chegar/ultimo"
+      ]
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e08a-yodetrasdemi-e",
+      "receptivo": true,
+      "acao": "Retenir le visage de la personne d'avant — et répondre la même chose au suivant qui entre.",
+      "es": "Yo. Detrás de mí ya no hay nadie.",
+      "pinyin": "yo. dé-TRASS dé mi ya no aï NA-dié",
+      "pt": "👂 « Moi. Derrière moi, il n'y a plus personne. » — la phrase que vous direz vous-même dans un instant.",
+      "tts": "Yo. Detrás de mí ya no hay nadie."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n15",
+      "pt": "Là où une borne distribue des numéros, la question ne sert plus. C'est le ticket qui fait la file."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n16",
+      "bloco": "capsula",
+      "tom": "protege",
+      "pt": "Maintenant la partie qui coûte de l'argent. Deux maisons dans la même rue, deux enseignes, deux entrées éclairées."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n17",
+      "tom": "ganha",
+      "pt": "Votre carte européenne de la partie quatre vaut dans la maison publique, aux conditions des gens d'ici."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n18",
+      "tom": "protege",
+      "pt": "Dans la clinique privée, ce n'est qu'un bout de plastique. De dehors, ça ne se voit pas — une question, si."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e08a-publico-c",
+      "es": "¿Esto es público o privado?",
+      "pinyin": "ESS-to éss POU-bli-ko o pri-BA-do",
+      "pt": "C'est public ou privé, ici ?",
+      "tts": "¿Esto es público o privado?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b17-p09",
+      "promptPt": "Un accueil clair, on vous glisse un formulaire et une main se tend déjà vers votre carte. Réglez d'abord dans quel réseau vous êtes tombé. Parlez maintenant.",
+      "audioKey": "e08a-publico-c",
+      "es": "¿Esto es público o privado?",
+      "pinyin": "ESS-to éss POU-bli-ko o pri-BA-do",
+      "pt": "dans quel réseau je suis tombé"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e08a-factura-e",
+      "receptivo": true,
+      "acao": "Réclamer le reçu sur place, avant de passer la porte. Après, plus personne ne le redonne.",
+      "es": "¿Me puede dar la factura para el seguro?",
+      "pinyin": "mé POUÉ-dé dar la fak-TOU-ra PA-ra el sé-GOU-ro",
+      "pt": "👂 La phrase de la partie quatre, ici à la caisse — sans papier, chez vous personne ne rembourse.",
+      "tts": "¿Me puede dar la factura para el seguro?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n19",
+      "tom": "ganha",
+      "pt": "Et si c'est vraiment grave : 112. Là, vous avez le droit de parler anglais — la ligne est faite pour ça."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n20",
+      "pt": "La phrase espagnole n'est pas pour le standard. Elle est pour la personne debout à côté de vous."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e08a-ambulancia-e",
+      "receptivo": true,
+      "acao": "S'adresser à une personne en la regardant, jamais au groupe. Celui qu'on regarde appelle.",
+      "es": "Necesito una ambulancia. Es una emergencia.",
+      "pinyin": "né-ssé-SSI-to OU-na am-bou-LAN-ssia. éss OU-na é-mér-KHEN-ssia",
+      "pt": "👂 « J'ai besoin d'une ambulance. C'est une urgence. » — à la personne à côté, pas au téléphone.",
+      "tts": "Necesito una ambulancia. Es una emergencia."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e08a-duele-e",
+      "es": "Me encuentro mal. Me duele aquí.",
+      "pinyin": "mé en-KOUEN-tro mal. mé DOUÉ-lé a-KI",
+      "pt": "Je me sens mal. J'ai mal ici.",
+      "tts": "Me encuentro mal. Me duele aquí."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b17-p10",
+      "promptPt": "La médecin vous regarde et attend. Pas le mot de l'organe, mais un doigt et un point sous les côtes. Deux phrases courtes, et montrez. Parlez maintenant.",
+      "audioKey": "e08a-duele-e",
+      "es": "Me encuentro mal. Me duele aquí.",
+      "pinyin": "mé en-KOUEN-tro mal. mé DOUÉ-lé a-KI",
+      "pt": "mal — et le doigt dit où",
+      "consulta": [
+        "saude/112",
+        "apuro/112"
+      ]
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e08a-placas-c",
+      "receptivo": true,
+      "acao": "En cas d'OLA DE CALOR, entre deux et six, pas à pied. Métro, bus ou taxi ne sont alors pas un luxe.",
+      "es": "FARMACIA DE GUARDIA · URGENCIAS · SIN RECETA MÉDICA · OLA DE CALOR",
+      "pinyin": "far-MA-ssia dé GWAR-dia · our-KHEN-ssiass · sin rré-SSÉ-ta MÉ-di-ka · O-la dé ka-LOR",
+      "pt": "👂 Garde · urgences · sans ordonnance · canicule — quatre panneaux qui changent la journée.",
+      "tts": "Farmacia de guardia. Urgencias. Sin receta médica. Ola de calor."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n21",
+      "bloco": "corpo",
+      "pt": "Seconde moitié. Il ne s'agit plus de votre estomac, mais de votre poche."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n22",
+      "pt": "Ce qui arrive ici, c'est presque toujours une main, pas une agression. Onze heures, escalator bondé, soleil."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e08b-socorro-e",
+      "receptivo": true,
+      "acao": "Si vous entendez ça : votre sac contre le corps et vers l'avant, ne pas se retourner vers la rue.",
+      "es": "¡Socorro! ¡Al ladrón!",
+      "pinyin": "so-KO-rro! al la-DRON",
+      "pt": "👂 « Au secours ! Au voleur ! » — à reconnaître, pas à répéter.",
+      "tts": "¡Socorro! ¡Al ladrón!"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e08b-llame-c",
+      "receptivo": true,
+      "acao": "Choisir une personne, la regarder et lui parler. Adressé à une foule, personne n'appelle.",
+      "es": "¡Llame a la policía!",
+      "pinyin": "YA-mé a la po-li-SSI-a",
+      "pt": "👂 « Appelez la police ! » — quatre mots à une seule personne.",
+      "tts": "¡Llame a la policía!"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n23",
+      "pt": "Ensuite, une phrase compte, et elle commence toujours pareil : « Me han robado » — puis ce qui a disparu."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e08b-cartera-c",
+      "es": "Me han robado la cartera.",
+      "pinyin": "mé an rro-BA-do la kar-TÉ-ra",
+      "pt": "On m'a volé le portefeuille.",
+      "tts": "Me han robado la cartera."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "encaixe": "la cartera",
+      "encaixeGloss": "le portefeuille",
+      "promptAudioKey": "b17-p11",
+      "promptPt": "Le commissariat, une heure et demie. Dans le métro on vous a bousculé, et depuis la poche intérieure est vide — l'étui avec les cartes. Parlez maintenant.",
+      "audioKey": "e08b-cartera-c",
+      "es": "Me han robado la cartera.",
+      "pinyin": "mé an rro-BA-do la kar-TÉ-ra",
+      "pt": "l'étui avec les cartes"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b18-robado-e",
+      "es": "Me han robado el móvil.",
+      "pinyin": "mé an rro-BA-do el MO-bil",
+      "pt": "On m'a volé le portable.",
+      "tts": "Me han robado el móvil."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b17-t03",
+      "pt": "Deux mots qui se ressemblent au français, deux sorts opposés : `constipado` vous a menti, `móvil` non. Son `v` sonne comme un `b`, « MO-bil », et vous, on vous comprend."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "encaixe": "el móvil",
+      "encaixeGloss": "le téléphone",
+      "promptAudioKey": "b17-p12",
+      "promptPt": "Le guichet SATE de Benidorm, un autre voyageur. Cette fois, c'est l'appareil de la poche arrière qui manque, celui qui ouvre le plan le matin. Parlez maintenant.",
+      "audioKey": "b18-robado-e",
+      "es": "Me han robado el móvil.",
+      "pinyin": "mé an rro-BA-do el MO-bil",
+      "pt": "l'appareil de la poche arrière"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e08a-enelmomento-e",
+      "receptivo": true,
+      "acao": "Répondre honnêtement, puis ajouter les deux choses qu'il tape : quelle ligne, il y a combien de temps.",
+      "es": "¿La ha notado en el momento o después?",
+      "pinyin": "la a no-TA-do en el mo-MEN-to o déss-POUÉSS",
+      "pt": "👂 « Vous l'avez remarqué sur le moment ou plus tard ? » — la question qui va dans le procès-verbal.",
+      "tts": "¿La ha notado en el momento o después?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e08b-hasido-c",
+      "es": "Ha sido en el metro, hace diez minutos.",
+      "pinyin": "a SI-do en el MÉ-tro, A-ssé diéss mi-NOU-toss",
+      "pt": "C'était dans le métro, il y a dix minutes.",
+      "tts": "Ha sido en el metro, hace diez minutos."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b17-p13",
+      "promptPt": "Il vient de demander quand c'est arrivé, et il tape déjà. Deux choses : où vous étiez, et depuis combien de temps. Parlez maintenant.",
+      "audioKey": "e08b-hasido-c",
+      "es": "Ha sido en el metro, hace diez minutos.",
+      "pinyin": "a SI-do en el MÉ-tro, A-ssé diéss mi-NOU-toss",
+      "pt": "où — et depuis combien de temps"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n24",
+      "bloco": "capsula",
+      "pt": "Maintenant le papier dont tout dépend. Sans plainte, pas d'assurance qui paie, et pas de passeport de secours."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e08b-denuncia-e",
+      "es": "Quiero poner una denuncia.",
+      "pinyin": "KIÉ-ro po-NER OU-na dé-NOUN-ssia",
+      "pt": "Je veux déposer une plainte.",
+      "tts": "Quiero poner una denuncia."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b17-p14",
+      "promptPt": "Vous avez dit ce qui manque, il vous regarde et attend. Dites pourquoi vous êtes venu — le papier, pas la compassion. Parlez maintenant.",
+      "audioKey": "e08b-denuncia-e",
+      "es": "Quiero poner una denuncia.",
+      "pinyin": "KIÉ-ro po-NER OU-na dé-NOUN-ssia",
+      "pt": "le papier pour lequel vous êtes venu",
+      "consulta": [
+        "apuro/roubo",
+        "apuro/denuncia"
+      ]
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e08a-algundocumento-c",
+      "receptivo": true,
+      "acao": "Emporter une pièce d'identité, ou en avoir une copie dans le téléphone — sans, rien n'entre dans le système.",
+      "es": "¿Lleva algún documento? Sin documento no puedo tramitarla.",
+      "pinyin": "YÉ-ba al-GOUN do-kou-MEN-to? sin do-kou-MEN-to no POUÉ-do tra-mi-TAR-la",
+      "pt": "👂 « Vous avez une pièce d'identité ? Sans, je ne peux pas la traiter. »",
+      "tts": "¿Lleva algún documento? Sin documento no puedo tramitarla."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n25",
+      "tom": "ganha",
+      "pt": "Le formulaire existe en ligne, et il existe en français. C'est la bonne moitié de la nouvelle."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n26",
+      "tom": "protege",
+      "pt": "Et la moitié difficile : en ligne, la plainte est à moitié faite. Elle ne compte qu'une fois signée au guichet."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n27",
+      "pt": "Le délai est court, et il est dans le mail de confirmation. Allez-y le jour même si vous le pouvez."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e08b-ratificar-c",
+      "es": "Hice la denuncia por internet. Vengo a ratificarla.",
+      "pinyin": "I-ssé la dé-NOUN-ssia por in-ter-NET. BEN-go a rra-ti-fi-KAR-la",
+      "pt": "J'ai fait la plainte sur internet. Je viens la ratifier.",
+      "tts": "Hice la denuncia por internet. Vengo a ratificarla."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b17-p15",
+      "promptPt": "Deux heures, la même porte, un numéro d'hier soir dans votre mail. Dites ce qui est déjà fait et pourquoi vous êtes quand même là. Parlez maintenant.",
+      "audioKey": "e08b-ratificar-c",
+      "es": "Hice la denuncia por internet. Vengo a ratificarla.",
+      "pinyin": "I-ssé la dé-NOUN-ssia por in-ter-NET. BEN-go a rra-ti-fi-KAR-la",
+      "pt": "l'un est fait, l'autre manque"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e08b-copia-e",
+      "receptivo": true,
+      "acao": "Demander avant de sortir. Chez vous, l'assurance veut la plainte signée, pas la capture d'écran.",
+      "es": "Necesito una copia para el seguro.",
+      "pinyin": "né-ssé-SSI-to OU-na KO-pia PA-ra el sé-GOU-ro",
+      "pt": "👂 « J'ai besoin d'une copie pour l'assurance. » — la phrase qui déclenche le remboursement.",
+      "tts": "Necesito una copia para el seguro."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n28",
+      "pt": "Et si ça bloque au guichet, il y a une phrase qui marche dans tout le pays."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e08b-ingles-c",
+      "es": "¿Hay alguien que hable inglés?",
+      "pinyin": "aï AL-guien ké A-blé in-GLÉSS",
+      "pt": "Il y a quelqu'un qui parle anglais ?",
+      "tts": "¿Hay alguien que hable inglés?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "HAY",
+      "encaixe": "alguien que hable inglés",
+      "promptAudioKey": "b17-p16",
+      "promptPt": "Troisième tentative, et vous et l'agent n'avancez plus. Demandez s'il y a quelqu'un dans la maison avec qui ça irait plus vite. Parlez maintenant.",
+      "audioKey": "e08b-ingles-c",
+      "es": "¿Hay alguien que hable inglés?",
+      "pinyin": "aï AL-guien ké A-blé in-GLÉSS",
+      "pt": "quelqu'un dans la maison, pour aller plus vite"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b17-t04",
+      "pt": "Cinq mots, et pas un piège pour vous : le `h` de `hay` et de `hable` est muet, le `qu` de `que` n'est qu'un `k`. Vous les lisez juste, sans y penser."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b17-t05",
+      "pt": "Un seul vrai point : le coup de voix. `inglés` frappe le bout, vous l'avez ; mais `hable` frappe le début — HA-ble, pas ha-BLÉ. L'appui bouge, comme à la partie un."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e08a-pidaelsate-e",
+      "receptivo": true,
+      "acao": "Demander le SATE : plainte, blocage des cartes, consulat et renseignements à un seul comptoir, avec interprète.",
+      "es": "Ahora mismo no. Puede pedir el SATE, que es para turistas.",
+      "pinyin": "a-O-ra MISS-mo no. POUÉ-dé pé-DIR el SA-té, ké éss PA-ra tou-RISS-tass",
+      "pt": "👂 « Pas là. Vous pouvez demander le SATE, c'est pour les gens de passage. »",
+      "tts": "Ahora mismo no. Puede pedir el sate, que es para turistas."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n29",
+      "tom": "ganha",
+      "pt": "Ce guichet existe à treize endroits. Sur votre côte, il est à Benidorm, à Gandía, et tout au long de la Costa del Sol."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n30",
+      "pt": "Pas partout, pourtant : en Catalogne et sur la Costa Brava, il n'y en a pas. Là, le comptoir ordinaire est le vôtre, et il suffit."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e08b-pasaporte-e",
+      "es": "He perdido el pasaporte. ¿Dónde está el consulado?",
+      "pinyin": "é per-DI-do el pa-ssa-POR-té. DON-dé éss-TA el kon-ssou-LA-do",
+      "pt": "J'ai perdu le passeport. Où est le consulat ?",
+      "tts": "He perdido el pasaporte. ¿Dónde está el consulado?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "DONDE",
+      "encaixe": "el consulado",
+      "encaixeGloss": "la représentation de votre pays",
+      "promptAudioKey": "b17-p17",
+      "promptPt": "La plainte est signée, dans votre poche, et dans deux jours votre vol part. Dites ce qui manque, et demandez la maison qui le remplace. Parlez maintenant.",
+      "audioKey": "e08b-pasaporte-e",
+      "es": "He perdido el pasaporte. ¿Dónde está el consulado?",
+      "pinyin": "é per-DI-do el pa-ssa-POR-té. DON-dé éss-TA el kon-ssou-LA-do",
+      "pt": "d'abord ce qui manque, ensuite où"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n31",
+      "pt": "L'ordre est fixe : d'abord la plainte, ensuite le consulat. Sans la première, le second ne peut rien."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n32",
+      "bloco": "capsula",
+      "tom": "protege",
+      "pt": "Trois arnaques encore, et toutes trois demandent moins d'espagnol que vous ne croyez."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n33",
+      "pt": "La première : un brin de romarin dans votre main, offert. Puis arrive l'addition pour ça."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "c02b-11",
+      "receptivo": true,
+      "acao": "Les mains dans les poches, ne pas ralentir le pas. Si le brin est déjà dedans : le laisser tomber et continuer.",
+      "es": "Déjeme en paz.",
+      "pinyin": "DÉ-khé-mé en pass",
+      "pt": "👂 « Laissez-moi tranquille. » — dit en marchant, sans s'arrêter.",
+      "tts": "Déjeme en paz."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n34",
+      "pt": "Deuxième : deux hommes en civil, une carte montrée trop vite, et ils veulent voir votre portefeuille."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n35",
+      "pt": "Un vrai agent demande vos papiers, jamais votre portefeuille. Vos cartes restent où elles sont."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e08b-placa-e",
+      "es": "Enséñeme su placa. Vamos a la comisaría.",
+      "pinyin": "en-SÉ-gné-mé sou PLA-ka. BA-moss a la ko-mi-ssa-RI-a",
+      "pt": "Montrez-moi votre plaque. Allons au commissariat. — la phrase après laquelle le faux disparaît.",
+      "tts": "Enséñeme su placa. Vamos a la comisaría."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b17-p19",
+      "promptPt": "Deux hommes en civil, une carte montrée trop vite, et l'un tend la main vers votre portefeuille. Il reste où il est. Deux phrases, calmes, debout. Parlez maintenant.",
+      "audioKey": "e08b-placa-e",
+      "es": "Enséñeme su placa. Vamos a la comisaría.",
+      "pinyin": "en-SÉ-gné-mé sou PLA-ka. BA-moss a la ko-mi-ssa-RI-a",
+      "pt": "d'abord la plaque, puis la proposition",
+      "consulta": [
+        "apuro/golpes"
+      ]
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n36",
+      "pt": "La troisième : quelque chose arrive sur votre table sans que personne l'ait commandé, et finit sur l'addition."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e08b-nopedido-e",
+      "receptivo": true,
+      "acao": "Ne pas toucher, ne pas manger, et dire la phrase une fois. Ensuite, ne rien expliquer de plus.",
+      "es": "No he pedido esto y no lo voy a pagar.",
+      "pinyin": "no é pé-DI-do ESS-to i no lo boï a pa-GAR",
+      "pt": "👂 « Je n'ai pas commandé ça et je ne vais pas le payer. » — une phrase, pas une discussion.",
+      "tts": "No he pedido esto y no lo voy a pagar."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n37",
+      "bloco": "permissao",
+      "tom": "ganha",
+      "pt": "Vous avez le droit d'entrer à la pharmacie avant que rien ne soit grave. Le comptoir est là pour ça."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n38",
+      "tom": "ganha",
+      "pt": "Vous avez le droit de montrer l'endroit au lieu de le nommer, et de remplir la plainte chez vous, en français, au calme."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n39",
+      "bloco": "piso",
+      "tom": "ganha",
+      "pt": "Vous ressortez avec la boîte que vous vouliez — et avec le reçu. La plupart ne pensent au papier qu'une fois rentrés."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n40",
+      "tom": "ganha",
+      "pt": "Quatre moules d'avant ont travaillé aujourd'hui — au comptoir, à la vitre, au guichet. Neufs, il n'y avait que les mots."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-s00",
+      "pt": "À répéter. Fort, avec eux, un coup sec par r. Les deux qui sauvent une nuit et un voyage :"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "e08a-guardia-c",
+      "molde": "HAY",
+      "es": "¿Hay una farmacia de guardia por aquí?",
+      "pinyin": "aï OU-na far-MA-ssia dé GWAR-dia por a-KI",
+      "pt": "Il y a une pharmacie de garde par ici ?"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "e08b-denuncia-e",
+      "es": "Quiero poner una denuncia.",
+      "pinyin": "KIÉ-ro po-NER OU-na dé-NOUN-ssia",
+      "pt": "Je veux déposer une plainte."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "b17-r01",
+      "bloco": "recap",
+      "pt": "Encore une fois, à voix haute, à un comptoir où l'on n'était pas aujourd'hui. Dernier matin, l'aéroport."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PUEDE",
+      "encaixe": "algo para el dolor de estómago",
+      "encaixeGloss": "le mal de ventre",
+      "promptAudioKey": "b17-p18",
+      "promptPt": "La pharmacie du hall de départ, sept heures. Le dîner d'hier ne passe pas, et le vol dure deux heures. Parlez maintenant.",
+      "audioKey": "e08a-estomago-e",
+      "es": "¿Me puede recomendar algo para el dolor de estómago?",
+      "pinyin": "mé POUÉ-dé rré-ko-men-DAR AL-go PA-ra el do-LOR dé éss-TO-ma-go",
+      "pt": "contre ce qui ne passe pas depuis hier"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b17-n41",
+      "tom": "ganha",
+      "pt": "C'est tout. Croix verte, garde de nuit, commissariat, consulat — et demain, le dernier jour. Hasta luego."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "La carte, la boîte et la signature (lecture facultative)",
+    "secoes": [
+      {
+        "titulo": "Où votre carte vaut quelque chose — et où ce n'est qu'un bout de plastique",
+        "corpo": "Au dos de votre carte Vitale se trouve la Carte Européenne d'Assurance Maladie, et la partie quatre vous a demandé d'en vérifier la date. Ce qu'elle couvre est précisément délimité : les soins publics, aux mêmes conditions que pour un résident — donc au centre de santé et à l'hôpital public, en cas de maladie soudaine comme d'accident. Ce qu'elle ne couvre pas, c'est tout ce qui touche au retour, et la clinique privée. Et voici la différence avec un voyageur venu de hors Union, qui paie tout sans police : vous, la couverture, vous l'avez déjà, il vous suffit de passer la bonne porte. De dehors, la porte ne se reconnaît pas. Les deux maisons ont une enseigne, les deux un accueil, dans les deux on vous aide tout de suite — la différence n'apparaît que sur la facture. C'est pourquoi au début il y a une question, pas un jugement : ¿Esto es público o privado ? Deux phrases vont avec. Si vous choisissez la clinique privée en connaissance de cause — parce que ça doit aller vite ou parce que votre assurance voyage y paie en direct —, c'est parfaitement en ordre ; réclamez alors le reçu avant de passer la porte, car après, plus personne ne le redonne. Et dans une vraie urgence, la question tombe : l'ambulance va où elle va, et là on ne trie personne.",
+        "exemplos": [
+          {
+            "es": "¿Dónde está el centro de salud público?",
+            "pt": "DON-dé éss-TA el SSEN-tro dé sa-LOU POU-bli-ko — Où est le centre de santé public ? (même début de phrase qu'à la partie huit)"
+          },
+          {
+            "es": "¿Me puede dar la factura para el seguro?",
+            "pt": "mé POUÉ-dé dar la fak-TOU-ra PA-ra el sé-GOU-ro — Vous pouvez me donner la facture pour l'assurance ? (à la caisse, jamais après)"
+          }
+        ]
+      },
+      {
+        "titulo": "Ce qui passe le comptoir, ce qui non, et le mot sur la porte éteinte",
+        "corpo": "La pharmacie espagnole trie, conseille et délivre, et c'est exactement le rôle que vous lui connaissez chez vous — coup de soleil, mal de gorge, piqûre, estomac, allergie finissent là et pas chez le médecin. Sans ordonnance passent antidouleurs et fébrifuges, anti-inflammatoires, antihistaminiques, décongestionnants, laxatifs et protecteurs gastriques ; la boîte porte alors la mention sin receta médica. Les antibiotiques ne passent jamais sans ordonnance, sans aucune exception, et une pharmacie ou un site qui en propose sans travaille illégalement. Entre les deux court une arête qui vous surprendra, parce que la même substance, dans la même ville, est tantôt libre tantôt sur ordonnance : la boîte d'ibuprofène la plus forte demande un papier du médecin, la plus faible non. Vous n'avez pas à mémoriser cette frontière. Vous avez à poser une question — ¿Esto necesita receta ? —, qui reste juste même si la règle change. La nuit, c'est le mot guardia qui compte. Dans chaque localité, au moins une pharmacie est de garde, et le tour est affiché sur la porte de toutes les autres ; la feuille sur la vitre éteinte devant laquelle vous alliez passer vous donne l'adresse. La différence avec le tour de garde de chez vous, ce n'est pas le principe mais le rayon : sur la côte ou dans un petit village, celle de garde est souvent déjà au village voisin, et la nuit rien n'y va. Et un mot encore, qui en imite un autre : constipado veut dire enrhumé. Qui lit dedans le français constipé ressort de la pharmacie avec le contraire de ce qu'il voulait — et le mot vous ressemble tellement qu'il vous prend de vitesse.",
+        "exemplos": [
+          {
+            "es": "¿Hay una farmacia de guardia por aquí?",
+            "pt": "aï OU-na far-MA-ssia dé GWAR-dia por a-KI — Il y a une pharmacie de garde par ici ? (le h est muet, le c devant i est un s dur)"
+          },
+          {
+            "es": "Estoy constipado. / Soy alérgico a la penicilina.",
+            "pt": "éss-TOÏ konss-ti-PA-do · soi a-LÉR-khi-ko a la pé-ni-ssi-LI-na — J'ai un rhume. / Je suis allergique à la pénicilline. (toujours alérgico a, comme allergique à)"
+          }
+        ]
+      },
+      {
+        "titulo": "La plainte en français — et pourquoi elle ne devient une plainte qu'au guichet",
+        "corpo": "Ce qui frappe les voyageurs ici, c'est presque toujours le vol à la tire et non l'agression : une main dans la cohue, pas la violence d'une ruelle sombre. La minute dangereuse, c'est onze heures du matin sur un quai bondé, au soleil, le téléphone à la main. Une fois que c'est arrivé, un papier décide de tout le reste, et le chemin vers lui a pour vous un avantage que tout le monde n'a pas : la plainte se dépose en ligne, et le formulaire existe en français. Elle couvre le vol à la tire et la perte de documents et d'affaires ; en cas de violence ou de menace elle ne passe pas, et alors le guichet est d'emblée le seul chemin — de même si vous savez qui c'était, ou s'il y a eu des témoins. À la fin, vous recevez un numéro de référence, et c'est là qu'est le piège : en ligne, la plainte est à moitié faite. Elle n'en devient une qu'une fois signée au guichet, et le délai est court et figure dans la confirmation reçue par mail — lisez-la tout de suite et allez-y le jour même si vous le pouvez. Ce que veut votre assurance, c'est la plainte signée, pas la capture d'écran du formulaire. À treize endroits, il existe pour cela un guichet dédié, le SATE, où la plainte, le blocage des cartes, le contact avec le consulat et les renseignements se rejoignent, avec interprètes ; sur la côte où vous débarquez le plus, il est à Benidorm et Gandía et le long de la Costa del Sol — mais en Catalogne et à Barcelone, votre première destination, il n'y en a pas, et là le comptoir ordinaire est le vôtre. Et l'ordre, quand le passeport a disparu, n'est pas négociable : d'abord la plainte, ensuite le consulat. Sans la première, le second ne peut rien.",
+        "exemplos": [
+          {
+            "es": "Hice la denuncia por internet. Vengo a ratificarla.",
+            "pt": "I-ssé la dé-NOUN-ssia por in-ter-NET. BEN-go a rra-ti-fi-KAR-la — J'ai fait la plainte sur internet, je viens la ratifier. (la phrase qui fait de la demi-plainte une vraie)"
+          },
+          {
+            "es": "Me han robado el móvil. Necesito una copia para el seguro.",
+            "pt": "mé an rro-BA-do el MO-bil · né-ssé-SSI-to OU-na KO-pia PA-ra el sé-GOU-ro — On m'a volé le portable. J'ai besoin d'une copie pour l'assurance."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,641 @@
+{
+  "id": "a03",
+  "slot": "A03",
+  "nivel": "avancado",
+  "numero": 31,
+  "parte": "31",
+  "titulo": "Ce qu'ils croient être",
+  "subtitulo": "Le village qu'ils nomment à la place du pays ; le dénigrement de leur propre coin, où vous n'entrez pas ; et les deux comparaisons qui font la réponse courte",
+  "moldura": "ganha",
+
+  "cena": "Dix heures du soir, une terrasse dans un village dont vous articulez à peine le nom ; l'homme qui a versé le vin vous a demandé d'où vous êtes, et sa réponse à lui, c'est un village à quarante minutes de route, plus haut.",
+
+  "frasePiso": "Vous amenez quelqu'un à parler du lieu d'où il est vraiment. La plupart des visiteurs passent deux semaines ici sans jamais dépasser le nom du pays.",
+
+  "permissao": "Vous avez le droit d'aimer ça tout haut pendant qu'on le dénigre devant vous — ce n'est pas contredire, c'est être invité. Vous avez le droit de rire de la blague sur l'administration : le rire est bienvenu, l'approbation n'est pas la vôtre. Vous avez le droit de ne pas savoir où se trouve le lieu, car la question est tout l'intérêt. Et vous avez le droit d'être le guiri et de le dire tout haut — la blague sur soi-même, c'est celle qui vous appartient, et elle fait mouche à chaque fois.",
+  "permissaoAudioKey": "a03-n29",
+
+  "espelho": "«La Costa Brava, c'est un peu à nous, non ?» à la deuxième phrase, c'est ce qui détonne là-bas — le même geste qui vous fatigue quand quelqu'un débarque dans votre ville et commence par la météo. Deux autres voyagent mal dans le même sens : l'éloge avec une comparaison accrochée, qui tend à quelqu'un ce qui est à lui comme la version d'autre chose ; et rabaisser son propre pays pour être poli, ce qui, à cette table, se lit comme un accord avec la plainte, pas comme de la modestie. La plainte n'a jamais demandé de deuxième avis.",
+
+  "fichasCulturais": [
+    {
+      "sinal": "Vous demandez d'où elle vient, et elle nomme un village de quatre mille habitants, puis s'arrête et attend.",
+      "suaLeitura": "Elle croit que je connais, ou elle m'a mal compris — je voulais le pays, et elle a répondu quelque chose de bien plus petit.",
+      "oQueEAli": "La première chose offerte, c'est le local. Le pays est la réponse qui contient le moins d'information, alors il vient rarement en premier : le lieu, la région, et parfois les quatre rues alentour passent devant.",
+      "oQueVoceFaz": "Demandez «¿de qué parte?», puis ce qu'on y mange. Deux questions, et la soirée est à vous.",
+      "oQueMelhora": "Vous obtenez des conseils sur un vrai lieu plutôt que sur un pays, de quelqu'un qui vous parle maintenant de ce qu'il connaît vraiment.",
+      "ondeNaoVale": "Pas à l'accueil d'une ville d'un million d'habitants, où «de aquí» est toute la réponse, sans village derrière — ni à l'étranger, où le pays vient d'abord chez eux, exactement comme chez vous.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["a03-n05", "a03-n06", "a03-n27"]
+    },
+    {
+      "sinal": "Vous dites que ça vous plaît ici, et revient une liste de bonne humeur de ce qui ne marche pas — l'administration, les salaires, les trains.",
+      "suaLeitura": "Il confirme les mauvaises choses que j'avais déjà remarquées, alors renchérir, c'est être aimable.",
+      "oQueEAli": "Dénigrer sa propre maison devant un invité est un droit, et le droit appartient à la maisonnée. Le rire se partage ; le jugement, non. Un invité qui allonge la liste a fait un geste qu'on ne lui offrait pas.",
+      "oQueVoceFaz": "Rire, ne rien ajouter, et poser un lieu nommé à vous sur la table — un marché, une rue, un plat.",
+      "oQueMelhora": "La liste cesse de parler d'un pays et devient une conversation, et vous rentrez avec l'adresse du lieu qu'il aime vraiment.",
+      "ondeNaoVale": "Pas s'il vous demande carrément ce qu'il y a de pire. C'est une vraie question, une petite réponse concrète était attendue, et esquiver s'y lit comme de la langue de bois.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["a03-n11", "a03-n12", "a03-n13"]
+    },
+    {
+      "sinal": "Vous dites que le riz rappelle un risotto — ou vous lâchez que la Costa Brava, c'est «un peu chez nous» — et vous récoltez une syllabe plate et une épaule qui se détourne.",
+      "suaLeitura": "Je l'ai vexé à cause de l'Italie, ou à cause de la blague, et je ne saurais dire lequel.",
+      "oQueEAli": "Ni l'un ni l'autre, et c'est pour ça que c'est invisible. Ce qui arrive, c'est qu'on lui tend ce qui est à lui comme la version de quelqu'un d'autre. Une comparaison ne laisse rien à ajouter, donc elle ferme le sujet ; une question sur l'origine de la chose laisse tout ouvert.",
+      "oQueVoceFaz": "Laisser tomber la comparaison et demander plutôt : «¿hay algo típico de aquí?» Puis se taire.",
+      "oQueMelhora": "On vous raconte en détail ce qui est vraiment d'ici, et on vous pose le plus souvent quelque chose à goûter.",
+      "ondeNaoVale": "Pas entre eux — les villages voisins se comparent toute la journée, dans les deux sens, et la moitié, c'est un classement de foot. C'est la comparaison de l'extérieur qui fait la réponse courte.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["a03-t02", "a03-n17", "a03-n18"]
+    },
+    {
+      "sinal": "Vous dites tout haut comme tout est bon marché ici, l'homme qui vous a servi dit «ya», et il se met à essuyer le comptoir.",
+      "suaLeitura": "Je viens de faire à son pays un compliment sur le rapport qualité-prix, et il ne l'a pas pris.",
+      "oQueEAli": "De son point de vue, la phrase ne parle pas de ce qu'il a fait, mais de ce que son pays fait payer. Le plat, les heures derrière et la personne qui a cuisiné sont tombés hors de l'éloge ; il reste un jugement sur une étiquette de prix — et sur une côte où l'on se dispute les prix et le logement depuis des étés, ça pèse lourd.",
+      "oQueVoceFaz": "Dites ce que vous vouliez vraiment dire : c'était bon, et ça valait le voyage. «Estaba buenísimo» fait tout le travail.",
+      "oQueMelhora": "Le compliment se pose sur la personne qui l'a fait, plutôt que sur un prix, et la conversation continue au-delà du chiffre.",
+      "ondeNaoVale": "Pas s'il le dit en premier. «Aquí se come bien y barato» se dit avec fierté, et l'approuver, c'est l'approuver lui — un tout autre geste.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["a03-n23", "a03-n24", "a03-n22"]
+    }
+  ],
+
+  "_notas": {
+    "_": "Parte ESCRITA em FRANCÊS (andaime saiu; `cena` declarado, `aguardaNarracao` removido). É LEIO A SALA e por lei NÃO produz molde — a relação com o roster é auditiva. A fala espanhola é ativo de DESTINO: nenhum campo `es`, `audioKey` ou `tts` foi tocado; os 18 audioKey e os mp3 herdados do par base estão intactos. O que este SKU paga aqui é a narração FRANCESA (GuiaFem + GuiaMasc de alertas) e o respelling de cada clipe.",
+    "clipe_espanhol_novo": "NENHUM, e nenhuma dependência cross-part. Os 18 audioKey já existem em mp3 no disco, herdados verbatim (a03-guiriaqui-e, a03-guiri-e, a03-delacasa-e, i05-dedonde-e, i05-londres-e, a03-extremadura-c, a03-departe-e, a03-departe-c, a03-pueblo-c, a03-nofunciona-c, a03-burocracia-e, i06-encantomercado-c, a03-mercadosi-e, i05-barrio-e, a03-ya-e, i05-tipico-e, a03-cocido-e, i07-buenisimo-e). a03-departe-c toca três vezes (responde, shadow, recap) e i05-tipico-e duas (responde, shadow) — reuso de chave, mesmo mp3, custo zero.",
+    "reenquadre_do_par_FR": "O beat próprio do par (t01–t03 + a âncora do elogio-preço) foi RE-DERIVADO, não traduzido. O comprador francês NÃO está num arquipélago: está no litoral catalão continental (Catalunha 30% + Valência 17%), 65% chega de carro, e o catalão é transfronteiriço (Rosselló) — quase de casa. Por isso o beat alemão que tratava Mallorca como província alemã sai, e entra o clichê francês que trata a Costa Brava como anexo da França («c'est un peu à nous»): o MESMO movimento (devolver o lugar do outro como província do seu), com fato próprio do francês (1º contingente estrangeiro da Catalunha, ~1 em 5; chegada de carro — DERIVACAO §3.1). A âncora do elogio-preço migra da ILHA (Baleares, do alemão) para a COSTA continental (protestos de Barcelona 2024 contra custo de moradia e sobreturismo — FATO). G6 estrito: zero gentílico+cópula; o clichê é dito por GuiaMasc em 1ª pessoa («qu'on apporte presque tous») e espelhado contra o próprio comprador (n32/espelho), nunca como traço de povo. NÃO vira áudio sem revisor FR-L1 + espanhol peninsular (§6.4 do par).",
+    "falso_amigo_leve": "A03 NÃO é casa de falso amigo (é orgulho/identidade regional, cultural do destino). O eixo do curso só encosta de leve no aprofundar §4 (o espanhol que você aprendeu: app latino-americana × escola FR que mira o europeu — e o brinde do tom: das línguas de visitante, a sua é a mais próxima da dele). Nenhum drill de falso amigo, nenhuma lista lida. Brinde-espelho registrado e não gasto em áudio: `la carta`=`la carte` (o cardápio), que não trai o francês.",
+    "fonetica_desta_parte": "O resíduo francês que couber é a TÔNICA OXÍTONA — o erro nº1 articulatório do francês, que puxa tudo para o fim. Mora no aquecimento (n01/n02): «l'accent plus fort, pas plus long — et jamais à la fin»: eks-tré-ma-DOU-ra, ko-SSI-do (o soco cai no meio, não no fim). O resto é BRINDE: `h` mudo (`hay`→aï), `qu`=[k] (`aquí`/`qué` limpos), vogais puras. O `s` intervocálico [z] é bloqueado só pelo respelling (`ss`: `casa`→KA-ssa, `eso`→É-sso, `risa`→RRI-ssa). NÃO há jota em nenhuma palavra-alvo desta parte. Nada de `v`=[f] (o francês diz [vino] certo) — copiar traps alemães é o anti-padrão 9.",
+    "tratamento": "GuiaFem (educadora) e GuiaMasc (alertas) tratam o aluno de forma consistente em todo o SKU; a assimetria editorial do par porta (a guia trata o aluno por «vous» enquanto ensina que ao balcão espanhol se usa «tú»). Os steps foram renomeados de `Juli`/`Thomas` (resíduo do scaffold alemão) para `GuiaFem`/`GuiaMasc`, que são os nomes que `audio.config._g14.guia` declara — sem isso o G14 (voz×língua) não checa a narração. Carmen e Emilio (peninsulares, alvo) intocados.",
+    "respelling_para_leitor_frances": "O campo `pinyin` foi RE-DERIVADO para o OLHO FRANCÊS (INFERÊNCIA — exige revisor FR-L1 + peninsular antes do áudio). Esquema: MAIÚSCULA = tônica (marcada sempre onde o soco NÃO cai no fim) · `ou` = o `u` espanhol [u], nunca o [y] francês (`mucho`→MOU-tcho, `Extremadura`→…DOU-ra) · `ss` = z, c+e/i e s intervocálico, sempre [s], bloqueia o [z] francês (`casa`→KA-ssa, `eso`→É-sso) · `tch` = `ch` espanhol [tʃ], não [ʃ] (`mucho`→MOU-tcho) · `y` = ll/y de «yaourt» (`ya`→ya, `allí`→a-YI) · `b` = v/b (`verás`→bé-RASS) · `h` mudo cai (`hay`→aï) · `qu`=k (`aquí`→a-KI) · finais `-s`/`-e` MOSTRADOS porque o francês os apaga (`eres`→É-ress, `parte`→PAR-té). Saíram as marcas alemãs (o `ch de Bach`, o `j`=ja); o `ss` deixou de ser «porque o s alemão é [z]» e passou a ser «porque o s francês é [z]».",
+    "pendencia_G14": "Roda neste SKU (`audio.config._g14`, guiaLingua `fr`). A guia FRANCESA CITA espanhol dentro da narração francesa (é o trabalho dela — `«guiri»`, `«de aquí»`, `«¿de qué parte?»`, `«estaba buenísimo»`) e nunca o FALA; Carmen e Emilio não dizem uma palavra de francês. INV-5 exige conferência humana enquanto o G14 for a metade que roda por audio.config (este repositório já teve o acidente do mp3 na língua errada)."
+  },
+
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n01",
+      "bloco": "aquecimento",
+      "gesto": 1,
+      "tom": "ganha",
+      "pt": "Échauffement, dix secondes. Un coup par syllabe, toutes égales, l'accent plus fort, pas plus long — et jamais à la fin : ex-tré-ma-DOU-ra, ko-SSI-do."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n02",
+      "pt": "Main sur la jambe, avec. L'espagnol n'allonge pas la syllabe forte, il la frappe. Chez vous, l'accent part au bout ; ici, il bouge."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a03-guiriaqui-e",
+      "receptivo": true,
+      "acao": "Juste écouter. Le ton qu'on prend avec son propre frère.",
+      "es": "¡Ya está aquí el guiri!",
+      "pinyin": "ya ess-TA a-KI el GI-ri",
+      "pt": "👂 «Voilà le guiri !» — lancé à travers le bar, sans la moindre méchanceté.",
+      "tts": "¡Ya está aquí el guiri!"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "tom": "ganha",
+      "consulta": ["simpatia/puxar-conversa"],
+      "promptAudioKey": "a03-p01",
+      "promptPt": "Troisième matin dans le même bar, et l'homme au comptoir vient de vous annoncer à toute la salle. Coupez-lui l'herbe sous le pied et levez la main. Parlez maintenant.",
+      "audioKey": "a03-guiri-e",
+      "es": "Soy el guiri, ya lo sé.",
+      "pinyin": "soï el GI-ri, ya lo sé",
+      "pt": "la blague est à vous"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a03-delacasa-e",
+      "receptivo": true,
+      "acao": "Juste écouter. Voilà ce que la blague achète.",
+      "es": "¡Este ya es de la casa!",
+      "pinyin": "ESS-té ya es dé la KA-ssa",
+      "pt": "👂 «Lui, il est de la maison !» — tout de suite, sans détour.",
+      "tts": "¡Este ya es de la casa!"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n03",
+      "bloco": "cena",
+      "pt": "Dix heures du soir, une terrasse dans un village au nom imprononçable. L'homme au vin vous a demandé d'où vous êtes."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i05-dedonde-e",
+      "es": "¿De dónde eres?",
+      "pinyin": "dé DON-dé É-ress",
+      "pt": "👂 Celle de la partie vingt-trois. C'est toujours la première chose qu'on vous demande.",
+      "tts": "¿De dónde eres?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["simpatia/puxar-conversa"],
+      "promptAudioKey": "a03-p02",
+      "promptPt": "Il a versé, est resté à la table et a demandé. Répondez-lui et renvoyez-lui la même question aussitôt. Parlez maintenant.",
+      "audioKey": "i05-londres-e",
+      "es": "Soy de Londres, ¿y tú?",
+      "pinyin": "soï dé LON-dress, i tou",
+      "pt": "et ensuite c'est à lui (mettez votre ville)"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "a03-extremadura-c",
+      "receptivo": true,
+      "acao": "Écouter la deuxième phrase — pas le pays.",
+      "es": "Yo no soy de aquí. Soy de Extremadura.",
+      "pinyin": "yo no soï dé a-KI. soï dé eks-tré-ma-DOU-ra",
+      "pt": "👂 «Je ne suis pas d'ici. Je suis d'Estrémadure.» — et voilà déjà une région.",
+      "tts": "Yo no soy de aquí. Soy de Extremadura."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n04",
+      "pt": "Notez ce qu'elle n'a pas dit. Pas le pays. Elle vous a donné une région, puis s'est arrêtée."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n05",
+      "pt": "Le pays, c'est le moins qu'elle puisse dire. Tout le monde en a un. Le sien, c'est un lieu avec un nom."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a03-departe-e",
+      "es": "¿De qué parte?",
+      "pinyin": "dé ké PAR-té",
+      "pt": "«De quel coin ?» — trois mots, et ils ouvrent toute la soirée.",
+      "tts": "¿De qué parte?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n06",
+      "pt": "Elle marche pour une région, pour une ville, pour quiconque vous dit être de quelque part."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["simpatia/puxar-conversa"],
+      "promptAudioKey": "a03-p03",
+      "promptPt": "Elle a nommé une région puis s'est tue, pour voir si ça suffisait. Non. Parlez maintenant.",
+      "audioKey": "a03-departe-c",
+      "es": "¿De qué parte?",
+      "pinyin": "dé ké PAR-té",
+      "pt": "trois mots, et elle se lance"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "a03-pueblo-c",
+      "receptivo": true,
+      "acao": "Écouter — et le sourire avec.",
+      "es": "De un pueblo cerca de Cáceres. No lo conoce nadie.",
+      "pinyin": "dé oun POUÉ-blo SSER-ka dé KA-ssé-ress. no lo ko-NO-ssé NA-dyé",
+      "pt": "👂 «D'un village près de Cáceres. Personne ne connaît.» — et elle sourit en le disant.",
+      "tts": "De un pueblo cerca de Cáceres. No lo conoce nadie."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n07",
+      "tom": "ganha",
+      "pt": "Voilà la soirée. Demandez ce qu'on y mange, et vingt minutes filent, dans le bon sens."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n08",
+      "pt": "Essayez toute la semaine. Comptez les lieux que vous entendez avant que quelqu'un nomme le pays."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "a03-t01",
+      "pt": "La phrase qu'on apporte presque tous : «La Costa Brava, c'est un peu à nous, non ?»"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "a03-t02",
+      "pt": "L'homme au comptoir l'a entendue de vingt clients cet été. Il sourit et cesse d'écouter."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "a03-t03",
+      "pt": "À l'envers : quelqu'un débarque dans votre ville et l'appelle la banlieue de son pays. C'est là que ça se tait un instant."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n09",
+      "pt": "Demandez-lui plutôt son coin à lui. Même effort — et c'est ce qu'il attendait toute la soirée."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n10",
+      "tom": "protege",
+      "pt": "Maintenant celui qui piège tout le monde. Vous dites que ça vous plaît ici, et revient une liste de ce qui cloche."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "a03-nofunciona-c",
+      "receptivo": true,
+      "acao": "Écouter la bonne humeur avec laquelle c'est dit.",
+      "es": "Aquí no funciona nada, ya lo verás.",
+      "pinyin": "a-KI no foun-SSYO-na NA-da, ya lo bé-RASS",
+      "pt": "👂 «Ici rien ne marche, vous verrez.» — enjoué, sur son propre pays, à un invité.",
+      "tts": "Aquí no funciona nada, ya lo verás."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a03-burocracia-e",
+      "receptivo": true,
+      "acao": "Écouter — et le rire avec.",
+      "es": "Es que la burocracia aquí es de risa.",
+      "pinyin": "es ké la bou-ro-KRA-ssya a-KI es dé RRI-ssa",
+      "pt": "👂 «L'administration ici, c'est à mourir de rire.» — et il rit en le disant.",
+      "tts": "Es que la burocracia aquí es de risa."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n11",
+      "pt": "Ce n'est pas une invitation. C'est un droit, et le droit appartient à la maison."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n12",
+      "pt": "Approuvez tout haut, et il y a un silence d'une seconde. Riez avec, et rien ne se tait."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n13",
+      "tom": "ganha",
+      "pt": "Alors riez — et posez un lieu à vous sur la table. Un lieu, avec un nom, que vous avez aimé."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["simpatia/elogiar-lugar"],
+      "promptAudioKey": "a03-p04",
+      "promptPt": "Le chauffeur a passé dix minutes à démolir tout ce qui tombe en ruine dans sa ville. Rendez-lui le seul endroit devant lequel il est passé ce matin — celui au poisson et aux fleurs. Parlez maintenant.",
+      "audioKey": "i06-encantomercado-c",
+      "es": "Me encantó el mercado.",
+      "pinyin": "mé en-kan-TO el mer-KA-do",
+      "pt": "un lieu, nommé"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a03-mercadosi-e",
+      "receptivo": true,
+      "acao": "Écouter — on vient de vous retirer de la liste.",
+      "es": "Bueno, el mercado sí. Eso sí.",
+      "pinyin": "BOUÉ-no, el mer-KA-do si. É-sso si",
+      "pt": "👂 «Bon — le marché, oui. Ça, oui.»",
+      "tts": "Bueno, el mercado sí. Eso sí."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n14",
+      "pt": "La liste ne s'arrête pas. Mais vous êtes maintenant de l'autre côté, et c'est tout le tour."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["simpatia/elogiar-lugar"],
+      "promptAudioKey": "a03-p05",
+      "promptPt": "Un autre soir, un autre tabouret, et l'homme à côté de vous vient de rayer toute la rue où vous buvez. Ne discutez pas. Dites ce que vous pensez des quelques pâtés de maisons autour de vous. Parlez maintenant.",
+      "audioKey": "i05-barrio-e",
+      "es": "Me gusta mucho este barrio.",
+      "pinyin": "mé GOUS-ta MOU-tcho ESS-té BA-rryo",
+      "pt": "ce que vous en pensez, dit simplement"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n15",
+      "tom": "protege",
+      "pt": "Encore un, et c'est l'éloge qui referme un sujet. Il porte une comparaison en lui."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a03-ya-e",
+      "receptivo": true,
+      "acao": "Écouter : une syllabe, plate. «Compris» — et le sujet est clos.",
+      "es": "Ya.",
+      "pinyin": "ya",
+      "pt": "👂 Une syllabe. Elle dit : entendu. Elle dit aussi : terminé.",
+      "tts": "Ya."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n16",
+      "pt": "Vous avez dit que le riz rappelait un risotto. Il a dit «ya», et il est parti. Rien de grave."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n17",
+      "pt": "Ce n'est pas une question de voisins. C'est qu'on vous tend ce qui est à eux comme la version de quelqu'un d'autre."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n18",
+      "pt": "La même chose de plus loin : tacos, sombrero, mariachi. C'est un autre pays, et un océan entre les deux."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n19",
+      "pt": "Votre espagnol d'appli vient souvent de là-bas ; celui de l'école vise l'Europe. Personne ici ne vous reprendra."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n20",
+      "pt": "Les réponses raccourcissent, sans que vous sachiez pourquoi. Posez plutôt l'autre question."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "tom": "ganha",
+      "consulta": ["mesa/comida", "simpatia/puxar-conversa"],
+      "promptAudioKey": "a03-p06",
+      "promptPt": "Vous êtes à une phrase de lui dire que ce riz est au fond un plat italien. Demandez l'autre chose : ce qui appartient à ce lieu et nulle part ailleurs. Parlez maintenant.",
+      "audioKey": "i05-tipico-e",
+      "es": "¿Hay algo típico de aquí?",
+      "pinyin": "aï AL-go TI-pi-ko dé a-KI",
+      "pt": "la seule question qui est la vôtre"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a03-cocido-e",
+      "receptivo": true,
+      "acao": "Écouter : le voilà votre guide.",
+      "es": "Uy, pues aquí lo típico es el cocido. Eso sí que hay que probarlo.",
+      "pinyin": "ouï, pouéss a-KI lo TI-pi-ko es el ko-SSI-do. É-sso si ké aï ké pro-BAR-lo",
+      "pt": "👂 «Oh, le plat typique ici, c'est le cocido. Ça, il faut le goûter.»",
+      "tts": "Uy, pues aquí lo típico es el cocido. Eso sí que hay que probarlo."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n21",
+      "tom": "protege",
+      "pt": "Une phrase à laisser à la maison, et pourtant elle sonne comme un compliment en sortant : «c'est si peu cher ici»."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n22",
+      "pt": "Dite à celui qui a cuisiné, ce n'est pas un éloge du plat. C'est un jugement sur le prix de son pays."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n23",
+      "pt": "Et ici, sur une côte où l'on se bat sur les prix et le logement depuis des étés, «pas cher» ne passe pas bien."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n24",
+      "tom": "ganha",
+      "pt": "Dites ce que vous vouliez dire : c'était bon, et ça valait le voyage. Deux mots de la partie vingt-cinq."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i07-buenisimo-e",
+      "receptivo": true,
+      "acao": "Écouter : sur l'assiette, jamais sur l'addition.",
+      "es": "Estaba buenísimo.",
+      "pinyin": "ess-TA-ba boué-NI-ssi-mo",
+      "pt": "👂 Celle de la partie du restaurant. Sur le plat, pas sur le chiffre.",
+      "tts": "Estaba buenísimo."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n25",
+      "bloco": "capsula",
+      "pt": "Retour au village. Si quelqu'un nomme un lieu plutôt qu'un pays, il vous a tendu quelque chose."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n26",
+      "pt": "Prenez-le. Demandez de quel coin, demandez ce qu'on y mange, et la table s'ouvre."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n27",
+      "pt": "Pas à l'accueil d'une ville d'un million d'habitants, où «de aquí» est toute la réponse, sans village caché derrière."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n28",
+      "pt": "Et à l'étranger, ça s'inverse : là, ils nomment d'abord le pays, exactement comme vous le feriez."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n29",
+      "bloco": "permissao",
+      "tom": "ganha",
+      "pt": "Vous avez le droit d'aimer ça tout haut pendant qu'un autre le dénigre. Ce n'est pas contredire. C'est être invité."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n30",
+      "pt": "Vous avez le droit de rire de la blague sur l'administration. Le rire est bienvenu ; l'approbation n'est pas la vôtre."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n31",
+      "pt": "Et vous avez le droit d'être le guiri et de le dire tout haut. Cette blague est la vôtre, et elle fait mouche à chaque fois."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n32",
+      "bloco": "espelho",
+      "pt": "Le miroir : «c'est un peu à nous ?» à la deuxième phrase, c'est la météo qu'on vous sort dans votre ville, à l'envers."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n33",
+      "pt": "Et rabaisser votre propre pays pour être poli se lit comme un accord avec la plainte. Personne ne l'a demandé."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n34",
+      "bloco": "piso",
+      "tom": "ganha",
+      "pt": "Vous amenez quelqu'un à parler du lieu d'où il est vraiment. La plupart ne dépassent jamais le pays."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-s00",
+      "pt": "Répétez. Fort, avec eux, un coup par syllabe, sans hâte."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "a03-departe-c",
+      "es": "¿De qué parte?",
+      "pinyin": "dé ké PAR-té",
+      "pt": "De quel coin ?"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "i05-tipico-e",
+      "es": "¿Hay algo típico de aquí?",
+      "pinyin": "aï AL-go TI-pi-ko dé a-KI",
+      "pt": "Y a-t-il quelque chose de typique d'ici ?"
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "a03-rend",
+      "bloco": "recap",
+      "tom": "ganha",
+      "pt": "Encore une fois à voix haute, là où l'on ne s'est pas encore trouvé, et cette fois personne ne vous a rien demandé."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["simpatia/puxar-conversa"],
+      "promptAudioKey": "a03-p07",
+      "promptPt": "Dernier matin, la file dans une pharmacie, et la femme qui vous sert vient de dire qu'elle non plus n'est pas de cette ville. Elle attend de voir si vous en restez là. Parlez maintenant.",
+      "audioKey": "a03-departe-c",
+      "es": "¿De qué parte?",
+      "pinyin": "dé ké PAR-té",
+      "pt": "et la voilà repartie"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a03-n35",
+      "pt": "C'est tout. Vous avez demandé, ils ont raconté, et personne n'a eu à parler pour un pays entier. Hasta luego."
+    }
+  ],
+
+  "aprofundar": {
+    "titulo": "Le lieu, l'empire et le droit de se plaindre (lecture optionnelle)",
+    "secoes": [
+      {
+        "titulo": "Pourquoi le lieu passe avant le pays",
+        "corpo": "L'Espagne est un État de dix-sept communautés autonomes, plus deux villes sur la côte nord-africaine, et le découpage n'est pas décoratif : la santé, l'éducation, par endroits la police et, dans plusieurs régions, la langue de la rue se gèrent à ce niveau, pas depuis Madrid. Ajoutez un pays où énormément de gens peuvent encore montrer le village dont leur famille est originaire, et vous obtenez une habitude de conversation toute simple : la réponse à «d'où viens-tu» est en général la plus petite unité que l'autre saura situer, pas la plus grande. Rien là-dedans n'est du nationalisme, et personne n'en fait une déclaration — c'est plus proche de la façon dont, chez vous, on nomme son coin ou sa région plutôt que «la France». Ce qui diffère, c'est jusqu'où ça descend et combien de conversation s'y pose : le plat change, la fête change, le mot pour le même petit pain change, et tout cela s'ouvre à vous dès que vous demandez «¿de qué parte?». Voilà pourquoi la question fait plus que n'importe quel compliment : un compliment se termine ; une question sur le lieu de quelqu'un est une porte.",
+        "exemplos": [
+          {
+            "es": "¿De qué parte?",
+            "pt": "dé ké PAR-té — de quel coin ? Les trois mots qui font venir le village"
+          },
+          {
+            "es": "¿Y allí qué se come?",
+            "pt": "i a-YI ké sé KO-mé — et là-bas, qu'est-ce qu'on mange ? La deuxième question, naturelle"
+          }
+        ]
+      },
+      {
+        "titulo": "L'héritage : un empire, puis un long temps comme le sud pauvre",
+        "corpo": "Rien de tout ça ne vous est utile à une table, et rien ne vous entre dans la bouche — mais cela explique les deux réactions de cette partie mieux que toute autre chose. L'Espagne a mené l'un des plus grands empires de l'histoire, puis a passé un long pan de l'époque moderne comme l'extrémité plus pauvre et plus ensoleillée de l'Europe de l'Ouest : hors du cœur industriel, sous une dictature jusqu'au milieu des années 1970, dans la Communauté européenne seulement en 1986, et ensuite, en une seule génération, dotée d'autoroutes, de trains à grande vitesse et d'une classe moyenne. Cette suite laisse une sensibilité très précise, et ce n'est pas de la fierté dans l'abstrait. C'est une faible tolérance à être traité comme le sud pittoresque — pas cher, chaud, en retard, un peu chaotique, des gens sympathiques. Chacun de ces mots, un visiteur l'emploie comme un compliment. Sous cet éclairage, «c'est si peu cher ici» et «il fait toujours aussi chaud ?» cessent d'être des agacements au hasard et deviennent deux fois la même phrase. La parade n'est pas d'éviter les sujets ; c'est de parler du lieu concret devant vous plutôt que du pays comme catégorie.",
+        "exemplos": [
+          {
+            "es": "Estaba buenísimo, de verdad.",
+            "pt": "dé ber-DAD — c'était vraiment délicieux. L'éloge qui se pose sur la personne, pas sur le prix"
+          },
+          {
+            "es": "¡Qué ciudad más bonita!",
+            "pt": "ké syou-DAD mass bo-NI-ta — quelle belle ville. Sur celle-ci, pas sur le pays"
+          }
+        ]
+      },
+      {
+        "titulo": "La Costa Brava «à nous» — pourquoi cette blague-là vous trahit",
+        "corpo": "L'idée que la Costa Brava serait «un peu à nous» est, chez vous, un lieu commun de vacances, et elle est même vraie en surface : sur certains tronçons de côte, l'été, on entend presque autant de français que d'espagnol, il y a des résidences secondaires françaises par centaines, et le catalan se parle des deux côtés de la frontière. Les Français sont, sur l'année, le premier contingent étranger que reçoit la Catalogne — près d'un visiteur international sur cinq —, et la plupart arrivent par la route, la frontière juste derrière. Ce qui, chez vous, est une évidence bon enfant devient au comptoir autre chose, pour la même raison que le risotto : vous rendez à quelqu'un son lieu comme une annexe du vôtre. Et cela s'assoit sur une friction réelle et bien documentée — à l'été 2024, des milliers de personnes sont descendues dans les rues de Barcelone contre le coût du logement et le tourisme de masse, avec des slogans qui reprenaient justement les phrases qu'un visiteur croit anodines. Cela ne veut pas dire que la blague rencontre de l'hostilité ; le plus souvent, un sourire fatigué et une oreille qui se détourne. Mais c'est le bavardage le plus cher que ce voyageur transporte, et l'antidote est le même que partout dans cette partie : demander le lieu concret, ne pas nommer le pays. Qui veut vraiment en parler parle de la côte où il se tient, pas de la carte qu'il a apportée de chez lui.",
+        "exemplos": [
+          {
+            "es": "¿De qué parte de la isla eres?",
+            "pt": "dé ké PAR-té de la ISS-la É-ress — de quelle partie de l'île es-tu ? Le lieu plutôt que la carte, si vous poussez jusqu'aux Baléares"
+          },
+          {
+            "es": "¿Hay algo típico de aquí?",
+            "pt": "aï AL-go TI-pi-ko dé a-KI — y a-t-il quelque chose de typique d'ici ? Remplace la comparaison"
+          }
+        ]
+      },
+      {
+        "titulo": "L'Italie, le Mexique et l'espagnol que vous avez appris",
+        "corpo": "Deux comparaisons reviennent sans cesse chez les visiteurs, et toutes deux raccourcissent la conversation, pour la même raison et à des degrés différents. L'Italie est la voisine : même mer, mêmes tomates, même rumeur de riz et de safran, et une rivalité en forme de ballon de foot, bien vivante entre eux. Dite par un étranger, «c'est comme la cuisine italienne» s'entend comme une annonce : leur cuisine serait une variante régionale d'une autre. Le Mexique est plus loin et frappe plus fort, parce que ce n'est pas une comparaison mais un remplacement : tacos, mariachi et grand chapeau sont un autre pays de l'autre côté d'un océan, avec sa propre histoire avec celui-ci, et le visiteur qui les attend a pratiquement sauté l'Espagne. La version linguistique est plus discrète et tout aussi fréquente : l'appli par laquelle la plupart commencent est en bonne partie latino-américaine ; l'espagnol de l'école, si vous en avez fait, vise plutôt l'Europe — votre accent peut donc venir d'ici tout près ou de milliers de kilomètres au-delà, selon l'endroit où vous l'avez pris. Personne ne s'en offusque et personne ne vous corrigera — mais il vaut la peine de savoir que «l'espagnol que j'ai appris sonne très différemment du tien» est, de son point de vue, une chose un peu étrange à annoncer. Et voici le revers heureux : de toutes les langues des visiteurs, la vôtre est la plus proche de la sienne — vous partez de plus près que n'importe qui. La sortie fiable des trois est la même et tient en une phrase : demander ce qui est d'ici.",
+        "exemplos": [
+          {
+            "es": "¿Esto es de aquí?",
+            "pt": "ESS-to es dé a-KI — c'est d'ici ? La version d'une seconde, le doigt sur l'assiette"
+          },
+          {
+            "es": "¿Y esto cómo se llama aquí?",
+            "pt": "i ESS-to KO-mo sé YA-ma a-KI — et ça, comment ça s'appelle ici ? Ouvre au lieu de fermer"
+          }
+        ]
+      },
+      {
+        "titulo": "Guiri, et la seule blague qui est la vôtre",
+        "corpo": "«Guiri», c'est ainsi qu'on appelle ici un touriste d'Europe du Nord. C'est de l'argot, le plus souvent sans hostilité et souvent affectueux — le patron qui le lance à travers la salle à votre sujet ne vous insulte pas, il vous situe, et souvent avec une certaine chaleur. Il existe exactement une blague là-dessus qui fonctionne dans la bouche d'un visiteur, celle sur soi-même : «soy el guiri, ya lo sé» — je suis le guiri, je sais. Elle marche parce qu'elle fait deux choses à la fois : elle montre que vous avez compris le mot, et elle renvoie la taquinerie sans la prendre au sérieux. Ce qui ne marche pas, c'est de l'employer sur quelqu'un d'autre, ou d'aller chercher les insultes affectueuses que vous venez d'entendre deux amis se lancer — ce registre tourne sur des années d'histoire commune que vous n'avez pas encore. La vôtre, c'est celle sur soi-même, et elle suffit. À ajouter, parce que ça vient dans le même souffle : «guiri» vise autant votre tenue et votre conduite que votre provenance, et il en existe une version qui coûte de l'argent — torse nu à deux rues de la plage est une amende dans plusieurs villes, et c'est dans la partie de l'après-midi.",
+        "exemplos": [
+          {
+            "es": "Soy el guiri, ya lo sé.",
+            "pt": "soï el GI-ri, ya lo sé — je suis le guiri, je sais. La seule blague, sur soi-même"
+          },
+          {
+            "es": "¡Este ya es de la casa!",
+            "pt": "👂 lui, il est de la maison — ce que vous récoltez en retour"
+          }
+        ]
+      }
+    ]
+  }
+}

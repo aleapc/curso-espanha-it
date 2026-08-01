@@ -1,0 +1,942 @@
+{
+  "id": "b09",
+  "slot": "B09",
+  "nivel": "basico",
+  "numero": 9,
+  "parte": "9",
+  "titulo": "La gare est un petit aéroport",
+  "subtitulo": "Metro, Cercanías ou Renfe — le bon billet, la bonne voie, et l'accès qu'on cherche trente minutes trop tôt",
+  "moldura": "ganha",
+  "moldes": [],
+
+  "cena": "Onze heures dix, à la gare des grandes lignes : votre train est à l'affichage, la case de la voie est encore vide, et entre vous et le quai il y a un tapis à bagages, un détecteur de métaux et une barrière qui ferme avant le départ.",
+
+  "frasePiso": "Vous êtes sur la bonne voie avec le bon billet, et vingt minutes en avance. La plupart des gens qui passent deux semaines en Espagne ne s'aperçoivent qu'à la barrière fermée que cette gare n'est pas une gare française.",
+
+  "permissao": "Vous avez le droit de prendre le metro, tous les jours, même à neuf heures — il reste le meilleur moyen de transport de la ville, et la seule chose qui change, c'est l'endroit où pend le sac à dos. Vous avez le droit d'être vingt minutes en avance à l'accès et de boire un café tranquille, au lieu de courir. Et vous avez le droit de vouloir entendre un chiffre deux fois : redemander fait partie du geste, ce n'est pas un aveu.",
+  "permissaoAudioKey": "b09-n32",
+
+  "espelho": "Courir vers le quai deux minutes avant le départ, c'est ça qui se remarque là-bas : l'accès est fermé depuis longtemps, et le train part avec votre place et sans vous.",
+
+  "fichasCulturais": [
+    {
+      "sinal": "Avant le quai du train grande ligne, il y a un tapis à bagages, un détecteur de métaux et une file, et au mur un gabarit de métal où la valise doit entrer.",
+      "suaLeitura": "Je monte deux minutes avant le départ, comme chez moi. Ce n'est qu'un train.",
+      "oQueEAli": "La gare des grandes lignes est bâtie comme un petit aéroport. Pour la grande vitesse, scanner à rayons X et détecteur de métaux fonctionnent — l'Espagne est le seul pays de l'Ouest à s'y tenir —, et l'accès ferme peu avant le départ. Renfe conseille trente minutes d'avance.",
+      "oQueVoceFaz": "Être là trente minutes avant, la valise sur le tapis, et vérifier d'abord que la plus grande pièce entre dans le gabarit : trois pièces, vingt-cinq kilos en tout, la plus grande 85 sur 55 sur 35 centimètres.",
+      "oQueMelhora": "Vous avez le temps d'un café avant le départ et vous montez tranquillement, au lieu de courir les cent derniers mètres et de rester devant une barrière fermée.",
+      "ondeNaoVale": "Pas au metro ni aux Cercanías : là, pas de scanner ni d'accès à horaire, juste un tourniquet, et on monte jusqu'à la dernière seconde. Et sur l'axe du nord-ouest le scanner a été supprimé — pour l'AVE, l'Avlo et l'Avant, il reste.",
+      "evidencia": "FATO",
+      "audioKeys": ["b09-n28", "b09-n29", "b09-n30", "b09-n31"]
+    },
+    {
+      "sinal": "Neuf heures moins vingt à Barcelone, la ligne 3 est pleine, et juste au moment où les portes se ferment, quelqu'un vous bouscule et descend.",
+      "suaLeitura": "Le danger, c'est la nuit dans les ruelles vides. Dans une rame pleine à neuf heures moins le quart, rien ne peut m'arriver.",
+      "oQueEAli": "Ce qui touche les voyageurs ici, c'est le vol à la tire par diversion, pas le vol avec violence : dans le metro, environ neuf délits signalés sur dix sont des vols sans violence. Cela a une géographie et une heure — à Barcelone les lignes 1, 3 et 5, et les créneaux de huit heures à neuf heures et demie et de cinq à huit.",
+      "oQueVoceFaz": "Dans la rame, le sac à dos passe devant le ventre. Le téléphone reste dans la poche avant, jamais sur la table de la terrasse ni en main juste avant la porte. Le sac en bandoulière, côté mur.",
+      "oQueMelhora": "Vous circulez les mains libres et vous regardez par la fenêtre, au lieu de surveiller vos propres poches deux semaines durant — et vous prenez le metro aussi le soir.",
+      "ondeNaoVale": "Pas en dehors de ces lignes et de ces heures, et ce n'est pas une raison d'éviter les transports : là, les cas ont reculé de quarante pour cent au premier semestre 2026. Dans une rame à moitié vide à trois heures de l'après-midi, cela n'arrive presque jamais.",
+      "evidencia": "FATO",
+      "audioKeys": ["b09-n15", "b09-n16", "b09-n17", "b09-n18"]
+    }
+  ],
+
+  "fatosDatados": [
+    {
+      "id": "renfe-escaner-y-zugang",
+      "afirmacao": "Les gares à grande vitesse espagnoles contrôlent les bagages au scanner à rayons X et au détecteur de métaux ; l'Espagne est le seul pays de l'Ouest à le maintenir. Renfe conseille d'arriver trente minutes à l'avance, et l'accès ferme juste avant le départ. Sur l'axe du nord-ouest, le scanner a été supprimé ; pour l'AVE, l'Avlo et l'Avant, il reste.",
+      "fonte": "Renfe e imprensa espanhola 2025–2026 (debate aberto sobre a eliminação do escâner) — sintetizado em docs/pesquisa-espanha.md §8.4",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["b09-n28", "b09-n29"]
+    },
+    {
+      "id": "renfe-equipaje-gabarito",
+      "afirmacao": "Chez Renfe, jusqu'à trois bagages sont admis, vingt-cinq kilos au total et 290 centimètres de somme des dimensions ; la plus grande pièce ne doit pas dépasser 85 × 55 × 35 centimètres, vérifié aux gabarits métalliques des accès. Trottinettes électriques et gyroroues sont totalement interdites.",
+      "fonte": "Renfe, política de bagagem vigente 2026 — docs/pesquisa-espanha.md §8.4",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": ["b09-n30", "b09-n31"]
+    },
+    {
+      "id": "cercanias-ya-no-es-gratis",
+      "afirmacao": "Les opérations récurrentes de gratuité des Cercanías ont pris fin le 31 décembre 2025. Les transports de proximité ne restent gratuits jusqu'au 31 décembre 2026 qu'en Asturies et en Cantabrie, avec au moins 16 trajets par quadrimestre ; le pass à 10 euros pour les jeunes suppose la nationalité ou la résidence espagnole et ne vaut pas pour les voyageurs.",
+      "fonte": "Esquema tarifário unificado 2026, Ministerio de Transportes / Renfe — docs/pesquisa-espanha.md §8.4",
+      "ano": 2026,
+      "revisarAte": "2027-01-31",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": ["b09-n09"]
+    },
+    {
+      "id": "suplemento-de-aeropuerto",
+      "afirmacao": "À Madrid, le supplément aéroport du metro coûte 3 euros en plus du billet unitaire ou du carnet de dix ; la Tarjeta Multi coûte 2,50 euros, et le billet unitaire en papier n'existe plus. À Barcelone, la T-casual ne couvre pas l'aéroport : la L9 Sud a sa propre zone et coûte 5,90 euros le trajet.",
+      "fonte": "Metro de Madrid e TMB, tarifas 2026 — docs/pesquisa-espanha.md §8.4",
+      "ano": 2026,
+      "revisarAte": "2027-01-31",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["b09-n07", "b09-n08"]
+    },
+    {
+      "id": "madrid-contactless-torniquete",
+      "afirmacao": "Depuis le 1er juin 2026, le metro de Madrid accepte la carte bancaire sans contact ou le téléphone directement à la barrière. La Tarjeta Multi n'est à aucun nom et rechargeable, mais ne laisse passer qu'une personne par passage ; la T-casual de Barcelone vaut expressément pour un seul voyageur.",
+      "fonte": "CRTM / Metro de Madrid (noticiado em 26/05/2026) e TMB/AMB, tarifas 2026 — docs/pesquisa-espanha.md §8.4. A linha de copy «buy the T-casual and share it» da mesma seção é INFERÊNCIA e contradiz o FATO «€13 (10 viagens, 1 pessoa)»; vale o FATO.",
+      "ano": 2026,
+      "revisarAte": "2026-12-31",
+      "evidencia": "FATO",
+      "risco": "alto"
+    },
+    {
+      "id": "hurto-metro-geografia-y-hora",
+      "afirmacao": "Dans les transports de Barcelone, les cas se concentrent sur les lignes 1, 3 et 5 et sur les créneaux 8h00–9h30 et 17h00–20h00 ; environ 90 pour cent des délits signalés dans le metro sont des vols sans violence. Au premier semestre 2026, ils ont reculé de 40 pour cent dans les transports publics.",
+      "fonte": "TMB e Mossos d'Esquadra, Pla Kanpai (dados do 1º semestre de 2026) — docs/pesquisa-espanha.md §7.4",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["b09-n16", "b09-n18"]
+    }
+  ],
+
+  "_notas": {
+    "_": "PARTE ESCRITA EM FRANCÊS, re-derivada de B09 contra a DERIVACAO-FR §4.2 («MÉDIA para menos») e o roster FR. Nenhum campo `es` nem `tts` foi tocado e nenhum clipe espanhol NOVO foi criado: os 31+ steps de fala espanhola vêm com os mesmos audioKey do curso base, custo de crédito espanhol ZERO. O que se re-derivou é a narração-guia (as duas vozes FR novas), a `cena`, o respelling `pinyin` (olho francês) e a camada de par. NENHUMA linha alemã sobreviveu (DERIVACAO §0.1).",
+    "voz_guia_renomeada": "Juli→GuiaFem (educadora), Thomas→GuiaMasc (o masculino de alertas), casando `audio.config.json._g14.guia`. NÃO é cosmético: o G14 (voz × língua) só confere clipe cuja `voz` está em `guia` ou `alvo` — com `Juli`/`Thomas` a narração francesa passaria SEM SER CHECADA. Carmen/Emilio (peninsulares, alvo) intocados. As vozes-guia FR são PLACEHOLDER no audio.config (voiceId «TODO-FR-...»): o áudio-guia NÃO se gera até o casting fechar.",
+    "o_que_esta_parte_e": "PARTE LEVE, e é o esperado: B09 NÃO é casa de nenhum molde declarado e NÃO tem falso amigo de assinatura (task: «sem falso amigo forte»). O eixo do curso (o falso amigo) NÃO mora aqui — mora em B10, que vem DEPOIS. Aqui o trabalho é fonética + estrutura: a rotina de placas/direção, os três trens (metro/Cercanías/Renfe), a estação-aeroporto, a bilheteria e o controle de acesso. Tudo é conteúdo de DESTINO que porta; só a narração francesa e o respelling se re-derivam.",
+    "a_grande_inversao_numeral": "A armadilha CENTRAL do alemão vira BRINDE no francês, e essa é a coisa mais importante desta parte. O alemão diz `vier-und-dreißig` (pequeno primeiro) e anota o preço trocado (ouve `treinta y cuatro` e escreve 43); B09 alemão gastava três narrações (n21/n22/n23) e o receptivo `b09-treintaycuatro-c` demonstrando isso. O FRANCÊS diz `trente-quatre` — o grande número PRIMEIRO, MESMA ordem do espanhol `treinta y cuatro` (DERIVACAO §3.3 item 2). Não há armadilha. Os três steps foram RE-DERIVADOS de armadilha para BRINDE: declaração positiva («votre habitude tombe juste») + a nota honesta de §3.3 item 2 (onde o francês complica — `soixante-dix`, `quatre-vingts` — o espanhol simplifica, `setenta`/`ochenta`). Isso NÃO é o anti-padrão 9: não copiei a linha alemã, INVERTI o veredito. `b09-treintaycuatro-c` é MANTIDO como preço de balcão que se relê no display, não como demonstração de armadilha.",
+    "handshake_com_B14": "AVISO ao autor do B14 francês (ainda por escrever). A versão ALEMÃ deste arquivo tornou `b09-treintaycuatro-c` load-bearing: `b14-n34` alemão dizia «und die Zehner kommen weiter andersherum als zu Hause — wie am Schalter», apontando para este clipe como a armadilha de numeral. No FRANCÊS NÃO HÁ armadilha de numeral (é brinde), e B14 é re-derivação TOTAL (o DCC não existe — DERIVACAO §3.3 item 1, §4.2). O B14 francês NÃO deve herdar o handshake alemão de numeral. `b09-treintaycuatro-c` aqui é só um preço; se o B14 francês não o citar, nada quebra. A prévia de YA-ESTA (abaixo), essa sim, continua sendo o handshake vivo com B14.",
+    "guiaMasc_ll_nao_v": "O GUIRI alemão (Thomas t01/t02/t03) tratava ⟨ll⟩ E ⟨v⟩ («Sevilla lida à alemã sai se-FIL-la»). No francês o ⟨v⟩ é BRINDE: o francês diz [v] labiodental, que é ENTENDIDO — `Sevilla` sai `sé-BI-ya` e ninguém ouve `se-FIL-la` (a gag alemã do ⟨v⟩=[f] morre, DERIVACAO §1.2 linha 13). Sobra o ⟨ll⟩=[j], e é o único item «de alerta» desta parte leve. É RECALL, não primeiro contato: B01 já planta `ll` = o `y` de «yaourt» (em `¿Lleva jamón?`), por isso a redação de GuiaMasc é neutra. Risco real que justifica a nota: o francês pode ler ⟨ll⟩ como [l] (via `ville`), e `billete` é dito ~8× nesta parte — o melhor endereço de recall do slot.",
+    "fonetica_desta_parte": "BRINDES declarados e NÃO gastos em áudio (copiá-los é o anti-padrão 9): ⟨qu⟩=[k] (`Quería`, `¿De qué vía?`, `¿Para qué tren?`), ⟨h⟩ mudo (`hay`, `hacer`, `ahí`, `hora`), a ORDEM do numeral (brinde), a meia-hora (`las once cuarenta`, `y media` — brinde §3.3 item 3, o francês conta como o espanhol). CAROS/leves grudados à cena, depois da produção: a TÔNICA (`billete`=bi-YÉ-té com o coup no meio, `Cercanías`=sser-ka-NI-ass), os FINAIS APAGADOS (o `-s` do plural em `dos billetes`→«do bijet» se comido; o `-e` final; o `-r` do infinitivo `validar`/`pagar`/`recargar`/`cambiar`), o ⟨ll⟩=[j] (GuiaMasc), a JOTA em `tarjeta`/`viaje` (som novo [ʒ]→[x], mas a CASA da jota é B13/`jamón` — aqui só respelling, não lição), o ⟨ch⟩=[ʃ]→[tʃ] em `ocho`/`derecha` (respelling `tch`, leve).",
+    "falso_amigo": "NENHUM de assinatura, e é de propósito. O callback de abertura usa `¿Dónde está la salida?` (DONDE), e `salir`/`salida` É um falso amigo do francês (`salir`=sujar, `sale`=sujo) — MAS a casa dele é B10, que vem DEPOIS de B09 na ordem canônica. Em B09 `la salida` é só direção (DONDE, casa B08), sem tratamento de falso amigo; escrever a lição aqui roubaria a primeira aparição de peso de B10 (moldes `DONDE.falsos_amigos`, DERIVACAO §4.0 regra de redação). O único léxico próximo desta parte, `billete`, é COGNATO fiel (billet) — ajuda, não engana.",
+    "respelling_para_leitor_frances": "O campo `pinyin` é RE-DERIVADO para o OLHO FRANCÊS e nunca vai ao TTS (INV-6). Convenção IDÊNTICA à de B10: MAIÚSCULA=tônica · `ou`=`u` espanhol [u] (`puedo`→POUÉ-do, `subir`→sou-BIR) · `kh`=jota [x] (tarjeta→tar-KHÉ-ta, viaje→BIA-khé) · `tch`=`ch` espanhol [tʃ] (ocho→O-tcho) · `b`=v/b espanhol (vía→BI-a, Sevilla→sé-BI-ya) · `ss`=z, c+e/i e s intervocálico, sempre duro [s] (Cercanías→sser-ka-NI-ass, acceso→ak-SSÉ-so) · `y`=ll [j] (billete→bi-YÉ-té) · `h` mudo cai · `qu`=k · `-e` final→`-é` · finais escritas (o `-s`/`-r` que o francês come) grafadas para serem ditas. O respelling ALEMÃO (`ss` por s alemão [z], `ch de Bach`, `j de ja`) NÃO porta. ESTA CONVENÇÃO É INFERÊNCIA — pendência de revisor FR-L1 + espanhol peninsular antes do áudio (o glifo da jota `kh` é o mais frágil).",
+    "previas_cumpridas": "DUAS, as duas com modelo nativo em `ouvir` imediatamente antes do `responde`, nenhuma peça nomeada como trocável, a narração prometendo o turno seguinte em vez de alegar posse. (1) QUERIA em `e06b-billetes-c` (casa B12, três slots depois): `b09-n20` diz «Elle aura sa propre partie plus tard ; aujourd'hui, dites-la simplement» — e NÃO diz que o aluno «já tem» a palavra da padaria, que é B12 e vem depois (moldes `QUERIA.previas`, aviso de redação). (2) YA-ESTA em `b14-yapagado-c` e `b14-yareservado-e` (casa B14, cinco slots depois): dois dos quatro encaixes, produzidos; `b09-n26` diz «Toutes deux recevront un nom plus loin dans le cours» — casa com a feature de lista fechada de B14 (moldes `YA-ESTA.previas`). Nenhuma linha nomeia o molde nem diz que a lista é fechada em quatro.",
+    "redisparos_cumpridos": "Os quatro que o roster FR promete para B09, todos com encaixe NOVO em relação à casa, todas as casas ANTES de B09 na ordem canônica (G9d), conferidas contra o roster: HAY em `¿Hay otro tren esta tarde?` (casa B08); PUEDO em `pagar con tarjeta`, `subir con esta maleta` e `cambiar el billete` (casa B06); ME-PUEDE em `recargar la tarjeta` (casa B03); DONDE em `el control de acceso` (casa B08 — `la salida` de abertura é callback/recuperação, não encaixe novo). B08, B06 e B03 são casas em vigor no roster; nenhum encaixe daqui colide com os delas.",
+    "ensinados_e_nao_declarados": "`¿Tengo que + [infinitivo]?` aparece com DOIS encaixes na frente do aluno (`validar el billete`, `hacer transbordo`), os dois produzidos, e casa em B09 (moldes `ensinados_mas_nao_declarados`). Continua FORA do roster porque o teto de 12 operacionais é lei e nenhum step declara `molde` para ele — declarar inflaria o numerador do G9 e o script barra molde não declarado. `Est-ce que je dois…?` é próximo mas MENOS um-a-um que o `Muss ich…?` alemão; não reabrir o teto sem G9 abaixo do piso, com o dado na mão.",
+    "o_que_esta_parte_NAO_diz": "Cortados e não substituídos: a inversão de numeral (virou BRINDE, não armadilha — DERIVACAO §3.3 item 2) e o relógio de 24h (padrão na França; `las once cuarenta` sai natural). Não há GUIRI de `-o tax`: `hospitál` o francês já diz por oxítona, e essa palavra nem aparece aqui. Não há gag `vino`×`fino` (não é cena de bebida, e ela morre no francês).",
+    "pendencia_G14": "O portão voz × língua roda neste SKU (`audio.config.json._g14`, guiaLingua `fr`) e esta parte sai com zero divergência DEPOIS da renomeação GuiaFem/GuiaMasc — as guias CITAM espanhol dentro da narração francesa (`billete`, `bi-YÉ-té`, `Cercanías`, `Sevilla`) e isso é o trabalho da guia, nunca falar a língua. Carmen e Emilio não dizem uma palavra de francês. Conferência humana obrigatória (este repositório já teve o acidente do mp3 na língua errada)."
+  },
+
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n01",
+      "bloco": "aquecimento",
+      "gesto": 1,
+      "tom": "ganha",
+      "pt": "Partie neuf. La main bat : bi-YÉ-té, sser-ka-NI-ass. En espagnol le coup ne tombe pas toujours à la même place — écoutez où."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "molde": "DONDE",
+      "encaixe": "la salida",
+      "encaixeGloss": "la sortie",
+      "promptAudioKey": "b09-p01",
+      "promptPt": "Sous terre, trois escaliers, trois noms de rue, et aucun sur votre plan. Demandez à l'homme au gilet par où on remonte. Parlez maintenant.",
+      "audioKey": "b08-salida-e",
+      "es": "¿Dónde está la salida?",
+      "pinyin": "DON-dé es-TA la sa-LI-da",
+      "pt": "le chemin vers la surface"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n02",
+      "bloco": "cena",
+      "pt": "Onze heures dix, gare des grandes lignes. Votre train est à l'affichage, et la case de la voie est encore vide."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n03",
+      "pt": "Entre vous et le quai : un tapis à bagages, un détecteur de métaux, et une barrière qui ferme avant le départ."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n04",
+      "tom": "ganha",
+      "pt": "Ce n'est pas une gare française, c'est un petit aéroport. Qui le sait d'avance monte tranquille, sans courir."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n05",
+      "bloco": "corpo",
+      "pt": "Mais d'abord la question qui décide de la journée : ici roulent trois trains, et un seul est le vôtre."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n06",
+      "pt": "Le metro reste en ville. Cercanías va en banlieue. Renfe vous emmène dans une autre province."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e06b-cercometro",
+      "es": "¿Esto es Cercanías o metro?",
+      "pinyin": "ÉS-to es sser-ka-NI-ass o MÉ-tro",
+      "pt": "C'est Cercanías ou le metro ?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["transporte/qual-trem"],
+      "promptAudioKey": "b09-p02",
+      "promptPt": "En bas s'arrête un train deux fois plus long que prévu, un C dans un cercle sur le panneau. Demandez à votre voisine ce que c'est. Parlez maintenant.",
+      "audioKey": "e06b-cercometro",
+      "es": "¿Esto es Cercanías o metro?",
+      "pinyin": "ÉS-to es sser-ka-NI-ass o MÉ-tro",
+      "pt": "lequel des trois, celui-là ?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n07",
+      "pt": "Un billet pour l'un ne vaut pas pour l'autre. Et un trajet a un supplément que personne n'annonce."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e06a-valeaero",
+      "es": "¿Este billete vale para el aeropuerto?",
+      "pinyin": "ÉS-té bi-YÉ-té BA-lé PA-ra el a-é-ro-POUÉR-to",
+      "pt": "Ce billet vaut-il jusqu'à l'aéroport ?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["transporte/bilhete"],
+      "promptAudioKey": "b09-p03",
+      "promptPt": "Demain à six heures votre avion décolle, et vous tenez le carnet de dix qu'on vous a prêté. Vérifiez au guichet s'il vous y mène. Parlez maintenant.",
+      "audioKey": "e06a-valeaero",
+      "es": "¿Este billete vale para el aeropuerto?",
+      "pinyin": "ÉS-té bi-YÉ-té BA-lé PA-ra el a-é-ro-POUÉR-to",
+      "pt": "est-ce qu'il va jusque là-bas ?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e06b-suplemento-c",
+      "receptivo": true,
+      "acao": "Acheter le supplément à la borne avant de passer la barrière.",
+      "es": "Para el aeropuerto no. Ahí hay que pagar suplemento.",
+      "pinyin": "PA-ra el a-é-ro-POUÉR-to no. a-I aï ké pa-GAR sou-plé-MEN-to",
+      "pt": "👂 « Pas jusqu'à l'aéroport. Là, il faut payer un supplément. » — la phrase vous coûte trois euros si elle arrive trop tard."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n08",
+      "pt": "Madrid prend trois euros de plus. À Barcelone, l'aéroport en metro coûte presque six."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n09",
+      "pt": "Et une phrase des vieilles vidéos est fausse désormais : les trains de banlieue ne sont plus gratuits depuis fin 2025."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n10",
+      "pt": "À la borne, deux phrases. Le premier moule, vous l'avez monté en partie six, et il tient ici tel quel."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "PUEDO",
+      "encaixe": "pagar con tarjeta",
+      "encaixeGloss": "payer par carte",
+      "promptAudioKey": "b09-p04",
+      "promptPt": "Devant la borne, et dans votre porte-monnaie deux billets de cinquante qu'elle n'avalera jamais. Demandez avant de vous mettre à taper. Parlez maintenant.",
+      "audioKey": "b06-tarjeta-c",
+      "es": "¿Puedo pagar con tarjeta?",
+      "pinyin": "POUÉ-do pa-GAR kon tar-KHÉ-ta",
+      "pt": "ça marche avec du plastique ?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n11",
+      "pt": "La deuxième phrase est pour la personne au guichet : vous lui demandez de faire quelque chose avec votre carte."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e06b-recarga-e",
+      "es": "¿Me puede recargar la tarjeta?",
+      "pinyin": "mé POUÉ-dé rré-kar-GAR la tar-KHÉ-ta",
+      "pt": "Pouvez-vous me recharger la carte ?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PUEDE",
+      "encaixe": "recargar la tarjeta",
+      "encaixeGloss": "recharger la carte",
+      "consulta": ["transporte/bilhete"],
+      "promptAudioKey": "b09-p05",
+      "promptPt": "Troisième jour, le plastique rouge est vide, et neuf personnes font la queue à la borne. Au guichet d'à côté, quelqu'un s'ennuie. Parlez maintenant.",
+      "audioKey": "e06b-recarga-e",
+      "es": "¿Me puede recargar la tarjeta?",
+      "pinyin": "mé POUÉ-dé rré-kar-GAR la tar-KHÉ-ta",
+      "pt": "qu'il la remette à plein"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e06b-s-validar",
+      "receptivo": true,
+      "acao": "VALIDAR, c'est composter ; RECARGA, c'est recharger. Deux boutons, deux choses différentes.",
+      "es": "VALIDAR · RECARGA",
+      "tts": "validar, recarga",
+      "pinyin": "ba-li-DAR · rré-KAR-ga",
+      "pt": "👂 Deux mots sur la borne, et ils ne font pas la même chose."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n12",
+      "pt": "Faut-il composter ? Ça dépend du train. Demander en cinq mots coûte moins cher que deviner."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e06a-validar",
+      "es": "¿Tengo que validar el billete?",
+      "pinyin": "TEN-go ké ba-li-DAR el bi-YÉ-té",
+      "pt": "Dois-je composter le billet ?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b09-p06",
+      "promptPt": "Une borne orange à l'entrée du quai, et personne devant vous ne s'en est servi. En main, un petit carton. Demandez à l'homme au gilet. Parlez maintenant.",
+      "audioKey": "e06a-validar",
+      "es": "¿Tengo que validar el billete?",
+      "pinyin": "TEN-go ké ba-li-DAR el bi-YÉ-té",
+      "pt": "il doit passer par là, ce truc ?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n13",
+      "pt": "Il y a une deuxième chose à savoir d'avance : si ce train va d'une traite jusqu'au bout."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e06b-transbordo-e",
+      "es": "¿Tengo que hacer transbordo?",
+      "pinyin": "TEN-go ké a-SSÉR trans-BOR-do",
+      "pt": "Dois-je changer de train ?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b09-p07",
+      "promptPt": "Sur le plan, entre votre station et le musée, deux couleurs se croisent, et vous ne savez pas si c'est à vous de faire quelque chose. Parlez maintenant.",
+      "audioKey": "e06b-transbordo-e",
+      "es": "¿Tengo que hacer transbordo?",
+      "pinyin": "TEN-go ké a-SSÉR trans-BOR-do",
+      "pt": "ça passe d'une seule traite ?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n14",
+      "bloco": "capsula",
+      "tom": "protege",
+      "pt": "Un mot sur le metro, et ce n'est pas une raison de l'éviter : il reste le meilleur moyen de transport de la ville."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n15",
+      "pt": "Ce qui touche les voyageurs ici, c'est le vol à la tire par diversion. Pas la nuit dans le noir, mais le matin en plein jour."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n16",
+      "pt": "À Barcelone, trois lignes portent presque tout : L1, L3 et L5. Deux créneaux : huit heures à neuf heures et demie, et cinq à huit."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n17",
+      "pt": "Dans la rame, le sac à dos passe devant le ventre. Le téléphone reste dans la poche avant, même en terrasse."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "c02b-15",
+      "receptivo": true,
+      "acao": "Les deux mains sur ses affaires dès que les portes se ferment.",
+      "es": "CUIDADO CON LOS CARTERISTAS",
+      "tts": "Cuidado con los carteristas.",
+      "pinyin": "koui-DA-do kon loss kar-té-RISS-tass",
+      "pt": "👂 « Attention aux pickpockets. » — le panneau est là où ça arrive."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "c02b-16",
+      "receptivo": true,
+      "acao": "Sac devant, regard levé, on avance.",
+      "es": "VIGILE SUS PERTENENCIAS",
+      "tts": "Vigile sus pertenencias.",
+      "pinyin": "bi-KHI-lé souss per-té-NEN-ssias",
+      "pt": "👂 « Surveillez vos affaires. » — le même panneau, d'autres mots."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n18",
+      "tom": "ganha",
+      "pt": "Là, les chiffres baissent, ils ne montent pas : dans les transports, au premier semestre 2026, de quarante pour cent."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n19",
+      "bloco": "corpo",
+      "pt": "Maintenant l'autre guichet, celui des longues distances. Là, tout tient à trois indications : destination, numéro, sens."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e06b-billetes-c",
+      "es": "Quería dos billetes para Sevilla.",
+      "pinyin": "ké-RI-a doss bi-YÉ-tess PA-ra sé-BI-ya",
+      "pt": "Je voudrais deux billets pour Séville."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n20",
+      "pt": "Une phrase entière, telle quelle. Elle aura sa propre partie plus tard ; aujourd'hui, dites-la simplement."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "QUERIA",
+      "promptAudioKey": "b09-p08",
+      "promptPt": "Au guichet grandes lignes, vous êtes deux, et à l'affichage au-dessus, la ville de la tour et de la chaleur. Dites ce que vous voulez. Parlez maintenant.",
+      "audioKey": "e06b-billetes-c",
+      "es": "Quería dos billetes para Sevilla.",
+      "pinyin": "ké-RI-a doss bi-YÉ-tess PA-ra sé-BI-ya",
+      "pt": "deux, et vers où"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e06b-idavuelta-e",
+      "receptivo": true,
+      "acao": "Répondre par l'un de deux mots. Il n'attend pas longtemps.",
+      "es": "¿Ida o ida y vuelta?",
+      "pinyin": "I-da o I-da i BOUÉL-ta",
+      "pt": "👂 « Aller simple ou aller-retour ? » — la question qui revient toujours."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b09-p09",
+      "promptPt": "Il vient de demander, et vous rentrez le soir en bus, moins cher. Deux mots suffisent. Parlez maintenant.",
+      "audioKey": "e06b-soloida-c",
+      "es": "Solo ida.",
+      "pinyin": "SO-lo I-da",
+      "pt": "aller simple"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b09-treintaycuatro-c",
+      "receptivo": true,
+      "acao": "Relire le chiffre sur l'écran, comme toujours — même ordre qu'en français.",
+      "es": "Son treinta y cuatro con veinte.",
+      "pinyin": "son TREIN-ta i KOUA-tro kon BEIN-té",
+      "pt": "👂 « Ça fait trente-quatre, vingt. » — le grand nombre d'abord, exactement comme chez vous.",
+      "tts": "Son treinta y cuatro con veinte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n21",
+      "pt": "Trente-quatre : le grand nombre d'abord. L'espagnol le dit dans le même ordre que vous — treinta y cuatro. Ici, votre habitude tombe juste."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n22",
+      "pt": "Et là où votre langue complique — soixante-dix, quatre-vingts —, l'espagnol simplifie : setenta, ochenta. Vous montez vers le plus simple."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n23",
+      "tom": "ganha",
+      "pt": "Une seule habitude pour tout : relire sur l'écran ce que l'oreille attrape. Le prix, la voie, l'heure — la voix le dit, l'affichage le confirme."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b09-t01",
+      "pt": "Un mot que ce quai répète huit fois : billete. Et le double l vous tend un piège que vous connaissez déjà."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b09-t02",
+      "pt": "Le double l sonne comme le y de « yaourt » : billete se dit bi-YÉ-té, jamais bi-LÈ-te comme dans « ville »."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b09-t03",
+      "pt": "Et dans la ville de votre billet, le même : Sevilla, c'est sé-BI-ya. Le v s'entend, on vous comprend — c'est le double l qui décide."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n24",
+      "pt": "Une lettre double, une ville, et le reste de la phrase était déjà là. On passe au paiement."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n25",
+      "pt": "Encore deux phrases courtes au guichet. Vous ne dites pas ce que vous voulez, mais ce qui est déjà fait."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b14-yapagado-c",
+      "es": "Ya está pagado.",
+      "pinyin": "ya es-TA pa-GA-do",
+      "pt": "C'est déjà payé."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "YA-ESTA",
+      "promptAudioKey": "b09-p10",
+      "promptPt": "À l'accès, l'homme passe votre téléphone sous le scanner puis tend la main vers le terminal. Vous avez réglé ça hier soir en ligne. Parlez maintenant.",
+      "audioKey": "b14-yapagado-c",
+      "es": "Ya está pagado.",
+      "pinyin": "ya es-TA pa-GA-do",
+      "pt": "c'est déjà réglé"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b14-yareservado-e",
+      "es": "Ya está reservado.",
+      "pinyin": "ya es-TA rré-sser-BA-do",
+      "pt": "C'est déjà réservé."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "YA-ESTA",
+      "promptAudioKey": "b09-p11",
+      "promptPt": "Au guichet grandes lignes, il se met à vous proposer des places. Vos noms sont sur sa liste depuis six semaines. Parlez maintenant.",
+      "audioKey": "b14-yareservado-e",
+      "es": "Ya está reservado.",
+      "pinyin": "ya es-TA rré-sser-BA-do",
+      "pt": "les places sont déjà là"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n26",
+      "pt": "Deux phrases qui vous ont fait économiser deux fois. Toutes deux recevront un nom plus loin dans le cours."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n27",
+      "bloco": "capsula",
+      "tom": "protege",
+      "pt": "Le billet en main, commence la partie qu'aucune gare française ne vous a apprise."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n28",
+      "pt": "Avant le quai, un scanner à rayons X et un détecteur de métaux. L'Espagne est le seul pays de l'Ouest à le maintenir."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n29",
+      "pt": "Renfe conseille d'arriver trente minutes avant. La barrière ferme juste avant le départ, et après, personne ne monte plus."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n30",
+      "pt": "Pour les bagages : trois pièces, vingt-cinq kilos en tout, et la plus grande 85 sur 55 sur 35."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n31",
+      "pt": "À l'accès, des gabarits en métal où la valise doit entrer. Les trottinettes électriques ne montent pas du tout."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n32",
+      "bloco": "permissao",
+      "pt": "En échange, vous avez le droit d'arriver vingt minutes plus tôt et de boire un café tranquille, au lieu de courir."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n33",
+      "pt": "Et vous avez le droit de vouloir entendre un chiffre deux fois. Redemander fait partie du geste, ce n'est pas un aveu."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n34",
+      "bloco": "corpo",
+      "pt": "L'accès n'est pas fléché comme chez nous. Un moule vous y mène, et celui-là, vous le connaissez depuis longtemps."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e06b-controlacceso",
+      "es": "Ya tengo el billete. ¿Dónde está el control de acceso?",
+      "pinyin": "ya TEN-go el bi-YÉ-té. DON-dé es-TA el kon-TROL dé ak-SSÉ-so",
+      "pt": "J'ai déjà le billet. Où est le contrôle d'accès ?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "DONDE",
+      "encaixe": "el control de acceso",
+      "encaixeGloss": "le passage vers le quai",
+      "consulta": ["transporte/plataforma"],
+      "promptAudioKey": "b09-p12",
+      "promptPt": "Grand hall, dix-huit écrans, et vous tournez en rond depuis quatre minutes. Dites d'abord que le billet est déjà acheté, puis la question. Parlez maintenant.",
+      "audioKey": "e06b-controlacceso",
+      "es": "Ya tengo el billete. ¿Dónde está el control de acceso?",
+      "pinyin": "ya TEN-go el bi-YÉ-té. DON-dé es-TA el kon-TROL dé ak-SSÉ-so",
+      "pt": "le billet est là — par où on passe ?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e06b-maleta",
+      "es": "¿Puedo subir con esta maleta?",
+      "pinyin": "POUÉ-do sou-BIR kon ÉS-ta ma-LÉ-ta",
+      "pt": "Puis-je monter avec cette valise ?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "PUEDO",
+      "encaixe": "subir con esta maleta",
+      "encaixeGloss": "monter avec cette valise",
+      "consulta": ["transporte/bagagem"],
+      "promptAudioKey": "b09-p13",
+      "promptPt": "Devant le portique, et ce que vous tirez derrière vous est nettement plus gros que tout le reste de la file. Demandez avant votre tour. Parlez maintenant.",
+      "audioKey": "e06b-maleta",
+      "es": "¿Puedo subir con esta maleta?",
+      "pinyin": "POUÉ-do sou-BIR kon ÉS-ta ma-LÉ-ta",
+      "pt": "ce truc passe avec moi ?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n35",
+      "pt": "Un mot ici : puedo, c'est « je peux » et « j'ai le droit » à la fois. Comme votre pouvoir — un seul verbe, rien à choisir."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e06b-s-anden",
+      "receptivo": true,
+      "acao": "En ville, c'est ANDÉN ; pour les grandes lignes, VÍA. Cherchez le mot qui va avec votre train.",
+      "es": "ANDÉN · VÍA",
+      "tts": "andén, vía",
+      "pinyin": "an-DÉN · BI-a",
+      "pt": "👂 Deux mots pour le même bout de béton, selon le train."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e06b-anuncio",
+      "receptivo": true,
+      "acao": "Noter le numéro et la lettre, puis relire sur l'affichage.",
+      "es": "Tren AVE con destino Sevilla, vía 8. Embarque por la puerta H.",
+      "pinyin": "tren A-bé kon des-TI-no sé-BI-ya, BI-a O-tcho. em-BAR-ké por la POUÉR-ta A-tché",
+      "pt": "👂 Destination, voie, porte. Trois indications en huit secondes, et la dernière est une lettre.",
+      "tts": "Tren AVE con destino Sevilla, vía ocho. Embarque por la puerta hache."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n36",
+      "pt": "Si la case reste vide, demandez. Quatre mots, et ensuite vous ne regardez plus que l'affichage."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e06b-quevia",
+      "es": "¿De qué vía sale?",
+      "pinyin": "dé ké BI-a SA-lé",
+      "pt": "De quelle voie part-il ?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b09-p14",
+      "promptPt": "Douze minutes avant le départ, et à côté de votre train, sur le tableau, encore un tiret. Personne n'attend au guichet. Parlez maintenant.",
+      "audioKey": "e06b-quevia",
+      "es": "¿De qué vía sale?",
+      "pinyin": "dé ké BI-a SA-lé",
+      "pt": "d'où exactement ?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e06b-mirapantalla-e",
+      "receptivo": true,
+      "acao": "Ne pas insister. Rester là où vous voyez le tableau.",
+      "es": "Todavía no la han puesto. Mira la pantalla.",
+      "pinyin": "to-da-BI-a no la an POUÉSS-to. MI-ra la pan-TA-ya",
+      "pt": "👂 « Ce n'est pas encore affiché. Regarde l'écran. » — la réponse la plus fréquente, et ce n'est pas un rejet."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e06b-s-atencion",
+      "receptivo": true,
+      "acao": "Chercher ce panneau, pas la file de la vente.",
+      "es": "ATENCIÓN AL CLIENTE",
+      "tts": "atención al cliente",
+      "pinyin": "a-ten-SSION al KLIEN-té",
+      "pt": "👂 Le guichet où l'on change les billets. Pas celui où on les vend."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n37",
+      "tom": "protege",
+      "pt": "Train parti, quai vide. Deux phrases rattrapent la journée, et toutes deux sont déjà à vous."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e06b-cambiar-c",
+      "es": "¿Puedo cambiar el billete?",
+      "pinyin": "POUÉ-do kam-BIAR el bi-YÉ-té",
+      "pt": "Puis-je changer le billet ?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "PUEDO",
+      "encaixe": "cambiar el billete",
+      "encaixeGloss": "changer le billet",
+      "promptAudioKey": "b09-p15",
+      "promptPt": "Vous êtes à la barrière, le lecteur bipe rouge, et sur le tableau votre ligne a déjà disparu. Demandez d'abord la solution la plus simple. Parlez maintenant.",
+      "audioKey": "e06b-cambiar-c",
+      "es": "¿Puedo cambiar el billete?",
+      "pinyin": "POUÉ-do kam-BIAR el bi-YÉ-té",
+      "pt": "il passe sur un autre ?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e06b-otrotren-e",
+      "es": "¿Hay otro tren esta tarde?",
+      "pinyin": "aï O-tro tren ÉS-ta TAR-dé",
+      "pt": "Y a-t-il un autre train cet après-midi ?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n38",
+      "pt": "Et maintenant la scène entière d'un trait, en temps réel. Vous ne dites rien, vous écoutez seulement."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e06b-d1",
+      "es": "Perdone, ya tengo el billete. ¿Dónde está el control de acceso?",
+      "pinyin": "per-DO-né, ya TEN-go el bi-YÉ-té. DON-dé es-TA el kon-TROL dé ak-SSÉ-so",
+      "pt": "Pardon, j'ai déjà le billet. Où est le contrôle d'accès ?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e06b-d2",
+      "es": "Al fondo a la derecha. ¿Para qué tren?",
+      "pinyin": "al FON-do a la dé-RÉ-tcha. PA-ra ké tren",
+      "pt": "Tout au fond à droite. Pour quel train ?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e06b-d3",
+      "es": "El AVE a Sevilla. ¿A qué hora sale?",
+      "pinyin": "el A-bé a sé-BI-ya. a ké O-ra SA-lé",
+      "pt": "L'AVE pour Séville. À quelle heure part-il ?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e06b-d4",
+      "receptivo": true,
+      "acao": "Noter l'heure et la voie, et partir tout de suite.",
+      "es": "A las 11:40, vía 12. Le recomiendo pasar ya.",
+      "pinyin": "a lass ON-ssé koua-REN-ta, BI-a DO-ssé. lé rré-ko-MIEN-do pa-SSAR ya",
+      "pt": "👂 « À 11h40, voie 12. Passez plutôt tout de suite. » — l'heure, la voie et l'invitation à y aller.",
+      "tts": "A las once cuarenta, vía doce. Le recomiendo pasar ya."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e06b-d5",
+      "es": "¿Puedo subir con esta maleta?",
+      "pinyin": "POUÉ-do sou-BIR kon ÉS-ta ma-LÉ-ta",
+      "pt": "Puis-je monter avec cette valise ?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e06b-d6",
+      "receptivo": true,
+      "acao": "Passer sous le portique, la valise sur le tapis.",
+      "es": "Sí, si pasa por el arco. Buen viaje.",
+      "pinyin": "si, si PA-ssa por el AR-ko. bouen BIA-khé",
+      "pt": "👂 « Oui, si elle passe sous le portique. Bon voyage. » — la phrase qui ouvre la barrière."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-s00",
+      "pt": "À répéter. Fort, avec eux, mêmes coups, la dernière syllabe tenue. Les deux qui comptent aujourd'hui :"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "e06b-billetes-c",
+      "molde": "QUERIA",
+      "es": "Quería dos billetes para Sevilla.",
+      "pinyin": "ké-RI-a doss bi-YÉ-tess PA-ra sé-BI-ya",
+      "pt": "Je voudrais deux billets pour Séville."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "e06b-maleta",
+      "molde": "PUEDO",
+      "es": "¿Puedo subir con esta maleta?",
+      "pinyin": "POUÉ-do sou-BIR kon ÉS-ta ma-LÉ-ta",
+      "pt": "Puis-je monter avec cette valise ?"
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "b09-rend",
+      "bloco": "recap",
+      "pt": "Encore une fois, à voix haute, dans une gare où nous n'avons pas encore été. Votre ligne n'est plus au tableau."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "HAY",
+      "encaixe": "otro tren esta tarde",
+      "encaixeGloss": "un autre cet après-midi",
+      "consulta": ["transporte/perdi"],
+      "promptAudioKey": "b09-p16",
+      "promptPt": "Petite gare au nord, dix heures et demie passées, et l'homme derrière la vitre secoue la tête. Vous voulez quand même arriver aujourd'hui. Parlez maintenant.",
+      "audioKey": "e06b-otrotren-e",
+      "es": "¿Hay otro tren esta tarde?",
+      "pinyin": "aï O-tro tren ÉS-ta TAR-dé",
+      "pt": "quelque chose plus tard dans la journée ?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n39",
+      "bloco": "piso",
+      "pt": "Vous êtes sur la bonne voie avec le bon billet, et vingt minutes en avance."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n40",
+      "pt": "La plupart ne s'aperçoivent qu'à la barrière fermée que cette gare n'est pas une gare française."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b09-n41",
+      "pt": "C'était la partie neuf. Billet, barrière, voie. Ensuite, on lit les lieux. Hasta luego."
+    }
+  ],
+
+  "aprofundar": {
+    "titulo": "Trois trains, un chiffre et deux lettres (lecture facultative)",
+    "secoes": [
+      {
+        "titulo": "Metro, Cercanías, Renfe — et où se niche l'argent",
+        "corpo": "Trois systèmes, trois billets, et aucun ne vaut pour l'autre. Le metro reste en ville ; à Madrid, le billet unitaire en papier est supprimé et l'on achète la Tarjeta Multi rouge pour 2,50 euros — elle n'est à aucun nom et se recharge indéfiniment, mais elle ne laisse passer qu'une personne à la fois, jamais deux ; depuis juin 2026, la carte et le téléphone passent aussi directement à la barrière. Cercanías, c'est le train de banlieue — rames plus grandes, moins fréquentes, et plus gratuit depuis le 31 décembre 2025 : les vieilles opérations ont pris fin, et le transport de proximité ne reste gratuit qu'en Asturies et en Cantabrie, et là encore à partir de seize trajets par quadrimestre. La nationalité ou la résidence espagnole, elle, est exigée pour autre chose : le pass mensuel à 10 euros pour les jeunes — qui de toute façon n'est pas accessible aux voyageurs. Qui a vu une vidéo de 2024 arrive avec une fausse attente. Renfe roule entre les provinces, avec l'AVE, l'Avlo et l'Avant, et se réserve comme un vol : 60 à 90 jours avant, les prix sont au plus bas, la veille deux à trois fois plus haut, et parfois il n'y a plus de place du tout. L'aéroport est partout le cas particulier. À Madrid, il coûte 3 euros de supplément, que vous ayez un billet unitaire ou un carnet de dix. À Barcelone, la T-casual à 13 euros ne couvre pas l'aéroport : la L9 Sud est une zone à part et coûte 5,90 euros le trajet. La règle sans tableau : plus de trois trajets par jour, alors le carnet de dix vaut le coup — mais un par personne, car la T-casual à Barcelone vaut expressément pour un seul voyageur, et à Madrid aussi un seul passe par passage. Pour l'aéroport, comptez toujours en plus.",
+        "exemplos": [
+          {
+            "es": "¿Esto es Cercanías o metro?",
+            "pt": "ÉS-to es sser-ka-NI-ass o MÉ-tro — C'est Cercanías ou le metro ? (le c devant e est un s, jamais un z)"
+          },
+          {
+            "es": "¿Este billete vale para el aeropuerto?",
+            "pt": "ÉS-té bi-YÉ-té BA-lé PA-ra el a-é-ro-POUÉR-to — Ce billet vaut-il jusqu'à l'aéroport ?"
+          }
+        ]
+      },
+      {
+        "titulo": "Le chiffre tombe juste — et le double l sur le billet",
+        "corpo": "Dans cette gare, presque tout se lit tout seul, et c'est même votre avantage — à condition de connaître les rares endroits où « presque » compte. D'abord le chiffre, et c'est une bonne nouvelle : là où d'autres langues renversent l'ordre, le français ne le fait pas. treinta y cuatro, c'est le grand nombre d'abord, exactement comme trente-quatre — vous notez le prix juste sans y penser. Et là où votre langue complique les grands nombres — soixante-dix, quatre-vingts —, l'espagnol simplifie : setenta, ochenta ; vous montez vers le plus régulier, sans rien perdre. Le seul réflexe utile est le même pour tout : relire sur l'affichage ce que l'oreille attrape — le prix, la voie, l'heure — parce que la voix et l'écran disent la même chose à deux secondes d'écart. Le seul endroit où votre œil peut glisser tient en deux lettres. Un double l ne se lit pas comme un l : c'est le y de « yaourt ». billete se dit bi-YÉ-té, pantalla se dit pan-TA-ya, et la ville sur votre billet, Sevilla, sé-BI-ya — le v s'entend, on vous comprend, c'est le double l qui décide, pas lui. Trois autres signes passent en silence et figurent dans chaque transcription de cette page : le qu est un simple k (quería = ke-RI-a, ¿de qué vía? = dé ké BI-a), le h ne se prononce pas (¿hay otro tren? = aï O-tro tren), et le j gratte au fond de la gorge (la tarjeta = la tar-KHÉ-ta, buen viaje = bouen BIA-khé). Une dernière chose à tenir : le -s du pluriel. dos billetes se dit doss bi-YÉ-tess ; mangez le -s comme en français, et il ne reste qu'un billet.",
+        "exemplos": [
+          {
+            "es": "Son treinta y cuatro con veinte.",
+            "pt": "son TREIN-ta i KOUA-tro kon BEIN-té — 👂 « Ça fait 34,20. » Le grand nombre d'abord, comme en français."
+          },
+          {
+            "es": "¿De qué vía sale?",
+            "pt": "dé ké BI-a SA-lé — De quelle voie part-il ? (vía pour les grandes lignes, andén en ville)"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,711 @@
+{
+  "id": "i03",
+  "slot": "I03",
+  "nivel": "intermediario",
+  "numero": 21,
+  "parte": "21",
+  "titulo": "Le plat que vous n'auriez pas commandé",
+  "subtitulo": "En semaine, à midi, trois plats, du pain, une boisson et un dessert pour environ quatorze euros vingt — et la seule question qui, d'une ardoise que vous ne lisez pas, tire le plat dont la cuisine est fière",
+  "moldura": "ganha",
+
+  "decisao": "quel déjeuner, et ce qu'il coûte — trois plats, du pain, une boisson et un dessert à environ quatorze euros vingt en moyenne, sur l'ardoise à la porte, contre chacune de ces assiettes prise à la carte ; sur la côte méditerranéenne continentale où vous arrivez le plus souvent, il reste la meilleure affaire de la cuisine espagnole, et au sud, en Andalousie, encore moins cher. Et il n'existe qu'en semaine à midi : à quatre heures la cuisine est finie, alors l'horloge décide aussi. Pour vous qui traversez la frontière en voiture, c'est le déjeuner de route de l'Espagne qui travaille",
+  "emJogo": "ambos",
+
+  "moldes": ["ELECCION"],
+
+  "clique": {
+    "contagem": ["La table du midi", "l'étal à poisson", "la carte des vins", "l'étal à fromage"],
+    "desconto": "Ces quatre phrases, personne ne vous les a données. Vous les avez bâties à partir d'une seule question avec deux choses dedans — et deux d'entre elles, vous ne saviez même pas les prononcer.",
+    "piso": "Vous commandez un déjeuner espagnol de trois plats sur une ardoise écrite à la main. La plupart de ceux qui passent deux semaines ici ne le font pas une seule fois."
+  },
+  "cliqueAudioKey": "i03-n28",
+
+  "frasePiso": "Vous commandez un déjeuner espagnol de trois plats sur une ardoise écrite à la main. La plupart de ceux qui passent deux semaines ici ne le font pas une seule fois.",
+
+  "permissao": "Vous n'avez pas à comprendre toute l'ardoise. Prenez le seul mot que vous avez attrapé et partez avec — ou montrez la table d'à côté et dites «lo mismo». Vous avez le droit de dire oui à un nom que vous n'avez jamais entendu, et de laisser la moitié du deuxième plat. Deux plats, c'est beaucoup de déjeuner, et personne ne regarde votre assiette.",
+  "permissaoAudioKey": "i03-n25",
+
+  "espelho": "Relire toute la liste au serveur pour vérifier, c'est ça qui détonne là-bas. Personne ne vérifie. Tout le monde commande, simplement, et la moitié parle à quelqu'un d'autre en même temps.",
+
+  "fichasCulturais": [
+    {
+      "sinal": "Il referme l'ardoise, dit le nom d'un plat que vous n'avez jamais entendu, puis se tait et attend.",
+      "suaLeitura": "Il vérifie si j'ai compris. Si je dis oui et que je me trompe, quelque chose d'affreux arrive sur la table.",
+      "oQueEAli": "Dans une maison qui, le mardi, cuisine bien une seule chose, le nom est déjà la recommandation — la cuisine a tranché, et il vous transmet ça au lieu de poser une question.",
+      "oQueVoceFaz": "Dire oui. Ou dire «lo mismo» en montrant l'assiette de la table d'à côté.",
+      "oQueMelhora": "Vous mangez ce que la maison réussit ce jour-là, au lieu du seul plat de l'ardoise que vous saviez déjà prononcer.",
+      "ondeNaoVale": "Pas sur une avenue à photos sur la carte, avec un homme devant qui vous fait entrer — là, la liste est la même tous les jours de l'année, et le nom qu'il dit ne veut rien dire.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["i03-n22", "i03-n23", "i03-n24"]
+    },
+    {
+      "sinal": "En dehors du menu du jour, ce que vous avez commandé arrive au milieu de la table, et on ne pose d'assiette devant personne.",
+      "suaLeitura": "Ils ont mal compris la commande, ou ils apportent un plat pour toute la table.",
+      "oQueEAli": "Une ración est faite pour le milieu de la table et pensée pour le partage : deux personnes qui en commandent quatre commandent pour six. En demander une demi est tout à fait ordinaire.",
+      "oQueVoceFaz": "Commander moins de choses que vous n'êtes de personnes, piocher au milieu, et demander une media ración si vous voulez juste goûter.",
+      "oQueMelhora": "Quatre choses sur la table au lieu d'une par personne, et vous repartez après avoir goûté celle que vous n'auriez jamais commandée.",
+      "ondeNaoVale": "Pas au menú del día, dressé par personne — une entrée, un plat, les vôtres, et demander à partager embrouille tout le monde.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["i03-n19", "i03-racion-e"]
+    }
+  ],
+
+  "fatosDatados": [
+    {
+      "id": "menu-del-dia-preco",
+      "afirmacao": "Un menú del día coûte en moyenne nationale environ quatorze euros vingt — le moins cher aux Canaries, dans les Asturies, en Andalousie et à Murcie, le plus cher aux Baléares.",
+      "valor": "€14,20",
+      "fonte": "Hostelería de España + Edenred, divulgado em 2026 — citado em docs/pesquisa-espanha.md §7.2",
+      "ano": 2026,
+      "revisarAte": "2027-04-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["i03-n06"]
+    },
+    {
+      "id": "menu-del-dia-nao-obrigatorio",
+      "afirmacao": "Aucune loi en vigueur n'oblige un restaurant à proposer un menú del día — la règle de l'époque franquiste a été abolie ; tout cours qui le présente comme une obligation légale est périmé.",
+      "fonte": "docs/pesquisa-espanha.md §7.2 — não se localizou norma vigente; obrigatoriedade franquista revogada, síntese jurídica secundária sem fonte primária citada",
+      "ano": 2026,
+      "revisarAte": "2028-01-01",
+      "evidencia": "CONSENSO",
+      "risco": "baixo",
+      "audioKeys": ["i03-n08"]
+    },
+    {
+      "id": "hora-da-comida",
+      "afirmacao": "La comida, le repas principal, se tient typiquement d'environ deux heures à trois heures et demie ou quatre, si bien que le menu du midi est terminé en début d'après-midi.",
+      "fonte": "consenso de fontes secundárias (guias gastronômicos e de viagem), registrado em docs/pesquisa-espanha.md §7.1 — o INE não publica horário médio de refeição",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "CONSENSO",
+      "risco": "baixo",
+      "audioKeys": ["i03-n09"]
+    }
+  ],
+
+  "_notas": {
+    "_": "PARTE ESCRITA EM FRANCÊS (o andaime saiu; `cena` declarado, `aguardaNarracao` removido). É a CASA do molde social ELECCION (ESCOLHA). A fala espanhola é ativo de DESTINO: NENHUM `es`, `audioKey` ou `tts` foi tocado — os clipes e mp3 herdados do par base estão intactos, custo de crédito espanhol ZERO. O que este SKU escreve aqui é a narração FRANCESA (GuiaFem) e o gloss/respelling de cada clipe.",
+    "clipe_espanhol_novo": "NENHUM. Todos os audioKey já existem no disco (e03a-cana-e, i03-*), herdados verbatim. Os 19 clipes espanhóis do andaime cobrem os seis moldes exigidos aqui (ELECCION casa + os redisparos ME-PONE, HAY, SIN-CON-PARA, QUERIA, LLEVA), então não houve necessidade de inventar fala nova.",
+    "casa_eleccion": "I03 é a CASA de ELECCION (moldes.json). Os quatro tempos são ensinados: nomear o molde (i03-n10/n11), nomear a peça que troca (as duas coisas depois do «cuál me recomienda»), trocar na frente do aluno (Emilio recita pulpo/croquetas, arroz/pescado) e mandar o aluno trocar (cinco responde de ELECCION: arroz/pescado, mejor hoy, típico de aquí, este/aquel e o recap). O termo do molde na narração francesa é «le moule» e é nomeado em i03-n10, n11 e n21.",
+    "eixo_leve_este_par": "DECISÃO DECLARADA, contra o hint do briefing e a favor do núcleo. O briefing sugeria `rico`≠`riche` como falso amigo possível — mas o `moldes.json` (núcleo gerador, autoritativo) declara ELECCION com `falsos_amigos: []` e a nota do molde frama a camada lexical como BRINDE puro; `rico`≠`riche` é GRAVADO e é a CASA de I07 (`¡Qué rico!`, ep-i07). Forçar `rico` aqui contradiria o núcleo e duplicaria I07 (divergência silenciosa entre partes paralelas). Então I03 fica CULTURAL + BRINDE-espelho, como o task manda para «onde não houver falso amigo»: o peso está no REENQUADRE do comprador, não no falso amigo. NÃO CONFERIDO: se o dono quiser um toque de `rico` em I03 como prévia leve da casa de I07, é decisão de manifesto — deixei fora para não colidir com I07.",
+    "brinde_espelho": "A camada lexical de I03 é o BRINDE-espelho, registrado sem gastar áudio (uma linha cada): (1) `recomendar`=`recommander` — a semelhança AJUDA, dita em i03-n11 e no aprofundar §1; (2) `el menú`=`le menu` (refeição fixa) e `la carta`=`la carte` (o cardápio) — os dois batem certo, o falso amigo diário do inglês (`carta`≠«card») NÃO existe para o francês; dito em i03-n07 e no aprofundar §2 («menu du jour = menú del día, mot pour mot»). É o oposto de I07: aqui a proximidade é aliada, não armadilha.",
+    "reenquadre_frances": "vs o alemão (que pousa nas Baleares 42% e diz «Baleares, onde a maioria pousa, é o mais caro»): o francês pousa no LITORAL CONTINENTAL — Catalunha 30%, Valência 17%, Andaluzia 11% — e 65% chega de CARRO (FATO, Turespaña). Reescrevi a geografia: o menú del día é a melhor pechincha em qualquer lugar, mais barato no sul (Andaluzia, também destino francês), e é o ALMOÇO DE ESTRADA da Espanha que trabalha — cena perfeita para quem atravessa a fronteira de carro e para de meio-dia. NÃO copiei a linha alemã das Baleares (anti-padrão 9).",
+    "fonetica_desta_parte": "Toque leve (a casa da fonética densa é B01/B13). Do conjunto francês: a TÔNICA oxítona (aquecimento i03-n01 e respelling), a JOTA em `mejor` («me-KHOR») e `jamón` («kha-MON») deixada só no respelling — a casa da jota é B13/LLEVA, forçá-la aqui roubaria a primeira aparição de peso —, e os FINAIS apagados (`-s` de `croquetas`/`patatas`, `-e` de `carne`→«KAR-né»). BRINDES do francês, não anotados (copiá-los é o anti-padrão 9): o `qu`=[k] (`quería`, `croquetas`, `aquí`, `aquel`, `¿qué?`) que o alemão penava lendo «kve»; o `h` mudo (`hoy`, `hacemos`); e `cuál`, que NÃO é armadilha (o `c` antes de `u` é [k] nas duas línguas).",
+    "respelling_para_leitor_frances": "O campo `pinyin` foi RE-DERIVADO para o OLHO FRANCÊS (INFERÊNCIA — exige revisor FR-L1 + espanhol peninsular antes do áudio; DERIVACAO-FR §1, §5). Convenção: MAIÚSCULA = tônica (a oxítona é o erro nº 1 do francês) · `ou` = `u` espanhol [u], nunca o `u` francês [y] (menú→mé-NOU) · `ss` = z, c+e/i e s intervocálico, sempre duro (bloqueia o [z] francês: `eso`→É-sso, `arroz`→a-RROSS) · `kh` = a jota [x], souffle de gorge (`mejor`→mé-KHOR, `jamón`→kha-MON) · `tch` = `ch` espanhol [tʃ], não [ʃ] (`manchego`→man-TCHÉ-go) · `y` = ll/y de «yaourt» (`lleva`→YÉ-ba) · `b` = v/b espanhol (`favor`→fa-BOR) · `gn` = ñ (`caña`→KA-gna) · `h` mudo cai (`hoy`→oï) · `qu`=k · finais `-s`/`-r`/`-e` MOSTRADOS porque o francês os apaga; `-e` final → `-é`. Saíram as marcas alemãs (ch de Bach, tsch).",
+    "voz_guia_renomeada": "Os steps passaram de `Juli` (resíduo do scaffold alemão) para `GuiaFem`, o nome que o audio.config.json._g14.guia declara para este SKU. NÃO é cosmético: o G14 (voz × língua) só confere um clipe cuja `voz` está no conjunto `guia`/`alvo` — com `Juli` a narração francesa passaria SEM SER CHECADA. Esta parte não tem GuiaMasc: não abre bloco de leitura próprio nem chama o alerta (a jota mora em B13, o falso amigo em I07). Carmen e Emilio (peninsulares, alvo) intocados.",
+    "tratamento": "A GuiaFem trata o aluno por «vous» em todo o SKU; a assimetria editorial do par (a guia usa «vous» enquanto ensina que ao balcão espanhol se usa «tú») porta. O beat de recalibragem `vous`→`usted` mora em B02/I02 e NÃO se reabre aqui. Carmen e Emilio nunca dizem uma palavra de francês; a GuiaFem cita espanhol dentro da narração francesa (é o trabalho dela) e nunca o fala.",
+    "redisparos_cumpridos": "Servidos pelo andaime, todos com casa em slot anterior (G9c/G9d): ME-PONE (casa B11) no callback `una caña`; HAY (casa B08) em `menú del día`; SIN-CON-PARA (casa B12) em `con ensalada`; QUERIA (casa B12) em `media ración`; LLEVA (casa B13) em `carne`. `moldes[]` declara só ELECCION (a CASA); os demais entram pelos steps.",
+    "pendencia_G14": "Roda neste SKU (audio.config.json._g14, guiaLingua `fr`). A GuiaFem CITA espanhol dentro da narração francesa (INV-5) e nunca o fala; Carmen e Emilio não dizem uma palavra de francês. Conferência humana obrigatória em toda entrega (este repositório já teve o acidente do mp3 na língua errada). Todo o respelling é INFERÊNCIA e pende de revisor FR-L1 + peninsular antes do áudio."
+  },
+
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n01",
+      "bloco": "aquecimento",
+      "gesto": 4,
+      "tom": "ganha",
+      "pt": "Partie vingt et une. Échauffement : une seule touche de la langue sur le r, jamais un roulement — et l'appui au bon endroit, pas à la fin. Re-co-MIEN-da. A-RROZ. Ra-CIÓN."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n02",
+      "pt": "Trois mots avec un r à la suite, chacun un seul tap. Ensuite on commence."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "molde": "ME-PONE",
+      "encaixe": "una caña",
+      "encaixeGloss": "une petite bière pression",
+      "promptAudioKey": "i03-p01",
+      "promptPt": "Le comptoir d'hier, le même homme, encore trois rangs de monde. Il vient de vous regarder et de dire «dime». Pas d'élan, pas de pardon avant. Parlez maintenant.",
+      "audioKey": "e03a-cana-e",
+      "es": "¿Me pones una caña, por favor?",
+      "pinyin": "mé PO-ness OU-na KA-gna, por fa-BOR",
+      "pt": "le petit verre froid"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n03",
+      "bloco": "cena",
+      "pt": "Deux heures dix, un mardi. Un bar à deux rues de la place, et à chaque table, on mange."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n04",
+      "pt": "Les mêmes trois assiettes à chaque table, au même prix, et aucune n'est sur la carte qu'on vous a donnée."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n05",
+      "pt": "Elles sont sur une ardoise près de la porte, à la main, et vous êtes passé devant quatre comme celle-là cette semaine."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i03-hoymenu-e",
+      "receptivo": true,
+      "acao": "Dire oui. C'est la meilleure affaire de la maison.",
+      "es": "Hoy tenemos menú del día.",
+      "pinyin": "oï té-NÉ-moss mé-NOU del DI-a",
+      "pt": "👂 «Aujourd'hui on a le menu du jour.» — les trois meilleurs mots du pays.",
+      "tts": "Hoy tenemos menú del día."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n06",
+      "pt": "Entrée, plat, pain, une boisson et un dessert, à un seul prix. En moyenne autour de quatorze euros vingt ; aux Baléares un peu plus, au sud un peu moins."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n07",
+      "pt": "El menú, c'est exactement votre menu : le repas fixe. La carta, c'est la carte, avec tout dessus. Ici votre habitude tombe juste — menu du jour, menú del día, mot pour mot."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n08",
+      "tom": "protege",
+      "pt": "Sur le net, on lit souvent que c'est obligatoire. Ça ne l'est pas — aucun établissement n'est tenu d'en proposer un."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n09",
+      "tom": "ganha",
+      "pt": "Il est resté parce qu'il vaut le coup. Seulement en semaine, à midi : la cuisine ferme à quatre heures, alors vous y allez à deux."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "HAY",
+      "encaixe": "menú del día",
+      "encaixeGloss": "le menu du jour",
+      "consulta": ["mesa/carta", "mesa/comida"],
+      "promptAudioKey": "i03-p02",
+      "promptPt": "Deux heures et quart, un petit resto plein de gens en tenue de travail, et l'ardoise à la porte est dans une écriture que vous ne lisez pas. Demandez à l'homme au comptoir s'ils le font aujourd'hui. Parlez maintenant.",
+      "audioKey": "i03-haymenu-c",
+      "es": "¿Hay menú del día?",
+      "pinyin": "aï mé-NOU del DI-a",
+      "pt": "s'ils font la bonne affaire aujourd'hui",
+      "tts": "¿Hay menú del día?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i03-delunesaviernes-e",
+      "receptivo": true,
+      "acao": "Retenir : en semaine, à midi. Le week-end, chercher ailleurs.",
+      "es": "De lunes a viernes. Los sábados solo carta.",
+      "pinyin": "dé LOU-ness a BYER-ness. loss SA-ba-doss SO-lo KAR-ta",
+      "pt": "👂 «Du lundi au vendredi. Le samedi, seulement la carte.» — la bonne affaire est une affaire de semaine.",
+      "tts": "De lunes a viernes. Los sábados solo carta."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n10",
+      "bloco": "molde",
+      "pt": "Voilà le moule du jour. Il ne demande pas «qu'est-ce qui est bon ici». Il demande : lequel des deux."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i03-cualpulpo-e",
+      "es": "¿Cuál me recomienda: el pulpo o las croquetas?",
+      "pinyin": "koual mé rre-ko-MYEN-da: el POUL-po o lass kro-KE-tass",
+      "pt": "Lequel me recommandez-vous : le poulpe ou les croquettes ?",
+      "tts": "¿Cuál me recomienda: el pulpo o las croquetas?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n11",
+      "pt": "Voilà le moule. Cuál me recomienda, puis deux choses que vous voyez — recomienda, c'est recommander, la ressemblance vous aide. Devant, rien ne bouge."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n12",
+      "pt": "Le petit mot devant chaque chose vient avec. Prenez-le comme vous l'avez entendu, personne ne tique."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i03-recita-e",
+      "receptivo": true,
+      "acao": "Pas besoin d'attraper les trois. Deux suffisent — elles deviennent votre question.",
+      "es": "De segundo: el arroz, el pescado del día o la carne guisada.",
+      "pinyin": "dé sé-GOUN-do: el a-RROSS, el pess-KA-do del DI-a o la KAR-né gi-SSA-da",
+      "pt": "👂 Les plats principaux, d'un seul souffle, au rythme où il les dit à chacun.",
+      "tts": "De segundo: el arroz, el pescado del día o la carne guisada."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "ELECCION",
+      "encaixe": "el arroz o el pescado",
+      "encaixeGloss": "le riz ou le poisson",
+      "consulta": ["mesa/comida"],
+      "promptAudioKey": "i03-p03",
+      "promptPt": "Il a dit trois plats d'un seul souffle. Les deux premiers sont restés, le troisième est passé. Carnet ouvert, il attend à votre table. Renvoyez-lui le choix. Parlez maintenant.",
+      "audioKey": "i03-cualarroz-c",
+      "es": "¿Cuál me recomienda: el arroz o el pescado?",
+      "pinyin": "koual mé rre-ko-MYEN-da: el a-RROSS o el pess-KA-do",
+      "pt": "lequel des deux",
+      "tts": "¿Cuál me recomienda: el arroz o el pescado?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n13",
+      "pt": "Deux choses, une question, et ce qui revient est l'une des deux. Il ne peut pas vous échapper."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n14",
+      "pt": "Question ouverte, onze secondes d'espagnol. Question entre deux, un seul mot."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n15",
+      "pt": "Il y a autre chose à faire avec un nom que vous n'avez jamais entendu : l'ouvrir avant qu'il n'arrive."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i03-llevacarne-e",
+      "es": "¿Lleva carne?",
+      "pinyin": "YÉ-ba KAR-né",
+      "pt": "Il y a de la viande dedans ?",
+      "tts": "¿Lleva carne?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n15b",
+      "pt": "Trois mots, et le début est déjà à vous depuis la partie treize. Seul ce qui pend au bout change."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "LLEVA",
+      "encaixe": "carne",
+      "encaixeGloss": "la viande",
+      "consulta": ["dieta/o-que-tem"],
+      "promptAudioKey": "i03-p04",
+      "promptPt": "Samedi, une autre ville, et l'entrée sur l'ardoise est un mot qui ne vous dit rien à tous les deux. La personne en face de vous ne mange plus rien qui ait un visage depuis 2019. Parlez maintenant.",
+      "audioKey": "i03-llevacarne-e",
+      "es": "¿Lleva carne?",
+      "pinyin": "YÉ-ba KAR-né",
+      "pt": "avant que l'un de vous ne se décide"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i03-poquitodejamon-e",
+      "receptivo": true,
+      "acao": "Prendre pour un oui. Pour une vraie allergie, c'est la partie treize.",
+      "es": "Carne no. Lleva un poquito de jamón, nada más.",
+      "pinyin": "KAR-né no. YÉ-ba oun po-KI-to dé kha-MON, NA-da mass",
+      "pt": "👂 «Pas de viande. Juste un peu de jambon, c'est tout.» — le jambon compte ici comme un assaisonnement, pas comme de la viande. C'est un oui.",
+      "tts": "Carne no. Lleva un poquito de jamón, nada más."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n16",
+      "pt": "Commander a une forme, la même dans chaque bar du pays. Trois petits mots la portent."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i03-primero-c",
+      "es": "De primero, la ensalada; de segundo, el pescado.",
+      "pinyin": "dé pri-MÉ-ro, la en-ssa-LA-da; dé sé-GOUN-do, el pess-KA-do",
+      "pt": "L'entrée, puis le plat. De primero, de segundo — et le dessert, s'il demande, de postre.",
+      "tts": "De primero, la ensalada. De segundo, el pescado."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i03-p05",
+      "promptPt": "Il est à votre table, carnet en main, il vous a lu l'ardoise deux fois, et vous avez choisi. Donnez-lui les deux, dans l'ordre où il les a lus. Parlez maintenant.",
+      "audioKey": "i03-primero-c",
+      "es": "De primero, la ensalada; de segundo, el pescado.",
+      "pinyin": "dé pri-MÉ-ro, la en-ssa-LA-da; dé sé-GOUN-do, el pess-KA-do",
+      "pt": "les deux, dans l'ordre"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n17",
+      "pt": "Parfois ça revient direct, et la réponse est un seul mot. Écoutez la fin de sa question."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i03-conpatatas-e",
+      "receptivo": true,
+      "acao": "Choisir l'un des deux, ne pas renvoyer toute la question.",
+      "es": "¿Con patatas o con ensalada?",
+      "pinyin": "kon pa-TA-tass o kon en-ssa-LA-da",
+      "pt": "👂 «Avec des frites ou avec de la salade ?» — la question qui vous tombe sur les genoux.",
+      "tts": "¿Con patatas o con ensalada?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n17b",
+      "pt": "Vous ne renvoyez pas toute la question. Prenez l'un des deux, un s'il vous plaît derrière, et stop."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "SIN-CON-PARA",
+      "encaixe": "con ensalada",
+      "encaixeGloss": "avec de la salade",
+      "promptAudioKey": "i03-p06",
+      "promptPt": "Il vient de vous proposer deux choses, et vous voulez la verte. Deux mots, et stop. Parlez maintenant.",
+      "audioKey": "i03-conensalada-c",
+      "es": "Con ensalada, por favor.",
+      "pinyin": "kon en-ssa-LA-da, por fa-BOR",
+      "pt": "la verte"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n18",
+      "pt": "Le même début prend une autre fin, pour les comptoirs où ce qui est bon change chaque matin."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i03-mejorhoy-c",
+      "es": "¿Cuál está mejor hoy?",
+      "pinyin": "koual ess-TA mé-KHOR oï",
+      "pt": "Lequel est le meilleur aujourd'hui ? — pour un comptoir qui change avec la pêche du matin.",
+      "tts": "¿Cuál está mejor hoy?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n18b",
+      "pt": "Là, pas besoin de deux choses. Le comptoir les a déjà étalées, et il sait ce qu'il mangerait."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "ELECCION",
+      "encaixe": "está mejor hoy",
+      "encaixeGloss": "le meilleur aujourd'hui",
+      "consulta": ["compras/balcao"],
+      "promptAudioKey": "i03-p07",
+      "promptPt": "Neuf heures et demie, samedi, l'étal à poisson du marché. Six plateaux sur la glace, et l'homme a la pince dans une main et un sourcil levé. Parlez maintenant.",
+      "audioKey": "i03-mejorhoy-c",
+      "es": "¿Cuál está mejor hoy?",
+      "pinyin": "koual ess-TA mé-KHOR oï",
+      "pt": "ce qui est arrivé ce matin"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n19",
+      "pt": "En dehors de ce déjeuner, le plat arrive au milieu de la table, et il est plus grand qu'il n'en a l'air."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i03-racion-e",
+      "receptivo": true,
+      "acao": "Prendre le demi-oui si vous êtes deux.",
+      "es": "Una ración es para compartir. ¿Le pongo media ración?",
+      "pinyin": "OU-na rra-SSYON ess PA-ra kom-par-TIR. lé PON-go MÉ-dya rra-SSYON",
+      "pt": "👂 «Une ración, c'est pour partager — je vous en fais une demi ?» Il l'a dit pour vous.",
+      "tts": "Una ración es para compartir. ¿Le pongo media ración?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n19b",
+      "pt": "Une seule à deux suffit, et en commander moins d'une est tout ce qu'il y a de banal."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "QUERIA",
+      "encaixe": "media ración",
+      "encaixeGloss": "une demi-portion",
+      "consulta": ["mesa/tamanho"],
+      "promptAudioKey": "i03-p08",
+      "promptPt": "Huit heures du soir, vous êtes deux à un comptoir, et l'assiette qui vient de passer était grande comme un enjoliveur. Vous voulez ça, en plus petit. Parlez maintenant.",
+      "audioKey": "i03-mediaracion-c",
+      "es": "Quería media ración, por favor.",
+      "pinyin": "ké-RI-a MÉ-dya rra-SSYON, por fa-BOR",
+      "pt": "la plus petite des deux"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i03-nomedia-e",
+      "receptivo": true,
+      "acao": "Alors la prendre entière et partager.",
+      "es": "De eso no hacemos media. O entera, o nada.",
+      "pinyin": "dé É-sso no a-SSÉ-moss MÉ-dya. o en-TÉ-ra, o NA-da",
+      "pt": "👂 «De ça, on ne fait pas de demi. Entière ou rien.» — certains plats n'existent qu'en une taille. Partagez-le.",
+      "tts": "De eso no hacemos media. O entera, o nada."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n20",
+      "pt": "Une dernière fin, et celle-ci vous apporte le plat dont ils sont fiers, pas celui qui se vend le plus."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i03-tipico-e",
+      "es": "¿Cuál es más típico de aquí?",
+      "pinyin": "koual ess mass TI-pi-ko dé a-KI",
+      "pt": "Lequel est le plus typique d'ici ? — quatorze noms que vous ne lisez pas, triés en cinq mots.",
+      "tts": "¿Cuál es más típico de aquí?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n20b",
+      "pt": "Pas ce qu'ils vendent le plus. Ce qu'on ne trouve qu'à une heure autour de l'endroit où vous êtes."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "ELECCION",
+      "encaixe": "más típico de aquí",
+      "encaixeGloss": "le plus typique d'ici",
+      "consulta": ["mesa/comida", "simpatia/puxar-conversa"],
+      "promptAudioKey": "i03-p09",
+      "promptPt": "La carte des vins a quatorze noms, aucun que vous ayez jamais vu, et la femme à qui appartient le resto l'a apportée elle-même et attend, debout. Parlez maintenant.",
+      "audioKey": "i03-tipico-e",
+      "es": "¿Cuál es más típico de aquí?",
+      "pinyin": "koual ess mass TI-pi-ko dé a-KI",
+      "pt": "celui d'ici"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n21",
+      "pt": "Et si vous ne savez nommer ni l'un ni l'autre, ça marche quand même. Vous montrez, et le moule porte le reste."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i03-esteaquel-c",
+      "es": "¿Cuál me recomienda: este o aquel?",
+      "pinyin": "koual mé rre-ko-MYEN-da: ESS-té o a-KEL",
+      "pt": "Celui-ci ou celui-là — deux doigts nomment à votre place.",
+      "tts": "¿Cuál me recomienda: este o aquel?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n21b",
+      "pt": "Rien n'a bougé sauf ce que vous montrez. Quatre fins et un doigt, c'est tout."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "ELECCION",
+      "encaixe": "este o aquel",
+      "encaixeGloss": "celui-ci ou celui-là",
+      "promptAudioKey": "i03-p10",
+      "promptPt": "Samedi matin, l'étal à fromage du marché, onze meules sous verre et une femme qui a tout l'après-midi. Vous ne savez prononcer aucune étiquette. Parlez maintenant.",
+      "audioKey": "i03-esteaquel-c",
+      "es": "¿Cuál me recomienda: este o aquel?",
+      "pinyin": "koual mé rre-ko-MYEN-da: ESS-té o a-KEL",
+      "pt": "avec deux doigts"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n22",
+      "bloco": "capsula",
+      "pt": "Regardez ce qu'il fait quand vous hésitez. Il referme l'ardoise, dit un nom et se tait."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n23",
+      "pt": "Ce n'est pas un test. Dans une maison qui cuisine bien une seule chose aujourd'hui, le nom est déjà la recommandation."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n24",
+      "pt": "Pas sur l'avenue à photos sur la carte. Là, la liste ne change jamais, et le nom ne dit rien."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n25",
+      "bloco": "permissao",
+      "pt": "Vous n'avez pas à comprendre toute l'ardoise. Prenez le seul mot que vous avez attrapé, et partez avec."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n26",
+      "pt": "Ou montrez la table d'à côté et dites «lo mismo». Et vous avez le droit d'en laisser la moitié. Personne ne regarde votre assiette."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n27",
+      "bloco": "espelho",
+      "pt": "Relire toute la liste pour vérifier, c'est ça qui détonne là-bas. Personne ne vérifie. Tout le monde commande, simplement."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n28",
+      "bloco": "clique",
+      "tom": "ganha",
+      "pt": "Comptez les endroits. La table du midi. L'étal à poisson. La carte des vins. L'étal à fromage."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n29",
+      "pt": "Ces quatre phrases, personne ne vous les a données. Vous les avez bâties à partir d'une question avec deux choses dedans."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n30",
+      "bloco": "piso",
+      "pt": "Vous commandez un déjeuner espagnol de trois plats sur une ardoise écrite à la main. La plupart ne le font pas une seule fois en deux semaines."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-s00",
+      "pt": "À répéter. Fort, avec eux, une touche sur le r. Les deux qui marchent partout :"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "i03-cualarroz-c",
+      "molde": "ELECCION",
+      "es": "¿Cuál me recomienda: el arroz o el pescado?",
+      "pinyin": "koual mé rre-ko-MYEN-da: el a-RROSS o el pess-KA-do",
+      "pt": "Lequel me recommandez-vous : le riz ou le poisson ?"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "i03-tipico-e",
+      "molde": "ELECCION",
+      "es": "¿Cuál es más típico de aquí?",
+      "pinyin": "koual ess mass TI-pi-ko dé a-KI",
+      "pt": "Lequel est le plus typique d'ici ?"
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "i03-rend",
+      "bloco": "recap",
+      "pt": "Encore une fois à voix haute, quelque part où l'on ne s'est pas encore tenus, et cette fois personne ne vous a rien lu."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "ELECCION",
+      "encaixe": "este o aquel",
+      "encaixeGloss": "celui-ci ou celui-là",
+      "promptAudioKey": "i03-p11",
+      "promptPt": "Neuf heures du matin, une pâtisserie à deux portes de l'hôtel, deux plaques de choses que vous n'avez jamais vues, et la femme a déjà la pince en main. Parlez maintenant.",
+      "audioKey": "i03-esteaquel-c",
+      "es": "¿Cuál me recomienda: este o aquel?",
+      "pinyin": "koual mé rre-ko-MYEN-da: ESS-té o a-KEL",
+      "pt": "les deux mêmes doigts"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i03-n31",
+      "pt": "C'est tout. Trois plats, un nom que vous ne saviez pas lire, et l'assiette dont ils sont fiers. Hasta luego."
+    }
+  ],
+
+  "aprofundar": {
+    "titulo": "Lequel des deux, et le déjeuner devant lequel vous passez sans arrêt (lecture optionnelle)",
+    "secoes": [
+      {
+        "titulo": "La question qui revient petite",
+        "corpo": "Une question ouverte reçoit une réponse ouverte, et une réponse ouverte en espagnol, au rythme du comptoir, c'est onze secondes que vous ne retiendrez pas. «¿Qué me recomienda?» est une phrase parfaitement correcte, qui rend toute l'ardoise à un inconnu et lui demande de la décrire. «¿Cuál me recomienda: el arroz o el pescado?» lui donne deux choses et en reprend une. Voilà toute la construction : vous ne testez pas votre compréhension, vous rétrécissez la réponse jusqu'à ce qu'elle tienne dans la tête. Le début ne bouge jamais — cuál me recomienda —, et ce qui change, ce sont les deux choses que vous lisez sur l'ardoise, sur l'étagère ou à la table d'à côté. Un cadeau au passage : recomienda, c'est recommander — pour une fois, la ressemblance vous aide, elle ne vous piège pas. Quatre fins couvrent le voyage : deux choses avec «o» entre elles ; «¿cuál está mejor hoy?» quand le comptoir change chaque jour ; «¿cuál es más típico de aquí?» quand vous voulez celui d'ici et pas le plus vendu ; et «¿este o aquel?» quand vous les avez tous les deux devant vous. Un mot, vous pouvez le laisser tomber : on a enregistré «recomienda», la forme pour quelqu'un derrière un comptoir que vous ne connaissez pas. Dans un bar jeune, vous entendrez «recomiendas» voler, et si on l'emploie avec vous, employez-le en retour. Ici, rien ne casse, dans un sens comme dans l'autre.",
+        "exemplos": [
+          {
+            "es": "¿Cuál me llevo, el manchego o el cabrales?",
+            "pt": "koual mé YÉ-bo, el man-TCHÉ-go o el ka-BRA-less — lequel je prends, le manchego ou le cabrales ? (la forme pour l'étal du fromager)"
+          },
+          {
+            "es": "¿Este es mejor que aquel?",
+            "pt": "ESS-té ess mé-KHOR ké a-KEL — celui-ci est meilleur que celui-là ? (quand vous les tenez tous les deux ; le qu de aquel reste un k, et le j de mejor se racle du fond de la gorge)"
+          }
+        ]
+      },
+      {
+        "titulo": "El menú del día — ce qu'il y a dedans, ce qu'il coûte, et le mythe à jeter",
+        "corpo": "Une entrée, un plat, du pain, une boisson et un dessert ou un café, à prix fixe, en semaine à midi. La moyenne nationale tournait en 2026 autour de quatorze euros vingt (Hostelería de España avec Edenred), et elle bouge selon la région : le moins cher aux Canaries, dans les Asturies, en Andalousie et à Murcie, le plus cher aux Baléares. Sur la côte méditerranéenne continentale où vous arrivez le plus souvent — Catalogne, Valence —, vous êtes dans le haut de la fourchette, et ça reste la meilleure affaire de la cuisine espagnole ; en Andalousie, où beaucoup d'entre vous descendent aussi, c'est parmi les moins chers. Ici, votre habitude de langue tombe juste, pour une fois : el menú, c'est le repas fixe, comme votre menu du jour, et la carta, c'est la carte, avec tout dessus — menu du jour, menú del día, mot pour mot. Celui qui vient de l'anglais confond les deux tous les jours ; pas vous. Une correction à emporter : aucune loi en vigueur n'oblige un établissement à en proposer un. La règle datait de l'époque franquiste et a été abolie ; tout guide qui vous dit que chaque restaurant doit en avoir un est périmé. Il est resté parce qu'il vaut le coup — pour la cuisine, qui fait deux choses bien et en quantité, et pour le client. Et c'est le déjeuner, pas le dîner : la comida se tient d'environ deux heures à trois heures et demie, et en début d'après-midi l'offre s'en va avec elle. Pour vous qui traversez la frontière en voiture, c'est le déjeuner de route de l'Espagne qui travaille.",
+        "exemplos": [
+          {
+            "es": "¿Hay menú del día?",
+            "pt": "aï mé-NOU del DI-a — y a-t-il un menu du jour ? (le h de hay est muet)"
+          },
+          {
+            "es": "¿El menú lleva postre o café?",
+            "pt": "el mé-NOU YÉ-ba POSS-tré o ka-FÉ — le menu comprend un dessert ou un café ? (le plus souvent l'un ou l'autre, à vous de choisir)"
+          }
+        ]
+      },
+      {
+        "titulo": "Tapa, pincho, ración, media ración — et pourquoi la table s'est remplie",
+        "corpo": "Quatre mots, quatre tailles différentes, et les confondre, c'est le chemin par lequel deux personnes se retrouvent avec de quoi nourrir six. Une tapa est la petite assiette qui vient avec le verre — à l'est de l'Andalousie, gratuite avec la tournée ; à Barcelone et à Madrid, un poste payant, ce qui est de la géographie et non une loi, et que la partie onze couvre entièrement. Un pincho ou montadito est la variante du Nord, le plus souvent sur une tranche de pain et compté à la pièce. Une ración est une pleine assiette pour le milieu de la table, faite pour le partage, et c'est elle qui surprend : quatre raciones à deux, ce n'est pas quatre petits plats, c'est le dîner d'une famille. Une media ración en est la moitié, il est tout à fait normal d'en demander une, et c'est elle qui permet à deux personnes de goûter quatre choses au lieu de deux. Partager depuis le milieu est la norme, pas une occasion spéciale — et pour vous, la table méditerranéenne partage à peu près comme chez vous —, alors personne ne regarde deux fois quand vous tendez la main. L'exception, c'est le menú del día, dressé par personne : votre entrée, votre plat, et demander à partager ne fait qu'embrouiller. Et si vous ne reconnaissez pas la taille devant vous, une question la règle avant que rien ne soit cuit.",
+        "exemplos": [
+          {
+            "es": "¿Esto es tapa, media ración o ración?",
+            "pt": "ESS-to ess TA-pa, MÉ-dya rra-SSYON o rra-SSYON — c'est une petite, une demi ou une entière ?"
+          },
+          {
+            "es": "Una media ración, para probar.",
+            "pt": "OU-na MÉ-dya rra-SSYON, PA-ra pro-BAR — une demi-portion, juste pour goûter"
+          }
+        ]
+      }
+    ]
+  },
+
+  "cena": "Deux heures dix, un mardi, un bar à deux rues de la place ; le serveur débite trois noms de plats d'un seul souffle et attend, le carnet ouvert."
+}

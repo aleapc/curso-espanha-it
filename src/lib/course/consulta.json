@@ -1,0 +1,5350 @@
+{
+  "versao": 1,
+  "sku": "FR → Espanha",
+  "taxonomia": [
+    {
+      "id": "chegar/entrar",
+      "tile": "chegar",
+      "rotulo": "Entrer",
+      "reativa": false
+    },
+    {
+      "id": "chegar/balcao",
+      "tile": "chegar",
+      "rotulo": "Se faire servir au comptoir",
+      "reativa": false
+    },
+    {
+      "id": "chegar/ultimo",
+      "tile": "chegar",
+      "rotulo": "« C’est qui le dernier ? »",
+      "reativa": false
+    },
+    {
+      "id": "chegar/sair",
+      "tile": "chegar",
+      "rotulo": "Sortir",
+      "reativa": false
+    },
+    {
+      "id": "chegar/tu-usted",
+      "tile": "chegar",
+      "rotulo": "Le « vous » n’est pas usted : tú au comptoir",
+      "reativa": false
+    },
+    {
+      "id": "mesa/mesa",
+      "tile": "mesa",
+      "rotulo": "Une table",
+      "reativa": false
+    },
+    {
+      "id": "mesa/carta",
+      "tile": "mesa",
+      "rotulo": "La carte",
+      "reativa": false
+    },
+    {
+      "id": "mesa/bebida",
+      "tile": "mesa",
+      "rotulo": "Quelque chose à boire",
+      "reativa": false
+    },
+    {
+      "id": "mesa/comida",
+      "tile": "mesa",
+      "rotulo": "À manger",
+      "reativa": false
+    },
+    {
+      "id": "mesa/tamanho",
+      "tile": "mesa",
+      "rotulo": "Tapa, ración ou media",
+      "reativa": false
+    },
+    {
+      "id": "mesa/agua-pao",
+      "tile": "mesa",
+      "rotulo": "Eau & pain",
+      "reativa": false
+    },
+    {
+      "id": "mesa/conta",
+      "tile": "mesa",
+      "rotulo": "L’addition",
+      "reativa": false
+    },
+    {
+      "id": "mesa/errado",
+      "tile": "mesa",
+      "rotulo": "Ce n’est pas ce que j’ai commandé",
+      "reativa": true
+    },
+    {
+      "id": "dieta/dizer",
+      "tile": "dieta",
+      "rotulo": "Le dire (les trois niveaux)",
+      "reativa": false
+    },
+    {
+      "id": "dieta/cartao",
+      "tile": "dieta",
+      "rotulo": "Montrer la carte",
+      "reativa": false
+    },
+    {
+      "id": "dieta/o-que-tem",
+      "tile": "dieta",
+      "rotulo": "Qu’est-ce qu’il y a dedans ?",
+      "reativa": false
+    },
+    {
+      "id": "dieta/sem",
+      "tile": "dieta",
+      "rotulo": "Sans viande / sans porc / sans gluten",
+      "reativa": false
+    },
+    {
+      "id": "dieta/nao-levam-a-serio",
+      "tile": "dieta",
+      "rotulo": "On ne me prend pas au sérieux",
+      "reativa": true
+    },
+    {
+      "id": "dieta/acontecendo",
+      "tile": "dieta",
+      "rotulo": "C’est en train d’arriver",
+      "reativa": true
+    },
+    {
+      "id": "pagar/pedir",
+      "tile": "pagar",
+      "rotulo": "Demander l’addition",
+      "reativa": false
+    },
+    {
+      "id": "pagar/cartao",
+      "tile": "pagar",
+      "rotulo": "Payer par carte",
+      "reativa": false
+    },
+    {
+      "id": "pagar/dinheiro",
+      "tile": "pagar",
+      "rotulo": "Espèces & le billet de cinquante",
+      "reativa": false
+    },
+    {
+      "id": "pagar/gorjeta",
+      "tile": "pagar",
+      "rotulo": "Le pourboire",
+      "reativa": false
+    },
+    {
+      "id": "pagar/rachar",
+      "tile": "pagar",
+      "rotulo": "Payer séparément",
+      "reativa": false
+    },
+    {
+      "id": "pagar/errado",
+      "tile": "pagar",
+      "rotulo": "Mauvaise addition, mauvaise monnaie",
+      "reativa": true
+    },
+    {
+      "id": "taxi/destino",
+      "tile": "taxi",
+      "rotulo": "Dire où aller",
+      "reativa": false
+    },
+    {
+      "id": "taxi/taximetro",
+      "tile": "taxi",
+      "rotulo": "Taximètre & prix",
+      "reativa": false
+    },
+    {
+      "id": "taxi/parar",
+      "tile": "taxi",
+      "rotulo": "Arrêtez-vous ici / le reçu",
+      "reativa": false
+    },
+    {
+      "id": "taxi/locadora",
+      "tile": "taxi",
+      "rotulo": "Le comptoir de location",
+      "reativa": false
+    },
+    {
+      "id": "taxi/estacionar",
+      "tile": "taxi",
+      "rotulo": "Se garer & la caméra ZBE",
+      "reativa": false
+    },
+    {
+      "id": "taxi/errado",
+      "tile": "taxi",
+      "rotulo": "Pas de carte / mauvaise direction",
+      "reativa": true
+    },
+    {
+      "id": "transporte/bilhete",
+      "tile": "transporte",
+      "rotulo": "Le bon billet",
+      "reativa": false
+    },
+    {
+      "id": "transporte/qual-trem",
+      "tile": "transporte",
+      "rotulo": "Métro, cercanías ou Renfe",
+      "reativa": false
+    },
+    {
+      "id": "transporte/plataforma",
+      "tile": "transporte",
+      "rotulo": "Quai & accès",
+      "reativa": false
+    },
+    {
+      "id": "transporte/bagagem",
+      "tile": "transporte",
+      "rotulo": "Bagages & scanner",
+      "reativa": false
+    },
+    {
+      "id": "transporte/placas",
+      "tile": "transporte",
+      "rotulo": "Les panneaux qui coûtent cher",
+      "reativa": false
+    },
+    {
+      "id": "transporte/perdi",
+      "tile": "transporte",
+      "rotulo": "Je l’ai raté",
+      "reativa": true
+    },
+    {
+      "id": "quarto/checkin",
+      "tile": "quarto",
+      "rotulo": "Le check-in",
+      "reativa": false
+    },
+    {
+      "id": "quarto/pedir",
+      "tile": "quarto",
+      "rotulo": "Demander quelque chose",
+      "reativa": false
+    },
+    {
+      "id": "quarto/nao-funciona",
+      "tile": "quarto",
+      "rotulo": "« No funciona »",
+      "reativa": false
+    },
+    {
+      "id": "quarto/mala",
+      "tile": "quarto",
+      "rotulo": "Laisser la valise",
+      "reativa": false
+    },
+    {
+      "id": "quarto/checkout",
+      "tile": "quarto",
+      "rotulo": "Le check-out & la taxe de séjour",
+      "reativa": false
+    },
+    {
+      "id": "compras/balcao",
+      "tile": "compras",
+      "rotulo": "Au comptoir",
+      "reativa": false
+    },
+    {
+      "id": "compras/quanto",
+      "tile": "compras",
+      "rotulo": "Combien / quelle taille",
+      "reativa": false
+    },
+    {
+      "id": "compras/so-olhando",
+      "tile": "compras",
+      "rotulo": "Je regarde seulement",
+      "reativa": false
+    },
+    {
+      "id": "compras/pagar",
+      "tile": "compras",
+      "rotulo": "Payer & le ticket de caisse",
+      "reativa": false
+    },
+    {
+      "id": "compras/devolver",
+      "tile": "compras",
+      "rotulo": "Rapporter un article",
+      "reativa": true
+    },
+    {
+      "id": "saude/algo-para",
+      "tile": "saude",
+      "rotulo": "« Quelque chose contre… »",
+      "reativa": false
+    },
+    {
+      "id": "saude/receita",
+      "tile": "saude",
+      "rotulo": "Avec ou sans ordonnance",
+      "reativa": false
+    },
+    {
+      "id": "saude/minha-alergia",
+      "tile": "saude",
+      "rotulo": "Mon allergie, mon médicament",
+      "reativa": false
+    },
+    {
+      "id": "saude/guardia",
+      "tile": "saude",
+      "rotulo": "Farmacia de guardia",
+      "reativa": false
+    },
+    {
+      "id": "saude/112",
+      "tile": "saude",
+      "rotulo": "112 & l’hôpital",
+      "reativa": true
+    },
+    {
+      "id": "simpatia/elogiar-comida",
+      "tile": "simpatia",
+      "rotulo": "Complimenter le repas",
+      "reativa": false
+    },
+    {
+      "id": "simpatia/elogiar-lugar",
+      "tile": "simpatia",
+      "rotulo": "Complimenter l’endroit",
+      "reativa": false
+    },
+    {
+      "id": "simpatia/agradecer",
+      "tile": "simpatia",
+      "rotulo": "Merci & au revoir",
+      "reativa": false
+    },
+    {
+      "id": "simpatia/brindar",
+      "tile": "simpatia",
+      "rotulo": "Trinquer",
+      "reativa": false
+    },
+    {
+      "id": "simpatia/puxar-conversa",
+      "tile": "simpatia",
+      "rotulo": "Engager la conversation",
+      "reativa": false
+    },
+    {
+      "id": "simpatia/convite",
+      "tile": "simpatia",
+      "rotulo": "Accepter ou décliner une invitation",
+      "reativa": false
+    },
+    {
+      "id": "reparo/devagar",
+      "tile": "reparo",
+      "rotulo": "Plus lentement / encore une fois",
+      "reativa": false
+    },
+    {
+      "id": "reparo/escreve",
+      "tile": "reparo",
+      "rotulo": "Écrivez-le / montrez-le-moi",
+      "reativa": false
+    },
+    {
+      "id": "reparo/ingles",
+      "tile": "reparo",
+      "rotulo": "Parlez-vous anglais ? (et sinon)",
+      "reativa": false
+    },
+    {
+      "id": "reparo/como-se-diz",
+      "tile": "reparo",
+      "rotulo": "Comment on dit… ?",
+      "reativa": false
+    },
+    {
+      "id": "reparo/apontar",
+      "tile": "reparo",
+      "rotulo": "Montrer et obtenir",
+      "reativa": false
+    },
+    {
+      "id": "apuro/roubo",
+      "tile": "apuro",
+      "rotulo": "On m’a volé",
+      "reativa": true
+    },
+    {
+      "id": "apuro/perdi",
+      "tile": "apuro",
+      "rotulo": "J’ai perdu quelque chose / quelqu’un",
+      "reativa": true
+    },
+    {
+      "id": "apuro/denuncia",
+      "tile": "apuro",
+      "rotulo": "Police & plainte",
+      "reativa": true
+    },
+    {
+      "id": "apuro/112",
+      "tile": "apuro",
+      "rotulo": "112",
+      "reativa": true
+    },
+    {
+      "id": "apuro/golpes",
+      "tile": "apuro",
+      "rotulo": "Les arnaques, par leur nom",
+      "reativa": true
+    },
+    {
+      "id": "apuro/reclamacoes",
+      "tile": "apuro",
+      "rotulo": "Hoja de reclamaciones",
+      "reativa": true
+    }
+  ],
+  "tiles": [
+    {
+      "id": "chegar",
+      "ordem": 1,
+      "rotulo": "Bonjour & au revoir"
+    },
+    {
+      "id": "mesa",
+      "ordem": 2,
+      "rotulo": "Bar & Restaurant"
+    },
+    {
+      "id": "dieta",
+      "ordem": 3,
+      "rotulo": "Je ne supporte pas"
+    },
+    {
+      "id": "pagar",
+      "ordem": 4,
+      "rotulo": "Payer"
+    },
+    {
+      "id": "taxi",
+      "ordem": 5,
+      "rotulo": "Taxi & voiture"
+    },
+    {
+      "id": "transporte",
+      "ordem": 6,
+      "rotulo": "Métro & train"
+    },
+    {
+      "id": "quarto",
+      "ordem": 7,
+      "rotulo": "Hôtel & chambre"
+    },
+    {
+      "id": "compras",
+      "ordem": 8,
+      "rotulo": "Boutiques & marché"
+    },
+    {
+      "id": "saude",
+      "ordem": 9,
+      "rotulo": "Pharmacie & petits maux"
+    },
+    {
+      "id": "simpatia",
+      "ordem": 10,
+      "rotulo": "Des mots gentils"
+    },
+    {
+      "id": "reparo",
+      "ordem": 11,
+      "rotulo": "Pas compris"
+    },
+    {
+      "id": "apuro",
+      "ordem": 12,
+      "rotulo": "Ça a mal tourné"
+    }
+  ],
+  "cards": [
+    {
+      "id": "e03a-cana-e",
+      "folhas": [
+        "chegar/balcao"
+      ],
+      "titulo": "le petit verre, comme toujours",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me pones una caña, por favor?",
+          "en": "le petit verre, comme toujours",
+          "audioKey": "e03a-cana-e",
+          "pron": "mé PO-ness OU-na KA-gna, por fa-BOR"
+        },
+        {
+          "quem": "ele",
+          "es": "Marchando. ¿Algo de picar?",
+          "en": "👂 «Ça arrive. Quelque chose à manger ?» — la deuxième question, avant même que le porte-monnaie soit sorti.",
+          "audioKey": "a02-marchando-e"
+        }
+      ],
+      "origem": "A02"
+    },
+    {
+      "id": "a02-andaya-e",
+      "folhas": [
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "deux mots, et vous continuez à manger",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Anda ya.",
+          "en": "deux mots, et vous continuez à manger",
+          "audioKey": "a02-andaya-e",
+          "pron": "AN-da ya"
+        },
+        {
+          "quem": "ele",
+          "es": "¡Ah, que este se defiende!",
+          "en": "👂 «Ah, il sait se défendre !» — quelqu'un d'autre, une seconde plus tard.",
+          "audioKey": "a02-defiende-c"
+        }
+      ],
+      "origem": "A02"
+    },
+    {
+      "id": "a02-contando-c",
+      "folhas": [
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "sur l'histoire, pas sur elle",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¡Qué me estás contando!",
+          "en": "sur l'histoire, pas sur elle",
+          "audioKey": "a02-contando-c",
+          "pron": "ké mé ess-TASS kon-TAN-do"
+        },
+        {
+          "quem": "ele",
+          "es": "Te lo juro por mi madre.",
+          "en": "👂 «Je te le jure sur ma mère.» — l'histoire ne rapetisse pas, elle grandit.",
+          "audioKey": "a02-juro-e"
+        }
+      ],
+      "origem": "A02"
+    },
+    {
+      "id": "a02-guiri-e",
+      "folhas": [
+        "simpatia/puxar-conversa",
+        "chegar/entrar"
+      ],
+      "titulo": "sur vous-même, avec un haussement d'épaules",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Soy el guiri, ya lo sé.",
+          "en": "sur vous-même, avec un haussement d'épaules",
+          "audioKey": "a02-guiri-e",
+          "pron": "ssoy el GI-ri, ya lo ssé"
+        },
+        {
+          "quem": "ele",
+          "es": "Anda, ven, siéntate aquí.",
+          "en": "👂 «Allez, viens, assieds-toi ici.» — une phrase, et personne ne vous traite plus avec précaution.",
+          "audioKey": "a02-sientate-c"
+        }
+      ],
+      "origem": "A02"
+    },
+    {
+      "id": "a02-muypoco-c",
+      "folhas": [
+        "simpatia/puxar-conversa",
+        "reparo/ingles"
+      ],
+      "titulo": "la vieille phrase, avec l'ajout",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Hablo un poco de español. Muy poco.",
+          "en": "la vieille phrase, avec l'ajout",
+          "audioKey": "a02-muypoco-c",
+          "pron": "A-blo oun PO-ko dé ess-pa-GNOL. moui PO-ko"
+        },
+        {
+          "quem": "ele",
+          "es": "Qué va, hombre, si te entiendo perfectamente.",
+          "en": "👂 «Mais non, je te comprends parfaitement.» — c'est exactement ce qu'achète la blague, à chaque fois.",
+          "audioKey": "a02-queva-e"
+        }
+      ],
+      "origem": "A02"
+    },
+    {
+      "id": "a03-guiri-e",
+      "folhas": [
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "la blague est à vous",
+      "troca": [
+        {
+          "quem": "ele",
+          "es": "¡Ya está aquí el guiri!",
+          "en": "👂 «Voilà le guiri !» — lancé à travers le bar, sans la moindre méchanceté.",
+          "audioKey": "a03-guiriaqui-e"
+        },
+        {
+          "quem": "voce",
+          "es": "Soy el guiri, ya lo sé.",
+          "en": "la blague est à vous",
+          "audioKey": "a03-guiri-e",
+          "pron": "soï el GI-ri, ya lo sé"
+        },
+        {
+          "quem": "ele",
+          "es": "¡Este ya es de la casa!",
+          "en": "👂 «Lui, il est de la maison !» — tout de suite, sans détour.",
+          "audioKey": "a03-delacasa-e"
+        }
+      ],
+      "origem": "A03"
+    },
+    {
+      "id": "i05-londres-e",
+      "folhas": [
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "et ensuite c'est à lui (mettez votre ville)",
+      "troca": [
+        {
+          "quem": "ele",
+          "es": "¿De dónde eres?",
+          "en": "👂 Celle de la partie vingt-trois. C'est toujours la première chose qu'on vous demande.",
+          "audioKey": "i05-dedonde-e"
+        },
+        {
+          "quem": "voce",
+          "es": "Soy de Londres, ¿y tú?",
+          "en": "et ensuite c'est à lui (mettez votre ville)",
+          "audioKey": "i05-londres-e",
+          "pron": "soï dé LON-dress, i tou"
+        },
+        {
+          "quem": "ele",
+          "es": "Yo no soy de aquí. Soy de Extremadura.",
+          "en": "👂 «Je ne suis pas d'ici. Je suis d'Estrémadure.» — et voilà déjà une région.",
+          "audioKey": "a03-extremadura-c"
+        }
+      ],
+      "origem": "A03"
+    },
+    {
+      "id": "a03-departe-c",
+      "folhas": [
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "trois mots, et elle se lance",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿De qué parte?",
+          "en": "trois mots, et elle se lance",
+          "audioKey": "a03-departe-c",
+          "pron": "dé ké PAR-té"
+        },
+        {
+          "quem": "ele",
+          "es": "De un pueblo cerca de Cáceres. No lo conoce nadie.",
+          "en": "👂 «D'un village près de Cáceres. Personne ne connaît.» — et elle sourit en le disant.",
+          "audioKey": "a03-pueblo-c"
+        }
+      ],
+      "origem": "A03"
+    },
+    {
+      "id": "i06-encantomercado-c",
+      "folhas": [
+        "simpatia/elogiar-lugar"
+      ],
+      "titulo": "un lieu, nommé",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Me encantó el mercado.",
+          "en": "un lieu, nommé",
+          "audioKey": "i06-encantomercado-c",
+          "pron": "mé en-kan-TO el mer-KA-do"
+        },
+        {
+          "quem": "ele",
+          "es": "Bueno, el mercado sí. Eso sí.",
+          "en": "👂 «Bon — le marché, oui. Ça, oui.»",
+          "audioKey": "a03-mercadosi-e"
+        }
+      ],
+      "origem": "A03"
+    },
+    {
+      "id": "i05-barrio-e",
+      "folhas": [
+        "simpatia/elogiar-lugar"
+      ],
+      "titulo": "ce que vous en pensez, dit simplement",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Me gusta mucho este barrio.",
+          "en": "ce que vous en pensez, dit simplement",
+          "audioKey": "i05-barrio-e",
+          "pron": "mé GOUS-ta MOU-tcho ESS-té BA-rryo"
+        }
+      ],
+      "origem": "A03"
+    },
+    {
+      "id": "i05-tipico-e",
+      "folhas": [
+        "mesa/comida",
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "la seule question qui est la vôtre",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Hay algo típico de aquí?",
+          "en": "la seule question qui est la vôtre",
+          "audioKey": "i05-tipico-e",
+          "pron": "aï AL-go TI-pi-ko dé a-KI"
+        },
+        {
+          "quem": "ele",
+          "es": "Uy, pues aquí lo típico es el cocido. Eso sí que hay que probarlo.",
+          "en": "👂 «Oh, le plat typique ici, c'est le cocido. Ça, il faut le goûter.»",
+          "audioKey": "a03-cocido-e"
+        }
+      ],
+      "origem": "A03"
+    },
+    {
+      "id": "a03-departe-c~2",
+      "folhas": [
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "et la voilà repartie",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿De qué parte?",
+          "en": "et la voilà repartie",
+          "audioKey": "a03-departe-c",
+          "pron": "dé ké PAR-té"
+        }
+      ],
+      "origem": "A03"
+    },
+    {
+      "id": "c03b-03",
+      "folhas": [
+        "transporte/placas"
+      ],
+      "titulo": "Pardon — on peut boire ici ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Perdone, ¿se puede beber aquí?",
+          "en": "Pardon — on peut boire ici ?",
+          "audioKey": "c03b-03",
+          "pron": "per-DO-né, sé POUÉ-dé bé-BER a-KI"
+        }
+      ],
+      "origem": "A04"
+    },
+    {
+      "id": "c03b-05",
+      "folhas": [
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "le bonjour catalan, en entrant",
+      "troca": [
+        {
+          "quem": "ele",
+          "es": "Moltes gràcies.",
+          "en": "Merci beaucoup. — Du catalan. La fin est un «-es» doux, pas le «-as» espagnol.",
+          "audioKey": "c03b-06"
+        },
+        {
+          "quem": "voce",
+          "es": "Bon dia.",
+          "en": "le bonjour catalan, en entrant",
+          "audioKey": "c03b-05",
+          "pron": "bon DI-a"
+        },
+        {
+          "quem": "ele",
+          "es": "Adéu.",
+          "en": "Au revoir. — Du catalan, cousin d'«adieu». Deux syllabes, toutes les deux pleines.",
+          "audioKey": "c03b-09"
+        }
+      ],
+      "origem": "A04"
+    },
+    {
+      "id": "c03b-09",
+      "folhas": [
+        "simpatia/agradecer"
+      ],
+      "titulo": "le mot catalan pour prendre congé",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Adéu.",
+          "en": "le mot catalan pour prendre congé",
+          "audioKey": "c03b-09",
+          "pron": "a-DÉ-ou"
+        }
+      ],
+      "origem": "A04"
+    },
+    {
+      "id": "c03b-06",
+      "folhas": [
+        "simpatia/agradecer"
+      ],
+      "titulo": "le merci entier, pas juste un mot",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Moltes gràcies.",
+          "en": "le merci entier, pas juste un mot",
+          "audioKey": "c03b-06",
+          "pron": "MOL-tess GRA-ssiess"
+        }
+      ],
+      "origem": "A04"
+    },
+    {
+      "id": "c03b-18",
+      "folhas": [
+        "chegar/tu-usted",
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "le renvoi honnête, qui repasse la parole",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "No conozco bien el tema, cuénteme.",
+          "en": "le renvoi honnête, qui repasse la parole",
+          "audioKey": "c03b-18",
+          "pron": "no ko-NOSS-ko byén el TÉ-ma, KOUÉN-té-mé"
+        }
+      ],
+      "origem": "A04"
+    },
+    {
+      "id": "c03b-18~2",
+      "folhas": [
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "rendez-la, ne jugez pas",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "No conozco bien el tema, cuénteme.",
+          "en": "rendez-la, ne jugez pas",
+          "audioKey": "c03b-18",
+          "pron": "no ko-NOSS-ko byen el TÉ-ma, KOUÉN-té-mé"
+        }
+      ],
+      "origem": "A05"
+    },
+    {
+      "id": "c03b-05~2",
+      "folhas": [
+        "chegar/entrar"
+      ],
+      "titulo": "à la salle, en entrant",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Bon dia.",
+          "en": "à la salle, en entrant",
+          "audioKey": "c03b-05",
+          "pron": "bon DI-a"
+        },
+        {
+          "quem": "ele",
+          "es": "Bon dia! Digui.",
+          "en": "👂 «Bonjour ! J'écoute.» — digui, c'est le dime catalan. La porte est ouverte ; commandez dans votre espagnol habituel.",
+          "audioKey": "a05-digui-e"
+        }
+      ],
+      "origem": "A05"
+    },
+    {
+      "id": "a05-sisusplau-e",
+      "folhas": [
+        "compras/balcao"
+      ],
+      "titulo": "la fin, dans la sienne",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Si us plau.",
+          "en": "la fin, dans la sienne",
+          "audioKey": "a05-sisusplau-e",
+          "pron": "si ous PLAou"
+        },
+        {
+          "quem": "ele",
+          "es": "Aquí té.",
+          "en": "👂 «Voilà.» — Catalan, dit quand ça passe le comptoir jusqu'à votre main.",
+          "audioKey": "a05-aquite-c"
+        }
+      ],
+      "origem": "A05"
+    },
+    {
+      "id": "c03b-06~2",
+      "folhas": [
+        "simpatia/agradecer"
+      ],
+      "titulo": "la grande version, douce à la fin",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Moltes gràcies.",
+          "en": "la grande version, douce à la fin",
+          "audioKey": "c03b-06",
+          "pron": "MOL-teus GRA-ssi-eus"
+        },
+        {
+          "quem": "ele",
+          "es": "De res.",
+          "en": "👂 «De rien.» — Catalan. Même rôle que de nada, et c'est la réponse qui revient.",
+          "audioKey": "a05-derres-c"
+        }
+      ],
+      "origem": "A05"
+    },
+    {
+      "id": "c03b-09~2",
+      "folhas": [
+        "chegar/sair"
+      ],
+      "titulo": "en sortant",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Adéu.",
+          "en": "en sortant",
+          "audioKey": "c03b-09",
+          "pron": "a-DÉou"
+        },
+        {
+          "quem": "ele",
+          "es": "Adéu! Fins aviat.",
+          "en": "👂 «Au revoir ! À bientôt.» — Catalan. Fins aviat revient quand on vous tient la porte ouverte.",
+          "audioKey": "a05-finsaviat-c"
+        }
+      ],
+      "origem": "A05"
+    },
+    {
+      "id": "e01c-08",
+      "folhas": [
+        "reparo/escreve"
+      ],
+      "titulo": "l'avoir sur le papier",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me lo escribe, por favor?",
+          "en": "l'avoir sur le papier",
+          "audioKey": "e01c-08",
+          "pron": "mé lo es-KRI-bé, por fa-BOR"
+        }
+      ],
+      "origem": "A05"
+    },
+    {
+      "id": "a06-abiertos-c",
+      "folhas": [
+        "chegar/entrar",
+        "compras/balcao"
+      ],
+      "titulo": "avant de partir, jamais après",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Están abiertos hoy?",
+          "en": "avant de partir, jamais après",
+          "audioKey": "a06-abiertos-c",
+          "pron": "ess-TAN a-BIÉR-toss oï"
+        },
+        {
+          "quem": "ele",
+          "es": "Hoy sí, pero cerramos todo agosto.",
+          "en": "👂 « Aujourd'hui oui — mais on ferme tout le mois d'août. » — la réponse vient en mois.",
+          "audioKey": "a06-hoysi-e"
+        }
+      ],
+      "origem": "A06"
+    },
+    {
+      "id": "a06-tarde-c",
+      "folhas": [
+        "compras/balcao"
+      ],
+      "titulo": "la seconde moitié de sa journée",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿A qué hora abren por la tarde?",
+          "en": "la seconde moitié de sa journée",
+          "audioKey": "a06-tarde-c",
+          "pron": "a ké O-ra A-bren por la TAR-dé"
+        },
+        {
+          "quem": "ele",
+          "es": "A las cinco y media.",
+          "en": "👂 « À cinq heures et demie. » — voilà pourquoi le mot sur la porte a deux plages, pas une.",
+          "audioKey": "a06-cincoymedia-e"
+        }
+      ],
+      "origem": "A06"
+    },
+    {
+      "id": "a06-super-e",
+      "folhas": [
+        "compras/balcao"
+      ],
+      "titulo": "quelque part, et il sait où",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Hay algún supermercado abierto por aquí?",
+          "en": "quelque part, et il sait où",
+          "audioKey": "a06-super-e",
+          "pron": "aï al-GOUN sou-per-mer-KA-do a-BIÉR-to por a-KI"
+        },
+        {
+          "quem": "ele",
+          "es": "Hoy es domingo. Hasta mañana, nada.",
+          "en": "👂 « Aujourd'hui c'est dimanche. Jusqu'à demain, rien. » — voilà pourquoi les grosses courses, c'est le samedi.",
+          "audioKey": "a06-domingo-c"
+        }
+      ],
+      "origem": "A06"
+    },
+    {
+      "id": "a06-fiesta-e",
+      "folhas": [
+        "quarto/pedir"
+      ],
+      "titulo": "la veille au soir, pas en plein milieu",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Mañana es fiesta?",
+          "en": "la veille au soir, pas en plein milieu",
+          "audioKey": "a06-fiesta-e",
+          "pron": "ma-GNA-na ess FIÉS-ta"
+        },
+        {
+          "quem": "ele",
+          "es": "Sí, es la patrona. Está todo cerrado.",
+          "en": "👂 « Oui, c'est la sainte patronne. Tout est fermé. » — tout sauf la rue elle-même.",
+          "audioKey": "a06-patrona-c"
+        }
+      ],
+      "origem": "A06"
+    },
+    {
+      "id": "a06-celebra-c",
+      "folhas": [
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "et elle vous raconte tout",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Qué se celebra hoy?",
+          "en": "et elle vous raconte tout",
+          "audioKey": "a06-celebra-c",
+          "pron": "ké sé sse-LÉ-bra oï"
+        },
+        {
+          "quem": "ele",
+          "es": "Es la patrona del barrio. Sale todos los años.",
+          "en": "👂 « C'est la sainte patronne du quartier. Elle sort chaque année. » — chaque année, et toujours cette rue.",
+          "audioKey": "a06-patron-e"
+        }
+      ],
+      "origem": "A06"
+    },
+    {
+      "id": "a06-pasar-e",
+      "folhas": [
+        "taxi/destino"
+      ],
+      "titulo": "par-derrière, jamais au travers",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Por dónde puedo pasar?",
+          "en": "par-derrière, jamais au travers",
+          "audioKey": "a06-pasar-e",
+          "pron": "por DON-dé POUÉ-do pa-SSAR"
+        },
+        {
+          "quem": "ele",
+          "es": "Por detrás, cuando pase la banda.",
+          "en": "👂 « Par-derrière, quand la fanfare est passée. » — derrière, jamais entre la fanfare et la tête.",
+          "audioKey": "a06-detras-c"
+        }
+      ],
+      "origem": "A06"
+    },
+    {
+      "id": "e01b-15",
+      "folhas": [
+        "chegar/entrar"
+      ],
+      "titulo": "avant que quoi que ce soit d'autre arrive",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Buenas.",
+          "en": "avant que quoi que ce soit d'autre arrive",
+          "audioKey": "e01b-15",
+          "pron": "BOUÉ-nass"
+        }
+      ],
+      "origem": "A07"
+    },
+    {
+      "id": "a07-gusto-c",
+      "folhas": [
+        "chegar/entrar",
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "deux mots, quelle que soit la suite",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Mucho gusto.",
+          "en": "deux mots, quelle que soit la suite",
+          "audioKey": "a07-gusto-c",
+          "pron": "MOU-tcho GOUSS-to"
+        },
+        {
+          "quem": "ele",
+          "es": "Encantado. ¿Qué tal?",
+          "en": "👂 «Enchanté. Ça va ?» — ce qui revient.",
+          "audioKey": "a07-encantado-e"
+        }
+      ],
+      "origem": "A07"
+    },
+    {
+      "id": "a07-oye-e",
+      "folhas": [
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "trois mots, et la table se tourne",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Oye, una cosa.",
+          "en": "trois mots, et la table se tourne",
+          "audioKey": "a07-oye-e",
+          "pron": "O-yé, OU-na KO-ssa"
+        }
+      ],
+      "origem": "A07"
+    },
+    {
+      "id": "e01c-02",
+      "folhas": [
+        "reparo/ingles"
+      ],
+      "titulo": "et la table revient",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Hablo un poco de español.",
+          "en": "et la table revient",
+          "audioKey": "e01c-02",
+          "pron": "A-blo oun PO-ko dé ess-pa-GNOL"
+        }
+      ],
+      "origem": "A07"
+    },
+    {
+      "id": "a07-otrodia-c",
+      "folhas": [
+        "simpatia/convite"
+      ],
+      "titulo": "et personne n'a à le dire",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Vale, otro día.",
+          "en": "et personne n'a à le dire",
+          "audioKey": "a07-otrodia-c",
+          "pron": "BA-lé, O-tro DI-a"
+        }
+      ],
+      "origem": "A07"
+    },
+    {
+      "id": "a07-placer-c",
+      "folhas": [
+        "chegar/sair",
+        "simpatia/agradecer"
+      ],
+      "titulo": "deux mots, à la porte",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Un placer.",
+          "en": "deux mots, à la porte",
+          "audioKey": "a07-placer-c",
+          "pron": "oun pla-SSÉR"
+        }
+      ],
+      "origem": "A07"
+    },
+    {
+      "id": "a08-ultima-e",
+      "folhas": [
+        "simpatia/agradecer",
+        "chegar/sair"
+      ],
+      "titulo": "le fait, puis comment c'était",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Mañana nos vamos. Ha estado genial.",
+          "en": "le fait, puis comment c'était",
+          "audioKey": "a08-ultima-e",
+          "pron": "ma-GNA-na noss BA-moss. a ess-TA-do khé-NYAL"
+        }
+      ],
+      "origem": "A08"
+    },
+    {
+      "id": "a08-anoquiene-e",
+      "folhas": [
+        "simpatia/convite",
+        "simpatia/agradecer"
+      ],
+      "titulo": "un quand, pas un merci",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Nos vemos el año que viene.",
+          "en": "un quand, pas un merci",
+          "audioKey": "a08-anoquiene-e",
+          "pron": "noss BÉ-moss el A-gno ké BYÉ-né"
+        },
+        {
+          "quem": "ele",
+          "es": "Pues aquí estamos. Aquí no nos movemos.",
+          "en": "👂 «Nous sommes ici. Nous ne bougeons pas.» — la réponse qui veut dire que ça a été pris au sérieux.",
+          "audioKey": "a08-aquiestamos-c"
+        }
+      ],
+      "origem": "A08"
+    },
+    {
+      "id": "b18-hasta-e",
+      "folhas": [
+        "simpatia/agradecer",
+        "quarto/checkout"
+      ],
+      "titulo": "pour tout, et la petite promesse à la fin",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Muchas gracias por todo. Hasta la próxima.",
+          "en": "pour tout, et la petite promesse à la fin",
+          "audioKey": "b18-hasta-e",
+          "pron": "MOU-tchass GRA-syass por TO-do. ASS-ta la PROK-ssi-ma"
+        }
+      ],
+      "origem": "A08"
+    },
+    {
+      "id": "a08-osvaya-e",
+      "folhas": [
+        "chegar/sair",
+        "simpatia/agradecer"
+      ],
+      "titulo": "aux deux, en sortant",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Que os vaya muy bien.",
+          "en": "aux deux, en sortant",
+          "audioKey": "a08-osvaya-e",
+          "pron": "ké oss BA-ya mouï byen"
+        }
+      ],
+      "origem": "A08"
+    },
+    {
+      "id": "a08-paciencia-c",
+      "folhas": [
+        "simpatia/agradecer",
+        "reparo/devagar"
+      ],
+      "titulo": "pour ce qu'elle a vraiment fait",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Gracias por la paciencia con mi español.",
+          "en": "pour ce qu'elle a vraiment fait",
+          "audioKey": "a08-paciencia-c",
+          "pron": "GRA-syass por la pa-SSYEN-ssya kon mi ess-pa-GNOL"
+        }
+      ],
+      "origem": "A08"
+    },
+    {
+      "id": "a08-anoquiene-e~2",
+      "folhas": [
+        "simpatia/convite"
+      ],
+      "titulo": "plus loin qu'elle ne croit, et pourtant un projet",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Nos vemos el año que viene.",
+          "en": "plus loin qu'elle ne croit, et pourtant un projet",
+          "audioKey": "a08-anoquiene-e",
+          "pron": "noss BÉ-moss el A-gno ké BYÉ-né"
+        }
+      ],
+      "origem": "A08"
+    },
+    {
+      "id": "e01a-05",
+      "folhas": [
+        "simpatia/agradecer"
+      ],
+      "titulo": "Merci beaucoup.",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Muchas gracias.",
+          "en": "Merci beaucoup.",
+          "audioKey": "e01a-05"
+        }
+      ],
+      "origem": "B01"
+    },
+    {
+      "id": "e01a-03",
+      "folhas": [
+        "mesa/bebida",
+        "compras/so-olhando"
+      ],
+      "titulo": "Non, merci.",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "No, gracias.",
+          "en": "Non, merci.",
+          "audioKey": "e01a-03"
+        }
+      ],
+      "origem": "B01"
+    },
+    {
+      "id": "e01a-09",
+      "folhas": [
+        "saude/112",
+        "apuro/112",
+        "dieta/acontecendo"
+      ],
+      "titulo": "Où est l'hôpital ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Dónde está el hospital?",
+          "en": "Où est l'hôpital ?",
+          "audioKey": "e01a-09"
+        }
+      ],
+      "aviso": true,
+      "origem": "B01"
+    },
+    {
+      "id": "e01a-13",
+      "folhas": [
+        "chegar/balcao",
+        "mesa/bebida"
+      ],
+      "titulo": "Pardon, tu me sers une pression ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Perdona, ¿me pones una caña?",
+          "en": "Pardon, tu me sers une pression ?",
+          "audioKey": "e01a-13"
+        }
+      ],
+      "origem": "B01"
+    },
+    {
+      "id": "e01a-15",
+      "folhas": [
+        "dieta/o-que-tem",
+        "dieta/sem"
+      ],
+      "titulo": "Il y a du jambon dedans ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Lleva jamón?",
+          "en": "Il y a du jambon dedans ?",
+          "audioKey": "e01a-15"
+        }
+      ],
+      "origem": "B01"
+    },
+    {
+      "id": "e01a-18",
+      "folhas": [
+        "compras/so-olhando",
+        "simpatia/agradecer"
+      ],
+      "titulo": "À tout à l'heure.",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Hasta luego.",
+          "en": "À tout à l'heure.",
+          "audioKey": "e01a-18"
+        }
+      ],
+      "origem": "B01"
+    },
+    {
+      "id": "e01a-05~2",
+      "folhas": [
+        "simpatia/agradecer"
+      ],
+      "titulo": "le grand merci",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Muchas gracias.",
+          "en": "le grand merci",
+          "audioKey": "e01a-05",
+          "pron": "MOU-tchass GRA-ssiass"
+        }
+      ],
+      "origem": "B02"
+    },
+    {
+      "id": "e01b-03",
+      "folhas": [
+        "chegar/entrar"
+      ],
+      "titulo": "le salut à la salle, le matin",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Hola, buenos días.",
+          "en": "le salut à la salle, le matin",
+          "audioKey": "e01b-03",
+          "pron": "O-la, BOUÉ-noss DI-ass"
+        }
+      ],
+      "origem": "B02"
+    },
+    {
+      "id": "e01b-06",
+      "folhas": [
+        "chegar/balcao"
+      ],
+      "titulo": "le petit verre que tout le monde a ici",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Ponme una caña, por favor.",
+          "en": "le petit verre que tout le monde a ici",
+          "audioKey": "e01b-06",
+          "pron": "PON-mé OU-na KA-gna, por fa-BOR"
+        }
+      ],
+      "origem": "B02"
+    },
+    {
+      "id": "e01b-08",
+      "folhas": [
+        "chegar/tu-usted"
+      ],
+      "titulo": "la même chose, mais vouvoyée",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Perdone, ¿me pone un café con leche, por favor?",
+          "en": "la même chose, mais vouvoyée",
+          "audioKey": "e01b-08",
+          "pron": "pér-DO-né, mé PO-né oun ka-FÉ kon LE-tché, por fa-BOR"
+        }
+      ],
+      "origem": "B02"
+    },
+    {
+      "id": "e01a-13~2",
+      "folhas": [
+        "chegar/tu-usted",
+        "chegar/balcao"
+      ],
+      "titulo": "la même chose, mais tutoyée",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Perdona, ¿me pones una caña?",
+          "en": "la même chose, mais tutoyée",
+          "audioKey": "e01a-13",
+          "pron": "pér-DO-na, mé PO-ness OU-na KA-gna"
+        }
+      ],
+      "origem": "B02"
+    },
+    {
+      "id": "e01b-12",
+      "folhas": [
+        "chegar/sair"
+      ],
+      "titulo": "toute la sortie",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Vale, gracias. Hasta luego.",
+          "en": "toute la sortie",
+          "audioKey": "e01b-12",
+          "pron": "BA-lé, GRA-ssiass. ASS-ta LOUÉ-go"
+        }
+      ],
+      "origem": "B02"
+    },
+    {
+      "id": "e01c-repetir-c",
+      "folhas": [
+        "reparo/devagar"
+      ],
+      "titulo": "encore une fois, depuis le début",
+      "troca": [
+        {
+          "quem": "ele",
+          "es": "¿Me puede hablar más despacio, por favor?",
+          "en": "Vous pouvez parler un peu plus lentement, s'il vous plaît ?",
+          "audioKey": "e01c-despacio-e"
+        },
+        {
+          "quem": "voce",
+          "es": "¿Me puede repetir, por favor?",
+          "en": "encore une fois, depuis le début",
+          "audioKey": "e01c-repetir-c",
+          "pron": "mé POUÉ-dé rré-pé-TIR, por fa-BOR"
+        }
+      ],
+      "origem": "B03",
+      "molde": "ME-PUEDE"
+    },
+    {
+      "id": "e01c-despacio-e",
+      "folhas": [
+        "reparo/devagar"
+      ],
+      "titulo": "le rythme, pas les mots",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me puede hablar más despacio, por favor?",
+          "en": "le rythme, pas les mots",
+          "audioKey": "e01c-despacio-e",
+          "pron": "mé POUÉ-dé a-BLAR mass dess-PA-ssio, por fa-BOR"
+        }
+      ],
+      "origem": "B03",
+      "molde": "ME-PUEDE"
+    },
+    {
+      "id": "e01c-escribir-c",
+      "folhas": [
+        "reparo/escreve"
+      ],
+      "titulo": "noir sur blanc",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me lo puede escribir, por favor?",
+          "en": "noir sur blanc",
+          "audioKey": "e01c-escribir-c",
+          "pron": "mé lo POUÉ-dé ess-kri-BIR, por fa-BOR"
+        },
+        {
+          "quem": "ele",
+          "es": "¿En el móvil o en un papel?",
+          "en": "👂 «Sur le téléphone ou sur un papier ?» — la question en retour, à laquelle quatre mots suffisent.",
+          "audioKey": "e01c-vuelta-c"
+        }
+      ],
+      "origem": "B03",
+      "molde": "ME-PUEDE"
+    },
+    {
+      "id": "e01c-papel-e",
+      "folhas": [
+        "reparo/escreve"
+      ],
+      "titulo": "plutôt ce qui ne s'éteint pas",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "En un papel, por favor.",
+          "en": "plutôt ce qui ne s'éteint pas",
+          "audioKey": "e01c-papel-e",
+          "pron": "en oun pa-PEL, por fa-BOR"
+        }
+      ],
+      "origem": "B03"
+    },
+    {
+      "id": "e01c-mapa-e",
+      "folhas": [
+        "reparo/apontar"
+      ],
+      "titulo": "le doigt à la place du mot",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me lo puede enseñar en el mapa?",
+          "en": "le doigt à la place du mot",
+          "audioKey": "e01c-mapa-e",
+          "pron": "mé lo POUÉ-dé en-se-GNAR en el MA-pa"
+        }
+      ],
+      "origem": "B03",
+      "molde": "ME-PUEDE"
+    },
+    {
+      "id": "e01c-04",
+      "folhas": [
+        "reparo/ingles"
+      ],
+      "titulo": "la dernière marche",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Habla inglés?",
+          "en": "la dernière marche",
+          "audioKey": "e01c-04",
+          "pron": "A-bla in-GLÉSS"
+        }
+      ],
+      "origem": "B03"
+    },
+    {
+      "id": "e01c-escribir-c~2",
+      "folhas": [
+        "reparo/escreve"
+      ],
+      "titulo": "Pouvez-vous me l'écrire, s'il vous plaît ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me lo puede escribir, por favor?",
+          "en": "Pouvez-vous me l'écrire, s'il vous plaît ?",
+          "audioKey": "e01c-escribir-c",
+          "pron": "me lo POUÉ-dé es-kri-BIR, por fa-BOR"
+        },
+        {
+          "quem": "ele",
+          "es": "¿En el móvil o en un papel?",
+          "en": "👂 « Sur le téléphone ou sur un papier ? » — elle vous retourne la question, et toute la réponse tient en un mot.",
+          "audioKey": "e01c-vuelta-c"
+        }
+      ],
+      "origem": "B04",
+      "molde": "ME-PUEDE"
+    },
+    {
+      "id": "e01c-papel-e~2",
+      "folhas": [
+        "reparo/escreve"
+      ],
+      "titulo": "Sur un papier, s'il vous plaît.",
+      "troca": [
+        {
+          "quem": "ele",
+          "es": "¿En el móvil o en un papel?",
+          "en": "👂 « Sur le téléphone ou sur un papier ? » — elle vous retourne la question, et toute la réponse tient en un mot.",
+          "audioKey": "e01c-vuelta-c"
+        },
+        {
+          "quem": "voce",
+          "es": "En un papel, por favor.",
+          "en": "Sur un papier, s'il vous plaît.",
+          "audioKey": "e01c-papel-e",
+          "pron": "en oun pa-PEL, por fa-BOR"
+        }
+      ],
+      "origem": "B04"
+    },
+    {
+      "id": "e08a-factura-e",
+      "folhas": [
+        "compras/pagar"
+      ],
+      "titulo": "Pouvez-vous me donner la facture pour l'assurance ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me puede dar la factura para el seguro?",
+          "en": "Pouvez-vous me donner la facture pour l'assurance ?",
+          "audioKey": "e08a-factura-e",
+          "pron": "me POUÉ-dé dar la fak-TOU-ra PA-ra el se-GOU-ro"
+        }
+      ],
+      "origem": "B04",
+      "molde": "ME-PUEDE"
+    },
+    {
+      "id": "e07b-caucion-c",
+      "folhas": [
+        "taxi/locadora"
+      ],
+      "titulo": "Combien bloquez-vous sur la carte ? Quand me le rendez-vous ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Cuánto me bloquean en la tarjeta? ¿Cuándo me lo devuelven?",
+          "en": "Combien bloquez-vous sur la carte ? Quand me le rendez-vous ?",
+          "audioKey": "e07b-caucion-c",
+          "pron": "KOUAN-to me blo-KÉ-an en la tar-KHÉ-ta? KOUAN-do me lo dé-BOUÉL-ben?"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Me lo puede dar por escrito, por favor?",
+          "en": "👂 « Pouvez-vous me le donner par écrit, s'il vous plaît ? » — la phrase qui met fin à la pression orale.",
+          "audioKey": "e07b-escrito-e"
+        }
+      ],
+      "origem": "B04"
+    },
+    {
+      "id": "e07b-escrito-e",
+      "folhas": [
+        "taxi/locadora",
+        "reparo/escreve"
+      ],
+      "titulo": "Pouvez-vous me le donner par écrit, s'il vous plaît ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me lo puede dar por escrito, por favor?",
+          "en": "Pouvez-vous me le donner par écrit, s'il vous plaît ?",
+          "audioKey": "e07b-escrito-e",
+          "pron": "me lo POUÉ-dé dar por es-KRI-to, por fa-BOR"
+        }
+      ],
+      "origem": "B04",
+      "molde": "ME-PUEDE"
+    },
+    {
+      "id": "e07a-tasa-e",
+      "folhas": [
+        "quarto/checkin"
+      ],
+      "titulo": "La taxe de séjour est-elle comprise ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿La tasa turística está incluida?",
+          "en": "La taxe de séjour est-elle comprise ?",
+          "audioKey": "e07a-tasa-e",
+          "pron": "la TA-ssa tou-RISS-ti-ka es-TA in-klou-I-da"
+        },
+        {
+          "quem": "ele",
+          "es": "No, esa se paga aquí. Y mejor en efectivo.",
+          "en": "👂 « Non, celle-là se paie ici. Et de préférence en espèces. » — pas une invention de la maison : une taxe publique qu'elle encaisse.",
+          "audioKey": "e07a-sepagaaqui-c"
+        }
+      ],
+      "origem": "B04"
+    },
+    {
+      "id": "e07a-tasa-e~2",
+      "folhas": [
+        "quarto/checkin",
+        "pagar/dinheiro"
+      ],
+      "titulo": "La taxe de séjour est comprise ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿La tasa turística está incluida?",
+          "en": "La taxe de séjour est comprise ?",
+          "audioKey": "e07a-tasa-e",
+          "pron": "la TA-ssa tou-RISS-ti-ka ess-TA in-klou-I-da"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Me deja el pasaporte? Tengo que rellenar la ficha de viajeros.",
+          "en": "👂 « Vous me laissez la pièce d'identité ? Je dois remplir la fiche voyageurs. » — la première phrase à la réception, presque toujours.",
+          "audioKey": "e07a-ficha-c"
+        }
+      ],
+      "origem": "B05"
+    },
+    {
+      "id": "e02a-pasaporte-c",
+      "folhas": [
+        "quarto/checkin"
+      ],
+      "titulo": "Il me faut le passeport ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Necesito el pasaporte?",
+          "en": "Il me faut le passeport ?",
+          "audioKey": "e02a-pasaporte-c",
+          "pron": "né-ssé-SSI-to el pa-ssa-POR-té"
+        },
+        {
+          "quem": "ele",
+          "es": "Tengo una reserva a nombre de Harper.",
+          "en": "J'ai une réservation au nom de Harper. — Piège : `nombre`, ce n'est pas « nombre », c'est le NOM. On vous demande à quel nom, pas combien. Le vôtre vient tout à la fin.",
+          "audioKey": "e07a-reserva-e"
+        }
+      ],
+      "origem": "B05"
+    },
+    {
+      "id": "e07a-reserva-e",
+      "folhas": [
+        "quarto/checkin"
+      ],
+      "titulo": "J'ai une réservation au nom de …",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Tengo una reserva a nombre de Harper.",
+          "en": "J'ai une réservation au nom de …",
+          "audioKey": "e07a-reserva-e",
+          "pron": "TENG-go ou-na rre-SSER-ba a NOM-bré dé …"
+        }
+      ],
+      "origem": "B05"
+    },
+    {
+      "id": "e02b-vacaciones-e",
+      "folhas": [
+        "taxi/locadora",
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "Je viens en vacances.",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Vengo de vacaciones.",
+          "en": "Je viens en vacances.",
+          "audioKey": "e02b-vacaciones-e",
+          "pron": "BENG-go dé ba-ka-SSIO-ness"
+        },
+        {
+          "quem": "ele",
+          "es": "Diez días.",
+          "en": "Dix jours. — Le z de `diez` n'est pas muet : c'est le son entre les dents, ou un simple s. Et le s de `días`, le pluriel, sonne jusqu'au bout.",
+          "audioKey": "e02b-diez-c"
+        }
+      ],
+      "origem": "B05"
+    },
+    {
+      "id": "e02b-diez-c",
+      "folhas": [
+        "quarto/checkin"
+      ],
+      "titulo": "Dix jours.",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Diez días.",
+          "en": "Dix jours.",
+          "audioKey": "e02b-diez-c",
+          "pron": "DIÉSS DI-ass"
+        }
+      ],
+      "origem": "B05"
+    },
+    {
+      "id": "e02b-alojo-e",
+      "folhas": [
+        "taxi/locadora",
+        "quarto/checkin"
+      ],
+      "titulo": "Je loge à l'hôtel Rialto, à Madrid.",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Me alojo en el hotel Rialto, en Madrid.",
+          "en": "Je loge à l'hôtel Rialto, à Madrid.",
+          "audioKey": "e02b-alojo-e",
+          "pron": "mé a-LO-kho é-né-lo-TEL rri-AL-to, en ma-DRI"
+        }
+      ],
+      "origem": "B05"
+    },
+    {
+      "id": "e02b-reserva-c",
+      "folhas": [
+        "quarto/checkin",
+        "reparo/apontar"
+      ],
+      "titulo": "Voici la réservation.",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Aquí tiene la reserva.",
+          "en": "Voici la réservation.",
+          "audioKey": "e02b-reserva-c",
+          "pron": "a-KI TIÉ-né la rre-SSER-ba"
+        }
+      ],
+      "origem": "B05"
+    },
+    {
+      "id": "e01c-repetir-c~2",
+      "folhas": [
+        "reparo/devagar",
+        "quarto/checkin"
+      ],
+      "titulo": "Vous pouvez répéter, s'il vous plaît ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me puede repetir, por favor?",
+          "en": "Vous pouvez répéter, s'il vous plaît ?",
+          "audioKey": "e01c-repetir-c",
+          "pron": "mé POUÉ-dé rré-pé-TIR, por fa-BOR"
+        }
+      ],
+      "origem": "B05",
+      "molde": "ME-PUEDE"
+    },
+    {
+      "id": "b06-maleta-e",
+      "folhas": [
+        "quarto/mala"
+      ],
+      "titulo": "avoir les mains libres",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Puedo dejar la maleta aquí?",
+          "en": "avoir les mains libres",
+          "audioKey": "b06-maleta-e",
+          "pron": "POUÉ-do de-KHAR la ma-LÉ-ta a-KI"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Hasta qué hora?",
+          "en": "Jusqu'à quelle heure ? (trois mots, et la soirée est sauvée)",
+          "audioKey": "b06-hasta-e"
+        }
+      ],
+      "origem": "B06",
+      "molde": "PUEDO"
+    },
+    {
+      "id": "b06-banyo-c",
+      "folhas": [
+        "chegar/entrar"
+      ],
+      "titulo": "la porte au fond à gauche",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Puedo usar el baño?",
+          "en": "la porte au fond à gauche",
+          "audioKey": "b06-banyo-c",
+          "pron": "POUÉ-do ou-SSAR el BA-gno"
+        },
+        {
+          "quem": "ele",
+          "es": "ASEOS · SERVICIOS · LAVABOS · SOLO EFECTIVO",
+          "en": "👂 Trois panneaux pour la même porte — et un quatrième qui décide de votre porte-monnaie.",
+          "audioKey": "b06-placas-c"
+        }
+      ],
+      "origem": "B06",
+      "molde": "PUEDO"
+    },
+    {
+      "id": "b06-tarjeta-c",
+      "folhas": [
+        "pagar/cartao"
+      ],
+      "titulo": "le plastique plutôt que les billets",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Puedo pagar con tarjeta?",
+          "en": "le plastique plutôt que les billets",
+          "audioKey": "b06-tarjeta-c",
+          "pron": "POUÉ-do pa-GAR kon tar-KHÉ-ta"
+        },
+        {
+          "quem": "ele",
+          "es": "Solo efectivo, lo siento.",
+          "en": "👂 «Espèces seulement, désolé.» — il est dans son droit, et le panneau était sur la porte.",
+          "audioKey": "b06-soloefectivo-e"
+        }
+      ],
+      "origem": "B06",
+      "molde": "PUEDO"
+    },
+    {
+      "id": "e05b-cajero-e",
+      "folhas": [
+        "pagar/dinheiro"
+      ],
+      "titulo": "où trouver des billets par ici",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Dónde hay un cajero?",
+          "en": "où trouver des billets par ici",
+          "audioKey": "e05b-cajero-e",
+          "pron": "DON-dé aï oun ka-KHÉ-ro"
+        },
+        {
+          "quem": "ele",
+          "es": "Ahí en la esquina hay uno, pero cobra comisión. El del banco está a dos calles.",
+          "en": "👂 «Là au coin il y en a un, mais il prend une commission. Celui de la banque est à deux rues.»",
+          "audioKey": "b08-comision-e"
+        }
+      ],
+      "origem": "B06"
+    },
+    {
+      "id": "b06-wifi-c",
+      "folhas": [
+        "chegar/balcao"
+      ],
+      "titulo": "est-ce qu'il y en a ici ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Hay wifi?",
+          "en": "est-ce qu'il y en a ici ?",
+          "audioKey": "b06-wifi-c",
+          "pron": "aï WI-fi"
+        },
+        {
+          "quem": "ele",
+          "es": "Sí. La contraseña está en el tique.",
+          "en": "👂 «Oui. Le mot de passe est sur le ticket.»",
+          "audioKey": "b06-contrasenatique-e"
+        }
+      ],
+      "origem": "B06"
+    },
+    {
+      "id": "b06-esto-e",
+      "folhas": [
+        "transporte/bagagem"
+      ],
+      "titulo": "l'objet que vous montrez du doigt",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Puedo entrar con esto?",
+          "en": "l'objet que vous montrez du doigt",
+          "audioKey": "b06-esto-e",
+          "pron": "POUÉ-do en-TRAR kon ES-to"
+        }
+      ],
+      "origem": "B06",
+      "molde": "PUEDO"
+    },
+    {
+      "id": "e06a-estalibre",
+      "folhas": [
+        "taxi/destino"
+      ],
+      "titulo": "deux mots avant de toucher la portière",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Está libre?",
+          "en": "deux mots avant de toucher la portière",
+          "audioKey": "e06a-estalibre",
+          "pron": "es-TA LI-bré"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Me puede abrir el maletero?",
+          "en": "Pouvez-vous ouvrir le coffre ?",
+          "audioKey": "b07-maletero-e"
+        }
+      ],
+      "origem": "B07"
+    },
+    {
+      "id": "b07-direccion-c",
+      "folhas": [
+        "taxi/destino",
+        "reparo/apontar"
+      ],
+      "titulo": "ceci — et l'écran avec",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "A esta dirección, por favor.",
+          "en": "ceci — et l'écran avec",
+          "audioKey": "b07-direccion-c",
+          "pron": "a ES-ta di-rek-SSION, por fa-BOR"
+        }
+      ],
+      "origem": "B07"
+    },
+    {
+      "id": "e06a-taximetro",
+      "folhas": [
+        "taxi/taximetro"
+      ],
+      "titulo": "le boîtier éteint, à allumer",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me pone el taxímetro, por favor?",
+          "en": "le boîtier éteint, à allumer",
+          "audioKey": "e06a-taximetro",
+          "pron": "mé PO-né el tak-SSI-mé-tro, por fa-BOR"
+        },
+        {
+          "quem": "ele",
+          "es": "Pare aquí, por favor. ¿Me da un recibo?",
+          "en": "Arrêtez-vous ici, s'il vous plaît. J'ai un reçu ? — Sur le papier, le numéro de la voiture.",
+          "audioKey": "e06a-pararecibo"
+        }
+      ],
+      "origem": "B07",
+      "molde": "ME-PONE"
+    },
+    {
+      "id": "e06a-pararecibo",
+      "folhas": [
+        "taxi/parar"
+      ],
+      "titulo": "arrêter — puis le papier",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Pare aquí, por favor. ¿Me da un recibo?",
+          "en": "arrêter — puis le papier",
+          "audioKey": "e06a-pararecibo",
+          "pron": "PA-ré a-KI, por fa-BOR. mé da oun rré-SSI-bo"
+        }
+      ],
+      "origem": "B07"
+    },
+    {
+      "id": "b07-dejado-c",
+      "folhas": [
+        "apuro/perdi",
+        "taxi/errado"
+      ],
+      "titulo": "ce qui manque, et où c'est resté",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Me he dejado el móvil en el taxi.",
+          "en": "ce qui manque, et où c'est resté",
+          "audioKey": "b07-dejado-c",
+          "pron": "mé é dé-KHA-do el MO-bil é-nel TAK-ssi"
+        }
+      ],
+      "aviso": true,
+      "origem": "B07",
+      "molde": "ME-HE-DEJADO"
+    },
+    {
+      "id": "e07b-seguro-e",
+      "folhas": [
+        "taxi/locadora"
+      ],
+      "titulo": "merci, c'est déjà là",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "No quiero seguro adicional, gracias. Ya tengo cobertura.",
+          "en": "merci, c'est déjà là",
+          "audioKey": "e07b-seguro-e",
+          "pron": "no KIÉ-ro sé-GOU-ro a-di-ssio-NAL, GRA-ssiass. ya TENG-go ko-ber-TOU-ra"
+        },
+        {
+          "quem": "ele",
+          "es": "No hace falta, hombre, si está en el contrato.",
+          "en": "👂 « Mais non, voyons, c'est dans le contrat. » — dit gentiment, et pourtant sans engagement.",
+          "audioKey": "e06a-estaenelcontrato-c"
+        }
+      ],
+      "origem": "B07"
+    },
+    {
+      "id": "b08-cajero-c",
+      "folhas": [
+        "pagar/dinheiro"
+      ],
+      "titulo": "où trouver des billets",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Hay un cajero por aquí?",
+          "en": "où trouver des billets",
+          "audioKey": "b08-cajero-c",
+          "pron": "aï oun ka-KHÉ-ro por a-KI"
+        }
+      ],
+      "origem": "B08",
+      "molde": "HAY"
+    },
+    {
+      "id": "b08-taxis-c",
+      "folhas": [
+        "taxi/destino"
+      ],
+      "titulo": "l'endroit où les voitures attendent",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Hay una parada de taxis por aquí?",
+          "en": "l'endroit où les voitures attendent",
+          "audioKey": "b08-taxis-c",
+          "pron": "aï OU-na pa-RA-da dé TAK-siss por a-KI"
+        }
+      ],
+      "origem": "B08",
+      "molde": "HAY"
+    },
+    {
+      "id": "b08-salida-e",
+      "folhas": [
+        "transporte/plataforma"
+      ],
+      "titulo": "la porte vers dehors — et non, ce n'est pas «sale»",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Dónde está la salida?",
+          "en": "la porte vers dehors — et non, ce n'est pas «sale»",
+          "audioKey": "b08-salida-e",
+          "pron": "DON-dé es-TA la sa-LI-da"
+        },
+        {
+          "quem": "ele",
+          "es": "¿La salida a la calle o la correspondencia?",
+          "en": "👂 «La sortie vers la rue ou la correspondance ?» — il y en a deux, il veut savoir laquelle.",
+          "audioKey": "b08-correspondencia-c"
+        }
+      ],
+      "origem": "B08",
+      "molde": "DONDE"
+    },
+    {
+      "id": "b08-mapa-e",
+      "folhas": [
+        "reparo/apontar",
+        "reparo/escreve"
+      ],
+      "titulo": "montrez-le-moi là-dessus",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me lo puede enseñar en el mapa?",
+          "en": "montrez-le-moi là-dessus",
+          "audioKey": "b08-mapa-e",
+          "pron": "mé lo POUÉ-dé en-sé-GNAR en el MA-pa"
+        }
+      ],
+      "origem": "B08"
+    },
+    {
+      "id": "e01c-08~2",
+      "folhas": [
+        "reparo/escreve"
+      ],
+      "titulo": "sur le papier, s'il vous plaît",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me lo escribe, por favor?",
+          "en": "sur le papier, s'il vous plaît",
+          "audioKey": "e01c-08",
+          "pron": "mé lo es-KRI-bé, por fa-BOR"
+        }
+      ],
+      "origem": "B08"
+    },
+    {
+      "id": "e06b-cercometro",
+      "folhas": [
+        "transporte/qual-trem"
+      ],
+      "titulo": "lequel des trois, celui-là ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Esto es Cercanías o metro?",
+          "en": "lequel des trois, celui-là ?",
+          "audioKey": "e06b-cercometro",
+          "pron": "ÉS-to es sser-ka-NI-ass o MÉ-tro"
+        }
+      ],
+      "origem": "B09"
+    },
+    {
+      "id": "e06a-valeaero",
+      "folhas": [
+        "transporte/bilhete"
+      ],
+      "titulo": "est-ce qu'il va jusque là-bas ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Este billete vale para el aeropuerto?",
+          "en": "est-ce qu'il va jusque là-bas ?",
+          "audioKey": "e06a-valeaero",
+          "pron": "ÉS-té bi-YÉ-té BA-lé PA-ra el a-é-ro-POUÉR-to"
+        },
+        {
+          "quem": "ele",
+          "es": "Para el aeropuerto no. Ahí hay que pagar suplemento.",
+          "en": "👂 « Pas jusqu'à l'aéroport. Là, il faut payer un supplément. » — la phrase vous coûte trois euros si elle arrive trop tard.",
+          "audioKey": "e06b-suplemento-c"
+        }
+      ],
+      "origem": "B09"
+    },
+    {
+      "id": "e06b-recarga-e",
+      "folhas": [
+        "transporte/bilhete"
+      ],
+      "titulo": "qu'il la remette à plein",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me puede recargar la tarjeta?",
+          "en": "qu'il la remette à plein",
+          "audioKey": "e06b-recarga-e",
+          "pron": "mé POUÉ-dé rré-kar-GAR la tar-KHÉ-ta"
+        },
+        {
+          "quem": "ele",
+          "es": "VALIDAR · RECARGA",
+          "en": "👂 Deux mots sur la borne, et ils ne font pas la même chose.",
+          "audioKey": "e06b-s-validar"
+        }
+      ],
+      "origem": "B09",
+      "molde": "ME-PUEDE"
+    },
+    {
+      "id": "e06b-controlacceso",
+      "folhas": [
+        "transporte/plataforma"
+      ],
+      "titulo": "le billet est là — par où on passe ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Ya tengo el billete. ¿Dónde está el control de acceso?",
+          "en": "le billet est là — par où on passe ?",
+          "audioKey": "e06b-controlacceso",
+          "pron": "ya TEN-go el bi-YÉ-té. DON-dé es-TA el kon-TROL dé ak-SSÉ-so"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Puedo subir con esta maleta?",
+          "en": "Puis-je monter avec cette valise ?",
+          "audioKey": "e06b-maleta"
+        }
+      ],
+      "origem": "B09",
+      "molde": "DONDE"
+    },
+    {
+      "id": "e06b-maleta",
+      "folhas": [
+        "transporte/bagagem"
+      ],
+      "titulo": "ce truc passe avec moi ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Puedo subir con esta maleta?",
+          "en": "ce truc passe avec moi ?",
+          "audioKey": "e06b-maleta",
+          "pron": "POUÉ-do sou-BIR kon ÉS-ta ma-LÉ-ta"
+        }
+      ],
+      "origem": "B09",
+      "molde": "PUEDO"
+    },
+    {
+      "id": "e06b-otrotren-e",
+      "folhas": [
+        "transporte/perdi"
+      ],
+      "titulo": "quelque chose plus tard dans la journée ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Hay otro tren esta tarde?",
+          "en": "quelque chose plus tard dans la journée ?",
+          "audioKey": "e06b-otrotren-e",
+          "pron": "aï O-tro tren ÉS-ta TAR-dé"
+        }
+      ],
+      "aviso": true,
+      "origem": "B09",
+      "molde": "HAY"
+    },
+    {
+      "id": "b10-via-e",
+      "folhas": [
+        "transporte/plataforma"
+      ],
+      "titulo": "le niveau où votre train est à quai",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Dónde está la vía cuatro?",
+          "en": "le niveau où votre train est à quai",
+          "audioKey": "b10-via-e",
+          "pron": "DON-dé es-TA la BI-a KOUA-tro"
+        },
+        {
+          "quem": "ele",
+          "es": "Vía cuatro es abajo. Pero corre, que el control cierra antes.",
+          "en": "👂 «La voie quatre, c'est en bas. Mais cours, le contrôle ferme avant.» — la barrière a sa propre horloge.",
+          "audioKey": "b10-controlcierra-c"
+        }
+      ],
+      "origem": "B10",
+      "molde": "DONDE"
+    },
+    {
+      "id": "b08-donde-aseos-c",
+      "folhas": [
+        "chegar/entrar"
+      ],
+      "titulo": "la porte qu'il vous faut à l'instant",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Dónde están los aseos?",
+          "en": "la porte qu'il vous faut à l'instant",
+          "audioKey": "b08-donde-aseos-c",
+          "pron": "DON-dé es-TAN loss a-SSÉ-oss"
+        },
+        {
+          "quem": "ele",
+          "es": "COCINA CERRADA · S.M. · SEGÚN MERCADO",
+          "en": "👂 Cuisine fermée. Et «selon le marché» : pas de montant affiché, parce qu'il va au poids.",
+          "audioKey": "b10-cocina-e"
+        }
+      ],
+      "origem": "B10",
+      "molde": "DONDE"
+    },
+    {
+      "id": "b10-picar-c",
+      "folhas": [
+        "mesa/comida"
+      ],
+      "titulo": "un petit quelque chose, sans cuisine",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Hay algo para picar?",
+          "en": "un petit quelque chose, sans cuisine",
+          "audioKey": "b10-picar-c",
+          "pron": "aï AL-go PA-ra pi-KAR"
+        },
+        {
+          "quem": "ele",
+          "es": "SOLO EFECTIVO",
+          "en": "👂 Espèces seulement. Derrière ce comptoir, pas de terminal, et il n'en viendra pas.",
+          "audioKey": "e05a-soloefectivo-e"
+        }
+      ],
+      "origem": "B10",
+      "molde": "HAY"
+    },
+    {
+      "id": "b08-cajero-c~2",
+      "folhas": [
+        "pagar/dinheiro"
+      ],
+      "titulo": "de quoi retirer, quelque part par ici",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Hay un cajero por aquí?",
+          "en": "de quoi retirer, quelque part par ici",
+          "audioKey": "b08-cajero-c",
+          "pron": "aï oun ka-KHÉ-ro por a-KI"
+        },
+        {
+          "quem": "ele",
+          "es": "HAY HOJAS DE RECLAMACIONES A DISPOSICIÓN DEL CONSUMIDOR",
+          "en": "👂 Formulaires de réclamation disponibles. S'il est affiché, le commerce ne peut pas refuser le formulaire.",
+          "audioKey": "b10-hojas-e"
+        }
+      ],
+      "origem": "B10",
+      "molde": "HAY"
+    },
+    {
+      "id": "b10-aparcar-e",
+      "folhas": [
+        "taxi/estacionar"
+      ],
+      "titulo": "la voiture, le trottoir, et la permission",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Puedo aparcar aquí?",
+          "en": "la voiture, le trottoir, et la permission",
+          "audioKey": "b10-aparcar-e",
+          "pron": "POUÉ-do a-par-KAR a-KI"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Dónde puedo aparcar sin entrar?",
+          "en": "👂 «Où puis-je me garer sans entrer ?» — la phrase qui contourne la zone.",
+          "audioKey": "e07b-aparcar-e"
+        }
+      ],
+      "origem": "B10",
+      "molde": "PUEDO"
+    },
+    {
+      "id": "b10-salida-e",
+      "folhas": [
+        "transporte/placas"
+      ],
+      "titulo": "le chemin vers dehors",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Dónde está la salida?",
+          "en": "le chemin vers dehors",
+          "audioKey": "b10-salida-e",
+          "pron": "DON-dé es-TA la sa-LI-da"
+        }
+      ],
+      "origem": "B10",
+      "molde": "DONDE"
+    },
+    {
+      "id": "b08-cajero-c~3",
+      "folhas": [
+        "chegar/balcao"
+      ],
+      "titulo": "retirer de l'argent par ici",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Hay un cajero por aquí?",
+          "en": "retirer de l'argent par ici",
+          "audioKey": "b08-cajero-c",
+          "pron": "ai un ka-CHE-ro por a-KI"
+        }
+      ],
+      "origem": "B11",
+      "molde": "HAY"
+    },
+    {
+      "id": "e03a-cana-e~2",
+      "folhas": [
+        "chegar/balcao",
+        "mesa/bebida",
+        "chegar/tu-usted"
+      ],
+      "titulo": "le petit verre que tout le monde a ici",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me pones una caña, por favor?",
+          "en": "le petit verre que tout le monde a ici",
+          "audioKey": "e03a-cana-e",
+          "pron": "me PO-ness U-na KA-nja, por fa-BOR"
+        }
+      ],
+      "origem": "B11",
+      "molde": "ME-PONE"
+    },
+    {
+      "id": "e03a-doscanas-c",
+      "folhas": [
+        "mesa/bebida"
+      ],
+      "titulo": "la même chose, mais pour deux",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me pones dos cañas, por favor?",
+          "en": "la même chose, mais pour deux",
+          "audioKey": "e03a-doscanas-c",
+          "pron": "me PO-ness doss KA-njass, por fa-BOR"
+        }
+      ],
+      "origem": "B11",
+      "molde": "ME-PONE"
+    },
+    {
+      "id": "e03a-cafeleche-e",
+      "folhas": [
+        "mesa/bebida"
+      ],
+      "titulo": "celui du matin, avec du lait",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me pones un café con leche, por favor?",
+          "en": "celui du matin, avec du lait",
+          "audioKey": "e03a-cafeleche-e",
+          "pron": "me PO-ness un ka-FE kon LE-tscheh, por fa-BOR"
+        }
+      ],
+      "origem": "B11",
+      "molde": "ME-PONE"
+    },
+    {
+      "id": "b11-jarra-e",
+      "folhas": [
+        "mesa/agua-pao"
+      ],
+      "titulo": "la gratuite, et en quantité",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me pones una jarra de agua del grifo?",
+          "en": "la gratuite, et en quantité",
+          "audioKey": "b11-jarra-e",
+          "pron": "me PO-ness U-na CHA-rra de A-gwa del GRI-fo"
+        }
+      ],
+      "origem": "B11",
+      "molde": "ME-PONE"
+    },
+    {
+      "id": "e03c-porley-c",
+      "folhas": [
+        "mesa/agua-pao"
+      ],
+      "titulo": "le rappel poli",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Es gratuita por ley, ¿verdad?",
+          "en": "le rappel poli",
+          "audioKey": "e03c-porley-c",
+          "pron": "ess gra-TWI-ta por lej, ber-DAD"
+        },
+        {
+          "quem": "ele",
+          "es": "Sí, sí. Ahora os traigo una jarra.",
+          "en": "👂 «Oui, oui. Je vous apporte une carafe tout de suite.» — là, ça finit presque toujours.",
+          "audioKey": "e03a-traigojarra-e"
+        }
+      ],
+      "origem": "B11"
+    },
+    {
+      "id": "e03c-pan-c",
+      "folhas": [
+        "mesa/agua-pao"
+      ],
+      "titulo": "ça atterrit sur l'addition ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿El pan se cobra aparte?",
+          "en": "ça atterrit sur l'addition ?",
+          "audioKey": "e03c-pan-c",
+          "pron": "el pan sse KO-bra a-PAR-teh"
+        },
+        {
+          "quem": "ele",
+          "es": "No queremos pan, gracias.",
+          "en": "Nous ne voulons pas de pain, merci. (Le rendre intact ne gêne personne.)",
+          "audioKey": "e03c-nopan-e"
+        }
+      ],
+      "origem": "B11"
+    },
+    {
+      "id": "e03a-suplemento-c",
+      "folhas": [
+        "mesa/mesa",
+        "mesa/conta"
+      ],
+      "titulo": "ça coûte plus dehors ?",
+      "troca": [
+        {
+          "quem": "ele",
+          "es": "¿Es el mismo precio en la barra?",
+          "en": "Est-ce le même prix au comptoir ?",
+          "audioKey": "e03a-mismoprecio-e"
+        },
+        {
+          "quem": "voce",
+          "es": "¿Hay suplemento de terraza?",
+          "en": "ça coûte plus dehors ?",
+          "audioKey": "e03a-suplemento-c",
+          "pron": "ai ssu-ple-MEN-to de te-RRA-ssa"
+        }
+      ],
+      "origem": "B11",
+      "molde": "HAY"
+    },
+    {
+      "id": "c01b-23",
+      "folhas": [
+        "mesa/comida"
+      ],
+      "titulo": "cadeau ou article ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿La tapa va incluida con la bebida?",
+          "en": "cadeau ou article ?",
+          "audioKey": "c01b-23",
+          "pron": "la TA-pa ba in-klu-I-da kon la be-BI-da"
+        }
+      ],
+      "origem": "B11"
+    },
+    {
+      "id": "e03a-otra-c",
+      "folhas": [
+        "mesa/bebida"
+      ],
+      "titulo": "encore une, la même",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Otra, por favor.",
+          "en": "encore une, la même",
+          "audioKey": "e03a-otra-c",
+          "pron": "O-tra, por fa-BOR"
+        }
+      ],
+      "origem": "B11",
+      "molde": "OTRA"
+    },
+    {
+      "id": "b11-otrocafe-c",
+      "folhas": [
+        "mesa/bebida"
+      ],
+      "titulo": "encore une de celles-là",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Otro café, por favor.",
+          "en": "encore une de celles-là",
+          "audioKey": "b11-otrocafe-c",
+          "pron": "O-tro ka-FE, por fa-BOR"
+        }
+      ],
+      "origem": "B11",
+      "molde": "OTRA"
+    },
+    {
+      "id": "b11-otrotenedor-e",
+      "folhas": [
+        "mesa/errado"
+      ],
+      "titulo": "une propre, s'il vous plaît",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Otro tenedor, por favor.",
+          "en": "une propre, s'il vous plaît",
+          "audioKey": "b11-otrotenedor-e",
+          "pron": "O-tro te-ne-DOR, por fa-BOR"
+        }
+      ],
+      "aviso": true,
+      "origem": "B11",
+      "molde": "OTRA"
+    },
+    {
+      "id": "e03a-comidas-e",
+      "folhas": [
+        "mesa/mesa"
+      ],
+      "titulo": "la cuisine est ouverte ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Están sirviendo comidas?",
+          "en": "la cuisine est ouverte ?",
+          "audioKey": "e03a-comidas-e",
+          "pron": "ess-TAN ssir-BJEN-do ko-MI-dass"
+        }
+      ],
+      "origem": "B11"
+    },
+    {
+      "id": "e03a-mesados-c",
+      "folhas": [
+        "mesa/mesa"
+      ],
+      "titulo": "de la place pour deux — et combien vous êtes",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Tienen mesa para dos? Somos dos.",
+          "en": "de la place pour deux — et combien vous êtes",
+          "audioKey": "e03a-mesados-c",
+          "pron": "TJE-nen ME-ssa PA-ra doss. SSO-moss doss"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Dentro o en la terraza?",
+          "en": "👂 «À l'intérieur ou en terrasse ?» — la même boisson peut coûter plus dehors.",
+          "audioKey": "e03a-dentroterraza-e"
+        }
+      ],
+      "origem": "B11"
+    },
+    {
+      "id": "b11-unadeesas-e",
+      "folhas": [
+        "chegar/balcao",
+        "compras/balcao"
+      ],
+      "titulo": "celle-là, s'il vous plaît",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me pones una de esas, por favor?",
+          "en": "celle-là, s'il vous plaît",
+          "audioKey": "b11-unadeesas-e",
+          "pron": "me PO-ness U-na de E-ssass, por fa-BOR"
+        }
+      ],
+      "origem": "B11",
+      "molde": "ME-PONE"
+    },
+    {
+      "id": "e03a-cana-e~3",
+      "folhas": [
+        "chegar/balcao"
+      ],
+      "titulo": "un demi, pression",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me pones una caña, por favor?",
+          "en": "un demi, pression",
+          "audioKey": "e03a-cana-e",
+          "pron": "me PO-ness OU-na KA-nya, por fa-VOR"
+        }
+      ],
+      "origem": "B12",
+      "molde": "ME-PONE"
+    },
+    {
+      "id": "e03b-sinhielo-c",
+      "folhas": [
+        "mesa/bebida"
+      ],
+      "titulo": "sans ce truc",
+      "troca": [
+        {
+          "quem": "ele",
+          "es": "Sin gas, por favor.",
+          "en": "Plate, s'il vous plaît. (littéralement : sans gaz)",
+          "audioKey": "e03b-singas-e"
+        },
+        {
+          "quem": "voce",
+          "es": "Sin hielo, por favor.",
+          "en": "sans ce truc",
+          "audioKey": "e03b-sinhielo-c",
+          "pron": "sin YÉ-lo, por fa-VOR"
+        }
+      ],
+      "origem": "B12",
+      "molde": "SIN-CON-PARA"
+    },
+    {
+      "id": "e03b-parados-c",
+      "folhas": [
+        "mesa/mesa"
+      ],
+      "titulo": "pour nous deux",
+      "troca": [
+        {
+          "quem": "ele",
+          "es": "¿Para cuántos?",
+          "en": "👂 «Pour combien ?» — la question à la porte. Au pire, levez les doigts. Vous n'en aurez pas besoin.",
+          "audioKey": "e03b-cuantos-e"
+        },
+        {
+          "quem": "voce",
+          "es": "Para dos, por favor.",
+          "en": "pour nous deux",
+          "audioKey": "e03b-parados-c",
+          "pron": "PA-ra doss, por fa-VOR"
+        }
+      ],
+      "origem": "B12",
+      "molde": "SIN-CON-PARA"
+    },
+    {
+      "id": "e03b-parallevar-e",
+      "folhas": [
+        "mesa/comida"
+      ],
+      "titulo": "pas ici, dehors",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Para llevar, por favor.",
+          "en": "pas ici, dehors",
+          "audioKey": "e03b-parallevar-e",
+          "pron": "PA-ra ye-VAR, por fa-VOR"
+        }
+      ],
+      "origem": "B12",
+      "molde": "SIN-CON-PARA"
+    },
+    {
+      "id": "e03b-queriuno-e",
+      "folhas": [
+        "compras/balcao"
+      ],
+      "titulo": "celui du fond",
+      "troca": [
+        {
+          "quem": "ele",
+          "es": "Quería la carta, por favor.",
+          "en": "Je voudrais la carte, s'il vous plaît.",
+          "audioKey": "e03b-quericarta-c"
+        },
+        {
+          "quem": "voce",
+          "es": "Quería uno de esos, por favor.",
+          "en": "celui du fond",
+          "audioKey": "e03b-queriuno-e",
+          "pron": "ke-RI-a OU-no de É-ssoss, por fa-VOR"
+        }
+      ],
+      "origem": "B12",
+      "molde": "QUERIA"
+    },
+    {
+      "id": "e03b-singluten-c",
+      "folhas": [
+        "dieta/sem"
+      ],
+      "titulo": "quelque chose sans ce truc",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Hay algo sin gluten?",
+          "en": "quelque chose sans ce truc",
+          "audioKey": "e03b-singluten-c",
+          "pron": "ay AL-go sin GLOU-ten"
+        }
+      ],
+      "origem": "B12",
+      "molde": "HAY"
+    },
+    {
+      "id": "e03b-queritom-c",
+      "folhas": [
+        "compras/balcao"
+      ],
+      "titulo": "un demi-kilo de ça",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Quería medio kilo de tomates.",
+          "en": "un demi-kilo de ça",
+          "audioKey": "e03b-queritom-c",
+          "pron": "ke-RI-a MÉ-dio KI-lo de to-MA-tess"
+        }
+      ],
+      "origem": "B12",
+      "molde": "QUERIA"
+    },
+    {
+      "id": "e03b-queriohab-e",
+      "folhas": [
+        "quarto/pedir"
+      ],
+      "titulo": "ailleurs, si c'est possible",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Quería otra habitación, si es posible.",
+          "en": "ailleurs, si c'est possible",
+          "audioKey": "e03b-queriohab-e",
+          "pron": "ke-RI-a O-tra a-bi-ta-SSION, si ess po-SSI-bleh"
+        }
+      ],
+      "origem": "B12",
+      "molde": "QUERIA"
+    },
+    {
+      "id": "e03b-queriquem-c",
+      "folhas": [
+        "saude/algo-para"
+      ],
+      "titulo": "quelque chose contre ce que le soleil a fait",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Quería algo para las quemaduras del sol.",
+          "en": "quelque chose contre ce que le soleil a fait",
+          "audioKey": "e03b-queriquem-c",
+          "pron": "ke-RI-a AL-go PA-ra lass ke-ma-DOU-rass del sol"
+        }
+      ],
+      "origem": "B12",
+      "molde": "QUERIA"
+    },
+    {
+      "id": "e03b-carta-c",
+      "folhas": [
+        "mesa/carta"
+      ],
+      "titulo": "la liste avec tout",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Nos trae la carta, por favor?",
+          "en": "la liste avec tout",
+          "audioKey": "e03b-carta-c",
+          "pron": "noss TRA-eh la KAR-ta, por fa-VOR"
+        }
+      ],
+      "origem": "B12"
+    },
+    {
+      "id": "e03b-tamano-e",
+      "folhas": [
+        "mesa/tamanho"
+      ],
+      "titulo": "c'est grand comment, ça",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Esto es tapa, media ración o ración?",
+          "en": "c'est grand comment, ça",
+          "audioKey": "e03b-tamano-e",
+          "pron": "ESS-to ess TA-pa, MÉ-dia rra-SSION o rra-SSION"
+        },
+        {
+          "quem": "ele",
+          "es": "Eso es ración. Es grande, ¿eh? Es para compartir.",
+          "en": "👂 «Ça, c'est une assiette entière — grande, hein ? C'est pour partager.» — la réponse dont vous aviez besoin avant, pas après.",
+          "audioKey": "e03b-consobra-c"
+        }
+      ],
+      "origem": "B12"
+    },
+    {
+      "id": "e03b-compartir-c",
+      "folhas": [
+        "mesa/comida"
+      ],
+      "titulo": "pour le milieu de la table",
+      "troca": [
+        {
+          "quem": "ele",
+          "es": "Eso es ración. Es grande, ¿eh? Es para compartir.",
+          "en": "👂 «Ça, c'est une assiette entière — grande, hein ? C'est pour partager.» — la réponse dont vous aviez besoin avant, pas après.",
+          "audioKey": "e03b-consobra-c"
+        },
+        {
+          "quem": "voce",
+          "es": "Ponnos una ración de jamón para compartir.",
+          "en": "pour le milieu de la table",
+          "audioKey": "e03b-compartir-c",
+          "pron": "PON-noss OU-na rra-SSION de kha-MON PA-ra kom-par-TIR"
+        }
+      ],
+      "origem": "B12",
+      "molde": "SIN-CON-PARA"
+    },
+    {
+      "id": "e03b-lomismo-c",
+      "folhas": [
+        "mesa/comida"
+      ],
+      "titulo": "la même chose, de ce côté-ci",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Lo mismo para mí.",
+          "en": "la même chose, de ce côté-ci",
+          "audioKey": "e03b-lomismo-c",
+          "pron": "lo MISS-mo PA-ra MI"
+        }
+      ],
+      "origem": "B12",
+      "molde": "SIN-CON-PARA"
+    },
+    {
+      "id": "e03b-sincebolla-e",
+      "folhas": [
+        "dieta/sem",
+        "mesa/comida"
+      ],
+      "titulo": "fait sans ce truc-là",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me lo puede hacer sin cebolla?",
+          "en": "fait sans ce truc-là",
+          "audioKey": "e03b-sincebolla-e",
+          "pron": "me lo POUÉ-deh a-SSER sin sse-BO-ya"
+        },
+        {
+          "quem": "ele",
+          "es": "Es que ya viene hecho. Se la quito por encima, si quieres.",
+          "en": "👂 «Ça vient déjà fait — je te l'enlève sur le dessus, si tu veux.» — un demi-oui, et il vaut le coup.",
+          "audioKey": "e03b-porencima-c"
+        }
+      ],
+      "origem": "B12",
+      "molde": "SIN-CON-PARA"
+    },
+    {
+      "id": "e03b-parallevar-e~2",
+      "folhas": [
+        "compras/balcao"
+      ],
+      "titulo": "pour la route",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Para llevar, por favor.",
+          "en": "pour la route",
+          "audioKey": "e03b-parallevar-e",
+          "pron": "PA-ra ye-VAR, por fa-VOR"
+        }
+      ],
+      "origem": "B12",
+      "molde": "SIN-CON-PARA"
+    },
+    {
+      "id": "e04a-sinleche-c",
+      "folhas": [
+        "dieta/sem"
+      ],
+      "titulo": "sans ce qui vient sinon d'office",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Sin leche, por favor.",
+          "en": "sans ce qui vient sinon d'office",
+          "audioKey": "e04a-sinleche-c",
+          "pron": "sin LÉ-tché, por fa-BOR"
+        }
+      ],
+      "origem": "B13",
+      "molde": "SIN-CON-PARA"
+    },
+    {
+      "id": "e04a-frutossecos-e",
+      "folhas": [
+        "dieta/dizer",
+        "saude/minha-alergia"
+      ],
+      "titulo": "l'étiquette, avant tout le reste",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Soy alérgico a los frutos secos.",
+          "en": "l'étiquette, avant tout le reste",
+          "audioKey": "e04a-frutossecos-e",
+          "pron": "soi a-LÈR-khi-ko a loss FROU-toss SSÉ-koss"
+        }
+      ],
+      "origem": "B13",
+      "molde": "SOY-ESTOY"
+    },
+    {
+      "id": "e04a-mania-e",
+      "folhas": [
+        "dieta/nao-levam-a-serio"
+      ],
+      "titulo": "les deux phrases qui font bouger la cuisine",
+      "troca": [
+        {
+          "quem": "ele",
+          "es": "Bueno, un poquito seguro que no pasa nada.",
+          "en": "👂 «Un tout petit peu, ça ne fait sûrement rien.» — ça revient souvent deux fois.",
+          "audioKey": "e04a-poquitoseguro-c"
+        },
+        {
+          "quem": "voce",
+          "es": "No. Es alergia, no es manía. Es una alergia grave.",
+          "en": "les deux phrases qui font bouger la cuisine",
+          "audioKey": "e04a-mania-e",
+          "pron": "no. éss a-LÈR-khia, no éss ma-NI-a. éss OU-na a-LÈR-khia GRA-bé"
+        }
+      ],
+      "aviso": true,
+      "origem": "B13"
+    },
+    {
+      "id": "e04a-alergenos-c",
+      "folhas": [
+        "dieta/o-que-tem",
+        "dieta/cartao"
+      ],
+      "titulo": "le papier au lieu de l'avis",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Tienen la carta de alérgenos?",
+          "en": "le papier au lieu de l'avis",
+          "audioKey": "e04a-alergenos-c",
+          "pron": "TIÉ-nen la KAR-ta de a-LÈR-khé-noss"
+        },
+        {
+          "quem": "ele",
+          "es": "Por supuesto. Le traigo la carta de alérgenos.",
+          "en": "👂 «Bien sûr, je vous apporte la carte des allergènes.» — la conversation a changé de terrain.",
+          "audioKey": "e04a-d3-c"
+        }
+      ],
+      "origem": "B13"
+    },
+    {
+      "id": "e04b-ajo-c",
+      "folhas": [
+        "mesa/comida"
+      ],
+      "titulo": "est-ce qu'il y a celui-là dedans ?",
+      "troca": [
+        {
+          "quem": "ele",
+          "es": "¿Lleva caldo de pescado o de carne?",
+          "en": "Il y a du bouillon de poisson ou de viande dedans ? — devant le même mot, au bout tout autre chose.",
+          "audioKey": "e04b-caldo-e"
+        },
+        {
+          "quem": "voce",
+          "es": "¿Lleva ajo?",
+          "en": "est-ce qu'il y a celui-là dedans ?",
+          "audioKey": "e04b-ajo-c",
+          "pron": "YÉ-ba A-kho"
+        }
+      ],
+      "origem": "B13",
+      "molde": "LLEVA"
+    },
+    {
+      "id": "e04b-sinjamon-c",
+      "folhas": [
+        "dieta/sem"
+      ],
+      "titulo": "comme ça, mais sans celui-là",
+      "troca": [
+        {
+          "quem": "ele",
+          "es": "¿Me lo puede hacer sin ajo?",
+          "en": "Pouvez-vous me le faire sans ail ? (ajo = A-kho, un raclement de gorge, pas votre j)",
+          "audioKey": "e04b-sinajo-e"
+        },
+        {
+          "quem": "voce",
+          "es": "¿Me lo puede hacer sin jamón?",
+          "en": "comme ça, mais sans celui-là",
+          "audioKey": "e04b-sinjamon-c",
+          "pron": "mé lo POUÉ-dé a-SSER sin kha-MON"
+        }
+      ],
+      "origem": "B13",
+      "molde": "ME-PUEDE"
+    },
+    {
+      "id": "e03c-cuenta-c",
+      "folhas": [
+        "mesa/conta",
+        "pagar/pedir"
+      ],
+      "titulo": "toute seule, elle ne vient pas",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "La cuenta, por favor.",
+          "en": "toute seule, elle ne vient pas",
+          "audioKey": "e03c-cuenta-c",
+          "pron": "la KOUÉN-ta, por fa-BOR"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Nos cobras?",
+          "en": "👂 «Tu nous encaisses ?» — ce qu'on dit vraiment au comptoir, et c'est la forme tu.",
+          "audioKey": "e03c-noscobras-e"
+        }
+      ],
+      "origem": "B14"
+    },
+    {
+      "id": "e03c-separado-e",
+      "folhas": [
+        "pagar/pedir",
+        "mesa/conta"
+      ],
+      "titulo": "chacun le sien",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Pagamos por separado, por favor.",
+          "en": "chacun le sien",
+          "audioKey": "e03c-separado-e",
+          "pron": "pa-GA-moss por sé-pa-RA-do, por fa-BOR"
+        },
+        {
+          "quem": "ele",
+          "es": "Pagamos a partes iguales.",
+          "en": "Nous partageons à parts égales. (La demande la plus simple pour lui : une somme, divisée.)",
+          "audioKey": "b14-iguales-c"
+        }
+      ],
+      "origem": "B14"
+    },
+    {
+      "id": "e03c-servicio-c",
+      "folhas": [
+        "mesa/conta",
+        "pagar/errado"
+      ],
+      "titulo": "était-ce déjà dans le prix",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Está incluido el servicio?",
+          "en": "était-ce déjà dans le prix",
+          "audioKey": "e03c-servicio-c",
+          "pron": "es-TA in-klou-I-do el ser-BI-ssio"
+        }
+      ],
+      "aviso": true,
+      "origem": "B14"
+    },
+    {
+      "id": "c02a-22",
+      "folhas": [
+        "pagar/errado",
+        "mesa/conta"
+      ],
+      "titulo": "ligne par ligne, s'il vous plaît",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Perdone, ¿me trae la cuenta detallada?",
+          "en": "ligne par ligne, s'il vous plaît",
+          "audioKey": "c02a-22",
+          "pron": "per-DO-né, mé TRA-é la KOUÉN-ta dé-ta-YA-da"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Hay algún problema?",
+          "en": "👂 «Il y a un problème ?» — la porte est ouverte. Nommez la ligne, jamais la personne. (Et le h se tait : aï.)",
+          "audioKey": "e05a-algunproblema-c"
+        }
+      ],
+      "aviso": true,
+      "origem": "B14"
+    },
+    {
+      "id": "c02a-23",
+      "folhas": [
+        "pagar/errado"
+      ],
+      "titulo": "le fait, pas la faute",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Aquí hay un cargo que no estaba en la carta. ¿Qué es?",
+          "en": "le fait, pas la faute",
+          "audioKey": "c02a-23",
+          "pron": "a-KI aï oun KAR-go ké no es-TA-ba en la KAR-ta. ké ess"
+        },
+        {
+          "quem": "ele",
+          "es": "Ah, eso es el pan. El pan va aparte.",
+          "en": "👂 «Ah, c'est le pain. Le pain se compte à part.» — permis, si c'était sur la liste. Donc : regardez la liste.",
+          "audioKey": "e05a-esdelpan-c"
+        }
+      ],
+      "aviso": true,
+      "origem": "B14"
+    },
+    {
+      "id": "e03c-nopedido-e",
+      "folhas": [
+        "pagar/errado",
+        "mesa/errado"
+      ],
+      "titulo": "ça n'est jamais arrivé à la table",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Esto no lo hemos pedido.",
+          "en": "ça n'est jamais arrivé à la table",
+          "audioKey": "e03c-nopedido-e",
+          "pron": "ÉS-to no lo É-moss pé-DI-do"
+        }
+      ],
+      "aviso": true,
+      "origem": "B14"
+    },
+    {
+      "id": "e03c-hoja-c",
+      "folhas": [
+        "apuro/reclamacoes",
+        "pagar/errado"
+      ],
+      "titulo": "les six mots",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "La hoja de reclamaciones, por favor.",
+          "en": "les six mots",
+          "audioKey": "e03c-hoja-c",
+          "pron": "la O-kha dé rré-kla-ma-SSIO-néss, por fa-BOR"
+        }
+      ],
+      "aviso": true,
+      "origem": "B14"
+    },
+    {
+      "id": "c02a-08",
+      "folhas": [
+        "pagar/gorjeta",
+        "pagar/pedir"
+      ],
+      "titulo": "c'est bon ainsi",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Está bien así, gracias.",
+          "en": "c'est bon ainsi",
+          "audioKey": "c02a-08",
+          "pron": "es-TA bien a-SSI, GRA-ssiass"
+        },
+        {
+          "quem": "ele",
+          "es": "SIN PROPINA",
+          "en": "👂 sur l'appareil : PAS DE POURBOIRE — une touche que vous avez le droit d'appuyer.",
+          "audioKey": "c02a-15"
+        }
+      ],
+      "origem": "B14"
+    },
+    {
+      "id": "b14-yapagado-c",
+      "folhas": [
+        "pagar/pedir",
+        "quarto/checkout"
+      ],
+      "titulo": "c'est réglé",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Ya está pagado.",
+          "en": "c'est réglé",
+          "audioKey": "b14-yapagado-c",
+          "pron": "ya es-TA pa-GA-do"
+        },
+        {
+          "quem": "ele",
+          "es": "Ya está reservado.",
+          "en": "C'est déjà réservé.",
+          "audioKey": "b14-yareservado-e"
+        }
+      ],
+      "origem": "B14",
+      "molde": "YA-ESTA"
+    },
+    {
+      "id": "b14-yaincluido-c",
+      "folhas": [
+        "quarto/checkout"
+      ],
+      "titulo": "c'était dans le prix de la chambre",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Ya está incluido.",
+          "en": "c'était dans le prix de la chambre",
+          "audioKey": "b14-yaincluido-c",
+          "pron": "ya es-TA in-klou-I-do"
+        },
+        {
+          "quem": "ele",
+          "es": "Ya está hecho.",
+          "en": "C'est déjà fait.",
+          "audioKey": "b14-yahecho-e"
+        }
+      ],
+      "origem": "B14",
+      "molde": "YA-ESTA"
+    },
+    {
+      "id": "b14-factura-e",
+      "folhas": [
+        "compras/pagar"
+      ],
+      "titulo": "le papier à votre nom",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me puede dar la factura, por favor?",
+          "en": "le papier à votre nom",
+          "audioKey": "b14-factura-e",
+          "pron": "mé POUÉ-dé dar la fak-TOU-ra, por fa-BOR"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Me da la factura, por favor?",
+          "en": "La forme courte, quand vous êtes sûr. (Pour le ticket de caisse : «¿Me da un tique?»)",
+          "audioKey": "e05a-factura-c"
+        }
+      ],
+      "origem": "B14",
+      "molde": "ME-PUEDE"
+    },
+    {
+      "id": "e05a-pagartarjeta-c",
+      "folhas": [
+        "pagar/pedir"
+      ],
+      "titulo": "est-ce que le plastique sert à quelque chose ici",
+      "troca": [
+        {
+          "quem": "ele",
+          "es": "¿Aceptan tarjeta o solo efectivo?",
+          "en": "👂 Vous prenez la carte, ou espèces seulement ? («efectivo» = espèces, rien à voir avec «effectif».)",
+          "audioKey": "e05a-aceptan-e"
+        },
+        {
+          "quem": "voce",
+          "es": "¿Puedo pagar con tarjeta?",
+          "en": "est-ce que le plastique sert à quelque chose ici",
+          "audioKey": "e05a-pagartarjeta-c",
+          "pron": "POUÉ-do pa-GAR kon tar-KHÉ-ta"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Hay un mínimo para pagar con tarjeta?",
+          "en": "Y a-t-il un minimum pour payer par carte ? (Les petits bars en fixent un — permis, s'il est affiché.)",
+          "audioKey": "e05a-minimo-c"
+        }
+      ],
+      "origem": "B14",
+      "molde": "PUEDO"
+    },
+    {
+      "id": "e05a-minimo-c",
+      "folhas": [
+        "pagar/pedir"
+      ],
+      "titulo": "y a-t-il un seuil ici",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Hay un mínimo para pagar con tarjeta?",
+          "en": "y a-t-il un seuil ici",
+          "audioKey": "e05a-minimo-c",
+          "pron": "aï oun MI-ni-mo PA-ra pa-GAR kon tar-KHÉ-ta"
+        }
+      ],
+      "origem": "B14",
+      "molde": "HAY"
+    },
+    {
+      "id": "b14-voytarjeta-c",
+      "folhas": [
+        "pagar/cartao"
+      ],
+      "titulo": "l'annonce, avant qu'il ne prépare quoi que ce soit",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Voy a pagar con tarjeta.",
+          "en": "l'annonce, avant qu'il ne prépare quoi que ce soit",
+          "audioKey": "b14-voytarjeta-c",
+          "pron": "boï a pa-GAR kon tar-KHÉ-ta"
+        }
+      ],
+      "origem": "B14",
+      "molde": "SIN-CON-PARA"
+    },
+    {
+      "id": "b15-jamon-e",
+      "folhas": [
+        "compras/balcao"
+      ],
+      "titulo": "cent grammes de celui qui pend au crochet",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Póngame cien gramos de jamón, por favor.",
+          "en": "cent grammes de celui qui pend au crochet",
+          "audioKey": "b15-jamon-e",
+          "pron": "PON-ga-mé ssien GRA-moss dé kha-MON, por fa-BOR"
+        },
+        {
+          "quem": "ele",
+          "es": "Póngame medio kilo de aceitunas, por favor.",
+          "en": "Une livre d'olives, s'il vous plaît.",
+          "audioKey": "e05b-pongame2-e"
+        }
+      ],
+      "origem": "B15",
+      "molde": "ME-PONE"
+    },
+    {
+      "id": "e05b-nadamas-c",
+      "folhas": [
+        "compras/quanto"
+      ],
+      "titulo": "clore, et prendre le chiffre",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Nada más, gracias. ¿Cuánto vale?",
+          "en": "clore, et prendre le chiffre",
+          "audioKey": "e05b-nadamas-c",
+          "pron": "NA-da mass, GRA-ssiass. KOUAN-to BA-lé"
+        }
+      ],
+      "origem": "B15"
+    },
+    {
+      "id": "e05b-mirando-e",
+      "folhas": [
+        "compras/so-olhando"
+      ],
+      "titulo": "le panneau poli",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Solo estoy mirando, gracias.",
+          "en": "le panneau poli",
+          "audioKey": "e05b-mirando-e",
+          "pron": "SO-lo ess-TOÏ mi-RAN-do, GRA-ssiass"
+        }
+      ],
+      "origem": "B15"
+    },
+    {
+      "id": "b15-tique-e",
+      "folhas": [
+        "compras/pagar"
+      ],
+      "titulo": "le papier qui porte l'échange",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me da el tique, por favor?",
+          "en": "le papier qui porte l'échange",
+          "audioKey": "b15-tique-e",
+          "pron": "mé da el TI-ké, por fa-BOR"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Se puede cambiar o devolver?",
+          "en": "On peut échanger ou rendre ? (Les deux v sont des b.)",
+          "audioKey": "b15-cambiar-c"
+        }
+      ],
+      "origem": "B15"
+    },
+    {
+      "id": "b15-cambiar-c",
+      "folhas": [
+        "compras/devolver"
+      ],
+      "titulo": "la question avant l'achat, pas après",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Se puede cambiar o devolver?",
+          "en": "la question avant l'achat, pas après",
+          "audioKey": "b15-cambiar-c",
+          "pron": "sé POUÉ-dé kam-BIAR o dé-bol-BER"
+        },
+        {
+          "quem": "ele",
+          "es": "Cambiar sí, con el tique. Devolver el dinero, no.",
+          "en": "👂 «Échange oui, avec le ticket. Rendre l'argent, non.» — la réponse la plus fréquente en petite boutique.",
+          "audioKey": "b15-coneltique-e"
+        }
+      ],
+      "aviso": true,
+      "origem": "B15"
+    },
+    {
+      "id": "e05b-cambio50-c",
+      "folhas": [
+        "pagar/dinheiro"
+      ],
+      "titulo": "régler avant, au lieu de rester planté après",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Tiene cambio de cincuenta?",
+          "en": "régler avant, au lieu de rester planté après",
+          "audioKey": "e05b-cambio50-c",
+          "pron": "TIE-né KAM-bio dé ssin-KOUEN-ta"
+        }
+      ],
+      "origem": "B15"
+    },
+    {
+      "id": "b14-yapagado-c~2",
+      "folhas": [
+        "quarto/checkin"
+      ],
+      "titulo": "c'est déjà parti du compte",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Ya está pagado.",
+          "en": "c'est déjà parti du compte",
+          "audioKey": "b14-yapagado-c",
+          "pron": "ya es-TA pa-GA-do"
+        }
+      ],
+      "origem": "B16",
+      "molde": "YA-ESTA"
+    },
+    {
+      "id": "e07a-tranquila-c",
+      "folhas": [
+        "quarto/pedir"
+      ],
+      "titulo": "une où l'on dort",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Quería una habitación más tranquila, si es posible.",
+          "en": "une où l'on dort",
+          "audioKey": "e07a-tranquila-c",
+          "pron": "ke-RI-a OU-na a-bi-ta-SSION mass tran-KI-la, si es po-SSI-blé"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Le importa una planta más alta?",
+          "en": "👂 « Un étage plus haut, ça vous ennuie ? » — la question qui offre plus que ce qu'on a demandé.",
+          "audioKey": "e03b-hab1-c"
+        }
+      ],
+      "origem": "B16",
+      "molde": "QUERIA"
+    },
+    {
+      "id": "e07a-maletas-e",
+      "folhas": [
+        "quarto/mala"
+      ],
+      "titulo": "quatre heures sans tout ce barda",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Puedo dejar las maletas hasta la hora de entrada?",
+          "en": "quatre heures sans tout ce barda",
+          "audioKey": "e07a-maletas-e",
+          "pron": "POUÉ-do dé-KHAR lass ma-LÉ-tass AS-ta la O-ra dé en-TRA-da"
+        }
+      ],
+      "origem": "B16",
+      "molde": "PUEDO"
+    },
+    {
+      "id": "e07a-tarde-c",
+      "folhas": [
+        "quarto/checkout"
+      ],
+      "titulo": "pousser l'horloge de quelques heures",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Puedo hacer el check-out más tarde?",
+          "en": "pousser l'horloge de quelques heures",
+          "audioKey": "e07a-tarde-c",
+          "pron": "POUÉ-do a-SSER el TCHEK-aout mass TAR-dé"
+        },
+        {
+          "quem": "ele",
+          "es": "Hasta las doce está incluido. Más tarde, se cobra.",
+          "en": "👂 « Jusqu'à midi, c'est compris. Après, c'est facturé. » — un demi-oui, et il suffit la plupart du temps.",
+          "audioKey": "e07a-masdelasdoce-e"
+        }
+      ],
+      "origem": "B16",
+      "molde": "PUEDO"
+    },
+    {
+      "id": "e07a-llave-c",
+      "folhas": [
+        "quarto/nao-funciona"
+      ],
+      "titulo": "le bout de plastique qui ouvre la porte",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "La llave no funciona.",
+          "en": "le bout de plastique qui ouvre la porte",
+          "audioKey": "e07a-llave-c",
+          "pron": "la YA-bé no foun-SSIO-na"
+        }
+      ],
+      "origem": "B16"
+    },
+    {
+      "id": "e07a-movil-e",
+      "folhas": [
+        "apuro/perdi"
+      ],
+      "titulo": "l'objet plat de la poche, et l'endroit où il est",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Me he dejado el móvil en la habitación.",
+          "en": "l'objet plat de la poche, et l'endroit où il est",
+          "audioKey": "e07a-movil-e",
+          "pron": "mé é dé-KHA-do el MO-bil en la a-bi-ta-SSION"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Cuál es la contraseña del wifi?",
+          "en": "C'est quoi, le mot de passe du wifi ?",
+          "audioKey": "e07a-wifi-e"
+        }
+      ],
+      "aviso": true,
+      "origem": "B16",
+      "molde": "ME-HE-DEJADO"
+    },
+    {
+      "id": "e08a-cabeza-c",
+      "folhas": [
+        "saude/algo-para",
+        "saude/receita"
+      ],
+      "titulo": "contre ce qui cogne depuis hier",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me puede recomendar algo para el dolor de cabeza?",
+          "en": "contre ce qui cogne depuis hier",
+          "audioKey": "e08a-cabeza-c",
+          "pron": "mé POUÉ-dé rré-ko-men-DAR AL-go PA-ra el do-LOR dé ka-BÉ-ssa"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Es para usted? ¿Toma alguna otra medicación?",
+          "en": "👂 « C'est pour vous ? Vous prenez autre chose ? » — les deux questions qui viennent toujours.",
+          "audioKey": "e08a-esparausted-e"
+        }
+      ],
+      "origem": "B17",
+      "molde": "ME-PUEDE"
+    },
+    {
+      "id": "e08a-penicilina-e",
+      "folhas": [
+        "saude/minha-alergia"
+      ],
+      "titulo": "ce que vous ne supportez pas",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Soy alérgico a la penicilina.",
+          "en": "ce que vous ne supportez pas",
+          "audioKey": "e08a-penicilina-e",
+          "pron": "soi a-LÉR-khi-ko a la pé-ni-ssi-LI-na"
+        }
+      ],
+      "origem": "B17",
+      "molde": "SOY-ESTOY"
+    },
+    {
+      "id": "e08a-guardia-c",
+      "folhas": [
+        "saude/guardia"
+      ],
+      "titulo": "celle qui est ouverte cette nuit",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Hay una farmacia de guardia por aquí?",
+          "en": "celle qui est ouverte cette nuit",
+          "audioKey": "e08a-guardia-c",
+          "pron": "aï OU-na far-MA-ssia dé GWAR-dia por a-KI"
+        }
+      ],
+      "origem": "B17",
+      "molde": "HAY"
+    },
+    {
+      "id": "e08a-ultimo-c",
+      "folhas": [
+        "chegar/ultimo"
+      ],
+      "titulo": "la question qu'on lance à toute la salle",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Quién es el último?",
+          "en": "la question qu'on lance à toute la salle",
+          "audioKey": "e08a-ultimo-c",
+          "pron": "kién éss el OUL-ti-mo"
+        },
+        {
+          "quem": "ele",
+          "es": "Yo. Detrás de mí ya no hay nadie.",
+          "en": "👂 « Moi. Derrière moi, il n'y a plus personne. » — la phrase que vous direz vous-même dans un instant.",
+          "audioKey": "e08a-yodetrasdemi-e"
+        }
+      ],
+      "origem": "B17"
+    },
+    {
+      "id": "e08a-duele-e",
+      "folhas": [
+        "saude/112",
+        "apuro/112"
+      ],
+      "titulo": "mal — et le doigt dit où",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Me encuentro mal. Me duele aquí.",
+          "en": "mal — et le doigt dit où",
+          "audioKey": "e08a-duele-e",
+          "pron": "mé en-KOUEN-tro mal. mé DOUÉ-lé a-KI"
+        },
+        {
+          "quem": "ele",
+          "es": "FARMACIA DE GUARDIA · URGENCIAS · SIN RECETA MÉDICA · OLA DE CALOR",
+          "en": "👂 Garde · urgences · sans ordonnance · canicule — quatre panneaux qui changent la journée.",
+          "audioKey": "e08a-placas-c"
+        }
+      ],
+      "aviso": true,
+      "origem": "B17"
+    },
+    {
+      "id": "e08b-denuncia-e",
+      "folhas": [
+        "apuro/roubo",
+        "apuro/denuncia"
+      ],
+      "titulo": "le papier pour lequel vous êtes venu",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Quiero poner una denuncia.",
+          "en": "le papier pour lequel vous êtes venu",
+          "audioKey": "e08b-denuncia-e",
+          "pron": "KIÉ-ro po-NER OU-na dé-NOUN-ssia"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Lleva algún documento? Sin documento no puedo tramitarla.",
+          "en": "👂 « Vous avez une pièce d'identité ? Sans, je ne peux pas la traiter. »",
+          "audioKey": "e08a-algundocumento-c"
+        }
+      ],
+      "aviso": true,
+      "origem": "B17"
+    },
+    {
+      "id": "e08b-placa-e",
+      "folhas": [
+        "apuro/golpes"
+      ],
+      "titulo": "d'abord la plaque, puis la proposition",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Enséñeme su placa. Vamos a la comisaría.",
+          "en": "d'abord la plaque, puis la proposition",
+          "audioKey": "e08b-placa-e",
+          "pron": "en-SÉ-gné-mé sou PLA-ka. BA-moss a la ko-mi-ssa-RI-a"
+        }
+      ],
+      "aviso": true,
+      "origem": "B17"
+    },
+    {
+      "id": "b18-pagado-e",
+      "folhas": [
+        "quarto/checkout"
+      ],
+      "titulo": "c'est déjà réglé, ça",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Ya está pagado.",
+          "en": "c'est déjà réglé, ça",
+          "audioKey": "b18-pagado-e",
+          "pron": "ya es-TA pa-GA-do"
+        },
+        {
+          "quem": "ele",
+          "es": "Sí, aquí me sale pagado. Solo queda la tasa turística.",
+          "en": "👂 « Oui, chez moi c'est marqué payé. Il reste juste la taxe de séjour. » — le montant qui n'était jamais dans la réservation.",
+          "audioKey": "b18-quedatasa-c"
+        }
+      ],
+      "origem": "B18",
+      "molde": "YA-ESTA"
+    },
+    {
+      "id": "b18-maletas-e",
+      "folhas": [
+        "quarto/mala"
+      ],
+      "titulo": "les laisser là, avec une heure",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Puedo dejar las maletas hasta las seis?",
+          "en": "les laisser là, avec une heure",
+          "audioKey": "b18-maletas-e",
+          "pron": "POUÉ-do dé-KHAR lass ma-LE-tass AS-ta lass seiss"
+        }
+      ],
+      "origem": "B18",
+      "molde": "PUEDO"
+    },
+    {
+      "id": "b18-llaves-e",
+      "folhas": [
+        "apuro/perdi"
+      ],
+      "titulo": "ce qui est resté là-haut",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Me he dejado las llaves en la habitación.",
+          "en": "ce qui est resté là-haut",
+          "audioKey": "b18-llaves-e",
+          "pron": "mé é dé-KHA-do lass YA-bess en la a-bi-ta-SSION"
+        },
+        {
+          "quem": "ele",
+          "es": "Me he dejado la maleta en el tren.",
+          "en": "J'ai laissé la valise dans le train.",
+          "audioKey": "b18-maleta-c"
+        }
+      ],
+      "aviso": true,
+      "origem": "B18",
+      "molde": "ME-HE-DEJADO"
+    },
+    {
+      "id": "b18-cosa-c",
+      "folhas": [
+        "apuro/perdi"
+      ],
+      "titulo": "la phrase pour tout ce qu'on ne sait pas nommer",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Me he dejado una cosa aquí. ¿La han encontrado?",
+          "en": "la phrase pour tout ce qu'on ne sait pas nommer",
+          "audioKey": "b18-cosa-c",
+          "pron": "mé é dé-KHA-do OU-na KO-ssa a-KI. la an en-kon-TRA-do"
+        }
+      ],
+      "aviso": true,
+      "origem": "B18",
+      "molde": "ME-HE-DEJADO"
+    },
+    {
+      "id": "b18-tarifa-c",
+      "folhas": [
+        "taxi/taximetro"
+      ],
+      "titulo": "un forfait ou un compteur ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Es tarifa fija al aeropuerto?",
+          "en": "un forfait ou un compteur ?",
+          "audioKey": "b18-tarifa-c",
+          "pron": "es ta-RI-fa FI-kha al a-é-ro-POUÉR-to"
+        },
+        {
+          "quem": "ele",
+          "es": "Fija, sí. Si vamos dentro de la M-30.",
+          "en": "👂 « Fixe, oui. Si on reste à l'intérieur de la M-30. » — l'anneau où le forfait s'arrête.",
+          "audioKey": "b18-dentrom30-e"
+        }
+      ],
+      "origem": "B18"
+    },
+    {
+      "id": "b18-hasta-e~2",
+      "folhas": [
+        "simpatia/agradecer"
+      ],
+      "titulo": "merci pour la semaine, et à bientôt",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Muchas gracias por todo. Hasta la próxima.",
+          "en": "merci pour la semaine, et à bientôt",
+          "audioKey": "b18-hasta-e",
+          "pron": "MOU-tchass GRA-ssiass por TO-do. AS-ta la PROK-si-ma"
+        }
+      ],
+      "origem": "B18"
+    },
+    {
+      "id": "e03a-comidas-e~2",
+      "folhas": [
+        "mesa/comida"
+      ],
+      "titulo": "est-ce qu'on sert à manger, là ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Están sirviendo comidas?",
+          "en": "est-ce qu'on sert à manger, là ?",
+          "audioKey": "e03a-comidas-e",
+          "pron": "es-TAN sir-BYEN-do ko-MI-dass"
+        },
+        {
+          "quem": "ele",
+          "es": "Ahora solo bebidas.",
+          "en": "👂 «Là, juste des boissons.» — la cuisine est encore fermée.",
+          "audioKey": "c01a-09"
+        }
+      ],
+      "origem": "I01"
+    },
+    {
+      "id": "c01a-15",
+      "folhas": [
+        "mesa/comida"
+      ],
+      "titulo": "à partir de quand on cuisine",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿A qué hora abre la cocina?",
+          "en": "à partir de quand on cuisine",
+          "audioKey": "c01a-15",
+          "pron": "a ké O-ra A-bré la ko-SSI-na"
+        },
+        {
+          "quem": "ele",
+          "es": "COCINA CERRADA",
+          "en": "👂 CUISINE FERMÉE — l'écriteau d'à côté, pour qui tente sa chance à sept heures.",
+          "audioKey": "c01a-16"
+        }
+      ],
+      "origem": "I01"
+    },
+    {
+      "id": "i01-mesanueve-c",
+      "folhas": [
+        "mesa/mesa"
+      ],
+      "titulo": "une table, à l'heure d'ici",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Quería una mesa para las nueve y media.",
+          "en": "une table, à l'heure d'ici",
+          "audioKey": "i01-mesanueve-c",
+          "pron": "ke-RI-a OU-na ME-ssa PA-ra lass NOUÉ-bé i ME-dya"
+        }
+      ],
+      "origem": "I01",
+      "molde": "QUERIA"
+    },
+    {
+      "id": "i01-haymesa-e",
+      "folhas": [
+        "mesa/mesa"
+      ],
+      "titulo": "en reste-t-il une plus tard ?",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Hay mesa a las diez?",
+          "en": "en reste-t-il une plus tard ?",
+          "audioKey": "i01-haymesa-e",
+          "pron": "aï ME-ssa a lass dyess"
+        }
+      ],
+      "origem": "I01",
+      "molde": "HAY"
+    },
+    {
+      "id": "i01-mesadiez-c",
+      "folhas": [
+        "mesa/mesa"
+      ],
+      "titulo": "la table tardive, comme un souhait",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Quería una mesa para las diez.",
+          "en": "la table tardive, comme un souhait",
+          "audioKey": "i01-mesadiez-c",
+          "pron": "ke-RI-a OU-na ME-ssa PA-ra lass dyess"
+        }
+      ],
+      "origem": "I01",
+      "molde": "QUERIA"
+    },
+    {
+      "id": "i01-cortado-c",
+      "folhas": [
+        "chegar/balcao",
+        "mesa/bebida"
+      ],
+      "titulo": "le petit, pendant que vous attendez",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me pones un cortado?",
+          "en": "le petit, pendant que vous attendez",
+          "audioKey": "i01-cortado-c",
+          "pron": "mé PO-ness oun kor-TA-do"
+        },
+        {
+          "quem": "ele",
+          "es": "Otro café, por favor.",
+          "en": "👂 «Un autre café, s'il vous plaît.» — l'habitué tient l'heure au comptoir.",
+          "audioKey": "b11-otrocafe-c"
+        }
+      ],
+      "origem": "I01",
+      "molde": "ME-PONE"
+    },
+    {
+      "id": "i02-pincho-e",
+      "folhas": [
+        "chegar/balcao",
+        "mesa/comida"
+      ],
+      "titulo": "le verre, et la chose sous la cloche",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me pones una caña y un pincho de tortilla?",
+          "en": "le verre, et la chose sous la cloche",
+          "audioKey": "i02-pincho-e",
+          "pron": "mé PO-ness OU-na KA-gna i oun PIN-tcho dé tor-TI-ya"
+        },
+        {
+          "quem": "ele",
+          "es": "¿La tortilla con cebolla o sin cebolla?",
+          "en": "👂 «L'omelette avec ou sans oignon ?» — le pays entier a un camp. Prenez-en un.",
+          "audioKey": "i02-concebolla-c"
+        }
+      ],
+      "origem": "I02",
+      "molde": "ME-PONE"
+    },
+    {
+      "id": "i02-dosclaras-c",
+      "folhas": [
+        "mesa/bebida"
+      ],
+      "titulo": "le long et froid, et pour deux",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me pones dos claras, por favor?",
+          "en": "le long et froid, et pour deux",
+          "audioKey": "i02-dosclaras-c",
+          "pron": "mé PO-ness doss KLA-rass, por fa-BOR"
+        }
+      ],
+      "origem": "I02",
+      "molde": "ME-PONE"
+    },
+    {
+      "id": "c01b-08",
+      "folhas": [
+        "chegar/balcao",
+        "chegar/tu-usted",
+        "mesa/bebida"
+      ],
+      "titulo": "le chemin court pour entrer",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Ponme una caña, por favor.",
+          "en": "le chemin court pour entrer",
+          "audioKey": "c01b-08",
+          "pron": "PON-mé OU-na KA-gna, por fa-BOR"
+        }
+      ],
+      "origem": "I02",
+      "molde": "ME-PONE"
+    },
+    {
+      "id": "i02-oiga-e",
+      "folhas": [
+        "chegar/balcao",
+        "mesa/mesa"
+      ],
+      "titulo": "à travers la salle, une fois",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¡Oiga, por favor!",
+          "en": "à travers la salle, une fois",
+          "audioKey": "i02-oiga-e",
+          "pron": "OÏ-ga, por fa-BOR"
+        },
+        {
+          "quem": "ele",
+          "es": "¡Voy!",
+          "en": "👂 «J'arrive !» — il n'arrive pas encore. Ça veut dire : entendu, vous pouvez cesser d'appeler.",
+          "audioKey": "i02-voy-c"
+        }
+      ],
+      "origem": "I02"
+    },
+    {
+      "id": "i02-perdonecobras-c",
+      "folhas": [
+        "mesa/conta",
+        "pagar/pedir"
+      ],
+      "titulo": "le mot qui met la chose en marche",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Perdone, ¿nos cobras?",
+          "en": "le mot qui met la chose en marche",
+          "audioKey": "i02-perdonecobras-c",
+          "pron": "per-DO-né, noss KO-brass"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Todo junto o por separado?",
+          "en": "👂 «Tout ensemble ou séparé ?» — répondre maintenant, pas après.",
+          "audioKey": "i02-todojuntooseparado-e"
+        }
+      ],
+      "origem": "I02"
+    },
+    {
+      "id": "i02-lomismo-e",
+      "folhas": [
+        "chegar/balcao",
+        "reparo/apontar",
+        "mesa/comida"
+      ],
+      "titulo": "montrer du menton et commander",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me pones lo mismo que él?",
+          "en": "montrer du menton et commander",
+          "audioKey": "i02-lomismo-e",
+          "pron": "mé PO-ness lo MISS-mo ké el"
+        }
+      ],
+      "origem": "I02",
+      "molde": "ME-PONE"
+    },
+    {
+      "id": "i03-haymenu-c",
+      "folhas": [
+        "mesa/carta",
+        "mesa/comida"
+      ],
+      "titulo": "s'ils font la bonne affaire aujourd'hui",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Hay menú del día?",
+          "en": "s'ils font la bonne affaire aujourd'hui",
+          "audioKey": "i03-haymenu-c",
+          "pron": "aï mé-NOU del DI-a"
+        },
+        {
+          "quem": "ele",
+          "es": "De lunes a viernes. Los sábados solo carta.",
+          "en": "👂 «Du lundi au vendredi. Le samedi, seulement la carte.» — la bonne affaire est une affaire de semaine.",
+          "audioKey": "i03-delunesaviernes-e"
+        }
+      ],
+      "origem": "I03",
+      "molde": "HAY"
+    },
+    {
+      "id": "i03-cualarroz-c",
+      "folhas": [
+        "mesa/comida"
+      ],
+      "titulo": "lequel des deux",
+      "troca": [
+        {
+          "quem": "ele",
+          "es": "De segundo: el arroz, el pescado del día o la carne guisada.",
+          "en": "👂 Les plats principaux, d'un seul souffle, au rythme où il les dit à chacun.",
+          "audioKey": "i03-recita-e"
+        },
+        {
+          "quem": "voce",
+          "es": "¿Cuál me recomienda: el arroz o el pescado?",
+          "en": "lequel des deux",
+          "audioKey": "i03-cualarroz-c",
+          "pron": "koual mé rre-ko-MYEN-da: el a-RROSS o el pess-KA-do"
+        }
+      ],
+      "origem": "I03",
+      "molde": "ELECCION"
+    },
+    {
+      "id": "i03-llevacarne-e",
+      "folhas": [
+        "dieta/o-que-tem"
+      ],
+      "titulo": "avant que l'un de vous ne se décide",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Lleva carne?",
+          "en": "avant que l'un de vous ne se décide",
+          "audioKey": "i03-llevacarne-e",
+          "pron": "YÉ-ba KAR-né"
+        },
+        {
+          "quem": "ele",
+          "es": "Carne no. Lleva un poquito de jamón, nada más.",
+          "en": "👂 «Pas de viande. Juste un peu de jambon, c'est tout.» — le jambon compte ici comme un assaisonnement, pas comme de la viande. C'est un oui.",
+          "audioKey": "i03-poquitodejamon-e"
+        }
+      ],
+      "origem": "I03",
+      "molde": "LLEVA"
+    },
+    {
+      "id": "i03-mejorhoy-c",
+      "folhas": [
+        "compras/balcao"
+      ],
+      "titulo": "ce qui est arrivé ce matin",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Cuál está mejor hoy?",
+          "en": "ce qui est arrivé ce matin",
+          "audioKey": "i03-mejorhoy-c",
+          "pron": "koual ess-TA mé-KHOR oï"
+        }
+      ],
+      "origem": "I03",
+      "molde": "ELECCION"
+    },
+    {
+      "id": "i03-mediaracion-c",
+      "folhas": [
+        "mesa/tamanho"
+      ],
+      "titulo": "la plus petite des deux",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Quería media ración, por favor.",
+          "en": "la plus petite des deux",
+          "audioKey": "i03-mediaracion-c",
+          "pron": "ké-RI-a MÉ-dya rra-SSYON, por fa-BOR"
+        },
+        {
+          "quem": "ele",
+          "es": "De eso no hacemos media. O entera, o nada.",
+          "en": "👂 «De ça, on ne fait pas de demi. Entière ou rien.» — certains plats n'existent qu'en une taille. Partagez-le.",
+          "audioKey": "i03-nomedia-e"
+        }
+      ],
+      "origem": "I03",
+      "molde": "QUERIA"
+    },
+    {
+      "id": "i03-tipico-e",
+      "folhas": [
+        "mesa/comida",
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "celui d'ici",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Cuál es más típico de aquí?",
+          "en": "celui d'ici",
+          "audioKey": "i03-tipico-e",
+          "pron": "koual ess mass TI-pi-ko dé a-KI"
+        }
+      ],
+      "origem": "I03",
+      "molde": "ELECCION"
+    },
+    {
+      "id": "e03a-otra-c~2",
+      "folhas": [
+        "mesa/bebida"
+      ],
+      "titulo": "encore un du même",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Otra, por favor.",
+          "en": "encore un du même",
+          "audioKey": "e03a-otra-c",
+          "pron": "O-tra, por fa-BOR"
+        }
+      ],
+      "origem": "I04",
+      "molde": "OTRA"
+    },
+    {
+      "id": "i04-mejor-c",
+      "folhas": [
+        "mesa/comida"
+      ],
+      "titulo": "montrer les deux, il choisit",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Cuál está mejor, este o aquel?",
+          "en": "montrer les deux, il choisit",
+          "audioKey": "i04-mejor-c",
+          "pron": "koual ess-TA mé-KHOR, ESS-té o a-KEL"
+        }
+      ],
+      "origem": "I04",
+      "molde": "ELECCION"
+    },
+    {
+      "id": "i04-ronda-c",
+      "folhas": [
+        "mesa/bebida"
+      ],
+      "titulo": "toute la table, pas un verre",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Otra ronda, por favor.",
+          "en": "toute la table, pas un verre",
+          "audioKey": "i04-ronda-c",
+          "pron": "O-tra RRON-da, por fa-BOR"
+        }
+      ],
+      "origem": "I04",
+      "molde": "OTRA"
+    },
+    {
+      "id": "i04-invito-e",
+      "folhas": [
+        "pagar/rachar",
+        "simpatia/convite"
+      ],
+      "titulo": "deux mots, et c'est la vôtre",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Invito yo.",
+          "en": "deux mots, et c'est la vôtre",
+          "audioKey": "i04-invito-e",
+          "pron": "in-BI-to yo"
+        }
+      ],
+      "origem": "I04"
+    },
+    {
+      "id": "i04-separado-e",
+      "folhas": [
+        "pagar/rachar"
+      ],
+      "titulo": "avant que rien ne soit noté",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Podemos pagar por separado?",
+          "en": "avant que rien ne soit noté",
+          "audioKey": "i04-separado-e",
+          "pron": "po-DÉ-moss pa-GAR por ssé-pa-RA-do"
+        },
+        {
+          "quem": "ele",
+          "es": "La cuenta, por favor.",
+          "en": "Et celle de la partie quatorze, tout à la fin. Elle ne vient jamais toute seule.",
+          "audioKey": "e03c-cuenta-c"
+        }
+      ],
+      "origem": "I04"
+    },
+    {
+      "id": "i04-yendo-e",
+      "folhas": [
+        "simpatia/convite"
+      ],
+      "titulo": "debout, et en partant",
+      "troca": [
+        {
+          "quem": "ele",
+          "es": "¡Pero si es pronto!",
+          "en": "👂 «Mais il est tôt !» — le premier refus est un rituel. Le vôtre repasse une fois.",
+          "audioKey": "i04-pronto-c"
+        },
+        {
+          "quem": "voce",
+          "es": "Yo me voy yendo.",
+          "en": "debout, et en partant",
+          "audioKey": "i04-yendo-e",
+          "pron": "yo mé boï YEN-do"
+        }
+      ],
+      "origem": "I04"
+    },
+    {
+      "id": "i05-barrio-e~2",
+      "folhas": [
+        "simpatia/elogiar-lugar",
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "ce que vous en pensez",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Me gusta mucho este barrio.",
+          "en": "ce que vous en pensez",
+          "audioKey": "i05-barrio-e",
+          "pron": "mé GOUSS-ta MOU-tcho ESS-té BA-rryo"
+        }
+      ],
+      "origem": "I05",
+      "molde": "PREFERENCIA"
+    },
+    {
+      "id": "i05-fuera-c",
+      "folhas": [
+        "mesa/mesa"
+      ],
+      "titulo": "où vous voulez être",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Prefiero sentarme fuera.",
+          "en": "où vous voulez être",
+          "audioKey": "i05-fuera-c",
+          "pron": "pré-FYÉ-ro sen-TAR-mé FOUÉ-ra"
+        }
+      ],
+      "origem": "I05",
+      "molde": "PREFERENCIA"
+    },
+    {
+      "id": "i05-esquina-e",
+      "folhas": [
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "dans lequel des deux",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Me gusta más el de la esquina.",
+          "en": "dans lequel des deux",
+          "audioKey": "i05-esquina-e",
+          "pron": "mé GOUSS-ta mass el dé la ess-KI-na"
+        }
+      ],
+      "origem": "I05",
+      "molde": "PREFERENCIA"
+    },
+    {
+      "id": "i05-londres-e~2",
+      "folhas": [
+        "simpatia/puxar-conversa",
+        "chegar/tu-usted"
+      ],
+      "titulo": "et ensuite c'est à lui",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Soy de Londres, ¿y tú?",
+          "en": "et ensuite c'est à lui",
+          "audioKey": "i05-londres-e",
+          "pron": "soï dé LON-dréss, i tou"
+        }
+      ],
+      "origem": "I05",
+      "molde": "SOY-ESTOY"
+    },
+    {
+      "id": "i05-tipico-e~2",
+      "folhas": [
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "la seule question qui est la vôtre",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Hay algo típico de aquí?",
+          "en": "la seule question qui est la vôtre",
+          "audioKey": "i05-tipico-e",
+          "pron": "aï AL-go TI-pi-ko dé a-KI"
+        }
+      ],
+      "origem": "I05",
+      "molde": "HAY"
+    },
+    {
+      "id": "i05-pulpo-c",
+      "folhas": [
+        "simpatia/elogiar-comida",
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "celui vers lequel vous revenez",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Me gusta mucho el pulpo.",
+          "en": "celui vers lequel vous revenez",
+          "audioKey": "i05-pulpo-c",
+          "pron": "mé GOUSS-ta MOU-tcho el POUL-po"
+        }
+      ],
+      "origem": "I05",
+      "molde": "PREFERENCIA"
+    },
+    {
+      "id": "i06-catedral-c",
+      "folhas": [
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "avec son petit mot collé",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Ayer fui a la catedral.",
+          "en": "avec son petit mot collé",
+          "audioKey": "i06-catedral-c",
+          "pron": "a-YER foui a la ka-te-DRAL"
+        }
+      ],
+      "origem": "I06"
+    },
+    {
+      "id": "i06-tortilla-e",
+      "folhas": [
+        "simpatia/puxar-conversa",
+        "simpatia/elogiar-comida"
+      ],
+      "titulo": "debout, sur la serviette",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Comí tortilla.",
+          "en": "debout, sur la serviette",
+          "audioKey": "i06-tortilla-e",
+          "pron": "ko-MI tor-TI-ya"
+        }
+      ],
+      "origem": "I06"
+    },
+    {
+      "id": "i06-todavia-c",
+      "folhas": [
+        "simpatia/convite",
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "deux mots, porte ouverte",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Todavía no.",
+          "en": "deux mots, porte ouverte",
+          "audioKey": "i06-todavia-c",
+          "pron": "to-da-BI-a no"
+        }
+      ],
+      "origem": "I06"
+    },
+    {
+      "id": "i06-prefieronorte-c",
+      "folhas": [
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "votre moitié à vous",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Prefiero el norte.",
+          "en": "votre moitié à vous",
+          "audioKey": "i06-prefieronorte-c",
+          "pron": "pre-FYE-ro el NOR-te"
+        },
+        {
+          "quem": "ele",
+          "es": "Prefiero los pueblos.",
+          "en": "Les mêmes trois mots, autre chose derrière. Pour le pluriel, devant, rien ne bouge.",
+          "audioKey": "i06-pueblos-e"
+        }
+      ],
+      "origem": "I06",
+      "molde": "PREFERENCIA"
+    },
+    {
+      "id": "i06-recomendar-e",
+      "folhas": [
+        "simpatia/puxar-conversa",
+        "mesa/comida"
+      ],
+      "titulo": "pour demain",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me puede recomendar otro sitio?",
+          "en": "pour demain",
+          "audioKey": "i06-recomendar-e",
+          "pron": "mé POUÉ-dé rre-ko-men-DAR O-tro SSI-tyo"
+        },
+        {
+          "quem": "ele",
+          "es": "Pues entonces tienes que ir a…",
+          "en": "👂 «Alors il faut que tu ailles à…» — c'est le tuyau, et le nom arrive vite.",
+          "audioKey": "i06-tienesqueir-c"
+        }
+      ],
+      "origem": "I06"
+    },
+    {
+      "id": "e01c-escribir-c~3",
+      "folhas": [
+        "reparo/escreve"
+      ],
+      "titulo": "sur le papier, avant qu'il reparte",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me lo puede escribir, por favor?",
+          "en": "sur le papier, avant qu'il reparte",
+          "audioKey": "e01c-escribir-c",
+          "pron": "mé lo POUÉ-dé ess-kri-BIR, por fa-BOR"
+        }
+      ],
+      "origem": "I06"
+    },
+    {
+      "id": "e03c-cuenta-c~2",
+      "folhas": [
+        "mesa/conta"
+      ],
+      "titulo": "sinon elle ne vient jamais",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "La cuenta, por favor.",
+          "en": "sinon elle ne vient jamais",
+          "audioKey": "e03c-cuenta-c",
+          "pron": "la KOUÉN-ta, por fa-BOR"
+        }
+      ],
+      "origem": "I07"
+    },
+    {
+      "id": "i07-buenisimo-e",
+      "folhas": [
+        "simpatia/elogiar-comida"
+      ],
+      "titulo": "ce que vous en avez pensé",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Estaba buenísimo.",
+          "en": "ce que vous en avez pensé",
+          "audioKey": "i07-buenisimo-e",
+          "pron": "ess-TA-ba boué-NI-ssi-mo"
+        }
+      ],
+      "origem": "I07",
+      "molde": "APRECIACION"
+    },
+    {
+      "id": "i07-comosellama-c",
+      "folhas": [
+        "reparo/como-se-diz"
+      ],
+      "titulo": "pour pouvoir le recommander",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Me puede decir cómo se llama?",
+          "en": "pour pouvoir le recommander",
+          "audioKey": "i07-comosellama-c",
+          "pron": "mé POUÉ-dé dé-SSIR KO-mo sé YA-ma"
+        }
+      ],
+      "origem": "I07",
+      "molde": "ME-PUEDE"
+    },
+    {
+      "id": "i07-sitio-e",
+      "folhas": [
+        "simpatia/elogiar-lugar"
+      ],
+      "titulo": "sur l'endroit où vous êtes",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¡Qué sitio más bonito!",
+          "en": "sur l'endroit où vous êtes",
+          "audioKey": "i07-sitio-e",
+          "pron": "ké SSI-tyo mass bo-NI-to"
+        }
+      ],
+      "origem": "I07",
+      "molde": "APRECIACION"
+    },
+    {
+      "id": "i07-graciasverdad-c",
+      "folhas": [
+        "simpatia/agradecer"
+      ],
+      "titulo": "ce qui s'entend",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Muchas gracias, de verdad.",
+          "en": "ce qui s'entend",
+          "audioKey": "i07-graciasverdad-c",
+          "pron": "MOU-tchass GRA-syass, dé ber-DAD"
+        }
+      ],
+      "origem": "I07"
+    },
+    {
+      "id": "i07-frio-c",
+      "folhas": [
+        "mesa/errado"
+      ],
+      "titulo": "le fait, et rien d'autre",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Perdone, esto está frío.",
+          "en": "le fait, et rien d'autre",
+          "audioKey": "i07-frio-c",
+          "pron": "per-DO-né, ESS-to ess-TA FRI-o"
+        },
+        {
+          "quem": "ele",
+          "es": "Uy, perdona. ¿Te lo cambio o te lo caliento?",
+          "en": "👂 «Oh, pardon ! Je vous le change ou je vous le réchauffe ?» — en choisir un.",
+          "audioKey": "i07-ocaliento-e"
+        }
+      ],
+      "aviso": true,
+      "origem": "I07"
+    },
+    {
+      "id": "i08-nosvemos-e",
+      "folhas": [
+        "simpatia/convite"
+      ],
+      "titulo": "une heure et un lieu qu'on trouve",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Nos vemos a las nueve en la plaza?",
+          "en": "une heure et un lieu qu'on trouve",
+          "audioKey": "i08-nosvemos-e",
+          "pron": "noss BÉ-moss a lass NOUÉ-bé en la PLA-ssa"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Nos vemos a las ocho y media en tu portal?",
+          "en": "«On se voit à huit heures et demie à ton portail ?» El portal, c'est la porte de l'immeuble, là où sont les sonnettes.",
+          "audioKey": "i08-portal-c"
+        }
+      ],
+      "origem": "I08"
+    },
+    {
+      "id": "i08-cosita-e",
+      "folhas": [
+        "simpatia/convite",
+        "simpatia/agradecer"
+      ],
+      "titulo": "en le tendant",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Te he traído una cosita.",
+          "en": "en le tendant",
+          "audioKey": "i08-cosita-e",
+          "pron": "té é tra-I-do OU-na ko-SSI-ta"
+        }
+      ],
+      "origem": "I08"
+    },
+    {
+      "id": "i08-casa-c",
+      "folhas": [
+        "simpatia/elogiar-lugar"
+      ],
+      "titulo": "sur le lieu, dans les dix premières secondes",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¡Qué casa más bonita!",
+          "en": "sur le lieu, dans les dix premières secondes",
+          "audioKey": "i08-casa-c",
+          "pron": "ké KA-ssa mass bo-NI-ta"
+        }
+      ],
+      "origem": "I08",
+      "molde": "APRECIACION"
+    },
+    {
+      "id": "i07-salud-e",
+      "folhas": [
+        "simpatia/brindar"
+      ],
+      "titulo": "levé, puis vous buvez",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¡Salud!",
+          "en": "levé, puis vous buvez",
+          "audioKey": "i07-salud-e",
+          "pron": "ssa-LOUD"
+        }
+      ],
+      "origem": "I08"
+    },
+    {
+      "id": "i08-nopuedomas-c",
+      "folhas": [
+        "simpatia/elogiar-comida"
+      ],
+      "titulo": "le non, avec l'éloge au bout",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "De verdad que no puedo más, estaba todo buenísimo.",
+          "en": "le non, avec l'éloge au bout",
+          "audioKey": "i08-nopuedomas-c",
+          "pron": "dé ber-DAD ké no POUÉ-do mass, ess-TA-ba TO-do boué-NI-ssi-mo"
+        }
+      ],
+      "origem": "I08",
+      "molde": "APRECIACION"
+    },
+    {
+      "id": "i08-graciastodo-e",
+      "folhas": [
+        "simpatia/agradecer",
+        "chegar/sair"
+      ],
+      "titulo": "une ligne pour le repas, une pour la soirée",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Muchas gracias por todo. Ha estado genial.",
+          "en": "une ligne pour le repas, une pour la soirée",
+          "audioKey": "i08-graciastodo-e",
+          "pron": "MOU-tchass GRA-syass por TO-do. a ess-TA-do khé-NYAL"
+        }
+      ],
+      "origem": "I08"
+    },
+    {
+      "id": "i09-cual-c",
+      "folhas": [
+        "compras/balcao",
+        "reparo/apontar"
+      ],
+      "titulo": "les deux devant vous",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Cuál me llevo, este o aquel?",
+          "en": "les deux devant vous",
+          "audioKey": "i09-cual-c",
+          "pron": "koual mé YÉ-bo, ES-té o a-KEL"
+        },
+        {
+          "quem": "ele",
+          "es": "Este está mejor hoy. ¿Cuánto le pongo?",
+          "en": "«Celui-ci est meilleur aujourd'hui. Je vous en mets combien ?» — elle a répondu et vous l'a aussitôt renvoyé.",
+          "audioKey": "i09-estemejor-e"
+        }
+      ],
+      "origem": "I09",
+      "molde": "ELECCION"
+    },
+    {
+      "id": "i09-sentarme-e",
+      "folhas": [
+        "mesa/mesa",
+        "chegar/entrar"
+      ],
+      "titulo": "à la table où il y a de la place",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Puedo sentarme aquí?",
+          "en": "à la table où il y a de la place",
+          "audioKey": "i09-sentarme-e",
+          "pron": "POUÉ-do ssen-TAR-mé a-KI"
+        },
+        {
+          "quem": "ele",
+          "es": "Sí, sí, siéntate.",
+          "en": "👂 «Oui, oui, assieds-toi.» La chaise n'était réservée à personne.",
+          "audioKey": "i09-sientate-c"
+        }
+      ],
+      "origem": "I09",
+      "molde": "PUEDO"
+    },
+    {
+      "id": "i09-barrio-e",
+      "folhas": [
+        "simpatia/puxar-conversa",
+        "simpatia/elogiar-lugar"
+      ],
+      "titulo": "une chose, puis stop",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Me gusta mucho este barrio.",
+          "en": "une chose, puis stop",
+          "audioKey": "i09-barrio-e",
+          "pron": "mé GOUSS-ta MOU-tcho ES-té BA-rrio"
+        }
+      ],
+      "origem": "I09",
+      "molde": "PREFERENCIA"
+    },
+    {
+      "id": "i09-plaza-c",
+      "folhas": [
+        "simpatia/elogiar-lugar"
+      ],
+      "titulo": "sur le lieu qu'ils viennent de vous montrer",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¡Qué plaza más bonita!",
+          "en": "sur le lieu qu'ils viennent de vous montrer",
+          "audioKey": "i09-plaza-c",
+          "pron": "ké PLA-ssa mass bo-NI-ta"
+        }
+      ],
+      "origem": "I09",
+      "molde": "APRECIACION"
+    },
+    {
+      "id": "c03a-06",
+      "folhas": [
+        "apuro/denuncia"
+      ],
+      "titulo": "ce qui met fin à l'affaire sur place",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Perdón, no lo sabía. Ahora mismo me la pongo.",
+          "en": "ce qui met fin à l'affaire sur place",
+          "audioKey": "c03a-06",
+          "pron": "per-DON, no lo ssa-BI-a. a-O-ra MISS-mo mé la PON-go"
+        }
+      ],
+      "aviso": true,
+      "origem": "I09"
+    },
+    {
+      "id": "i09-foto-c",
+      "folhas": [
+        "simpatia/puxar-conversa"
+      ],
+      "titulo": "avant que le téléphone monte",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "¿Puedo sacar una foto?",
+          "en": "avant que le téléphone monte",
+          "audioKey": "i09-foto-c",
+          "pron": "POUÉ-do ssa-KAR OU-na FO-to"
+        }
+      ],
+      "origem": "I09",
+      "molde": "PUEDO"
+    },
+    {
+      "id": "b14-iguales-c",
+      "folhas": [
+        "pagar/rachar"
+      ],
+      "titulo": "une seule somme, coupée en parts égales",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Pagamos a partes iguales.",
+          "en": "une seule somme, coupée en parts égales",
+          "audioKey": "b14-iguales-c",
+          "pron": "pa-GA-moss a PAR-tess i-GWA-less"
+        }
+      ],
+      "origem": "I10"
+    },
+    {
+      "id": "i10-todojunto-e",
+      "folhas": [
+        "pagar/pedir"
+      ],
+      "titulo": "une seule addition, et elle est pour vous",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Todo junto, por favor.",
+          "en": "une seule addition, et elle est pour vous",
+          "audioKey": "i10-todojunto-e",
+          "pron": "TO-do KHOUN-to, por fa-BOR"
+        },
+        {
+          "quem": "ele",
+          "es": "¿Con tarjeta o en efectivo?",
+          "en": "👂 «Carte ou espèces ?» — décidez avant qu'il revienne avec le terminal.",
+          "audioKey": "i10-tarjetaoefectivo-c"
+        }
+      ],
+      "origem": "I10"
+    },
+    {
+      "id": "c02a-08~2",
+      "folhas": [
+        "pagar/gorjeta"
+      ],
+      "titulo": "les soixante restent là",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Está bien así, gracias.",
+          "en": "les soixante restent là",
+          "audioKey": "c02a-08",
+          "pron": "ess-TA byen a-SSI, GRA-syass"
+        }
+      ],
+      "origem": "I10"
+    },
+    {
+      "id": "c02a-09",
+      "folhas": [
+        "taxi/parar"
+      ],
+      "titulo": "les soixante sont à lui",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Quédese con el cambio.",
+          "en": "les soixante sont à lui",
+          "audioKey": "c02a-09",
+          "pron": "KÉ-dé-ssé kon el KAM-byo"
+        }
+      ],
+      "origem": "I10"
+    },
+    {
+      "id": "i10-cambio-c",
+      "folhas": [
+        "pagar/dinheiro"
+      ],
+      "titulo": "ce qu'un billet de cinquante doit devenir",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "Quería cambio, por favor.",
+          "en": "ce qu'un billet de cinquante doit devenir",
+          "audioKey": "i10-cambio-c",
+          "pron": "ké-RI-a KAM-byo, por fa-BOR"
+        }
+      ],
+      "origem": "I10",
+      "molde": "QUERIA"
+    },
+    {
+      "id": "i10-proxima-c",
+      "folhas": [
+        "simpatia/convite"
+      ],
+      "titulo": "lâcher, et réserver demain",
+      "troca": [
+        {
+          "quem": "voce",
+          "es": "La próxima invito yo.",
+          "en": "lâcher, et réserver demain",
+          "audioKey": "i10-proxima-c",
+          "pron": "la PROK-ssi-ma in-BI-to yo"
+        }
+      ],
+      "origem": "I10"
+    }
+  ]
+}

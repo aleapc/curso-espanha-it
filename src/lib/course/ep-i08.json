@@ -1,0 +1,733 @@
+{
+  "id": "i08",
+  "slot": "I08",
+  "nivel": "intermediario",
+  "numero": 26,
+  "parte": "26",
+  "titulo": "Être invité à une table espagnole",
+  "subtitulo": "Faire d'une invitation au comptoir une soirée à une table inconnue — l'heure, la petite chose à la porte, le mot pour trinquer et l'heure qui vient après les assiettes",
+  "moldura": "ganha",
+
+  "cena": "Dix heures vingt, dans un bar où vous passez la soirée ; l'homme sur le tabouret d'à côté dit « venez dîner chez nous samedi », et il reste une minute avant que le groupe se disperse sans que personne ait donné une heure.",
+
+  "decisao": "si l'invitation devient une soirée à une table de cinq — ou une bonne pensée sur le trottoir et la ville de nouveau par la fenêtre de l'hôtel",
+  "emJogo": "tempo",
+
+  "clique": {
+    "contagem": ["le tabouret du bar", "le palier", "la table", "la place", "le portail"],
+    "desconto": "Ces phrases, personne ne vous les a données. Vous les avez bâties d'une question, d'un mot et d'une porte, et aucune ne dépasse un souffle.",
+    "piso": "Vous faites d'une invitation une heure et un lieu, et vous voilà samedi à une table inconnue. La plupart rentrent avec une invitation sur laquelle ils n'ont jamais posé un jour."
+  },
+  "cliqueAudioKey": "i08-n27",
+
+  "frasePiso": "Vous faites d'une invitation une heure et un lieu, et vous voilà samedi à une table inconnue. La plupart rentrent avec une invitation sur laquelle ils n'ont jamais posé un jour.",
+
+  "permissao": "Vous avez le droit d'arriver un peu après l'heure dite — neuf heures pile, c'est tôt, et la cuisine n'y est pas encore. Vous avez le droit d'apporter une petite chose, pas chère, et vous avez le droit de dire non au troisième plat : deux fois, avec l'éloge au bout, et ça passe. Et vous avez le droit de partir. Annoncez-le une fois, tenez les dix minutes qui suivent, puis allez-y.",
+  "permissaoAudioKey": "i08-n24",
+
+  "espelho": "Se lever dès que les assiettes sont débarrassées, c'est ça qui détonne là-bas. À une table, chez soi, l'heure d'après le repas est la partie pour laquelle on est invité, et partir au milieu donne l'air d'une soirée-tâche cochée.",
+
+  "fichasCulturais": [
+    {
+      "sinal": "Vous sonnez à neuf heures pile, comme convenu, et dedans la douche coule encore et la dernière casserole est sur le feu.",
+      "suaLeitura": "J'ai été en retard, ou j'ai mal compris l'heure, et je commence la soirée du mauvais pied.",
+      "oQueEAli": "Deux horloges, et l'erreur est de les régler pareil. Restaurant, train, heure du musée et médecin sont à la minute. Une invitation chez quelqu'un a un jeu que personne n'annonce : «sobre las nueve» veut dire que la table se fait à peu près à ce moment-là. Et ce jeu, vous le connaissez : c'est votre quart d'heure de politesse, un peu plus large.",
+      "oQueVoceFaz": "À une invitation privée, arrivez un quart d'heure après l'heure, et ne vous en excusez pas — il n'y a pas de raison.",
+      "oQueMelhora": "Vous ne vous tenez pas seul dans une pièce qu'on vient de ranger : vous arrivez quand la soirée commence.",
+      "ondeNaoVale": "Pas pour ce qui a un horaire : le train, l'heure du musée, le rendez-vous médical et la table réservée au restaurant sont à la minute. Et certaines maisons pensent quand même l'heure dite au pied de la lettre.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["i08-cenar-e", "i08-n24"]
+    },
+    {
+      "sinal": "On vous rend la bouteille en partant, ou celle que vous avez apportée file aussitôt, sans être ouverte, sur l'étagère de la cuisine.",
+      "suaLeitura": "Elle ne leur a pas plu, ou j'ai apporté ce qu'il ne fallait pas, et maintenant tout le monde sait que je m'y connais mal.",
+      "oQueEAli": "Ce qui passe la porte, c'est le salut, pas le vin de ce soir — celui-là est déjà ouvert. Personne n'arrive les mains vides, et personne ne compte ce qu'il y a dedans.",
+      "oQueVoceFaz": "Apporter une petite chose — une bouteille, un gâteau de la boutique du coin, un truc pour les enfants — la tendre à la porte et lâcher prise.",
+      "oQueMelhora": "Vous entrez comme quelqu'un qu'on attendait, pas comme quelqu'un qu'on nourrit, et l'invitation revient.",
+      "ondeNaoVale": "Pas dans un bar ou un restaurant où quelqu'un vous invite — là, la tournée est le cadeau, et arriver avec une bouteille serait déplacé.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["i08-n09", "i08-n10", "i08-n11"]
+    },
+    {
+      "sinal": "Vous dites que vraiment vous n'en pouvez plus, et une cuillerée de plus atterrit quand même dans votre assiette, sans que personne vous regarde.",
+      "suaLeitura": "On ne m'a pas entendu, ou mon espagnol est mal sorti, et maintenant je dois tout finir.",
+      "oQueEAli": "L'offre passe deux fois, exprès : le premier non compte comme politesse, le second comme réponse. Resservir, c'est la maison au travail ; refuser la deuxième fois, c'est vous au vôtre.",
+      "oQueVoceFaz": "Redites-le, avec la raison dans le même souffle — vous n'en pouvez plus, et tout était excellent — et la main à plat au-dessus de l'assiette.",
+      "oQueMelhora": "Vous arrêtez de manger quand vous êtes rassasié, et celui qui a cuisiné entend quand même ce qu'il voulait entendre.",
+      "ondeNaoVale": "Pas pour une allergie ni un régime. Ça ne prend jamais ce ton léger : c'est la phrase plate et sérieuse de la partie treize, la carte en main.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["i08-n18", "i08-n19", "i08-n20"]
+    },
+    {
+      "sinal": "Les assiettes sont parties, le café arrive, et pendant une heure personne ne se lève.",
+      "suaLeitura": "Le repas est fini, ils ont fait leur part, et maintenant je les retiens.",
+      "oQueEAli": "Rester à table après le repas a un nom à soi et une heure à soi, et c'est la partie de la soirée pour laquelle on vous a invité. Le repas n'était que l'occasion. Cette table longue, vous la connaissez chez vous : ici, elle a juste un mot.",
+      "oQueVoceFaz": "Rester assis. Si vous partez, dites-le une fois, tenez les dix minutes, et levez-vous à la deuxième.",
+      "oQueMelhora": "Vous gagnez l'heure où l'on parle — où l'on vous raconte ce qu'on ne raconte pas à une table pleine de visiteurs.",
+      "ondeNaoVale": "Pas au déjeuner en semaine, d'où tout le monde doit repartir, ni à une table avec un train ou une garde au bout — là, ça finit à l'heure, et personne ne s'attarde.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["i08-n21", "i08-n22", "i08-n26"]
+    }
+  ],
+
+  "fatosDatados": [
+    {
+      "id": "cena-en-casa-hora",
+      "afirmacao": "Le dîner dans une maison espagnole ne se met généralement pas en route avant neuf heures du soir environ ; «sobre las nueve» veut donc dire neuf heures, et arriver à neuf heures pile, c'est arriver trop tôt.",
+      "valor": "~21:00",
+      "fonte": "consenso de fontes secundárias (guias gastronômicos e de viagem) registrado em docs/pesquisa-espanha.md §7.1 — «la cena: a partir das 21:00, cozinha reabre ~20:00–20:30»; o INE não publica hora média da cena, e o texto diz «généralement», nunca «l'horaire officiel espagnol»",
+      "ano": 2026,
+      "revisarAte": "2028-01-01",
+      "evidencia": "CONSENSO",
+      "risco": "baixo",
+      "audioKeys": ["i08-cenar-e", "i08-n24"]
+    }
+  ],
+
+  "_notas": {
+    "_": "Parte ESCRITA em FRANCÊS (o andaime saiu; `cena` declarado, `aguardaNarracao` ausente). A fala espanhola é ativo de DESTINO: NENHUM campo `es`, `tts` ou `audioKey` foi tocado — os 18 audioKey espanhóis (i08-* e i07-*) e os mp3 herdados do par base seguem intactos. O que este SKU escreve aqui é a narração FRANCESA (GuiaFem educadora + GuiaMasc de alertas), o gloss e o respelling `pinyin` de cada clipe. Parte CULTURAL dos níveis APROVEITO/LEIO A SALA: o peso está no REENQUADRE do comprador francês, não no falso amigo (que aqui é leve/ausente).",
+    "clipe_espanhol_novo": "NENHUM, e nenhuma dependência cross-part. Os 18 audioKey (14 próprios i08-* + 4 reusados i07-buenisimo/buenapinta/salud) já existem em mp3, herdados verbatim do par EN/base. As respostas REUSAM os clipes dos `ouvir` — zero fala espanhola nova. Coerente com o anti-padrão 21 (a fala nova é a única linha de crédito espanhol do SKU): esta parte custa ZERO crédito espanhol.",
+    "voz_guia_renomeada": "Os steps passaram de `Juli`/`Thomas` (resíduo do scaffold alemão) para `GuiaFem`/`GuiaMasc`, que são os nomes que audio.config.json._g14.guia declara para este SKU (guiaLingua `fr`). NÃO é cosmético: o G14 (voz × língua) só confere um clipe cuja `voz` está no conjunto `guia` ou `alvo` — com `Juli`/`Thomas` a narração francesa passaria SEM SER CHECADA. GuiaMasc é o masculino de alertas e carrega UM clipe só (i08-t01). Carmen e Emilio (peninsulares, alvo) intocados.",
+    "o_que_esta_parte_e": "Reenquadre do comprador francês (DERIVACAO-FR §3.1–§3.3), sem adjetivo de povo (G6). O francês ALCANÇA esta cena onde o alemão quase não: 65% chega de CARRO, muitos com casa no litoral continental (Catalunha/Valência), muitos repetem — o convite de casa está mais à mão (§3.1 item 2, favorece I05/I08/A08). Três reenquadres tocam o texto: (1) a defasagem do jantar é MENOR que a do alemão (jantar francês ~20h contra alemão ~18h30) — I01/I08 ficam mais leves, não mais pesados (§3.3 item 4); (2) o `quart d'heure de politesse` do francês JÁ mapeia em `sobre las nueve` — a folga não é exótica, é de casa (ficha 1); (3) a `sobremesa` é cultura gastronômica que o francês reconhece — ele não estranha a mesa longa, só não sabe o nome nem a forma espanhola dela (ficha 4). Onde o alemão chegava `Punkt neun` e se levantava ao tirarem os pratos, o francês já traz o gesto — o produto confirma, não corrige.",
+    "brinde_do_relogio": "O clipe do Thomas (i08-t01), que no alemão ensinava a ARMADILHA da meia hora (`halb zehn`=9h30 contado PARA A FRENTE × `nueve y media`=9h30 contado PARA TRÁS, erro de UMA HORA na frente de quem convidou), no francês vira BRINDE e o GuiaMasc o entrega como tal (moldes.json → ensinados_mas_nao_declarados/COMBINAR; DERIVACAO-FR §3.3 item 3). O francês diz `neuf heures et demie` = `las nueve y media` = 9h30, MESMA contagem para trás: `¿Nos vemos a las nueve y media?` sai de graça. É o inverso exato do alemão, na mesma posição da cena (cena → produção → nota), e paga o INV-11 (você está à frente, use isso). A seção 2 do `aprofundar`, que no alemão era a aula da armadilha, foi RE-DERIVADA para a aula do brinde.",
+    "falso_amigo_e_fonetica": "SEM falso amigo confirmado no roster para I08 (a parte é cultural). `el portal` (`en tu portal`) é GLOSSADO culturalmente — a porta do prédio com as campainhas, como fez o alemão — e NÃO se afirma nenhuma tese de falso amigo `portal`×`portail` (não conferida no roster; nada NÃO CONFERIDO vira áudio). FONÉTICA BRINDE, como manda o foco: o `h` mudo (`ahora`, `hay`, `he`) e o `qu`=[k] (`quedamos`, `aquí`) saem de graça para o olho francês — o oposto do alemão, que penava. O único item CARO é o `r`: o aquecimento (gesto 4, o flick) treina o tap contra o `r` uvular do francês (programa 4 mantido em peso alto, §1.3), não contra o rolar (que era o medo do alemão). Resquício francês onde couber: a TÔNICA (não empurrar para o fim), os FINAIS apagados (o `-s`/`-e`), a JOTA [ʒ]→[x] em `mejor`/`genial` (mé-KHOR, khé-NYAL) — som já com casa em B13, aqui só respelling, não drill.",
+    "combinar_forma_fechada": "Esta parte CARREGA o molde COMBINAR (`¿Nos vemos + [hora] + en + [lugar]?` · `¿Quedamos allí?` · `Vale, allí estaré`) como FORMA FECHADA, ensinada e NÃO declarada — o teto de 3 sociais já está tomado por APRECIACION, ELECCION e PREFERENCIA (moldes.json → ensinados_mas_nao_declarados). Por isso NÃO há `moldes` na raiz e o G16/clique não é cobrado, mas a narração NOMEIA a peça («le moule», n07). É REDISPARO de APRECIACION (casa I07): `Estaba buenísimo`, `¡Qué casa más bonita!`, `¡Qué buena pinta!` e `todo buenísimo` voltam com encaixe novo (G9c cumprido); só esses quatro steps declaram `molde:\"APRECIACION\"`, os de COMBINAR não declaram molde nenhum.",
+    "respelling_para_leitor_frances": "O campo `pinyin` é RE-DERIVADO para o OLHO FRANCÊS (INFERÊNCIA — exige revisor FR-L1 + espanhol peninsular antes do áudio; DERIVACAO-FR §1). Esquema idêntico ao de I07/B10: MAIÚSCULA = tônica · ⟨u⟩→«ou» (o `u` francês é [y]: `una`→OU-na) · ⟨s⟩ intervocálico/⟨z⟩/⟨c⟩+e,i→«ss» (bloqueia o [z] francês: `casa`→KA-ssa, `plaza`→PLA-ssa) · ⟨ch⟩→«tch» (`ocho`→O-tcho) · ⟨ll⟩/⟨y⟩→«y» de yaourt (`allí`→a-YI, `yendo`→YEN-do) · ⟨v⟩→«b» (`vale`→BA-lé) · ⟨h⟩ some (`he`→é, `hay`→aï) · ⟨qu⟩→«k» (`quedamos`→ké-DA-moss) · ⟨j⟩ e g+e,i→«kh», jota de gorge (`mejor`→mé-KHOR) · ⟨ñ⟩→«gn» (`mañana`→ma-GNA-na); mas `genial` usa «ny» (khé-NYAL) porque o «ni» é [nj], não [ɲ] · -e final→-é (contra o apagamento francês) · finais -s/-r/-d MOSTRADOS. `gracias`→GRA-syass segue o rendering de I07 (mesmo social recorrente). As duas frases do shadow são as que fazem o trabalho: COMBINAR (nosvemos) e APRECIACION (casa).",
+    "foco_vs_clipes": "O foco do slot menciona «pagar a rodada / a conta social do te invito». A fala espanhola GRAVADA desta parte NÃO tem `te invito` nem cena de rodada de bar — é toda o CONVITE DE CASA para jantar (`vente a cenar`, `nos vemos`, `quedamos`, `una cosita`, `sobremesa`). Como a lei proíbe tocar o espanhol, derivei FIEL aos clipes (jantar em casa). O ângulo «a conta social» mora onde os clipes de fato o pagam: a ficha 2 (`ondeNaoVale`) diz que num bar/restaurante em que ALGUÉM o convida, «a tournée é o presente» e chegar com garrafa seria deslocado — a economia do convite (não se retribui em espécie, leva-se `una cosita`) está aí. Se o dono quiser uma cena explícita de `te invito`/rodada, é decisão de manifesto (clipe espanhol novo), fora do escopo desta escrita.",
+    "tratamento": "GuiaFem e GuiaMasc tratam o aluno de forma consistente em todo o SKU (a assimetria editorial do par — a guia trata por «vous» enquanto ensina que ao balcão espanhol se usa «tú» — porta). A cena é toda `tú` (amigos, convite de casa): NÃO há beat de recalibragem vous≠usted aqui — essa fricção é leve e bidirecional e mora em B02/I02, não nesta parte (anti-padrão 9: não copiar o bloco anti-Sie alemão).",
+    "pendencia_G14": "Roda neste SKU (audio.config.json._g14, guiaLingua `fr`). GuiaFem e GuiaMasc CITAM espanhol dentro da narração francesa (é o trabalho da guia — `«nos vemos»`, `«sobremesa»`, `«las nueve y media»`) e nunca o FALAM; Carmen e Emilio não dizem uma palavra de francês. INV-5 exige conferência humana enquanto o G14 for a metade que roda por audio.config — o repositório já teve o acidente do mp3 na língua errada."
+  },
+
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n01",
+      "bloco": "aquecimento",
+      "gesto": 4,
+      "tom": "ganha",
+      "pt": "Échauffement : le r. Une touche de langue, jamais le r de la gorge. PE-ro, a-O-ra, la POUÉR-ta."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n02",
+      "pt": "Trois fois, la main sur la jambe. Si ça gratte au fond, c'est votre r à vous. Une touche, et le mot avance."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "molde": "APRECIACION",
+      "encaixe": "buenísimo",
+      "encaixeGloss": "délicieux",
+      "promptAudioKey": "i08-p01",
+      "promptPt": "Le resto d'hier soir. Le patron à la caisse, votre monnaie à la main, et le poisson encore avec vous. Deux mots, avant qu'il se retourne. Parlez maintenant.",
+      "audioKey": "i07-buenisimo-e",
+      "es": "Estaba buenísimo.",
+      "pinyin": "ess-TA-ba boué-NI-ssi-mo",
+      "pt": "ce que vous en avez pensé"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n03",
+      "bloco": "cena",
+      "pt": "Jeudi, dix heures vingt. L'homme sur le tabouret d'à côté vous parle depuis une heure."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n04",
+      "pt": "Ça se passe bien. Puis il dit la phrase : la meilleure soirée de vos deux semaines, ou rien du tout."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i08-cenar-e",
+      "receptivo": true,
+      "acao": "Ne pas juste sourire — fixer le jour et l'heure tout de suite.",
+      "es": "Vente a cenar a casa el sábado, sobre las nueve.",
+      "pinyin": "BEN-té a ssé-NAR a KA-ssa el SA-ba-do, SO-bré lass NOUÉ-bé",
+      "pt": "👂 «Viens dîner chez nous samedi, vers neuf heures.» — une invitation, et elle est sérieuse. Neuf heures, c'est le début du repas, pas tard.",
+      "tts": "Vente a cenar a casa el sábado, sobre las nueve."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n05",
+      "pt": "Presque tout invité répond par un sourire et un oui — et rentre sans qu'un jour ait jamais été posé dessus."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n06",
+      "pt": "Une invitation sans heure reste une bonne pensée. Deux phrases courtes en font un samedi."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i08-nosvemos-e",
+      "es": "¿Nos vemos a las nueve en la plaza?",
+      "pinyin": "noss BÉ-moss a lass NOUÉ-bé en la PLA-ssa",
+      "pt": "«On se voit à neuf heures sur la place ?» — une heure et un lieu que vous trouvez tous deux dans le noir.",
+      "tts": "¿Nos vemos a las nueve en la plaza?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n07",
+      "bloco": "molde",
+      "pt": "Voilà le moule. «Nos vemos» — puis une heure, puis un lieu. Le début ne change pas de toute la soirée."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "encaixe": "en la plaza",
+      "encaixeGloss": "la place",
+      "consulta": ["simpatia/convite"],
+      "promptAudioKey": "i08-p02",
+      "promptPt": "Il a dit samedi et vous a laissé le reste. Il y a une grande place avec une fontaine au centre du village, et l'heure qu'il a dite tient. Parlez maintenant.",
+      "audioKey": "i08-nosvemos-e",
+      "es": "¿Nos vemos a las nueve en la plaza?",
+      "pinyin": "noss BÉ-moss a lass NOUÉ-bé en la PLA-ssa",
+      "pt": "une heure et un lieu qu'on trouve"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i08-portal-c",
+      "es": "¿Nos vemos a las ocho y media en tu portal?",
+      "pinyin": "noss BÉ-moss a lass O-tcho i MÉ-dya en tou por-TAL",
+      "pt": "«On se voit à huit heures et demie à ton portail ?» El portal, c'est la porte de l'immeuble, là où sont les sonnettes.",
+      "tts": "¿Nos vemos a las ocho y media en tu portal?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "encaixe": "a las ocho y media en tu portal",
+      "encaixeGloss": "huit heures et demie à sa porte",
+      "promptAudioKey": "i08-p03",
+      "promptPt": "Cette fois chez elle. Quatrième étage, la sonnette ne marche jamais, vous attendez donc en bas sur le trottoir — et on dîne à neuf heures, une demi-heure plus tard. Parlez maintenant.",
+      "audioKey": "i08-portal-c",
+      "es": "¿Nos vemos a las ocho y media en tu portal?",
+      "pinyin": "noss BÉ-moss a lass O-tcho i MÉ-dya en tou por-TAL",
+      "pt": "l'heure, et la porte en bas"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "i08-t01",
+      "pt": "L'heure, c'est cadeau : «las nueve y media», c'est neuf heures et demie — le même compte qu'en français. Là où d'autres perdent une heure entière, vous, non."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i08-quedamos-e",
+      "es": "¿Quedamos allí?",
+      "pinyin": "ké-DA-moss a-YI",
+      "pt": "«On se retrouve là ?» — trois mots, quand le lieu est déjà dit et que personne ne veut le répéter.",
+      "tts": "¿Quedamos allí?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i08-p04",
+      "promptPt": "Vous avez dit deux fois le nom du même petit bar, et aucun de vous ne sait l'épeler. Il faut clore ça. Trois mots. Parlez maintenant.",
+      "audioKey": "i08-quedamos-e",
+      "es": "¿Quedamos allí?",
+      "pinyin": "ké-DA-moss a-YI",
+      "pt": "trois mots, et c'est fixé"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i08-ysiquedamos-e",
+      "receptivo": true,
+      "acao": "Accepter, court. Trois mots suffisent, pas de discours.",
+      "es": "¿Y si quedamos a las diez, que salgo tarde?",
+      "pinyin": "i ssi ké-DA-moss a lass dyess, ké SSAL-go TAR-dé",
+      "pt": "👂 «Et si on disait dix heures, je finis tard ?» — la contre-proposition. Elle attend trois mots en retour.",
+      "tts": "¿Y si quedamos a las diez, que salgo tarde?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i08-alliestare-c",
+      "es": "Vale, allí estaré.",
+      "pinyin": "BA-lé, a-YI ess-ta-RÉ",
+      "pt": "«D'accord, j'y serai.» — le oui qui clôt le rendez-vous. Rien de plus à dire.",
+      "tts": "Vale, allí estaré."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i08-p05",
+      "promptPt": "Il vient de décaler d'une heure, parce qu'il finit quand il finit, et il vous regarde. Trois mots. Parlez maintenant.",
+      "audioKey": "i08-alliestare-c",
+      "es": "Vale, allí estaré.",
+      "pinyin": "BA-lé, a-YI ess-ta-RÉ",
+      "pt": "le oui qui clôt"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n08",
+      "pt": "Dites-le avant que quelqu'un se lève, et notez-le sur le téléphone à table. L'heure, c'est ce qui le rend vrai."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n09",
+      "bloco": "capsula",
+      "tom": "protege",
+      "pt": "Une chose, la seule qui se remarquerait ce soir : personne ne franchit la porte les mains vides."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i08-cosita-e",
+      "es": "Te he traído una cosita.",
+      "pinyin": "té é tra-I-do OU-na ko-SSI-ta",
+      "pt": "«Je t'ai apporté un petit quelque chose.» — dit en le tendant, et tout le monde le dit.",
+      "tts": "Te he traído una cosita."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["simpatia/convite", "simpatia/agradecer"],
+      "promptAudioKey": "i08-p06",
+      "promptPt": "Vous êtes sur le palier, l'ascenseur vient de redescendre, la porte s'ouvre, et une bouteille est déjà dans votre main. Dites-le en la lui donnant. Parlez maintenant.",
+      "audioKey": "i08-cosita-e",
+      "es": "Te he traído una cosita.",
+      "pinyin": "té é tra-I-do OU-na ko-SSI-ta",
+      "pt": "en le tendant"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n10",
+      "tom": "ganha",
+      "pt": "Une bouteille, un gâteau de la boutique du coin, un truc pour les enfants. Ce que ça a coûté ne regarde personne."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n11",
+      "pt": "Et ça part sur l'étagère, sans être ouvert. Le vin de ce soir l'était avant que vous sonniez."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i08-casa-c",
+      "es": "¡Qué casa más bonita!",
+      "pinyin": "ké KA-ssa mass bo-NI-ta",
+      "pt": "«Quel bel appartement !» — dit dans l'entrée, dans les dix premières secondes, à voix haute.",
+      "tts": "¡Qué casa más bonita!"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n12",
+      "pt": "Le début, vous l'avez depuis hier soir. Seul le mot du milieu est nouveau."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "APRECIACION",
+      "encaixe": "casa",
+      "encaixeGloss": "l'appartement",
+      "consulta": ["simpatia/elogiar-lugar"],
+      "promptAudioKey": "i08-p07",
+      "promptPt": "Elle vous a mené le long du couloir, devant les photos, jusqu'au salon, s'est arrêtée et vous regarde. Parlez maintenant.",
+      "audioKey": "i08-casa-c",
+      "es": "¡Qué casa más bonita!",
+      "pinyin": "ké KA-ssa mass bo-NI-ta",
+      "pt": "sur le lieu, dans les dix premières secondes"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n13",
+      "pt": "Puis vous vous asseyez où l'on vous place. Quelqu'un montre une chaise, et la chaise n'est jamais un hasard."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i08-sientate-c",
+      "receptivo": true,
+      "acao": "Prendre la chaise qu'on vous donne, pas en chercher une.",
+      "es": "Siéntate aquí, que estás mejor.",
+      "pinyin": "SSYEN-ta-té a-KI, ké ess-TASS mé-KHOR",
+      "pt": "👂 «Assieds-toi ici, tu seras mieux.» — on vous place. Prenez la chaise qu'on vous donne.",
+      "tts": "Siéntate aquí, que estás mejor."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n14",
+      "pt": "Les verres montent avant la première bouchée, et le mot pour ça, vous l'avez depuis hier."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["simpatia/brindar"],
+      "promptAudioKey": "i08-p08",
+      "promptPt": "Cinq autour d'une table au salon, le vin vient de faire le tour, et chaque main tient son verre en attendant que quelqu'un commence. Parlez maintenant.",
+      "audioKey": "i07-salud-e",
+      "es": "¡Salud!",
+      "pinyin": "ssa-LOUD",
+      "pt": "levé, puis vous buvez"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n15",
+      "pt": "Le plat arrive au milieu de la table. Cette phrase, vous l'avez dite hier à un plateau qui passait."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "APRECIACION",
+      "encaixe": "buena pinta",
+      "encaixeGloss": "ça a l'air bon",
+      "promptAudioKey": "i08-p09",
+      "promptPt": "C'est sorti de la cuisine, dans un plat grand comme une roue, et celle qui le porte guette la table. Parlez maintenant.",
+      "audioKey": "i07-buenapinta-e",
+      "es": "¡Qué buena pinta!",
+      "pinyin": "ké BOUÉ-na PIN-ta",
+      "pt": "au plat, et à celle qui le porte"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i08-vayabien-c",
+      "es": "Que vaya bien.",
+      "pinyin": "ké BA-ya byen",
+      "pt": "«Que ça aille bien.» — pour quelqu'un qui part : au travail, en voyage, vers quelque chose au matin.",
+      "tts": "Que vaya bien."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n16",
+      "pt": "Trois de ces phrases, apprises entières, et la liste est la liste. Rien là-dedans ne se démonte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n17",
+      "pt": "L'une monte avec le verre, l'une tombe avec le plat, et celle-ci est pour qui s'en va."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i08-p10",
+      "promptPt": "Son frère doit être à l'aéroport à cinq heures et fait le tour de la table avant vous. Trois mots pour lui. Parlez maintenant.",
+      "audioKey": "i08-vayabien-c",
+      "es": "Que vaya bien.",
+      "pinyin": "ké BA-ya byen",
+      "pt": "trois mots, pour qui s'en va"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i08-masarroz-e",
+      "receptivo": true,
+      "acao": "Au premier non, pas de surprise — l'offre revient.",
+      "es": "¿Un poquito más? Venga, que hay de sobra.",
+      "pinyin": "oun po-KI-to mass. BEN-ga, ké aï dé SSO-bra",
+      "pt": "👂 «Encore un peu ? Allez, il y en a de reste.» — l'offre vient deux fois, quoi que vous disiez la première.",
+      "tts": "¿Un poquito más? Venga, que hay de sobra."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n18",
+      "pt": "Vous avez dit non, et c'est tombé quand même. C'est la forme de la soirée, pas une faute d'espagnol."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n19",
+      "pt": "Alors redites-le, avec la raison dans le même souffle. C'est ce qui fait passer le deuxième non."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i08-nopuedomas-c",
+      "es": "De verdad que no puedo más, estaba todo buenísimo.",
+      "pinyin": "dé ber-DAD ké no POUÉ-do mass, ess-TA-ba TO-do boué-NI-ssi-mo",
+      "pt": "«Vraiment, je n'en peux plus — tout était délicieux.» Les mêmes mots qu'hier, avec un de plus au milieu.",
+      "tts": "De verdad que no puedo más, estaba todo buenísimo."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "APRECIACION",
+      "encaixe": "todo",
+      "encaixeGloss": "tout",
+      "consulta": ["simpatia/elogiar-comida"],
+      "promptAudioKey": "i08-p11",
+      "promptPt": "La cuillère est au-dessus de votre assiette pour la troisième fois, et il reste un demi-plat sur la table. Refusez, la raison dans le même souffle. Parlez maintenant.",
+      "audioKey": "i08-nopuedomas-c",
+      "es": "De verdad que no puedo más, estaba todo buenísimo.",
+      "pinyin": "dé ber-DAD ké no POUÉ-do mass, ess-TA-ba TO-do boué-NI-ssi-mo",
+      "pt": "le non, avec l'éloge au bout"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n20",
+      "pt": "Personne ne vous teste. La deuxième offre est la politesse de la maison, et le deuxième non est la réponse."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n21",
+      "bloco": "capsula",
+      "pt": "Puis les assiettes partent, et rien ne se passe. Personne ne se lève, le café arrive, et cette heure a un nom."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i08-sobremesa-e",
+      "receptivo": true,
+      "acao": "Rester assis. C'est la partie pour laquelle vous êtes là.",
+      "es": "Ahora viene la sobremesa.",
+      "pinyin": "a-O-ra BYÉ-né la sso-bré-MÉ-ssa",
+      "pt": "👂 «Maintenant vient la sobremesa.» — rester à table après le repas. C'est pour ça qu'on vous a invité.",
+      "tts": "Ahora viene la sobremesa."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n22",
+      "pt": "Se lever quand on débarrasse se lit comme si la soirée était une tâche que vous aviez expédiée."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n23",
+      "pt": "Quand vous partez, dites-le deux fois. La première est le rituel, et personne à table n'y croit."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i08-mevoyyendo-c",
+      "es": "Bueno, me voy yendo, que mañana madrugo.",
+      "pinyin": "BOUÉ-no, mé boi YEN-do, ké ma-GNA-na ma-DROU-go",
+      "pt": "«Bon, je vais y aller doucement, je me lève tôt demain.» La première fois. Ça vous vaut dix minutes.",
+      "tts": "Bueno, me voy yendo, que mañana madrugo."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i08-p12",
+      "promptPt": "Il est une heure passée, le deuxième café est bu, et vous prenez le train à huit heures. Lancez-le — et attendez-vous à ce que personne ne bouge. Parlez maintenant.",
+      "audioKey": "i08-mevoyyendo-c",
+      "es": "Bueno, me voy yendo, que mañana madrugo.",
+      "pinyin": "BOUÉ-no, mé boi YEN-do, ké ma-GNA-na ma-DROU-go",
+      "pt": "la première fois, celle que personne ne croit"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i08-graciastodo-e",
+      "es": "Muchas gracias por todo. Ha estado genial.",
+      "pinyin": "MOU-tchass GRA-syass por TO-do. a ess-TA-do khé-NYAL",
+      "pt": "«Merci pour tout. C'était génial.» — à la porte, manteau déjà mis, la dernière chose que vous dites.",
+      "tts": "Muchas gracias por todo. Ha estado genial."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["simpatia/agradecer", "chegar/sair"],
+      "promptAudioKey": "i08-p13",
+      "promptPt": "Manteau mis, de nouveau sur le palier, et les deux sont dans l'embrasure, prêts à fermer. Une ligne pour le repas, une pour la soirée. Parlez maintenant.",
+      "audioKey": "i08-graciastodo-e",
+      "es": "Muchas gracias por todo. Ha estado genial.",
+      "pinyin": "MOU-tchass GRA-syass por TO-do. a ess-TA-do khé-NYAL",
+      "pt": "une ligne pour le repas, une pour la soirée"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n24",
+      "bloco": "permissao",
+      "pt": "Vous avez le droit d'arriver un peu après l'heure — votre quart d'heure de politesse marche ici aussi. Neuf heures pile, c'est tôt, la cuisine n'y est pas encore."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n25",
+      "pt": "Et vous avez le droit de partir : annoncer une fois, tenir les dix minutes, puis y aller. Au troisième plat, deux fois non."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n26",
+      "bloco": "espelho",
+      "pt": "Se lever dès qu'on débarrasse, ça se remarque là-bas. Cette heure après le repas, c'est ce pour quoi on vous a invité."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n27",
+      "bloco": "clique",
+      "tom": "ganha",
+      "pt": "Comptez les endroits. Le tabouret du bar. Le palier. La table. La place. Le portail aux sonnettes."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n28",
+      "pt": "Ces phrases, personne ne vous les a données. Vous les avez bâties d'une question, d'un mot et d'une porte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n29",
+      "bloco": "piso",
+      "pt": "Vous faites d'une invitation une heure et un lieu. La plupart rentrent avec une invitation jamais utilisée."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-s00",
+      "pt": "Répétez. Fort, avec eux, une touche sur le r. Les deux qui font le travail :"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "i08-nosvemos-e",
+      "es": "¿Nos vemos a las nueve en la plaza?",
+      "pinyin": "noss BÉ-moss a lass NOUÉ-bé en la PLA-ssa",
+      "pt": "On se voit à neuf heures sur la place ?"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "i08-casa-c",
+      "molde": "APRECIACION",
+      "es": "¡Qué casa más bonita!",
+      "pinyin": "ké KA-ssa mass bo-NI-ta",
+      "pt": "Quel bel appartement !"
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "i08-rend",
+      "bloco": "recap",
+      "pt": "Encore une fois, à voix haute, à un endroit où l'on n'était pas encore, et cette fois personne n'a rien fixé pour vous."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "encaixe": "en la plaza",
+      "encaixeGloss": "la place",
+      "promptAudioKey": "i08-p14",
+      "promptPt": "Autre lieu, autre semaine. Le couple de la table d'à côté a dit « venez dîner avec nous demain » et en est resté là. Il y a une place ouverte avec fontaine, où le village commence sa soirée. Parlez maintenant.",
+      "audioKey": "i08-nosvemos-e",
+      "es": "¿Nos vemos a las nueve en la plaza?",
+      "pinyin": "noss BÉ-moss a lass NOUÉ-bé en la PLA-ssa",
+      "pt": "posez-y une heure et un lieu"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i08-n30",
+      "pt": "C'est tout. On vous a invité, vous avez posé un jour, et vous êtes resté pour le café. Hasta luego."
+    }
+  ],
+
+  "aprofundar": {
+    "titulo": "Venir à la table de quelqu'un — et savoir quoi faire une fois assis (lecture optionnelle)",
+    "secoes": [
+      {
+        "titulo": "¿Nos vemos…? — les deux phrases qui font d'une bonne pensée un jeudi",
+        "corpo": "En Espagne, une invitation arrive très souvent sans heure : «vente a cenar», «te vienes un día a casa», «tenemos que quedar». Ce n'est ni un manque d'engagement ni un refus poli — c'est une ouverture, et qui veut vraiment y pose l'heure. La phrase qui le fait, c'est «¿Nos vemos a las nueve en la plaza?» Le début — nos vemos — ne change jamais ; ce que vous glissez, c'est une heure et un lieu, dans cet ordre, avec «en» devant le lieu. Deux voisines valent la peine d'être eues entières. «¿Quedamos allí?» est la version en trois mots, pour le cas où le lieu a déjà été dit tout haut et que personne ne veut le répéter ; quedar est le verbe ordinaire pour se donner rendez-vous, et «¿quedamos?» tout seul, c'est à quoi ressemble un texto espagnol. Et «vale, allí estaré», c'est le oui : vale est le mot le plus utile du pays, quelque part entre «bon», «ok» et «ça marche». Si l'autre décale l'heure — «¿y si quedamos a las diez?» —, toute la réponse tient dans ces trois mots. N'en construisez pas de plus longue.",
+        "exemplos": [
+          {
+            "es": "¿Nos vemos mañana en el bar de abajo?",
+            "pt": "noss BÉ-moss ma-GNA-na — on se voit demain au bar d'en bas ?"
+          },
+          {
+            "es": "Vale, quedamos allí.",
+            "pt": "BA-lé, ké-DA-moss a-YI — d'accord, on se retrouve là. La version affirmative de la question."
+          }
+        ]
+      },
+      {
+        "titulo": "«Las nueve y media», c'est neuf heures et demie — l'heure que vous lisez déjà juste",
+        "corpo": "La demi-heure est le seul endroit où un autre voyageur se trompe d'une heure entière — et où vous, non. En allemand, on compte vers le chiffre suivant ; en français comme en espagnol, on compte à partir du chiffre nommé : «las nueve y media», littéralement «neuf et demie», c'est neuf heures trente, par-dessus le neuf, exactement comme «neuf heures et demie» chez vous. Qui traduit d'une autre langue mot à mot atterrit à «las diez y media», dix heures trente, une heure trop tard, devant les gens mêmes qui l'ont invité — mais votre oreille française vous met à la bonne heure sans effort. «Y cuarto», c'est «et quart» ; «menos cuarto», «moins le quart» : la même logique en avant que la vôtre. Les heures pleines sont sans danger — «a las nueve», neuf heures. Le seul soin à prendre n'est pas sur le comptage, il est sur la souplesse : à une invitation chez quelqu'un, l'heure est molle. «Sobre las nueve» ou «a eso de las nueve» veut dire «vers neuf heures», et un quart d'heure après est l'arrivée normale. Ne réglez pas «sobre las nueve» comme un horaire de train.",
+        "exemplos": [
+          {
+            "es": "Quedamos a las nueve y media.",
+            "pt": "a lass NOUÉ-bé i MÉ-dya — on se voit à neuf heures et demie (9h30, compté comme chez vous)"
+          },
+          {
+            "es": "A eso de las nueve, ¿te va bien?",
+            "pt": "a É-sso dé lass NOUÉ-bé — vers neuf heures, ça te va ?"
+          }
+        ]
+      },
+      {
+        "titulo": "Ce qui passe la porte, et pourquoi ça ne s'ouvre jamais",
+        "corpo": "La règle est simple et c'est la seule dont l'oubli se remarquerait : vous n'arrivez pas les mains vides. Ce que vous apportez est volontairement petit — une bouteille de vin, un gâteau du boulanger du coin, quelque chose pour les enfants, des fleurs si vous aimez bien les gens. C'est un salut, pas une contribution au repas, et c'est pourquoi ça file très souvent tout droit, sans être ouvert, sur l'étagère : le vin de ce soir était décidé avant que vous sonniez, et le vôtre est pour un autre jour. Ne le lisez pas comme un rejet et ne proposez pas de l'ouvrir. La phrase pour le tendre, c'est «te he traído una cosita» — je t'ai apporté un petit quelque chose —, et le diminutif sur cosita travaille : il dit que la chose est petite exprès, et retire tout poids d'obligation. Au prix, personne ne regarde, et une bouteille de supermarché tendue avec chaleur bat une chère tendue avec raideur. La seule chose qu'on évite, c'est d'arriver avec un plat entier fait maison qui n'était pas demandé — ça se lit comme un commentaire sur la cuisine.",
+        "exemplos": [
+          {
+            "es": "Te he traído una cosita para los niños.",
+            "pt": "PA-ra loss NI-gnoss — je t'ai apporté un petit quelque chose pour les enfants"
+          },
+          {
+            "es": "Es un vino de mi tierra.",
+            "pt": "es oun BI-no dé mi TYÉ-rra — c'est un vin de chez moi. La ligne qui fait d'une bouteille bon marché un beau cadeau."
+          }
+        ]
+      },
+      {
+        "titulo": "Le deuxième plat, le deuxième non, et l'heure après les assiettes",
+        "corpo": "Deux choses à table ont une forme sur laquelle vous pouvez vous régler. La première est l'offre de plus, qui passe deux fois : «¿un poquito más?», «venga, que hay de sobra», et une cuillerée peut déjà atterrir pendant que vous dites encore non. Personne ne vous ignore — le premier refus compte comme politesse, et la réponse est le second. Laissez-le arriver en mettant la raison dans le même souffle : «de verdad que no puedo más, estaba todo buenísimo», la main à plat au-dessus de l'assiette. C'est la phrase de la partie vingt-cinq, avec un «todo» au milieu, et elle fait deux choses à la fois : elle clôt le repas et loue qui a cuisiné — c'est pourquoi personne ne peut la prendre mal. Il y a une exception, et elle est absolue : une allergie ou un régime ne prend jamais ce ton doux. C'est la phrase plate et sérieuse de la partie treize, le regard sur l'autre et la carte en main. La deuxième forme, c'est ce qui se passe après les assiettes : rien. Le café arrive, parfois quelque chose de plus fort, et la table reste assise. Ça a un nom à soi — la sobremesa —, et ce n'est pas la fin polie de la soirée, c'est la soirée. Se lever dès que c'est débarrassé est la façon la plus courante dont un invité rend froide, tout à fait par accident, une soirée qui était chaude. Et là vous avez un avantage : la table longue est votre culture à vous aussi — vous ne trouvez pas le repas qui s'étire étrange, vous n'en connaissez encore que la forme espagnole.",
+        "exemplos": [
+          {
+            "es": "Está riquísimo, pero no puedo más.",
+            "pt": "es-TA rri-KI-ssi-mo, PÉ-ro no POUÉ-do mass — c'est délicieux, mais je n'en peux plus"
+          },
+          {
+            "es": "¿Nos quedamos un rato de sobremesa?",
+            "pt": "oun RRA-to dé sso-bré-MÉ-ssa — on reste un moment à table après le repas ?"
+          }
+        ]
+      },
+      {
+        "titulo": "Passer la porte : le dire deux fois, et les trois vœux tout faits",
+        "corpo": "Le départ est en deux temps, et le savoir sauve toute la fin. La première annonce — «bueno, me voy yendo, que mañana madrugo» — n'est pas un départ, c'est une annonce. «Me voy yendo» veut dire littéralement «je m'en vais en allant», une forme qui dit que le mouvement a commencé, pas fini, et «madrugar» est le verbe pour se lever tôt, l'excuse habituelle et parfaitement acceptée pour tout. Attendez-vous à ce que personne ne bouge. Dix minutes plus tard vous vous levez, et là c'est vrai. Debout à la porte, tout l'adieu tient dans «muchas gracias por todo, ha estado genial», et si vous voulez être réinvité, «a ver si repetimos» — «on remet ça» — est ce qu'on dit vraiment. Trois vœux tout faits couvrent le reste de la soirée, et aucun ne se démonte : «¡salud!» avec le verre, «que aproveche» à quelqu'un qui mange, et «que vaya bien» à quelqu'un qui part. Tous commencent par le petit «que», parce que ce sont de vieux vœux dont le début s'est usé — «j'espère que ça va bien» —, et vous n'avez jamais à le savoir pour vous en servir. La famille est plus grande si vous voulez : «que descanses» à quelqu'un qui va se coucher, «que te mejores» à quelqu'un de malade, «que tengas suerte» avant un examen. Même forme, tous appris entiers.",
+        "exemplos": [
+          {
+            "es": "A ver si repetimos.",
+            "pt": "a ber ssi rré-pé-TI-moss — on remet ça un de ces jours. La ligne qui vous réinvite."
+          },
+          {
+            "es": "Que descanses.",
+            "pt": "ké dess-KAN-sess — 👂 repose-toi bien, à quelqu'un qui va se coucher"
+          }
+        ]
+      }
+    ]
+  }
+}

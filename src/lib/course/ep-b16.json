@@ -1,0 +1,838 @@
+{
+  "id": "b16",
+  "slot": "B16",
+  "nivel": "basico",
+  "numero": 16,
+  "parte": "16",
+  "titulo": "Un étage plus haut, côté cour",
+  "subtitulo": "Demander à la réception ce qui améliore le séjour — pendant que la clé est encore sur le comptoir — puis dire en quatre mots ce qui, là-haut, ne marche pas",
+  "moldura": "ganha",
+  "moldes": [],
+  "permissao": "Tout cela, vous pouvez le demander sans donner de raison : plus haut, plus calme, avec ascenseur, sortir plus tard. À la réception c'est le quotidien, pas une faveur, et tant que la clé est encore sur le comptoir, ça coûte un clic. Et si le mot vous manque là-haut : y aller, montrer du doigt, accrocher les deux mots derrière. Personne n'en demande plus.",
+  "permissaoAudioKey": "b16-n20",
+  "espelho": "Ne rien dire pendant six jours et tout sortir le matin du départ — c'est ça qui se remarque là-bas. Le premier après-midi, c'était un travail que quelqu'un fait volontiers ; le dernier matin, ce n'est plus qu'une liste dont personne ne peut rien faire.",
+  "frasePiso": "Vous avez demandé une meilleure chambre avant que la clé soit à vous. La plupart des clients ne demandent jamais et tirent les rideaux pendant six nuits.",
+  "fichasCulturais": [
+    {
+      "sinal": "La clé est déjà sur le comptoir, la chambre a un numéro, et personne ne vous demande si ça vous convient.",
+      "suaLeitura": "Attribué, c'est attribué. Demander maintenant, c'est passer pour le client difficile — et alors on ne vous donnera rien.",
+      "oQueEAli": "Jusqu'à la remise de la clé, l'attribution est une routine de travail et pas un jugement sur vous : à l'écran plusieurs chambres sont libres, et celle que vous aurez, personne ne l'a encore décidée. Après, la même demande devient un changement de chambre, avec la valise, le ménage et un second dossier.",
+      "oQueVoceFaz": "Dites à ce moment-là ce qui serait mieux — plus calme, plus haut, avec ascenseur — et ne donnez aucune raison. Une phrase, un visage aimable, et vous attendez la réponse.",
+      "oQueMelhora": "On vous donne souvent plus que ce que vous avez demandé, et vous ne passez pas la première nuit au-dessus de la ruelle où les bars ouvrent à une heure.",
+      "ondeNaoVale": "Pas dans l'hôtel complet du mois d'août, ni avec un tarif qui désigne une chambre précise — là il n'y a rien à répartir, et la demande est une question qu'on pose une fois et qu'on laisse ensuite retomber.",
+      "evidencia": "CONSENSO",
+      "audioKeys": [
+        "b16-n05",
+        "b16-n06",
+        "b16-n07",
+        "b16-n08",
+        "b16-n09"
+      ]
+    },
+    {
+      "sinal": "Vous signalez en bas, en quatre mots, que quelque chose est arrêté là-haut, et il ne vient ni regret, ni explication, ni dossier avec un numéro — seulement « ahora subo ».",
+      "suaLeitura": "Il ne me prend pas au sérieux. Chez moi, il y aurait au moins une phrase pour dire qu'il est désolé.",
+      "oQueEAli": "La phrase courte EST le dossier. Elle nomme la chose et pas la personne, donc personne n'a à se défendre, et la réponse est un geste au lieu d'une formule — le plus souvent quelqu'un avec un trousseau, chez vous dans dix minutes.",
+      "oQueVoceFaz": "La chose d'abord, puis les deux mots. Pas de « désolé », pas d'élan, pas d'historique, et aucune excuse pour le fait d'être descendu.",
+      "oQueMelhora": "Quelqu'un se retrouve chez vous dans la chambre au lieu qu'un papier finisse dans un classeur — et si ça ne se répare pas, on vous propose de vous-même une autre chambre.",
+      "ondeNaoVale": "Pas à trois heures du matin dans la petite maison avec une seule personne au comptoir : là, la réponse honnête, c'est demain matin, et une deuxième chambre n'existe que si une chambre est libre. Et pas dans la location sans réception — là tout passe par un numéro de téléphone.",
+      "evidencia": "CONSENSO",
+      "audioKeys": [
+        "b16-n16",
+        "b16-n17",
+        "b16-n18",
+        "b16-n19"
+      ]
+    },
+    {
+      "sinal": "Tout est payé en ligne depuis longtemps, et au départ la réception annonce quand même un montant qui ne figure sur aucune confirmation — et demande si vous l'avez en espèces.",
+      "suaLeitura": "Je l'ai déjà réglée en réservant : on me la fait payer deux fois, et en liquide en plus, pour qu'il n'en reste rien nulle part.",
+      "oQueEAli": "C'est la taxe de séjour, le même mécanisme que chez vous : un impôt public par personne et par nuit que la maison encaisse et reverse. Il n'est presque jamais dans le prix du portail, parce que le portail ne l'encaisse pas — et il est réglé à l'échelon régional, pas national.",
+      "oQueVoceFaz": "Posez la question le premier après-midi, pas le jour du départ, et mettez des billets de côté pour le dernier matin.",
+      "oQueMelhora": "Le montant est dans votre tête depuis six nuits au lieu d'arriver en surprise entre vous et le taxi pour l'aéroport.",
+      "ondeNaoVale": "Toutes les régions ne la lèvent pas, et les taux sont très éloignés — ce qui vaut aux Baléares ne vaut pas à Barcelone. Et là où la maison l'a déjà encaissée, elle n'est pas due une seconde fois : la réponse « ya está incluido » clôt le sujet.",
+      "evidencia": "FATO",
+      "audioKeys": [
+        "b16-n12",
+        "b16-n13",
+        "b16-n14",
+        "b16-n15"
+      ]
+    }
+  ],
+  "fatosDatados": [
+    {
+      "id": "rd-933-2021-no-tresen",
+      "afirmacao": "Les hébergements doivent relever les données de la pièce d'identité, la date de naissance, le téléphone, l'e-mail et l'adresse complète du domicile, et les transmettre aux forces de sécurité ; qui refuse de les donner n'obtient pas de chambre. La même obligation s'applique aux comptoirs de location de véhicules.",
+      "fonte": "Real Decreto 933/2021 — BOE-A-2021-17461; obrigatório desde 02/dez/2024, e estendido a locadoras de veículos. Lista completa dos campos em docs/pesquisa-espanha.md §8.1. ÂNGULO DESTE PAR (não é fato novo, é peso): 65% dos visitantes franceses chegam por carretera (Turespaña, ficha executiva Francia, citada em docs/DERIVACAO-FR.md §3.1) — por isso o áudio nomeia o balcão do locador ao lado do balcão do hotel, o que a versão alemã deixava só no `aprofundar`.",
+      "ano": 2024,
+      "revisarAte": "2027-06-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "b16-n04"
+      ]
+    },
+    {
+      "id": "tasa-balears-catalunya-2026",
+      "afirmacao": "À Barcelone, le montant dans un hôtel cinq étoiles ou grand luxe est de douze euros par nuit depuis le 1er avril 2026 ; aux Baléares, selon la catégorie, un à quatre euros par personne et par nuit, plus dix pour cent sur la taxe elle-même.",
+      "fonte": "docs/pesquisa-espanha.md §8.2 — Barcelona/Catalunha: desde 01/abr/2026, hotel 5★/grande luxo = €12 por noite no total, com recargo municipal em calendário de subida até €8 em 2029. Balears: a subida anunciada em 2025 NÃO entrou em vigor; até jun/2026 seguem €1–4 por pessoa/noite + 10% de IVA sobre a própria ecotaxa. ⚠ A FONTE DIZ «POR NOITE NO TOTAL» E NÃO DIZ «POR PESSOA» para Barcelona: o áudio (b16-n13) NÃO afirma «par personne» ali — correção que o par EN já registrou e que o par DE aplicou; repetir o erro aqui seria regressão conhecida. O «par personne et par nuit» de b16-n14 vale para a linha BALEAR, que a pesquisa dá por pessoa/noite. ORDEM INVERTIDA VS O ALEMÃO, e é derivação com dado: o alemão lidera com Baleares (42% do destino alemão); o francês lidera com Barcelona/Catalunha, que é 30% do destino francês (Turespaña, DERIVACAO-FR §3.1).",
+      "ano": 2026,
+      "revisarAte": "2027-04-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "b16-n13",
+        "b16-n14"
+      ]
+    },
+    {
+      "id": "tasa-e-regional-nao-nacional",
+      "afirmacao": "La taxe de séjour est réglée à l'échelon régional et ne s'applique pas dans tout le pays ; là où elle est levée, elle l'est par personne et par nuit, et s'encaisse au comptoir, souvent en espèces.",
+      "fonte": "docs/pesquisa-espanha.md §8.2. ⚠ O NÚMERO DE COMUNIDADES NÃO VAI AO ÁUDIO DE PROPÓSITO: a atribuição de Canárias vem de fonte agregadora e conflita com outra fonte (R6, reconferência pendente), e a taxa municipal de Mogán foi anulada pelo TSJ de Canárias em jul/2026, com recurso cabível. O áudio afirma só o que sobrevive às duas leituras: é regional, não nacional.",
+      "ano": 2026,
+      "revisarAte": "2027-02-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": [
+        "b16-n15"
+      ]
+    }
+  ],
+  "_notas": {
+    "_": "PARTE DERIVADA PARA O FRANCÊS a partir de ep-b16.json do SKU DE (estrutura), NÃO traduzida (anti-padrão 9). NENHUM campo `es`, `tts` ou `audioKey` de clipe espanhol foi tocado — conferidos um a um contra a parte alemã, batem verbatim. CLIPE ESPANHOL NOVO: ZERO. O que este SKU paga aqui é a narração FRANCESA: 29 clipes de voz-guia (GuiaFem 26 + GuiaMasc 3) e 15 prompts. Nenhuma linha de narração alemã sobreviveu (grep por Sie/Ihr/du/ß/umlaut no arquivo: zero).",
+    "voz_guia_renomeada": "Juli→GuiaFem e Thomas→GuiaMasc, que são os nomes declarados em audio.config.json._g14.guia para este SKU (guiaLingua `fr`). Não é cosmético: o G14 só confere clipe cuja `voz` está em `guia` ou `alvo` — com `Juli`/`Thomas` a narração francesa passaria SEM SER CHECADA. Os dois voiceId continuam PLACEHOLDER («TODO-FR-…»): o gerador não deve emitir job de narração-guia até o casting fechar. Carmen e Emilio intactas.",
+    "o_falso_amigo_desta_parte": "UM só, e é o do briefing do slot: o CALQUE `estoy caliente`. O aluno acaba de produzir `No hay agua caliente` — a água quente é `caliente` e está certo; a advertência vem DEPOIS da produção (moldes.json `_regras.padrao_de_ensino`, quinto tempo) e diz o que o mesmo adjetivo faz quando o sujeito é uma pessoa: `estoy caliente` = excitado; para calor, o espanhol usa TER — `tengo calor`, como o francês `j'ai chaud`. Duas linhas de GuiaMasc (b16-t02/t03), zero clipe espanhol novo: moldes.json manda ensinar como DISPENSA e não gravar (`caliente`: «provavelmente NÃO se grava, ensina-se como dispensa»). É a substituição exata da carga alemã desta parte, que era ⟨ll⟩=[j] como REGRA DE LEITURA em três clipes — para o francês isso é quase brinde e não vale três clipes.",
+    "falsos_amigos_NAO_gastos_em_audio": "Disciplina do `_regras.falsos_amigos._porque`: UM por parte no áudio. Os outros que a cena tocaria e que ficam de fora, cada um com o motivo: (1) `nombre` (= número em francês; em espanhol NOME) entra SÓ NA GLOSA ESCRITA de `Tengo una reserva a nombre de…` — é receptivo, custa zero clipe, e a casa dele em áudio é B05 (check-in), que está sendo escrita em paralelo: gastar aqui roubaria o item dela. (2) `largo` (`cama larga`) é a gag de BALCÃO do par e mora em B11; além disso o clipe NÃO existe no acervo (medido em moldes.json `_changelog`), e não se escreve gag fingindo que o clipe existe. (3) `quitar` (`¿le quito esto?`) não tem cena nesta parte. (4) O brinde `alérgico a` = `allergique à` pertence ao mesmo molde SOY-ESTOY do calque e está no `aprofundar` (texto, sem áudio), porque a cena de alergia é B13, não o hotel.",
+    "porque_SOY_ESTOY_nao_e_declarado_em_nenhum_step": "MEDIDO no roster, não presumido: `moldes.json` dá a SOY-ESTOY casa B13 e redisparos B17/I05/I06 — B16 NÃO está na lista. O briefing do slot nomeia SOY-ESTOY porque é ONDE O CALQUE MORA no roster, não porque a parte deva declarar o molde. Declarar `molde: SOY-ESTOY` num step daqui criaria um redisparo que o roster não prevê e inflaria o numerador do G9 com uma frase que nem sequer é instância do molde (`No hay agua caliente` é HAY negativo declarativo, não `estar`+adjetivo). O calque é ENSINADO e não DECLARADO — mesma disciplina que a parte alemã aplica a `[X] no funciona`.",
+    "redisparos_cumpridos": "Os seis que o roster promete para B16, sem uma linha de reapresentação e com a mesma contabilidade da parte alemã, que foi conferida: HAY → `¿Hay ascensor?`; QUERIA → `una habitación más tranquila`; PUEDO → dois (`dejar las maletas hasta la hora de entrada` e `hacer el check-out más tarde`); OTRA → `otra toalla` e `otra habitación`; YA-ESTA → `pagado`, molde FECHADO de quatro itens já esgotados em B14: volta com o MESMO encaixe e o mesmo audioKey noutro balcão, conta no G9 como redisparo de CENA e NÃO como recall com encaixe novo; ME-HE-DEJADO → o `encaixe` declarado é `en la habitación` (o LUGAR é o novo; o objeto `el móvil` é o mesmo de B07), seguindo a convenção que o próprio B07 usa. `No hay agua caliente` NÃO declara HAY: a forma do molde é interrogativa `¿Hay + [X]?` e esta é a negativa declarativa.",
+    "fonetica_desta_parte": "UMA linha de áudio, na voz da GuiaMasc (b16-t01), grudada a `la llave`, que o aluno acabou de produzir e vai repetir no shadow: ⟨ll⟩ = o `y` de «yaourt» — «la YA-bé», nunca «la lave». É o que a DERIVACAO-FR §1.2 linha 15 autoriza (BARATO/variável: o francês oscila entre o [l] de `ville` e o [j] de `fille`; sem âncora limpa). NÃO ENTROU NADA de ⟨qu⟩, ⟨h⟩, ⟨v⟩=[f] nem ⟨z⟩=[ts]: são brindes ou não-problemas do francês, e copiá-los da moldura alemã é o anti-padrão 9 em ato. Os outros itens caros aparecem só pelo respelling e no `aprofundar`, sem clipe: os FINAIS apagados (`ascensor`, `por favor`, `más` — o `-r` e o `-s` que o francês come), a JOTA (`dejar`, `mejor`, `viajeros`, `baja`), o `ch`=[ʃ] (`ducha`, `mucho`, `ficha`) e o `u`=[y] (`una`, `puedo`, `mucho`).",
+    "respelling": "Campo `pinyin` re-derivado para o OLHO FRANCÊS, mesma convenção de ep-b10.json (o respelling alemão não porta: `ss` contra o s-intervocálico alemão [z] e `tsch` não querem dizer nada a um francês). MAIÚSCULA = tônica · `ou` = o `u` espanhol [u], nunca o `u` francês [y] · `kh` = a jota · `tch` = o `ch` espanhol [tʃ] · `b` = o v/b espanhol · `ss` = z, c+e/i e s intervocálico, e também o `-s` FINAL que o francês apaga · `gn` = ñ · `h` mudo cai · `qu` = k · `-e` final → `-é` (contra o e caduc) · `aï` com trema em `hay`/`aire`, senão o olho francês lê `ai` = [ɛ] · ACRÉSCIMO DESTA PARTE à convenção de B10, que não tinha nenhum ⟨ll⟩: `y` + vogal para ⟨ll⟩/⟨y⟩ (`llave`→«YA-bé», `rellenar`→«rre-ye-NAR», `toalla`→«to-A-ya», `desayuno`→«dé-ssa-YOU-no»), que é o `y` de «yaourt» em francês. TUDO ISSO É INFERÊNCIA e é pendência de revisor FR-L1 + peninsular antes do áudio.",
+    "o_que_mudou_vs_o_alemao": "Seis mudanças de conteúdo, cada uma com o motivo: (1) CENA — de Palma (Baleares, 42% do destino alemão) para a COSTA BRAVA com o carro já estacionado: o comprador francês é de litoral CONTINENTAL (Catalunha 30% + Valência 17%) e 65% chega por estrada (Turespaña, DERIVACAO-FR §3.1). (2) TAXA — a ordem inverte (Barcelona antes das Baleares, pelo mesmo dado) e a EXPLICAÇÃO ENCOLHE: o comprador francês já conhece o mecanismo (a taxe de séjour é do país dele), então b16-n12 RECONHECE em vez de explicar, e os clipes seguintes gastam-se no montante, na regionalidade e no dinheiro vivo. O crédito de clipe economizado é o que paga o bloco do calque. (3) ⟨ll⟩ — de três clipes de regra de leitura (a armadilha assinatura do alemão) para UM, e os dois liberados viram o falso amigo, que é o eixo deste par. (4) RD 933/2021 — o áudio passa a nomear o balcão do LOCADOR ao lado do do hotel (65% de carro). (5) `planta baja` — continua brinde (o francês conta os andares como o espanhol), mas a linha encolhe a reconhecimento: ep-b10.json, já escrita, JÁ deu «planta baja = rez-de-chaussée»; aqui ela volta como AÇÃO (o botão do elevador), não como instrução. (6) `entrada`/`salida` no `aprofundar` — o par alemão tinha ali o falso amigo `SALIDA`≠«sale» vertido do inglês, que a DERIVACAO nomeia como item que NÃO transfere ao alemão; para o FRANCÊS `salida` volta a morder (ele associa a `sale`=sujo), mas a casa dele é B10, que já o ensinou — então entra como CALLBACK de uma linha, não como ensino.",
+    "anti_padrao_9_declarado": "O que a moldura alemã tinha e que NÃO foi vertido, para o revisor conferir a lista: ⟨qu⟩=[kv] (o francês lê [k], `quería` sai limpo), ⟨h⟩ aspirado (o `h` francês é mudo, `hay` sai de graça), ⟨v⟩=[f] e a gag `vino`×`fino` (o francês distingue b≠v e diz [vino] certo — a gag MORRE, moldes.json `_changelog`), ⟨z⟩=[ts], o `Knacklaut`/golpe de glote (o francês encadeia, faz liaison), a inversão de numerais (`einundzwanzig` — o francês diz `vingt et un`, mesma ordem do espanhol) e o `halb zehn`. Nenhum deles ganhou uma sílaba de áudio nesta parte.",
+    "G6": "Zero gentílico + cópula. Onde a parte alemã dizia «Die deutsche Gewohnheit…» (pendência G6 declarada por ela), esta cita a FÓRMULA e não o povo: «Pas de “désolé de vous déranger”…» (b16-n17) e, na ficha 2, «Chez moi, il y aurait au moins une phrase…» na voz do próprio aluno (`suaLeitura`). Hábito de língua com a fórmula citada é o que a DERIVACAO §3.4 autoriza. AVISO HERDADO E NÃO CORRIGIDO AQUI: o regex do G6 em scripts/valida-tom.mjs só conhece gentílico em inglês e português — para FR e DE o portão está CEGO, «les Espagnols sont…» passaria. É dívida de script do SKU, não desta parte.",
+    "G4": "Medido só neste arquivo (o valida-tom completo lê os 36 e a maioria ainda está em alemão): 29 clipes de narração (intro+recap), média e teto conferidos abaixo do limite. Ver `_medicao`.",
+    "pendencias": [
+      "REVISOR FR-L1 + espanhol PENINSULAR: todo o `pinyin` desta parte é INFERÊNCIA, e em especial (a) o glifo `y` para ⟨ll⟩, acrescentado aqui à convenção de B10, e (b) o que o respelling NÃO resolve — a NASALIZAÇÃO francesa em `tengo`, `tranquila`, `caliente`, `incluido`, `en`: o `-n` espanhol é consoante plena e o respelling atual (`TEN-go`, `ka-LIEN-té`) não impede o olho francês de nasalizar. A DERIVACAO §1.2 linha 2 põe essa linha em B02/B13, não aqui; se o revisor achar que B16 precisa dela, é clipe novo de narração.",
+      "VOZ-GUIA FRANCESA (casting): GuiaFem e GuiaMasc são placeholder no audio.config — nenhum job de narração antes de os voiceId saírem de «TODO-FR-…».",
+      "G14 por conferência HUMANA: a guia francesa CITA espanhol dentro da narração (`estoy caliente`, `tengo calor`, `planta baja`, `la llave`, `ahora subo`) e nunca o fala; Carmen e Emilio não dizem uma palavra de francês. Este repositório já teve o acidente do mp3 na língua errada.",
+      "`taxe de séjour` como reconhecimento (b16-n12 e ficha 3): afirma-se apenas que a linha EXISTE no país do comprador e funciona pelo mesmo mecanismo — NÃO se afirma nada sobre como as plataformas de reserva francesas a cobram, que não foi conferido e não vai ao áudio.",
+      "G9 agregado vai acusar molde «que aparece em uma parte só» enquanto as outras 35 estiverem em alemão — aviso de obra em andamento, não regressão desta parte.",
+      "NÃO CONFERIDO, nomeado para ninguém escrever sem fonte: se o francês produz `côté cour` como pedido espontâneo em espanhol (o título usa a expressão como MOLDURA em francês, e o pedido ensinado é `una habitación más tranquila`, que é o que o clipe gravado diz)."
+    ],
+    "_medicao": "G4 medido só neste arquivo em 29 clipes de narração (intro+recap): média 107 chars/clipe (teto 120), maior clipe 130 chars (teto 320). responde: 15 (piso G3 = 4). ouvir receptivos com `acao`: 7."
+  },
+  "cena": "Quatre heures de l'après-midi sur la Costa Brava : la voiture est encore chaude, la chambre n'est pas prête, et la clé est déjà sur le comptoir, entre vous et l'homme qui vous regarde.",
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n01",
+      "bloco": "aquecimento",
+      "gesto": 3,
+      "tom": "ganha",
+      "pt": "Échauffement. Six syllabes, et le coup tombe sur l'avant-dernière : a-con-di-cio-NA-do. Pas au bout."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "molde": "QUERIA",
+      "encaixe": "algo para las quemaduras del sol",
+      "encaixeGloss": "quelque chose contre les brûlures du soleil",
+      "promptAudioKey": "b16-p01",
+      "promptPt": "Deuxième jour, la pharmacie d'en face. Deux heures de plage ont fait rougir vos épaules, et le mot vous manque. Parlez maintenant.",
+      "audioKey": "e03b-queriquem-c",
+      "es": "Quería algo para las quemaduras del sol.",
+      "pinyin": "ke-RI-a AL-go PA-ra lass ke-ma-DOU-rass del sol",
+      "pt": "de quoi soulager ce que le soleil a fait"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n02",
+      "bloco": "cena",
+      "pt": "Quatre heures, Costa Brava. La voiture est garée, la chambre n'est pas prête, et il lève les yeux vers vous."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n03",
+      "pt": "Les quatre-vingt-dix secondes qui suivent décident de la semaine. La phrase qui compte n'est pas une plainte."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e07a-reserva-e",
+      "es": "Tengo una reserva a nombre de Harper.",
+      "pinyin": "TEN-go OU-na rre-SSER-ba a NOM-bré dé …",
+      "pt": "« J'ai une réservation au nom de … » — votre nom à la fin. Et nombre, ici, c'est le NOM, pas le nombre.",
+      "tts": "Tengo una reserva a nombre de Harper."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e07a-ficha-c",
+      "receptivo": true,
+      "acao": "Tendre la pièce d'identité et donner l'adresse complète tout de suite. Sinon elle redemande.",
+      "es": "¿Me deja el pasaporte? Tengo que rellenar la ficha de viajeros.",
+      "pinyin": "mé DÉ-kha el pa-ssa-POR-té — TEN-go ké rre-ye-NAR la FI-tcha dé bia-KHÉ-ross",
+      "pt": "👂 « Vous me laissez le passeport ? Je dois remplir la fiche de voyageurs. » — la première phrase de presque toutes les réceptions.",
+      "tts": "¿Me deja el pasaporte? Tengo que rellenar la ficha de viajeros."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n04",
+      "pt": "Papiers, téléphone, adresse complète : la loi depuis 2024, à l'hôtel comme chez le loueur. Sans ça, pas de chambre."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "YA-ESTA",
+      "encaixe": "pagado",
+      "encaixeGloss": "réglé",
+      "consulta": [
+        "quarto/checkin"
+      ],
+      "promptAudioKey": "b16-p02",
+      "promptPt": "Elle tape quelque chose, s'arrête, et tourne l'écran vers vous. La somme est partie de votre compte il y a trois semaines. Devancez-la. Parlez maintenant.",
+      "audioKey": "b14-yapagado-c",
+      "es": "Ya está pagado.",
+      "pinyin": "ya es-TA pa-GA-do",
+      "pt": "c'est déjà parti du compte"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n05",
+      "bloco": "corpo",
+      "pt": "La clé est déjà sur le comptoir, la chambre a un numéro, et personne ne vous demande si ça vous va."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n06",
+      "pt": "Tant qu'elle est là, l'attribution est une routine, pas un jugement. Après, ça devient un changement de chambre."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n07",
+      "pt": "Alors dites-le maintenant : plus calme, plus haut, avec ascenseur. Une phrase, un visage aimable, aucune raison."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e03b-queriohab-e",
+      "es": "Quería otra habitación, si es posible.",
+      "pinyin": "ke-RI-a O-tra a-bi-ta-SSION, si es po-SSI-blé",
+      "pt": "Je voudrais une autre chambre, si c'est possible.",
+      "tts": "Quería otra habitación, si es posible."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e07a-tranquila-c",
+      "es": "Quería una habitación más tranquila, si es posible.",
+      "pinyin": "ke-RI-a OU-na a-bi-ta-SSION mass tran-KI-la, si es po-SSI-blé",
+      "pt": "Je voudrais une chambre plus calme, si c'est possible.",
+      "tts": "Quería una habitación más tranquila, si es posible."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "QUERIA",
+      "encaixe": "una habitación más tranquila",
+      "encaixeGloss": "une chambre plus tranquille",
+      "consulta": [
+        "quarto/pedir"
+      ],
+      "promptAudioKey": "b16-p03",
+      "promptPt": "La clé est encore là. Votre fenêtre donne sur la ruelle où les bars ouvrent à une heure du matin. Dites comment ce serait mieux. Parlez maintenant.",
+      "audioKey": "e07a-tranquila-c",
+      "es": "Quería una habitación más tranquila, si es posible.",
+      "pinyin": "ke-RI-a OU-na a-bi-ta-SSION mass tran-KI-la, si es po-SSI-blé",
+      "pt": "une où l'on dort"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e03b-hab1-c",
+      "receptivo": true,
+      "acao": "Dire oui et prendre. C'est la meilleure attribution, pas un détour.",
+      "es": "¿Le importa una planta más alta?",
+      "pinyin": "lé im-POR-ta OU-na PLAN-ta mass AL-ta",
+      "pt": "👂 « Un étage plus haut, ça vous ennuie ? » — la question qui offre plus que ce qu'on a demandé.",
+      "tts": "¿Le importa una planta más alta?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e03b-hab2-e",
+      "es": "Mejor todavía. Gracias.",
+      "pinyin": "mé-KHOR to-da-BI-a · GRA-ssiass",
+      "pt": "— Encore mieux. Merci.",
+      "tts": "Mejor todavía. Gracias."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n08",
+      "tom": "ganha",
+      "pt": "Une phrase avant la clé, et vous dormez deux étages au-dessus de la rue. C'était tout l'effort."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n09",
+      "pt": "Dans l'hôtel complet du mois d'août, il n'y a rien à répartir. C'est alors une question qu'on pose une fois."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e07a-ascensor-e",
+      "es": "¿Hay ascensor?",
+      "pinyin": "aï a-ssen-SSOR",
+      "pt": "Il y a un ascenseur ?",
+      "tts": "¿Hay ascensor?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "HAY",
+      "encaixe": "ascensor",
+      "encaixeGloss": "ascenseur",
+      "promptAudioKey": "b16-p04",
+      "promptPt": "Chambre quatre cent sept, et votre valise pèse vingt-trois kilos. Avant de la monter à bras, demandez l'appareil qui le fait pour vous. Parlez maintenant.",
+      "audioKey": "e07a-ascensor-e",
+      "es": "¿Hay ascensor?",
+      "pinyin": "aï a-ssen-SSOR",
+      "pt": "est-ce qu'il y en a un, seulement"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e07a-planta-c",
+      "receptivo": true,
+      "acao": "Dans l'ascenseur, appuyez sur le bouton que vous appuieriez chez vous. Il est bon.",
+      "es": "Planta baja. Primera planta.",
+      "pinyin": "PLAN-ta BA-kha · pri-MÉ-ra PLAN-ta",
+      "pt": "👂 Rez-de-chaussée. Premier étage. — exactement votre façon de compter, marche par marche.",
+      "tts": "Planta baja. Primera planta."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n10",
+      "tom": "ganha",
+      "pt": "Rien à réapprendre ici : planta baja, le rez-de-chaussée ; primera planta, le premier. Il n'y a pas de piège."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e07a-maletas-e",
+      "es": "¿Puedo dejar las maletas hasta la hora de entrada?",
+      "pinyin": "POUÉ-do dé-KHAR lass ma-LÉ-tass AS-ta la O-ra dé en-TRA-da",
+      "pt": "Je peux laisser les valises jusqu'à l'heure d'arrivée ?",
+      "tts": "¿Puedo dejar las maletas hasta la hora de entrada?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "PUEDO",
+      "encaixe": "dejar las maletas hasta la hora de entrada",
+      "encaixeGloss": "laisser les valises jusqu'à l'heure d'arrivée",
+      "consulta": [
+        "quarto/mala"
+      ],
+      "promptAudioKey": "b16-p05",
+      "promptPt": "Onze heures du matin, ça ne se libère qu'à trois, et il fait trente-six dehors. Vous voulez partir — mais pas chargé comme ça. Parlez maintenant.",
+      "audioKey": "e07a-maletas-e",
+      "es": "¿Puedo dejar las maletas hasta la hora de entrada?",
+      "pinyin": "POUÉ-do dé-KHAR lass ma-LÉ-tass AS-ta la O-ra dé en-TRA-da",
+      "pt": "quatre heures sans tout ce barda"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n11",
+      "pt": "Et l'autre bout du voyage : le matin où il faut sortir, alors que l'avion ne part que le soir."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e07a-tarde-c",
+      "es": "¿Puedo hacer el check-out más tarde?",
+      "pinyin": "POUÉ-do a-SSER el TCHEK-aout mass TAR-dé",
+      "pt": "Je peux libérer la chambre plus tard ?",
+      "tts": "¿Puedo hacer el check-out más tarde?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "PUEDO",
+      "encaixe": "hacer el check-out más tarde",
+      "encaixeGloss": "rendre la chambre plus tard",
+      "consulta": [
+        "quarto/checkout"
+      ],
+      "promptAudioKey": "b16-p06",
+      "promptPt": "Dernier matin, l'avion part à neuf heures du soir, et à midi il faut donner la clé. Demandez si ça peut se passer autrement. Parlez maintenant.",
+      "audioKey": "e07a-tarde-c",
+      "es": "¿Puedo hacer el check-out más tarde?",
+      "pinyin": "POUÉ-do a-SSER el TCHEK-aout mass TAR-dé",
+      "pt": "pousser l'horloge de quelques heures"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e07a-masdelasdoce-e",
+      "receptivo": true,
+      "acao": "Noter le chiffre. Gratuit jusqu'à midi, facturé après — et c'est vous qui décidez.",
+      "es": "Hasta las doce está incluido. Más tarde, se cobra.",
+      "pinyin": "AS-ta lass DO-ssé es-TA in-klou-I-do · mass TAR-dé, sé KO-bra",
+      "pt": "👂 « Jusqu'à midi, c'est compris. Après, c'est facturé. » — un demi-oui, et il suffit la plupart du temps.",
+      "tts": "Hasta las doce está incluido. Más tarde, se cobra."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e07a-desayuno-c",
+      "es": "¿Está incluido el desayuno?",
+      "pinyin": "es-TA in-klou-I-do el dé-ssa-YOU-no",
+      "pt": "Le petit-déjeuner est compris ?",
+      "tts": "¿Está incluido el desayuno?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b16-p07",
+      "promptPt": "Premier matin, un buffet tourne en bas, et rien de tout ça sur votre papier. Réglez la question avant de prendre une assiette. Parlez maintenant.",
+      "audioKey": "e07a-desayuno-c",
+      "es": "¿Está incluido el desayuno?",
+      "pinyin": "es-TA in-klou-I-do el dé-ssa-YOU-no",
+      "pt": "est-ce que ça fait partie du prix"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b14-yaincluido-c",
+      "receptivo": true,
+      "acao": "Ne rien ajouter, ne rien signer. C'était toute la réponse.",
+      "es": "Ya está incluido.",
+      "pinyin": "ya es-TA in-klou-I-do",
+      "pt": "👂 « C'est déjà compris. » — quatre syllabes, et le sujet est clos.",
+      "tts": "Ya está incluido."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n12",
+      "bloco": "capsula",
+      "tom": "protege",
+      "pt": "Une ligne qui n'est sur aucune confirmation et qu'on encaisse au comptoir, souvent en billets. Chez vous, c'est la taxe de séjour."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e07a-tasa-e",
+      "es": "¿La tasa turística está incluida?",
+      "pinyin": "la TA-ssa tou-RISS-ti-ka es-TA in-klou-I-da",
+      "pt": "La taxe de séjour est comprise ?",
+      "tts": "¿La tasa turística está incluida?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e07a-sepagaaqui-c",
+      "receptivo": true,
+      "acao": "Mettre des billets de côté pour le matin du départ. Savoir aujourd'hui ce qu'il faudra vendredi.",
+      "es": "No, esa se paga aquí. Y mejor en efectivo.",
+      "pinyin": "no, É-ssa sé PA-ga a-KI · i mé-KHOR en é-fek-TI-bo",
+      "pt": "👂 « Non, celle-là se paie ici. Et plutôt en espèces. » — un impôt public que la maison ne fait qu'encaisser.",
+      "tts": "No, esa se paga aquí. Y mejor en efectivo."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n13",
+      "pt": "À Barcelone, cinq étoiles : douze euros la nuit depuis avril 2026. Et la Catalogne, c'est votre première destination."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n14",
+      "pt": "Aux Baléares, un à quatre euros par personne et par nuit, plus dix pour cent. À deux, une semaine : ça s'additionne."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n15",
+      "pt": "Toutes les régions ne la lèvent pas, et les montants sont très éloignés. Le premier après-midi, le chiffre est gratuit."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n16",
+      "bloco": "corpo",
+      "pt": "Là-haut, dans la chambre. Deux mots portent tout ce qui est arrêté — et la chose passe devant."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e07a-aire-e",
+      "es": "El aire acondicionado no funciona.",
+      "pinyin": "el AÏ-ré a-kon-di-ssio-NA-do no foun-SSIO-na",
+      "pt": "La climatisation ne marche pas.",
+      "tts": "El aire acondicionado no funciona."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b16-p08",
+      "promptPt": "Deux heures du matin, vingt-sept degrés dans la pièce, et le boîtier au mur clignote sans rien faire d'autre. Appelez en bas. Parlez maintenant.",
+      "audioKey": "e07a-aire-e",
+      "es": "El aire acondicionado no funciona.",
+      "pinyin": "el AÏ-ré a-kon-di-ssio-NA-do no foun-SSIO-na",
+      "pt": "le truc au mur qui devrait rafraîchir"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n17",
+      "pt": "Pas de « désolé de vous déranger », pas d'élan, pas d'historique. Vous nommez la chose, pas la personne."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e07a-ducha-c",
+      "es": "La ducha no funciona.",
+      "pinyin": "la DOU-tcha no foun-SSIO-na",
+      "pt": "La douche ne marche pas.",
+      "tts": "La ducha no funciona."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b16-p09",
+      "promptPt": "Vous tournez depuis quatre minutes une manette qui tourne et ne produit rien. Quelqu'un attend en bas. Parlez maintenant.",
+      "audioKey": "e07a-ducha-c",
+      "es": "La ducha no funciona.",
+      "pinyin": "la DOU-tcha no foun-SSIO-na",
+      "pt": "le truc au-dessus de la baignoire"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e07a-llave-c",
+      "es": "La llave no funciona.",
+      "pinyin": "la YA-bé no foun-SSIO-na",
+      "pt": "La carte de la porte ne marche pas.",
+      "tts": "La llave no funciona."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": [
+        "quarto/nao-funciona"
+      ],
+      "promptAudioKey": "b16-p10",
+      "promptPt": "Troisième étage, minuit moins vingt, et la petite lumière de la poignée reste rouge, quel que soit le nombre d'essais. Redescendez. Parlez maintenant.",
+      "audioKey": "e07a-llave-c",
+      "es": "La llave no funciona.",
+      "pinyin": "la YA-bé no foun-SSIO-na",
+      "pt": "le bout de plastique qui ouvre la porte"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b16-t01",
+      "tom": "protege",
+      "pt": "« La llave », vous venez de le dire : les deux l, c'est le y de « yaourt ». La YA-bé, jamais « la lave »."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e07a-oscambio-c",
+      "receptivo": true,
+      "acao": "Rester dans la chambre et attendre. La deuxième offre vient d'elle-même si elle devient nécessaire.",
+      "es": "Ahora subo a verlo. Si no, os cambio de habitación.",
+      "pinyin": "a-O-ra SOU-bo a BER-lo · si no, oss KAM-bio dé a-bi-ta-SSION",
+      "pt": "👂 « Je monte voir tout de suite. Sinon, je vous change de chambre. » — voilà la réponse à quatre mots.",
+      "tts": "Ahora subo a verlo. Si no, os cambio de habitación."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n18",
+      "pt": "Aucun regret, aucune formule. À la place, quelqu'un avec un trousseau, chez vous dans dix minutes."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n19",
+      "pt": "À trois heures du matin, avec une seule personne au comptoir, la réponse honnête, c'est demain matin."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e07a-agua-c",
+      "es": "No hay agua caliente.",
+      "pinyin": "no aï A-gwa ka-LIEN-té",
+      "pt": "Il n'y a pas d'eau chaude.",
+      "tts": "No hay agua caliente."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b16-p11",
+      "promptPt": "Sept heures et demie. Vous tenez la main dessous depuis une minute, et rien ne change. Dites en bas ce qui manque en haut. Parlez maintenant.",
+      "audioKey": "e07a-agua-c",
+      "es": "No hay agua caliente.",
+      "pinyin": "no aï A-gwa ka-LIEN-té",
+      "pt": "ce qui devrait sortir du robinet"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b16-t02",
+      "tom": "protege",
+      "pt": "Attention à ce mot-là. L'eau est caliente, la chambre aussi. Sur vous, « estoy caliente » dit que vous êtes excité."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b16-t03",
+      "pt": "Pour la chaleur, l'espagnol prend avoir, pas être : tengo calor. J'ai chaud — un mot voisin, un sens ailleurs."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e07a-ruido-e",
+      "es": "Hay mucho ruido. ¿Tienen otra habitación?",
+      "pinyin": "aï MOU-tcho RROUI-do · TIE-nen O-tra a-bi-ta-SSION",
+      "pt": "Il y a beaucoup de bruit. Vous avez une autre chambre ?",
+      "tts": "Hay mucho ruido. ¿Tienen otra habitación?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "OTRA",
+      "encaixe": "otra habitación",
+      "encaixeGloss": "une chambre différente",
+      "promptAudioKey": "b16-p12",
+      "promptPt": "Une heure du matin, sous votre fenêtre on démonte une terrasse, chaise après chaise. Dites comment c'est là-haut, et demandez mieux. Parlez maintenant.",
+      "audioKey": "e07a-ruido-e",
+      "es": "Hay mucho ruido. ¿Tienen otra habitación?",
+      "pinyin": "aï MOU-tcho RROUI-do · TIE-nen O-tra a-bi-ta-SSION",
+      "pt": "la raison, et la demande juste derrière"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n20",
+      "bloco": "permissao",
+      "tom": "ganha",
+      "pt": "Vous pouvez demander tout ça sans donner de raison : plus haut, plus calme, sortir plus tard. C'est leur quotidien."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n21",
+      "pt": "Et si le mot vous manque là-haut : y aller, montrer du doigt, accrocher les deux mots derrière."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e07a-movil-e",
+      "es": "Me he dejado el móvil en la habitación.",
+      "pinyin": "mé é dé-KHA-do el MO-bil en la a-bi-ta-SSION",
+      "pt": "J'ai laissé mon portable dans la chambre.",
+      "tts": "Me he dejado el móvil en la habitación."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-HE-DEJADO",
+      "encaixe": "en la habitación",
+      "encaixeGloss": "là-haut, derrière la porte",
+      "consulta": [
+        "apuro/perdi"
+      ],
+      "promptAudioKey": "b16-p13",
+      "promptPt": "Vous êtes déjà à la porte de l'hôtel, la main dans la poche droite, et il n'y a rien. C'est resté en haut, et ça s'est refermé. Parlez maintenant.",
+      "audioKey": "e07a-movil-e",
+      "es": "Me he dejado el móvil en la habitación.",
+      "pinyin": "mé é dé-KHA-do el MO-bil en la a-bi-ta-SSION",
+      "pt": "l'objet plat de la poche, et l'endroit où il est"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e07a-wifi-e",
+      "es": "¿Cuál es la contraseña del wifi?",
+      "pinyin": "kwal es la kon-tra-SSÉ-gna del WI-fi",
+      "pt": "C'est quoi, le mot de passe du wifi ?",
+      "tts": "¿Cuál es la contraseña del wifi?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b16-p14",
+      "promptPt": "Le papier sur la table de nuit date de 2019 et les lettres dessus ne donnent rien. En bas, quelqu'un le sait par cœur. Parlez maintenant.",
+      "audioKey": "e07a-wifi-e",
+      "es": "¿Cuál es la contraseña del wifi?",
+      "pinyin": "kwal es la kon-tra-SSÉ-gna del WI-fi",
+      "pt": "la suite de signes pour le réseau"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n22",
+      "pt": "Comptez : le comptoir, l'ascenseur, la douche, la porte à minuit. Quatre endroits, et le moule neuf, il n'y en a qu'un."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n23",
+      "bloco": "piso",
+      "tom": "ganha",
+      "pt": "Vous avez demandé une meilleure chambre avant que la clé soit à vous. La plupart des clients ne demandent jamais."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-s00",
+      "pt": "À répéter. Fort, avec eux, la dernière syllabe tenue. Les deux qui retournent le séjour :"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "e07a-tranquila-c",
+      "molde": "QUERIA",
+      "es": "Quería una habitación más tranquila, si es posible.",
+      "pinyin": "ke-RI-a OU-na a-bi-ta-SSION mass tran-KI-la, si es po-SSI-blé",
+      "pt": "Je voudrais une chambre plus calme, si c'est possible."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "e07a-llave-c",
+      "es": "La llave no funciona.",
+      "pinyin": "la YA-bé no foun-SSIO-na",
+      "pt": "La carte de la porte ne marche pas."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "b16-r01",
+      "bloco": "recap",
+      "pt": "Encore une fois, à voix haute. Vous passez devant le comptoir, et dans la salle de bains il y en a exactement une."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e07a-toalla-c",
+      "es": "Otra toalla, por favor.",
+      "pinyin": "O-tra to-A-ya, por fa-BOR",
+      "pt": "Une autre serviette, s'il vous plaît.",
+      "tts": "Otra toalla, por favor."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "OTRA",
+      "encaixe": "otra toalla",
+      "encaixeGloss": "encore une serviette",
+      "promptAudioKey": "b16-p15",
+      "promptPt": "À deux dans la chambre, et il pend dans la salle de bains exactement un morceau d'éponge. Vous passez justement en bas. Parlez maintenant.",
+      "audioKey": "e07a-toalla-c",
+      "es": "Otra toalla, por favor.",
+      "pinyin": "O-tra to-A-ya, por fa-BOR",
+      "pt": "encore une du même genre, pour la salle de bains"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b16-n24",
+      "pt": "C'est tout. Une meilleure chambre demandée, quatre choses signalées, et rien d'épelé. Hasta luego."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Le comptoir, la clé et la ligne qui n'est écrite nulle part (lecture optionnelle)",
+    "secoes": [
+      {
+        "titulo": "Pourquoi la demande avant la clé n'est pas la même chose qu'après",
+        "corpo": "Un hôtel ne répartit pas les chambres à l'avance, mais au moment où vous êtes devant le comptoir : à l'écran, plusieurs sont libres, elles diffèrent par l'étage, l'orientation et le bruit, et celle que vous obtenez, personne ne l'a en général choisie exprès. Tant que la clé est encore sur le comptoir, une demande ne change que la ligne sur laquelle on clique. Dès qu'elle est à vous, la même demande change un dossier : réattribuer la chambre, renettoyer l'ancienne, remonter la valise. C'est pour ça qu'une phrase ne coûte rien avant et coûte visiblement quelque chose après — et c'est pour ça que l'ordre, dans cette partie, n'est pas une règle de politesse mais toute la mécanique. Le deuxième point, c'est la raison : vous n'en avez pas besoin. « Quería una habitación más tranquila, si es posible » est complet. Qui ajoute une justification en fait une négociation, et dans une négociation on peut perdre ; une demande sans justification, on ne peut que la traiter. Et si la question revient — « ¿Le importa una planta más alta ? » —, ce n'est pas un détour, c'est une meilleure offre : plus haut veut dire plus loin de la rue. Un mot pour votre oreille : ce qu'on appelle chez vous une chambre côté cour se demande ici avec `más tranquila`, et personne ne vous demandera pourquoi.",
+        "exemplos": [
+          {
+            "es": "Quería una habitación más tranquila, si es posible.",
+            "pt": "ke-RI-a OU-na a-bi-ta-SSION mass tran-KI-la — Je voudrais une chambre plus calme, si c'est possible. (aucune raison derrière, et on n'en demande aucune)"
+          },
+          {
+            "es": "¿Puedo dejar las maletas hasta la hora de entrada?",
+            "pt": "POUÉ-do dé-KHAR lass ma-LÉ-tass — Je peux laisser les valises jusqu'à l'heure d'arrivée ? (la demi-journée que presque tout le monde passe dans le hall)"
+          }
+        ]
+      },
+      {
+        "titulo": "« No funciona » — quatre mots, et le mot chaud qu'il ne faut pas mettre sur soi",
+        "corpo": "La phrase a deux parties et la première est la chose : el aire acondicionado, la ducha, la llave, la tele, la ventana, la cerradura. Ensuite viennent deux mots qui ne changent jamais. C'est tout, et c'est court exprès : la phrase nomme un objet et n'accuse personne, donc personne n'a à se défendre au comptoir, et la réponse est un geste au lieu d'une formule. L'habitude de mettre devant un « excusez-moi de vous déranger » et derrière un « ce n'est pas de votre faute » transforme un signalement en réclamation — et une chose en personne. Deux variantes pour ce qui manque au lieu d'être arrêté : « No hay agua caliente » et « No hay toallas ». Le même petit mot avec lequel vous demandez depuis la partie huit s'il y a quelque chose dit ici qu'il n'y en a pas. Et c'est là qu'un mot vous tend la main avant de vous piéger. `caliente`, c'est chaud : `agua caliente`, `la habitación está caliente` — parfait. Mais quand le sujet, c'est vous, l'espagnol ne dit pas « je suis chaud » : `estoy caliente` veut dire que vous êtes excité. Pour la chaleur, l'espagnol prend AVOIR, exactement comme vous : `tengo calor` = j'ai chaud ; `tengo frío` = j'ai froid. C'est le même verbe `estar` + adjectif qui produit l'autre accident célèbre du voyage, `estoy embarazada` (= je suis enceinte, pas « je suis embarrassée ») — celui-là a sa propre partie. Et le même coin de grammaire vous fait un cadeau, pour une fois : `allergique à` se dit `alérgico a`, préposition pour préposition — rien à réapprendre. Enfin, la règle de lecture qui porte cette partie et qui ne vous coûte qu'une seconde : le double l est le `y` de « yaourt ». `La llave`, c'est « la YA-bé », pas « la lave » — la même chose dans `lleva`, `tortilla`, `paella`, `botella` et `¿Cómo se llama?`.",
+        "exemplos": [
+          {
+            "es": "La cerradura no funciona.",
+            "pt": "la sse-rra-DOU-ra no foun-SSIO-na — La serrure ne marche pas. (les deux mêmes mots, un autre objet devant)"
+          },
+          {
+            "es": "Tengo calor.",
+            "pt": "TEN-go ka-LOR — J'ai chaud. La bonne façon de le dire — et le `-r` du bout s'entend, sinon il ne reste rien."
+          }
+        ]
+      },
+      {
+        "titulo": "La taxe de séjour : vous connaissez le mécanisme, c'est le montant qui change",
+        "corpo": "La tasa turística est un impôt public par personne et par nuit. La maison ne fait que l'encaisser et le reverser, et c'est exactement pour ça qu'elle n'est presque jamais dans le prix affiché sur le portail de réservation : le portail vend la nuitée, pas l'impôt. Cette ligne-là, vous n'avez pas besoin qu'on vous l'explique — c'est la taxe de séjour, et elle marche de la même façon chez vous. Ce qui change tient en trois points. D'abord, elle est réglée à l'échelon régional et pas national : il y a des régions avec et des régions sans, et les taux sont très éloignés les uns des autres. Ensuite, les montants, et c'est là où vous allez : à Barcelone, dans un cinq étoiles ou grand luxe, douze euros par nuit depuis le 1er avril 2026 — notre source donne une somme par nuit et ne dit pas « par personne » ; qui veut compter juste pose la question au comptoir —, et la surtaxe municipale continue de monter selon un calendrier voté. Aux Baléares, selon la catégorie, un à quatre euros par personne et par nuit, plus dix pour cent sur la taxe elle-même ; la hausse annoncée en 2025 n'est pas entrée en vigueur. À deux et sur une semaine, ce n'est plus une bricole. Enfin, les espèces : elle est souvent demandée en liquide, et ce n'est pas une combine mais la façon la plus commode de comptabiliser un impôt qui ne fait que passer. Vous payez par carte partout, c'est justement pour ça que le dernier matin peut vous prendre de court. La seule partie désagréable de l'affaire, c'est la surprise : posez la question le premier après-midi, et mettez des billets de côté pour le jour du départ.",
+        "exemplos": [
+          {
+            "es": "¿La tasa turística está incluida?",
+            "pt": "la TA-ssa tou-RISS-ti-ka es-TA in-klou-I-da — La taxe de séjour est comprise ? (le premier après-midi, pas le jour du départ)"
+          },
+          {
+            "es": "¿Se paga aparte?",
+            "pt": "sé PA-ga a-PAR-té — Ça se paie à part ? (la version courte, quand vous savez déjà de quoi il s'agit)"
+          }
+        ]
+      },
+      {
+        "titulo": "Ce qu'on peut demander d'autre au comptoir, et ce que la pièce d'identité fait là",
+        "corpo": "La réception, en Espagne, est plus proche d'un guichet de services que d'une porte : garder les valises avant l'arrivée et après le départ, appeler un taxi, réserver un restaurant, réceptionner un colis, prêter un chargeur, monter un fer à repasser. Rien de tout cela n'est une demande extraordinaire, et pour presque tout, les débuts de phrase que vous avez déjà suffisent. Les papiers à l'arrivée ont un nom et une raison : depuis décembre 2024, les hébergements — et les comptoirs de location de voitures pareillement, ce qui vous concerne plus que la moyenne des visiteurs, puisque vous arrivez le plus souvent par la route — doivent relever les données de la pièce d'identité, la date de naissance, le téléphone, l'e-mail et l'adresse complète du domicile, et les transmettre aux forces de sécurité. C'est pour ça qu'on vous demande soudain à la réception des choses qui n'intéressaient personne autrefois, et pourquoi un formulaire en espagnol se retrouve parfois devant vous. Ce n'est ni de la curiosité ni un piège ; qui refuse de donner les informations n'obtient tout simplement pas de chambre. Vous n'avez pas à comprendre le formulaire : poser la pièce d'identité, dicter l'adresse, terminé. Deux mots pour finir, tous les deux sur ce formulaire. `nombre`, ce n'est pas un nombre, c'est le NOM — `una reserva a nombre de…` veut dire « une réservation au nom de… ». Et `la entrada` et `la salida` valent double : à la porte, l'entrée et la sortie ; sur le formulaire, l'heure d'arrivée et l'heure de départ — `la hora de entrada`, vous l'avez dite dans cette partie. `salida`, vous l'avez déjà croisé sur les portes : ça ressemble à « sale », et ça veut dire la sortie.",
+        "exemplos": [
+          {
+            "es": "¿Me puede llamar un taxi, por favor?",
+            "pt": "mé POUÉ-dé ya-MAR oun TAK-ssi, por fa-BOR — Vous pouvez m'appeler un taxi, s'il vous plaît ? (le début de phrase de la partie trois, au comptoir de l'hôtel)"
+          },
+          {
+            "es": "¿Puedo dejar las maletas después del check-out?",
+            "pt": "POUÉ-do dé-KHAR lass ma-LÉ-tass dess-POUÉSS del TCHEK-aout — Je peux laisser les valises après le départ ?"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "id": "b01",
+  "slot": "B01",
+  "nivel": "basico",
+  "numero": 1,
+  "parte": "1",
+  "titulo": "Vous dites un mot, il en sort un autre",
+  "subtitulo": "Où tombe le coup de voix en espagnol — il déplace le sens, et voici la main qui le trahit",
+  "moldura": "ganha",
+  "moldes": [],
+  "permissao": "Vous avez le droit de sonner étranger. Un `s` simple à la place du son entre les dents ne gêne personne — aux Canaries, c'est la forme locale. Le double `r` roulé, on vous l'offre : un seul petit coup de langue suffit, et personne ne vous tend un chien. Le premier jour, une seule chose compte vraiment : où tombe l'appui. Le reste, vous l'aurez d'ici l'avion.",
+  "permissaoAudioKey": "b01-n12",
+  "espelho": "Frapper chaque syllabe avec la même force, sans jamais soulever un coup, c'est ce qui s'entend là-bas : pas du soin, une phrase toute plate, dont l'interlocuteur attend encore l'appui qui n'est jamais venu.",
+  "frasePiso": "Vous pousserez l'appui vers la fin et, sans le vouloir, `esta` deviendra `está` — justement le mot que vous reconnaissez sans dictionnaire. La plupart des gens qui passent deux semaines en Espagne ne sauront jamais que tout tenait à ça.",
+  "clique": {
+    "contagem": [
+      "le comptoir",
+      "la terrasse",
+      "la rue",
+      "la boutique"
+    ],
+    "desconto": "Aucune de ces phrases, personne ne vous l'a fait apprendre par cœur. Vous les avez lues — seulement, à partir d'aujourd'hui, autrement.",
+    "piso": "Où tombe le coup, vous le savez maintenant. La plupart des voyageurs ne l'apprennent jamais."
+  },
+  "cliqueAudioKey": "b01-n24",
+  "fichasCulturais": [
+    {
+      "sinal": "Vous dites un mot que vous avez bien appris, et la personne en face hésite, ou répond à côté — sans vous reprendre.",
+      "suaLeitura": "Mon accent est trop mauvais. Même un seul mot, je n'y arrive pas.",
+      "oQueEAli": "On vous a très bien entendu — mais vous avez poussé le coup de voix vers la fin, comme en français, et le mot a changé : `esta` est devenu `está`, `hablo` est devenu `habló`.",
+      "oQueVoceFaz": "Le même mot, plus lentement, le coup là où l'accent écrit le met — et, sans accent, sur l'avant-dernière syllabe.",
+      "oQueMelhora": "Les mots que vous reconnaissez sans dictionnaire — et il y en a des centaines — cessent d'être justement ceux qui dérapent.",
+      "ondeNaoVale": "Pas à la réception de l'hôtel, ni dans un bar de la Costa Brava où l'on décode du français toute la journée. L'addition tombe là où personne n'est payé pour vous déchiffrer : le comptoir, le marché, le guichet.",
+      "evidencia": "CONSENSO",
+      "audioKeys": [
+        "b01-n05",
+        "b01-n15",
+        "b01-n16"
+      ]
+    }
+  ],
+  "fatosDatados": [
+    {
+      "id": "distincion-seseo",
+      "afirmacao": "Un `s` tout simple à la place du son entre les dents n'est pas une faute : aux Canaries et dans une partie de l'Andalousie, on parle exactement comme ça.",
+      "fonte": "RAE/ASALE, Diccionario panhispánico de dudas, entrées « seseo » et « ceceo » (docs/pesquisa-espanha.md §2.9)",
+      "ano": 2026,
+      "revisarAte": "2031-01-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "b01-n12"
+      ]
+    }
+  ],
+  "_notasDeAutoria": {
+    "_": "Narração FRANCESA de B01 escrita em 2026-07-28, re-derivada do zero contra a DERIVACAO-FR.md §1. NENHUMA linha alemã sobreviveu (DERIVACAO §0.1). Fala espanhola: nenhum `es`/`tts`/`audioKey` de clipe REUSADO foi alterado. Vozes-guia trocadas para os placeholders franceses do audio.config: Juli→GuiaFem (educadora), Thomas→GuiaMasc (alertas). Carmen/Emilio intactas.",
+    "o_que_esta_parte_e": "A parte que MAIS muda de todo o SKU, e ela INVERTE o alemão. No alemão B01 virou regra de leitura; no francês a fonética de leitura é quase toda BRINDE (o `qu`=[k], o `h` mudo, o `ñ`, as vogais puras, o ritmo silábico, e a distinção b≠v que MATA a gag `vino`×`fino`). O conteúdo francês é a TÔNICA: o francês tem acento fixo na última sílaba e puxa TUDO para lá (`esta`→`está`, `hablo`→`habló`, `papa`→`papá`). O soco VOLTA ao centro (era o «-o tax» no inglês, foi rebaixado no alemão, é o erro nº1 aqui). A âncora: o acento escrito diz onde frapper, e o coup DISTINGUE (`está`≠`esta`). NÃO é sobre vogais nem sobre leitura.",
+    "programas_motores": "Quatro, como manda o PRODUTO §3.4, com a troca declarada da DERIVACAO-FR §1.3: SAI o deslize (o programa que o alemão criou contra o Knacklaut — o francês encadeia naturalmente, não há golpe de glote a trair), ENTRA o SOCO de volta ao centro. 1 le métronome (peso LEVE — o francês já é silábico, não comprime átona; absorve só a nota de que a tônica é mais FORTE) · 2 la main plate (paume à plat, ALVO: os finais apagados -s/-e e o `u`=[y], não a schwa alemã) · 3 LE COUP (o soco, PROMOVIDO A CENTRAL: a oxítona compulsória; frappe onde o espanhol manda, DÓN-de × es-TÁ) · 4 le petit coup sec (flick, peso ALTO: o `r` uvular sem âncora no tap, mais a jota, que sai do mesmo fundo de gorge). Componente `GestoRitmoFR.svelte` é PENDÊNCIA (§1.3) — não foi criado nesta tarefa.",
+    "clipes_removidos": "DOIS steps `ouvir` da cópia alemã foram REMOVIDOS, não reescritos: `b11-otrovino-e` (`Otro vino, por favor.`) e `b01-fino-e` (`Un fino, por favor.`). Eles montavam a gag `vino`×`fino`, que MORRE no francês (DERIVACAO §1.4, moldes.json changelog): o francês distingue b/v e diz [vino] certo, então `fino` não é a bebida errada que ele recebe — é uma piada sem alvo. Além disso: `b01-fino-e` é clipe PAGO alemão que nunca existiu em disco (não é acervo reusável), e `Otro vino` em B01 era uma aparição de OTRA que o `moldes.json` FR NÃO declara em `OTRA.previas` (OTRA só tem casa B11 + redisparos B15/B16/I04) — mantê-lo seria prévia não declarada. Removê-los NÃO altera o `es` de nenhum clipe reusado do acervo base; só tira duas peças do par alemão que o scaffold copiou. A gag `embarazada`/`largo` do francês NÃO mora em B01 (é I07/B11): B01 é a boca (a tônica), não o léxico.",
+    "andaime_reusado": "As frases espanholas todas vêm do acervo base (`e01a-*`), reusadas verbatim: `Muchas gracias`, `Son cincuenta céntimos`, `a-e-i-o-u`, `No, gracias`, `¿Dónde está el hospital?`, `hospital, natural, animal, chocolate, restaurante`, `Perdona, ¿me pones una caña?`, `¿Lleva jamón?`, `Hasta luego`. Reenquadradas para a TÔNICA francesa: `gracias`=GRA-cias (o coup no começo, o `-s` que sonne até o fim), `cincuenta`/`céntimos` (o acento tira o coup para trás), `¿Dónde está el hospital?` (o coup SALTA de sílaba), `hospital/natural/animal` (oxítonas — onde o francês já acerta de graça, o contraexemplo do brinde).",
+    "previas_cumpridas": "Três, todas em `ouvir`, modelo nativo ANTES do `responde`, nenhuma linha dizendo que o aluno «já tem» a peça, nenhum step declara `molde` (entram como SOM): ME-PONE em `Perdona, ¿me pones una caña?` (casa B11 — entra pelo flick do `r` e a tônica), DONDE em `¿Dónde está el hospital?` (casa B08 — entra pelo soco), LLEVA em `¿Lleva jamón?` (casa B13 — entra pela jota, o item fonético mais duro do roster, som novo [ʒ]).",
+    "falsos_amigos_desta_parte": "NENHUM. B01 é a boca, não o léxico — o eixo do falso amigo mora fisicamente em B10 e reaparece por cena (`embarazada` I07, `largo` B11, `constipado` B17, `salida` B08, `entender`/`no entiendo` B03/ME-PUEDE). Escrever falso amigo aqui seria antecipar o eixo fora da cena que o morde.",
+    "fonetica_desta_parte": "TÔNICA (central, soco), FINAIS apagados (-s do plural, -e final), `u`=[y], JOTA (som novo [ʒ], `jamón`), `ch`=[ʃ] e o `r` uvular×tap — no `aprofundar`. BRINDES declarados e NÃO gastos em áudio (copiá-los é o anti-padrão 9): `qu`=[k], `h` mudo, `ñ`, as 5 vogais puras, o ritmo silábico, e b≠v (que mata a gag alemã).",
+    "distincion": "Entra LEVE, só como permissão (o `c`/`z` é um `s` fino entre os dentes; o `s` simples do seseo passa, Canárias; o `ts` é o proibido). NÃO é programa motor de B01 no francês (a DERIVACAO não a lista entre as cinco); é caro-médio e receptivo. `céntimos` entra pela TÔNICA (esdrúxula, o acento puxa o coup para o começo), não pela distinción.",
+    "vozes_g14": "GuiaFem e GuiaMasc CITAM espanhol dentro da narração francesa (é o trabalho da guia, INV-5) e nunca o falam; Carmen/Emilio não dizem uma palavra de francês. As duas vozes-guia são PLACEHOLDER no audio.config (voiceId «TODO-FR-...») — o áudio-guia NÃO se gera até o casting fechar.",
+    "pendencias": [
+      "REVISOR FR-L1 + espanhol PENINSULAR: toda a §1 da DERIVACAO-FR é INFERÊNCIA (a tônica que o francês produz, os finais apagados, o `u`=[y], a jota como som novo). Está no áudio desta parte e precisa de conferência ANTES da gravação. Nada NÃO CONFERIDO vira áudio (PRODUTO §preâmbulo).",
+      "VOZ-GUIA FRANCESA (casting): GuiaFem + GuiaMasc são placeholder no audio.config; o gerador não deve emitir job de narração-guia até os voiceId saírem de «TODO-FR-...».",
+      "G14 (voz × língua) por conferência HUMANA em toda entrega: guia francesa nunca fala espanhol, Carmen/Emilio nunca falam francês. Este repositório já teve o acidente do mp3 na língua errada.",
+      "COMPONENTE `GestoRitmoFR.svelte` não criado nesta tarefa: o programa 3 tem de desenhar o SOCO (não o deslize alemão), com `role=img`, `aria-label` e `prefers-reduced-motion`. Os steps declaram `gesto: 1..4` com o programa 3 = soco.",
+      "DONO DO ROSTER: a prévia de DONDE no `moldes.json` FR (linha B01) diz «ensina a frase inteira pelo lugar do SOCO» — CORRETO para o francês (o soco voltou ao centro), ao contrário do resíduo alemão. Nenhuma correção de roster é necessária a partir desta parte.",
+      "package.json do SKU ainda diz «curso-espanha-de» (resíduo do scaffold) — cosmético, fora do escopo desta tarefa."
+    ]
+  },
+  "cena": "Deux heures moins dix, un comptoir bondé : vous dites un mot que vous avez bien appris, et le serveur entend un autre — parce que le coup de voix a glissé vers la fin.",
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n01",
+      "gesto": 1,
+      "bloco": "aquecimento",
+      "tom": "ganha",
+      "pt": "Échauffement. La main bat des coups égaux : CA-sa, ME-sa. Un coup frappe plus fort que les autres — gardez-le à l'oreille."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n02",
+      "bloco": "cena",
+      "pt": "Deux heures moins dix, un comptoir bondé. Vous dites un mot appris par cœur, et en face on hésite une seconde de trop."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n03",
+      "pt": "Vous n'avez pas raté une lettre. Vous avez frappé trop loin — le coup a glissé vers la fin du mot."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n04",
+      "pt": "En français, l'appui tombe toujours au bout. En espagnol il bouge, et là où il tombe, il change le mot."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b01-n05",
+      "bloco": "capsula",
+      "tom": "protege",
+      "pt": "Un exemple qui coûte : vous visez `esta`, « celle-ci ». Le coup file à la fin, et sort `está`, « elle est ». Un mot en cache un autre."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n06",
+      "tom": "ganha",
+      "pt": "Bonne nouvelle : votre bouche fait déjà presque tout. Le seul vrai travail, c'est de savoir où frapper."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n07",
+      "tom": "ganha",
+      "pt": "Le `qu` se lit `k`, le `h` est muet, le `ñ` vous l'avez déjà. Rien à apprendre là — on garde l'énergie pour le coup."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n08",
+      "gesto": 1,
+      "bloco": "corpo",
+      "pt": "D'abord la mesure. L'espagnol paie chaque syllabe, comme vous. Quatre coups égaux, et le fort au début."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01a-05",
+      "gesto": 1,
+      "es": "Muchas gracias.",
+      "pt": "Merci beaucoup. — MU-chas GRA-cias : le coup frappe au début, GRA. Et le `s` du bout sonne, jusqu'au dernier.",
+      "tts": "Muchas gracias."
+    },
+    {
+      "consulta": [
+        "simpatia/agradecer"
+      ],
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b01-p01",
+      "promptPt": "Quelqu'un vient de vous rendre un vrai service, sans que vous ayez rien demandé. Remerciez-le. Parlez maintenant.",
+      "audioKey": "e01a-05",
+      "es": "Muchas gracias.",
+      "pt": "Merci beaucoup."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n09",
+      "pt": "L'appui ne se devine pas. Un accent écrit ? le coup est là. Sinon, presque toujours sur l'avant-dernière syllabe."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n10",
+      "pt": "Écoutez le prix. `cincuenta`, le coup au milieu ; `céntimos`, l'accent le tire tout au début. Jamais seul à la fin."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n11",
+      "pt": "Et le `c` de `cincuenta` : un `s` fin, entre les dents. Un `s` simple passe aussi, comme aux Canaries. Jamais un `ts`."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01a-11",
+      "receptivo": true,
+      "es": "Son cincuenta céntimos.",
+      "pt": "👂 « Ça fait cinquante centimes. » — Écouter suffit. cin-CUEN-ta, CÉN-ti-mos : le coup ne tombe pas au bout.",
+      "acao": "Ne rien dire. Repérer le chiffre et poser la monnaie.",
+      "tts": "Son cincuenta céntimos."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n12",
+      "bloco": "permissao",
+      "pt": "Le premier jour, une seule chose compte : où tombe l'appui. Le `s` simple passe, le `r` roulé est offert. Le reste vient d'ici l'avion."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n13",
+      "gesto": 2,
+      "pt": "La main change. Paume à plat, elle tient la dernière syllabe. Votre réflexe, c'est de manger la fin — le `e`, le `s`."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01a-02",
+      "gesto": 2,
+      "es": "a — e — i — o — u",
+      "pt": "Ces cinq voyelles, vous les avez déjà, aussi nettes. Ici on ne travaille que les tenir — vous en aurez besoin au bout du mot.",
+      "tts": "a, e, i, o, u"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n14",
+      "pt": "Le `s` qui tombe, c'est le pluriel qui disparaît : `dos` devient « do », `gracias` devient « gracia ». Tenez-le."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e01a-03",
+      "gesto": 2,
+      "es": "No, gracias.",
+      "pt": "Non, merci. — La fin porte : `gra-cias` va jusqu'au `s`, en entier. Rien ne s'éteint, rien ne devient un murmure.",
+      "tts": "No, gracias."
+    },
+    {
+      "consulta": [
+        "mesa/bebida",
+        "compras/so-olhando"
+      ],
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b01-p02",
+      "promptPt": "À une terrasse, on vous propose une carte, un dessert, un autre verre — et vous n'en voulez pas. Refusez, poliment. Parlez maintenant.",
+      "audioKey": "e01a-03",
+      "es": "No, gracias.",
+      "pt": "Non, merci."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n15",
+      "gesto": 3,
+      "pt": "Voici le coup : la main frappe la syllabe forte — le programme central. Vous frappez toujours la dernière ; l'espagnol, non."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n16",
+      "pt": "`está` : le coup au bout, il y a un accent. `esta` : le coup avant, pas d'accent. Deux mots, un seul coup qui bouge."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n17",
+      "pt": "Écoutez une phrase entière. L'appui saute : au début sur `dónde`, au bout sur `está`. L'accent écrit dit où frapper."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01a-09",
+      "gesto": 3,
+      "es": "¿Dónde está el hospital?",
+      "pt": "Où est l'hôpital ? — DÓN-de es-TÁ : le coup saute d'une place à l'autre. Et aucun `h` ne s'entend, ici comme ailleurs.",
+      "tts": "¿Dónde está el hospital?"
+    },
+    {
+      "consulta": [
+        "saude/112",
+        "apuro/112",
+        "dieta/acontecendo"
+      ],
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b01-p03",
+      "promptPt": "Un malaise dans la rue, et vous devez trouver le grand bâtiment de soins de la ville. Demandez le chemin à quelqu'un. Parlez maintenant.",
+      "audioKey": "e01a-09",
+      "es": "¿Dónde está el hospital?",
+      "pt": "Où est l'hôpital ?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n18",
+      "pt": "Un cas où vous frappez déjà juste : les mots dont l'appui est au bout. Là, votre habitude française tombe pile."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e01a-07",
+      "receptivo": true,
+      "es": "hospital, natural, animal, chocolate, restaurante",
+      "pt": "👂 hospitál, naturál, animál : sur ceux-là, votre appui est déjà exactement là où l'espagnol le pose.",
+      "acao": "Écouter, ne pas répéter. Ici la fin est bonne — c'est ailleurs qu'il faut reculer le coup.",
+      "tts": "hospital, natural, animal, chocolate, restaurante"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n19",
+      "gesto": 4,
+      "pt": "Dernière main : le petit coup sec. Un seul geste pour le `r` et pour la jota — ils sortent du même fond de gorge."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n20",
+      "pt": "Le `r` espagnol n'est pas le vôtre, du fond : c'est un coup de langue en avant. Un seul suffit — on vous dispense du `r` roulé."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e01a-13",
+      "gesto": 4,
+      "es": "Perdona, ¿me pones una caña?",
+      "pt": "Pardon, tu me sers une pression ? — Un seul `r`, dans per-DO-na : un coup de langue, pas du fond. Le `ñ` de `caña`, c'est le `gn` de « agneau ».",
+      "tts": "Perdona, ¿me pones una caña?"
+    },
+    {
+      "consulta": [
+        "chegar/balcao",
+        "mesa/bebida"
+      ],
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b01-p04",
+      "promptPt": "Onze heures, un bar de quartier, et tout le long du comptoir chaque main tient le même petit verre froid. On vient de vous regarder. Parlez maintenant.",
+      "audioKey": "e01a-13",
+      "es": "Perdona, ¿me pones una caña?",
+      "pt": "Pardon, tu me sers une pression ?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n21",
+      "pt": "Reste la jota, un son que vous n'avez pas. Le `j` de `jamón` ne se dit pas « j » : il gratte au fond, là où est votre `r`."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n22",
+      "pt": "Deux pièges en deux mots : le `ll` sonne comme un `y`, la jota gratte. On les prend à l'oreille, pas dans une règle."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01a-15",
+      "es": "¿Lleva jamón?",
+      "pt": "Il y a du jambon dedans ? — `ll` comme le `y` de « yaourt » ; la jota de `jamón` qui gratte au fond. Et le coup au bout : ja-MÓN.",
+      "tts": "¿Lleva jamón?"
+    },
+    {
+      "consulta": [
+        "dieta/o-que-tem",
+        "dieta/sem"
+      ],
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b01-p05",
+      "promptPt": "Une petite assiette arrive, vous ne voyez pas ce qu'il y a dedans, et vous ne mangez pas de porc. Vérifiez avant d'y toucher. Parlez maintenant.",
+      "audioKey": "e01a-15",
+      "es": "¿Lleva jamón?",
+      "pt": "Il y a du jambon dedans ?"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "e01a-05b",
+      "es": "Muchas gracias.",
+      "pt": "Dites-le avec lui. Quatre coups, le fort sur GRA, et le `s` du bout qui sonne jusqu'au bout.",
+      "tts": "Muchas gracias."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01a-18",
+      "es": "Hasta luego.",
+      "pt": "À tout à l'heure. — Le `h` se tait, le coup sur AS puis LUE, et le `o` de la fin reste plein.",
+      "tts": "Hasta luego."
+    },
+    {
+      "consulta": [
+        "compras/so-olhando",
+        "simpatia/agradecer"
+      ],
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b01-p06",
+      "promptPt": "Vous sortez d'une boutique où vous n'avez fait que regarder. On vous a salué à l'entrée ; saluez en repartant. Parlez maintenant.",
+      "audioKey": "e01a-18",
+      "es": "Hasta luego.",
+      "pt": "À tout à l'heure."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n23",
+      "bloco": "piso",
+      "mapaGestos": true,
+      "pt": "Quatre mains, un seul mot d'ordre : où tombe le coup. La mesure, la fin tenue, le coup fort, le petit coup sec."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n24",
+      "bloco": "clique",
+      "pt": "Comptez les endroits : le comptoir, la terrasse, la rue, la boutique. Chacun tenu avec la même chose — le coup à sa place."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b01-n25",
+      "pt": "Personne ne vous a fait apprendre ces phrases par cœur. Vous les avez lues — seulement, dès aujourd'hui, autrement."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "b01-r01",
+      "bloco": "recap",
+      "pt": "On récapitule, à voix haute. `está` ou `esta` : où frappe le coup ? L'accent écrit décide."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "b01-r02",
+      "pt": "C'est fini. La bouche, vous l'aviez ; il vous manquait la place du coup. Vous l'avez. Hasta luego."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Où tombe le coup, noir sur blanc (lecture facultative)",
+    "secoes": [
+      {
+        "titulo": "La règle de l'appui, en entier",
+        "corpo": "À l'oreille, vous n'en avez pas besoin : chaque règle arrive collée à un mot que vous alliez dire de toute façon. Ici elle est écrite une fois, pour référence. Le français n'a pas d'appui de mot : il frappe toujours la fin du groupe. L'espagnol, lui, a un appui de mot, et il se déplace. La règle tient en deux temps. Un : s'il y a un accent écrit, le coup est là, sans exception — `hospitál`, `está`, `jamón`, `céntimos`. Deux, sans accent : le mot finit par une voyelle, un `n` ou un `s` → l'avant-dernière syllabe (`CA-sa`, `CO-men`, `GRA-cias`) ; il finit par une autre consonne → la dernière (`hos-pi-TAL`, `ciu-DAD`). C'est ce coup qui sépare des mots identiques à l'écrit — et c'est votre erreur numéro un, parce que le français, lui, file toujours à la fin.",
+        "exemplos": [
+          {
+            "es": "papá / papa",
+            "pt": "papa (le père) / le pape sur le continent — la pomme de terre, elle, se dit `patata`"
+          },
+          {
+            "es": "está / esta",
+            "pt": "elle est / celle-ci — le coup au bout, ou juste avant"
+          },
+          {
+            "es": "hablo / habló",
+            "pt": "je parle / il a parlé — un mot sur vous, au présent, devient un autre au passé"
+          }
+        ]
+      },
+      {
+        "titulo": "Ce qui vous est offert",
+        "corpo": "Quatre choses ne vous coûtent rien, et il vaut la peine de le savoir pour ne pas y perdre une minute. D'abord les cinq voyelles : `a e i o u` sont chez vous des sons purs, et là-bas aussi — `no`, `sí` sortent du premier coup, sans la diphtongue d'un anglophone. Ensuite les lettres qui piègent les autres acheteurs : le `qu` se lit `k` (`quería` = « keria », jamais « kwéria »), le `h` est toujours muet (`hola`, `hay`), le `ñ` vous l'avez déjà dans « agneau ». Troisième cadeau, le rythme : le français compte les syllabes une à une, sans écraser les faibles comme l'anglais — le débit égal de l'espagnol vient tout seul. Et quatrième, décisif : vous distinguez `b` et `v`. Là où un cours allemand voit un piège — `vino` lu « fino », un xérès —, vous dites `vino` avec un `v`, et on comprend `vino`. Cette blague-là ne vous concerne pas.",
+        "exemplos": [
+          {
+            "es": "vino",
+            "pt": "du vin — votre `v` s'entend, et le mot reste `vino`. Pas de xérès par erreur"
+          },
+          {
+            "es": "¿Hay hotel?",
+            "pt": "le `h` se tait des deux côtés — « ai otél »"
+          }
+        ]
+      },
+      {
+        "titulo": "Ce qu'il faut vraiment travailler",
+        "corpo": "Trois choses, et aucune n'est une voyelle. La première, l'appui — la section d'avant. La deuxième, la fin des mots : le français efface le `e` final (`petite` → « ptit ») et fait taire les consonnes de la fin (`vous` → « vou », `hablar` → « hablá »). En espagnol, tout cela sonne. Le `-e` de `noche`, `tarde`, `siete` existe ; le `-s` de `gracias`, `dos`, `más` aussi — et ce `-s`, c'est le pluriel : le manger, c'est le perdre. Paume à plat, tenez la fin. Troisième, le `u` : vous écrivez `u` et vous dites le son pointu de « tu », en avant. L'espagnol veut un `u` de fond de bouche, comme dans « tour » : `mucho`, `gusta`, `puedo`. Ironie au passage : le `-s` que vous laissez tomber est justement celui que le Sud espagnol aspire — vous sonnerez méridional, mais rendez-le quand c'est vous qui parlez.",
+        "exemplos": [
+          {
+            "es": "más o menos",
+            "pt": "má-so-mé-nos — les fins s'enchaînent, on dirait un seul mot ; mais le `s` sonne"
+          },
+          {
+            "es": "gracias / dos",
+            "pt": "GRA-cias, dos — tenez le `s`, sinon le pluriel disparaît"
+          }
+        ]
+      },
+      {
+        "titulo": "La jota, le r, le ch",
+        "corpo": "Trois sons à part. La jota d'abord — le `j` de `jamón`, le `g` de `gente` : un son que le français n'a pas. Ce n'est pas le « j » de « jour » ; ça gratte au fond de la gorge, au même endroit que votre `r`. C'est justement l'ancre : partez de votre `r` du fond et rendez-le sourd, sans voix. Le `r` espagnol, ensuite, est l'inverse : un coup de langue en avant, contre les dents — un seul, sec. Le `rr` roulé de `perro` est expressément offert : qui dit `pero` pour `perro` ne reçoit pas un chien, le contexte s'en charge. Enfin le `ch` : en français il fait « ch » comme « chat » ; en espagnol c'est un « tch », avec un `t` devant — `mucho`, `noche`, `chorizo`.",
+        "exemplos": [
+          {
+            "es": "jamón",
+            "pt": "cha-MÓN, au fond de la gorge — jamais le « j » de « jour ». Et le coup au bout"
+          },
+          {
+            "es": "mucho",
+            "pt": "« moutcho », un `t` devant le `ch` — pas « moucho »"
+          }
+        ]
+      }
+    ]
+  }
+}

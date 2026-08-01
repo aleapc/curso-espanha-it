@@ -1,0 +1,795 @@
+{
+  "id": "b18",
+  "slot": "B18",
+  "nivel": "basico",
+  "numero": 18,
+  "parte": "18",
+  "titulo": "Midi dehors, huit heures l'avion — et la veste est restée dans le taxi",
+  "subtitulo": "Régler sans surprise au comptoir, laisser la valise huit heures, et la phrase qui rapporte ce qui est resté",
+  "moldura": "ganha",
+  "moldes": [],
+
+  "cena": "Onze heures cinquante à la réception : tout est payé en ligne depuis longtemps, l'avion part à huit heures, et entre les deux, huit heures où une valise doit rester quelque part.",
+
+  "clique": {
+    "contagem": ["la réception", "la consigne", "le taxi", "la gare"],
+    "desconto": "Aucune de ces phrases, personne ne vous l'a soufflée ce jour-là. Elles étaient toutes prêtes, depuis dix-huit parties.",
+    "piso": "Vous récupérez la veste restée dans le taxi. La plupart la passent par pertes et profits, sans même tenter la phrase."
+  },
+  "cliqueAudioKey": "b18-n27",
+
+  "frasePiso": "Vous récupérez la veste restée dans le taxi. La plupart la passent par pertes et profits, sans même tenter la phrase.",
+
+  "permissao": "Vous avez le droit de laisser la valise après le check-out et de repartir les mains vides — la consigne est là pour ça, et presque partout elle ne coûte rien. Vous avez le droit de demander au comptoir ce qu'est la taxe de séjour avant de payer. Et vous avez le droit de dire tout haut que c'était bien et que vous reviendrez : là-bas, ce n'est pas exagéré, c'est le volume normal.",
+  "permissaoAudioKey": "b18-n26",
+
+  "espelho": "Sortir sans un mot d'un bar où l'on s'est assis chaque matin d'une semaine — voilà ce qui se remarque là-bas. Pas la prononciation.",
+
+  "fichasCulturais": [
+    {
+      "sinal": "Tout était payé en ligne, et au comptoir il tourne l'écran vers lui et annonce un montant de plus.",
+      "suaLeitura": "On me rajoute quelque chose après coup, et je ne le vois qu'au moment où j'ai déjà la valise en main.",
+      "oQueEAli": "C'est la taxe de séjour. Dans plusieurs régions elle fait partie du séjour, n'apparaît presque jamais dans le prix de la plateforme et se paie donc au comptoir — aux Baléares un à quatre euros par personne et par nuit, plus dix pour cent dessus ; à Barcelone, pour un cinq-étoiles, douze euros par nuit depuis avril.",
+      "oQueVoceFaz": "À l'arrivée, demander une fois si elle est dans le prix, et garder quelques billets pour le dernier matin — on la demande souvent en espèces.",
+      "oQueMelhora": "Le dernier matin ne commence pas par un calcul, et dès le premier jour vous savez ce que la semaine coûte vraiment.",
+      "ondeNaoVale": "Toutes les régions ne la prélèvent pas, et là où elle l'est, le montant dépend de la catégorie de l'hôtel. Pour les enfants sous un certain âge et hors haute saison, elle est souvent moindre ou nulle — demandez, au lieu de calculer.",
+      "evidencia": "FATO",
+      "audioKeys": ["b18-n05", "b18-n06", "b18-n07", "b18-n08"]
+    },
+    {
+      "sinal": "Check-out à midi, avion à huit heures, et la valise est plantée au milieu du hall.",
+      "suaLeitura": "Voilà huit heures perdues. Soit je traîne le truc dans la vieille ville, soit je reste assis dans le hall.",
+      "oQueEAli": "La pièce derrière la réception s'appelle consigna, et l'utiliser fait partie du séjour : dans la plupart des hôtels elle ne coûte rien et personne ne demande combien de temps. Le jour de l'arrivée aussi, avant la remise de la chambre, c'est la réponse normale.",
+      "oQueVoceFaz": "Au check-out, dire en une phrase jusqu'à quand. Donner une heure, pas « plus tard » — alors la valise reste jusqu'à cette heure-là et personne n'appelle.",
+      "oQueMelhora": "Le dernier jour reste un jour entier : vous revoyez le quartier, les mains libres, et récupérez la valise en allant au taxi.",
+      "ondeNaoVale": "Pas dans le meublé sans réception, ni devant la boîte à clés à la porte — là, pas de pièce et personne pour l'ouvrir. Demandez au bar d'en bas, ou prenez le casier de consigne à la gare.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["b18-n12", "b18-n13", "b18-n14"]
+    },
+    {
+      "sinal": "Cinq fois le même bar, le patron connaît votre commande, et le dernier matin vous sortez comme les autres jours.",
+      "suaLeitura": "De grands adieux, ce serait déplacé. On ne se connaît pas vraiment.",
+      "oQueEAli": "Saluer en entrant et dire un mot en sortant, là-bas c'est le réglage par défaut, et celui-là vous l'apportez déjà de chez vous. Le dernier jour, la même habitude a une version plus forte : une phrase qui nomme la semaine, et une qui laisse la porte ouverte. Vous passez ainsi de client à hôte.",
+      "oQueVoceFaz": "Deux phrases, debout, sans élan : que c'était bien et que vous reviendrez. Assez fort pour la moitié du comptoir.",
+      "oQueMelhora": "On se souvient de vous, et la fois suivante la semaine ne repart pas de zéro — pour un client qui passe sept ou huit nuits par an au même endroit, ce n'est pas un petit gain.",
+      "ondeNaoVale": "Pas au comptoir bondé sur trois rangs à minuit, ni au buffet du petit-déjeuner de l'hôtel où les équipes tournent — là, un signe de tête suffit comme adieu, et plus en ferait une scène.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["b18-n23", "b18-n24", "b18-n25"]
+    }
+  ],
+
+  "fatosDatados": [
+    {
+      "id": "tasa-turistica-no-check-out",
+      "afirmacao": "La taxe de séjour n'apparaît presque jamais dans le prix de la réservation et se paie au comptoir au moment du check-out, souvent en espèces. Aux Baléares s'appliquent jusqu'à mi-2026 un à quatre euros par personne et par nuit, plus dix pour cent sur la taxe elle-même — la hausse annoncée pour 2025 n'est pas entrée en vigueur. À Barcelone, un établissement cinq étoiles ou Gran Lujo paie depuis le 1er avril 2026 douze euros par nuit au total.",
+      "fonte": "normativa autonômica balear (ecotaxa) e recargo municipal de Barcelona — síntese em docs/pesquisa-espanha.md §8.2",
+      "ano": 2026,
+      "revisarAte": "2027-04-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["b18-n06", "b18-n07"]
+    },
+    {
+      "id": "tarifa-fija-aeroporto-madri",
+      "afirmacao": "À Madrid, entre l'aéroport Adolfo Suárez Madrid-Barajas et toute adresse à l'intérieur de la M-30 s'applique un forfait de 33 euros, 24 heures sur 24, tous les jours, sans supplément autorisé ; hors de la M-30, la course est au compteur. À Barcelone, il y a à la place un supplément aéroport et un montant minimum pour les trajets au départ de l'aéroport.",
+      "fonte": "tarifas oficiais de táxi do Ayuntamiento de Madrid e do Institut Metropolità del Taxi de Barcelona — síntese em docs/pesquisa-espanha.md §8.4. ⚠️ A CIFRA NÃO VAI AO ÁUDIO, e isto é decisão, não esquecimento: as tarifas de táxi de Madri são revistas por ordenança (subiram em 2026) e o valor fixo muda com elas. Os clipes declarados em `audioKeys` (b18-n20, b18-n21) ensinam o PROTOCOLO — existe um forfait, ele vale 24h e sem recargos, e acaba na M-30; em Barcelona a régua é recargo mais mínimo — e nunca dizem «33». Os €33 vivem só nesta ficha e no `aprofundar`, onde vêm com a ressalva escrita em francês («demandez plutôt le prix fixe que le chiffre»). Barcelona (recargo e mínimo 2026) está em tramitação na pesquisa e por isso entra no áudio sem número nenhum. Mesma disciplina que o par EN/DE aplica a `tasa-barcelona-12`.",
+      "ano": 2026,
+      "revisarAte": "2027-01-31",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["b18-n20", "b18-n21"]
+    }
+  ],
+
+  "_notas": {
+    "_": "PARTE ESCRITA EM FRANCÊS, re-derivada do zero contra a DERIVACAO-FR.md e o `moldes.json` FR. Nenhum campo `es` nem `tts` foi tocado e nenhum clipe espanhol NOVO foi criado: o custo de crédito espanhol desta parte é ZERO — as 22 chaves espanholas continuam byte-a-byte iguais à parte alemã e ao acervo base (mesmos audioKey e mesmos mp3). Tudo que é voz-guia (GuiaFem, GuiaMasc — os PLACEHOLDER do audio.config) é escrito em FRANCÊS e só se grava depois do casting da voz FR e da revisão nativa da fonética (DERIVACAO-FR §5). O que este SKU paga aqui é a narração FRANCESA.",
+    "voz_guia_renomeada": "As vozes-guia dos steps passaram de `Juli`/`Thomas` (resíduo do scaffold alemão) para `GuiaFem`/`GuiaMasc`, que são os nomes que o audio.config.json._g14.guia declara para este SKU. Não é cosmético: o G14 (voz × língua) só confere um clipe cuja `voz` está no conjunto `guia` ou `alvo`. GuiaFem carrega a educadora; GuiaMasc é o masculino de alertas (o único bloco de alerta desta parte, o falso amigo `en absoluto`). Carmen e Emilio (peninsulares, alvo) intocados.",
+    "o_que_esta_parte_e_a_inversao": "B18 é onde a INVERSÃO alemão→francês é mais forte de todo o Básico, e ela é de BOCA. O molde-estrela é ME-HE-DEJADO (casa B07, redisparo aqui), e no alemão era o molde MAIS DENSO do roster: 6 das 7 armadilhas de leitura, e o programa motor da parte era o `deslize` contra o GOLPE DE GLOTE (Knacklaut) na costura `me`+`he` = [me-e]. PARA O FRANCÊS ISSO TUDO É BRINDE: o encadeamento (liaison) é nativo — não há golpe de glote a treinar —, o `h` é mudo (como em `hôtel`), e o `qu` de `chaqueta` é [k]. O programa do deslize NÃO ENTRA. O que era o pior lugar do curso vira a comemoração: `me he dejado` encadeia d'un souffle, de graça. Consequência: a parte fica MAIS LEVE (o próprio briefing: «fonética brinde») — logística de saída + UM falso amigo de assinatura.",
+    "falso_amigo_de_assinatura": "`en absoluto` — `absolument` para o francês = absolutamente/SIM, mas em espanhol `en absoluto` = DE JEITO NENHUM (não). Sentido OPOSTO, e o francês tem o cognato DIRETO (`absolument`), então o risco é igual ou maior que o do britânico. Mora na cena da despedida no bar, DEPOIS de o aluno já ter ouvido o antídoto modelado (`totalmente`, `desde luego` em `b18-totalmente-c`) — a ordem cena→produção→regra (INV-17): a regra vem depois da fala. A glosa francesa de `b18-totalmente-c` («Absolument ! Bien sûr.») FICA de propósito: é ela que arma a equação `absolument`=concordância que o clipe seguinte (GuiaMasc) cobra. Item receptivo, ZERO clipe espanhol novo — o antídoto já está gravado.",
+    "bloco_guiamasc_e_o_relabel": "O alemão tinha QUATRO clipes de alerta (Thomas): t01/t02 = o Knacklaut de `me he dejado`, e t03/t04 = `en absoluto`. Para o francês o Knacklaut é BRINDE, então o bloco t01/t02 alemão FOI DISSOLVIDO (a comemoração da costura que encadeia foi dobrada no `b18-n16`, na voz da GuiaFem — comemorar é trabalho da educadora, não do alerta). Sobra UM bloco de alerta, o `en absoluto`, e ele toma os rótulos LIMPOS `b18-t01`/`b18-t02` (renumerados dos t03/t04 alemães) para não deixar buraco. Como são clipes-guia NOVOS (voz FR placeholder, nada gravado), relabelar tem custo zero e nenhum conflito de reuso. Nenhuma chave espanhola mudou; só a narração-guia.",
+    "fonetica_desta_parte": "Toque LEVE — a casa da fonética densa é outra. BRINDES declarados e NÃO gastos em áudio (copiá-los é o anti-padrão 9): o `h` mudo (`he`, `hasta`, `habitación`), o `qu`=[k] (`chaqueta`, `queda`, `aquí`, `quién`), o encadeamento (zero golpe de glote — o problema-motor alemão desta parte). O que SOBRA e é recall, não casa: a JOTA de `dejado`/`fija`/`genial`/`cajero` (som novo [ʒ]→alvo [x], cuja casa é B13/`jamón` — forçá-la aqui roubaria a primeira aparição de peso), o `ch`=[tʃ] de `chaqueta` (o francês diz «shaqueta», quer «tchaqueta»), a TÔNICA e os FINAIS -s apagados (`las llaves`→«ya-be», o plural que some). Uma linha grudada ao encaixe que a parte já diz, nunca uma tabela.",
+    "respelling_para_leitor_frances": "O campo `pinyin` foi RE-DERIVADO do respelling ALEMÃO (que não porta: `ch de Bach`, `j`=[j], `u`=[u], `ss` por s alemão) para o OLHO FRANCÊS, mesma convenção de b10: MAIÚSCULA=tônica · `ou`=`u` espanhol [u] (nunca [y] francês) · `kh`=jota [x] souffle de gorge (dejado→dé-KHA-do, fija→FI-kha) · `tch`=`ch` espanhol [tʃ] (chaqueta→tcha-KE-ta) · `y`=`ll`/`y` [j] francês, jamais `j` (llaves→YA-bess) · `b`=`v`/`b` (móvil→MO-bil) · `ss`=z, c+e/i e s intervocálico/final (cosa→KO-ssa, gracias→GRA-ssiass); s inicial francês já é [s], single · `h` mudo cai · `qu`=k · finais escritas = a pronunciar. TODA esta convenção é INFERÊNCIA e é PENDÊNCIA de revisor FR-L1 + espanhol peninsular antes do áudio — em especial a jota e as nasais.",
+    "redisparos_cumpridos": "Os cinco que o roster promete para B18, todos com `molde` declarado no step e casa em slot anterior (G9d): ME-HE-DEJADO (casa B07) em `b18-llaves-e`, `b18-maleta-c` e `b18-cosa-c` · QUERIA (casa B12) em `b18-billetes-e` (`dos billetes para el aeropuerto`) · PUEDO (casa B06) em `b18-maletas-e` (`dejar las maletas hasta las seis`) · ME-PUEDE (casa B03) em `b18-factura-c` e no callback `e08a-estomago-e` · YA-ESTA (casa B14) em `b18-pagado-e`. `b18-dejado-c` e `b18-chaqueta-e` entram como `ouvir` (modelo/mira), não como `responde` — já foram produzidos em B07/B16.",
+    "steps_removidos": "DOIS, e um só motivo: o bloco Thomas do Knacklaut (alemão b18-t01/b18-t02) — a costura `me`+`he` que o alemão forçava com golpe de glote é BRINDE para o francês (encadeamento nativo). O mp3 nunca existiu (voz-guia FR é placeholder), então não há órfão de disco. O `e07b-escrito-e` já saíra do andaime na versão base (encaixe repetido de B07) e não voltou.",
+    "moldura_e_bifurcacao": "A moldura do par é de GANHO e a jornada termina em despedida, nunca em roubo. `b18-robado-e` («Me han robado el móvil.») fica em UM step `ouvir` receptivo — não é conteúdo de roubo, é a bifurcação que DEFINE o molde («é o esquecimento, não o roubo — e é a diferença que devolve o objeto»). Casa de `Me han robado` é B17 (antes), aqui é recall. `b18-n18` fecha em ganho: uma frase traz um formulário, a outra traz a jaqueta.",
+    "pendencia_G14": "Roda neste SKU (audio.config.json._g14, guiaLingua `fr`) e esta parte sai para zero divergência depois da renomeação GuiaFem/GuiaMasc — a guia FRANCESA CITA espanhol dentro da narração francesa (é o trabalho dela, INV-5: `consigna`, `tique`, `factura`, `me he dejado`, `en absoluto`) e nunca o fala; Carmen e Emilio não dizem uma palavra de francês. Conferência humana continua obrigatória (este repositório já teve o acidente do mp3 na língua errada).",
+    "pendencias": [
+      "REVISOR FR-L1 + espanhol peninsular: TODO o respelling `pinyin` desta parte é INFERÊNCIA; a jota (`kh`), a tônica por MAIÚSCULA e as nasais (`en`, `sin`, `con`, `jamón`) são os pontos mais frágeis e precisam de decisão antes da gravação. Nada NÃO CONFERIDO vira áudio (PRODUTO §preâmbulo).",
+      "VOZ-GUIA FRANCESA (casting): GuiaFem + GuiaMasc são placeholder no audio.config (voiceId «TODO-FR-...»); o gerador não deve emitir job de narração-guia até os voiceId saírem do placeholder.",
+      "G14 (voz × língua) por conferência HUMANA em toda entrega: guia francesa nunca fala espanhol, Carmen/Emilio nunca falam francês.",
+      "AUTO-CHECK feito só neste arquivo (partição): (a) `es`/`audioKey`/`tts` conferidos verbatim contra a parte alemã nos steps reusados — batem; (b) grep de resíduo alemão no próprio arquivo — zero (nenhum Sie/Ihr/du/palavra alemã na narração); (c) maior clipe de narração ≤320. O `valida-tom` completo NÃO foi rodado (lê os 36 episódios, muitos ainda em alemão)."
+    ]
+  },
+
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n01",
+      "bloco": "aquecimento",
+      "gesto": 1,
+      "tom": "ganha",
+      "pt": "Partie dix-huit. `Me he dejado` — là où d'autres calent sur la couture, votre bouche enchaîne d'un souffle. C'est cadeau."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "molde": "ME-PUEDE",
+      "encaixe": "recomendar algo para el dolor de estómago",
+      "encaixeGloss": "quelque chose contre hier soir",
+      "promptAudioKey": "b18-p01",
+      "promptPt": "Dernier matin, huit heures, et le dîner d'hier ne passe toujours pas. Deux rues plus loin, la croix verte est allumée, et derrière, quelqu'un a le droit de conseiller. Parlez maintenant.",
+      "audioKey": "e08a-estomago-e",
+      "es": "¿Me puede recomendar algo para el dolor de estómago?",
+      "pinyin": "mé POUÉ-dé rré-ko-men-DAR AL-go PA-ra el do-LOR dé es-TO-ma-go",
+      "pt": "quelque chose contre le dîner d'hier"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n02",
+      "bloco": "cena",
+      "pt": "Onze heures cinquante. Payé en ligne depuis longtemps, l'avion à huit heures, et entre les deux, huit heures avec une valise."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n03",
+      "pt": "Le dernier jour a quatre comptoirs : la réception, la consigne, le taxi, et les gens à qui vous dites au revoir."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n04",
+      "bloco": "corpo",
+      "pt": "À la réception, d'abord une phrase que vous avez déjà. Elle constate qu'ici, plus rien n'est en suspens."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b18-pagado-e",
+      "es": "Ya está pagado.",
+      "pinyin": "ya es-TA pa-GA-do",
+      "pt": "C'est déjà payé.",
+      "tts": "Ya está pagado."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "YA-ESTA",
+      "encaixe": "pagado",
+      "encaixeGloss": "déjà réglé",
+      "consulta": ["quarto/checkout"],
+      "promptAudioKey": "b18-p02",
+      "promptPt": "Onze heures et demie à la réception. Il tourne l'écran vers lui et commence à vous lire un montant que vous avez réglé de chez vous il y a trois mois. Parlez maintenant.",
+      "audioKey": "b18-pagado-e",
+      "es": "Ya está pagado.",
+      "pinyin": "ya es-TA pa-GA-do",
+      "pt": "c'est déjà réglé, ça"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b18-quedatasa-c",
+      "receptivo": true,
+      "acao": "Ne pas discuter. Sortir la carte ou des billets — c'est un second poste, pas deux fois la même note.",
+      "es": "Sí, aquí me sale pagado. Solo queda la tasa turística.",
+      "pinyin": "si, a-KI mé SA-lé pa-GA-do. SO-lo KE-da la TA-ssa tou-RISS-ti-ka",
+      "pt": "👂 « Oui, chez moi c'est marqué payé. Il reste juste la taxe de séjour. » — le montant qui n'était jamais dans la réservation.",
+      "tts": "Sí, aquí me sale pagado. Solo queda la tasa turística."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n05",
+      "bloco": "capsula",
+      "tom": "protege",
+      "pt": "Le moment qui sent l'arnaque. Ça n'en est pas une : la taxe de séjour se paie au comptoir, pas en ligne."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n06",
+      "pt": "Baléares : un à quatre euros par personne et par nuit, plus dix pour cent. À deux, sept nuits, ça s'additionne."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n07",
+      "pt": "À Barcelone, depuis avril, douze euros la nuit dans un cinq-étoiles. Et souvent, on le veut en espèces."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n08",
+      "pt": "Toutes les régions ne la prélèvent pas, et le montant dépend de la catégorie. Quatre secondes pour demander, et vous savez."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e07a-tasa-e",
+      "es": "¿La tasa turística está incluida?",
+      "pinyin": "la TA-ssa tou-RISS-ti-ka es-TA in-klou-I-da",
+      "pt": "La taxe de séjour est comprise ?",
+      "tts": "¿La tasa turística está incluida?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b18-p03",
+      "promptPt": "Premier soir, vous êtes à l'accueil avec la valise, et la réservation disait « tout compris ». Réglez ça aujourd'hui, pour que le dernier matin ne commence pas là-dessus. Parlez maintenant.",
+      "audioKey": "e07a-tasa-e",
+      "es": "¿La tasa turística está incluida?",
+      "pinyin": "la TA-ssa tou-RISS-ti-ka es-TA in-klou-I-da",
+      "pt": "est-elle déjà dans le prix ?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n09",
+      "pt": "Deuxième phrase à la même réception, et celle-là est pour la maison. Sans elle, votre assurance ne rembourse rien."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b18-factura-c",
+      "es": "¿Me puede dar la factura, por favor?",
+      "pinyin": "mé POUÉ-dé dar la fak-TOU-ra, por fa-BOR",
+      "pt": "Pouvez-vous me donner la facture, s'il vous plaît ?",
+      "tts": "¿Me puede dar la factura, por favor?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PUEDE",
+      "encaixe": "dar la factura",
+      "encaixeGloss": "la facture à votre nom",
+      "promptAudioKey": "b18-p04",
+      "promptPt": "Votre assurance voyage ne rembourse rien sans un papier à votre nom. L'homme au comptoir l'imprime en quatre secondes, si vous le demandez. Parlez maintenant.",
+      "audioKey": "b18-factura-c",
+      "es": "¿Me puede dar la factura, por favor?",
+      "pinyin": "mé POUÉ-dé dar la fak-TOU-ra, por fa-BOR",
+      "pt": "le papier que l'assurance accepte"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b18-anombrede-e",
+      "receptivo": true,
+      "acao": "Dire le nom complet, et l'épeler s'il lève les yeux. C'est lui qui sera sur le papier.",
+      "es": "¿A nombre de quién?",
+      "pinyin": "a NOM-bré dé kién",
+      "pt": "👂 « À quel nom ? » — la question qui revient toujours.",
+      "tts": "¿A nombre de quién?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n10",
+      "pt": "Un tique, c'est le ticket de caisse. Une factura porte votre nom — et seule celle-là, l'assurance l'accepte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n11",
+      "bloco": "corpo",
+      "pt": "Maintenant la valise. La carte de la chambre est rendue, l'avion dans huit heures, et personne n'a envie de la trimballer."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b18-maletas-e",
+      "es": "¿Puedo dejar las maletas hasta las seis?",
+      "pinyin": "POUÉ-do dé-KHAR lass ma-LE-tass AS-ta lass seiss",
+      "pt": "Je peux laisser les valises jusqu'à six heures ?",
+      "tts": "¿Puedo dejar las maletas hasta las seis?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "PUEDO",
+      "encaixe": "dejar las maletas hasta las seis",
+      "encaixeGloss": "laisser les bagages jusqu'au soir",
+      "consulta": ["quarto/mala"],
+      "promptAudioKey": "b18-p05",
+      "promptPt": "Midi, la carte de la chambre rendue, et vous voulez revoir la vieille ville — les mains libres. Derrière la réception, une porte, et derrière, de la place. Parlez maintenant.",
+      "audioKey": "b18-maletas-e",
+      "es": "¿Puedo dejar las maletas hasta las seis?",
+      "pinyin": "POUÉ-do dé-KHAR lass ma-LE-tass AS-ta lass seiss",
+      "pt": "les laisser là, avec une heure"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n12",
+      "bloco": "capsula",
+      "pt": "La pièce derrière la réception s'appelle consigna. Dans la plupart des hôtels, elle est gratuite, et personne ne pose de question."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n13",
+      "tom": "ganha",
+      "pt": "C'est elle qui fait du dernier jour un vrai jour, au lieu d'une salle d'attente avec les bagages."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n14",
+      "pt": "Dans le meublé sans réception, ça n'existe pas. Là, demandez au bar d'en bas, ou à la gare."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n15",
+      "bloco": "corpo",
+      "pt": "Et dehors, les mains vides, vous vous rendez compte que quelque chose n'a pas suivi."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b18-dejado-c",
+      "molde": "ME-HE-DEJADO",
+      "es": "Me he dejado el móvil en el bar.",
+      "pinyin": "mé é dé-KHA-do el MO-bil en el bar",
+      "pt": "J'ai laissé le téléphone au bar.",
+      "tts": "Me he dejado el móvil en el bar."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b18-chaqueta-e",
+      "molde": "ME-HE-DEJADO",
+      "es": "Me he dejado la chaqueta en el taxi.",
+      "pinyin": "mé é dé-KHA-do la tcha-KE-ta en el TAK-si",
+      "pt": "J'ai laissé la veste dans le taxi.",
+      "tts": "Me he dejado la chaqueta en el taxi."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n16",
+      "pt": "Devant, rien ne bouge : le moule tient, l'objet change, le lieu derrière aussi. Et la couture `me-he` s'enchaîne d'elle-même — cadeau."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b18-llaves-e",
+      "molde": "ME-HE-DEJADO",
+      "es": "Me he dejado las llaves en la habitación.",
+      "pinyin": "mé é dé-KHA-do lass YA-bess en la a-bi-ta-SSION",
+      "pt": "J'ai laissé les clés dans la chambre.",
+      "tts": "Me he dejado las llaves en la habitación."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-HE-DEJADO",
+      "encaixe": "las llaves en la habitación",
+      "encaixeGloss": "les clés de la chambre, là-haut",
+      "consulta": ["apuro/perdi"],
+      "promptAudioKey": "b18-p06",
+      "promptPt": "Vous êtes déjà en bas dans l'ascenseur, et votre poche est soudain plus légère qu'il y a cinq minutes. Ce qui manque est resté là-haut, sur la tablette près du lit. Parlez maintenant.",
+      "audioKey": "b18-llaves-e",
+      "es": "Me he dejado las llaves en la habitación.",
+      "pinyin": "mé é dé-KHA-do lass YA-bess en la a-bi-ta-SSION",
+      "pt": "ce qui est resté là-haut"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b18-maleta-c",
+      "molde": "ME-HE-DEJADO",
+      "es": "Me he dejado la maleta en el tren.",
+      "pinyin": "mé é dé-KHA-do la ma-LE-ta en el tren",
+      "pt": "J'ai laissé la valise dans le train.",
+      "tts": "Me he dejado la maleta en el tren."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-HE-DEJADO",
+      "encaixe": "la maleta en el tren",
+      "encaixeGloss": "la valise dans le train",
+      "promptAudioKey": "b18-p07",
+      "promptPt": "Quai d'Atocha, les wagons s'ébranlent déjà, et votre main droite est soudain vide. Au bout du quai, une femme en uniforme, une radio à la main. Parlez maintenant.",
+      "audioKey": "b18-maleta-c",
+      "es": "Me he dejado la maleta en el tren.",
+      "pinyin": "mé é dé-KHA-do la ma-LE-ta en el tren",
+      "pt": "le grand bagage, et où il est resté"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n17",
+      "pt": "À côté, une phrase voisine, et elle vous envoie ailleurs. Écoutez la différence."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b18-robado-e",
+      "receptivo": true,
+      "acao": "Celle-ci, ne la dire que si c'est vrai. Sinon, quelqu'un cherche un coupable au lieu de votre veste.",
+      "es": "Me han robado el móvil.",
+      "pinyin": "mé an rro-BA-do el MO-bil",
+      "pt": "👂 « On m'a volé le téléphone. » — même début, un autre comptoir derrière.",
+      "tts": "Me han robado el móvil."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n18",
+      "tom": "ganha",
+      "pt": "Une phrase rapporte un formulaire, l'autre rapporte la veste. Le plus souvent c'est la seconde, et le plus souvent elle est là."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b18-encontrado-c",
+      "es": "¿Lo han encontrado?",
+      "pinyin": "lo an en-kon-TRA-do",
+      "pt": "Vous l'avez retrouvé ?",
+      "tts": "¿Lo han encontrado?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b18-p08",
+      "promptPt": "Deux heures plus tard, la centrale de la compagnie de taxis, un guichet avec une étagère derrière. Vous avez appelé tout à l'heure, et vous voilà. Parlez maintenant.",
+      "audioKey": "b18-encontrado-c",
+      "es": "¿Lo han encontrado?",
+      "pinyin": "lo an en-kon-TRA-do",
+      "pt": "la question qui suit"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b18-recibo-c",
+      "receptivo": true,
+      "acao": "Sortir le reçu du taxi. Sans lui, c'est plus long, pas impossible.",
+      "es": "¿Tiene el recibo?",
+      "pinyin": "TIÉ-né el rré-SSI-bo",
+      "pt": "👂 « Vous avez le reçu ? » — voilà pourquoi on le garde dans le taxi.",
+      "tts": "¿Tiene el recibo?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b18-siaqui-e",
+      "es": "Sí, aquí lo tengo.",
+      "pinyin": "si, a-KI lo TEN-go",
+      "pt": "Oui, je l'ai là.",
+      "tts": "Sí, aquí lo tengo."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b18-p09",
+      "promptPt": "Il vient de demander le papier que vous avez glissé vendredi dans la poche latérale. Il est encore là. Quatre mots, et posez-le. Parlez maintenant.",
+      "audioKey": "b18-siaqui-e",
+      "es": "Sí, aquí lo tengo.",
+      "pinyin": "si, a-KI lo TEN-go",
+      "pt": "oui, je l'ai sur moi"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b18-cosa-c",
+      "molde": "ME-HE-DEJADO",
+      "es": "Me he dejado una cosa aquí. ¿La han encontrado?",
+      "pinyin": "mé é dé-KHA-do OU-na KO-ssa a-KI. la an en-kon-TRA-do",
+      "pt": "J'ai laissé quelque chose ici. Vous l'avez retrouvé ?",
+      "tts": "Me he dejado una cosa aquí. ¿La han encontrado?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-HE-DEJADO",
+      "encaixe": "una cosa",
+      "encaixeGloss": "un truc quelconque",
+      "consulta": ["apuro/perdi"],
+      "promptAudioKey": "b18-p10",
+      "promptPt": "Aéroport, terminal quatre. Vous revenez au bar où vous étiez il y a vingt minutes, et le mot espagnol de ce qui manque ne vous vient même pas. Dites-le quand même. Parlez maintenant.",
+      "audioKey": "b18-cosa-c",
+      "es": "Me he dejado una cosa aquí. ¿La han encontrado?",
+      "pinyin": "mé é dé-KHA-do OU-na KO-ssa a-KI. la an en-kon-TRA-do",
+      "pt": "la phrase pour tout ce qu'on ne sait pas nommer"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n19",
+      "bloco": "corpo",
+      "pt": "Retour à l'aéroport. Deux chemins, et pour les deux, une phrase décide avant le départ."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b18-tarifa-c",
+      "es": "¿Es tarifa fija al aeropuerto?",
+      "pinyin": "es ta-RI-fa FI-kha al a-é-ro-POUÉR-to",
+      "pt": "C'est le prix fixe pour l'aéroport ?",
+      "tts": "¿Es tarifa fija al aeropuerto?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["taxi/taximetro"],
+      "promptAudioKey": "b18-p11",
+      "promptPt": "Vous n'êtes pas encore monté. Le chauffeur tient la portière, vos bagages à moitié dans le coffre, et le compteur ne tourne pas encore. Réglez ça avant qu'il démarre. Parlez maintenant.",
+      "audioKey": "b18-tarifa-c",
+      "es": "¿Es tarifa fija al aeropuerto?",
+      "pinyin": "es ta-RI-fa FI-kha al a-é-ro-POUÉR-to",
+      "pt": "un forfait ou un compteur ?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b18-dentrom30-e",
+      "receptivo": true,
+      "acao": "Hocher la tête et montrer l'adresse. Si elle est dehors, le compteur tourne — ce n'est pas un piège, c'est la limite.",
+      "es": "Fija, sí. Si vamos dentro de la M-30.",
+      "pinyin": "FI-kha, si. si BA-moss DEN-tro dé la É-mé TREIN-ta",
+      "pt": "👂 « Fixe, oui. Si on reste à l'intérieur de la M-30. » — l'anneau où le forfait s'arrête.",
+      "tts": "Fija, sí. Si vamos dentro de la eme treinta."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n20",
+      "pt": "Madrid : de l'aéroport à toute adresse à l'intérieur de la M-30, un forfait, à toute heure, sans supplément."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n21",
+      "pt": "Barcelone compte autrement, avec supplément et minimum. Là-bas, on demande, au lieu de calculer soi-même."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n22",
+      "pt": "L'autre chemin part de la gare, et pour ça, vous ressortez la phrase du tout premier comptoir."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b18-billetes-e",
+      "molde": "QUERIA",
+      "es": "Quería dos billetes para el aeropuerto.",
+      "pinyin": "ké-RI-a doss bi-YE-tess PA-ra el a-é-ro-POUÉR-to",
+      "pt": "Je voudrais deux billets pour l'aéroport.",
+      "tts": "Quería dos billetes para el aeropuerto."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "QUERIA",
+      "encaixe": "dos billetes para el aeropuerto",
+      "encaixeGloss": "deux billets pour là-bas",
+      "promptAudioKey": "b18-p12",
+      "promptPt": "Le guichet de la gare, cinq heures vingt, vous et la personne à côté de vous. Ce qu'il vous faut est au tableau derrière lui, et l'avion part à huit heures. Parlez maintenant.",
+      "audioKey": "b18-billetes-e",
+      "es": "Quería dos billetes para el aeropuerto.",
+      "pinyin": "ké-RI-a doss bi-YE-tess PA-ra el a-é-ro-POUÉR-to",
+      "pt": "pour deux, et vers où"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n23",
+      "bloco": "capsula",
+      "pt": "Reste la partie que la plupart sautent : cinq fois le même bar, et la dernière, vous sortez sans un mot."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n24",
+      "pt": "Saluer en entrant, saluer en partant, vous le faites déjà chez vous. Là-bas c'est pareil — mais le dernier jour compte double."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b18-genial-c",
+      "es": "Ha estado genial. Volveré.",
+      "pinyin": "a es-TA-do khé-NIAL. bol-bé-RÉ",
+      "pt": "C'était génial. Je reviendrai.",
+      "tts": "Ha estado genial. Volveré."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b18-p13",
+      "promptPt": "Le patron, qui vous salue d'un mot depuis lundi, essuie le comptoir et lève les yeux. Vous partez ce soir, et il ne le sait pas encore. Deux phrases, assez fort pour la moitié du comptoir. Parlez maintenant.",
+      "audioKey": "b18-genial-c",
+      "es": "Ha estado genial. Volveré.",
+      "pinyin": "a es-TA-do khé-NIAL. bol-bé-RÉ",
+      "pt": "la semaine en une phrase, et la porte ouverte"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b18-totalmente-c",
+      "receptivo": true,
+      "acao": "Ne pas atténuer. Répondre avec le même élan, sinon ça sonne poli au lieu de sonner comme une promesse.",
+      "es": "¡Totalmente! Desde luego.",
+      "pinyin": "to-tal-MEN-té! DES-dé LOUÉ-go",
+      "pt": "👂 « Absolument ! Bien sûr. » — un accord aussi sonore, là-bas, c'est tout à fait normal.",
+      "tts": "¡Totalmente! Desde luego."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n25",
+      "tom": "ganha",
+      "pt": "Ne minimisez pas. Ce qui vous paraît de trop, là-bas, c'est le volume normal d'un compliment."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b18-t01",
+      "tom": "protege",
+      "pt": "ATTENTION. Un mot se retourne : `en absoluto` ressemble à « absolument » et veut dire pas du tout. Le sens à l'envers."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b18-t02",
+      "pt": "Donc jamais devant le cuisinier. Reprenez les deux d'à l'instant : `totalmente`, `desde luego`."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b18-hasta-e",
+      "es": "Muchas gracias por todo. Hasta la próxima.",
+      "pinyin": "MOU-tchass GRA-ssiass por TO-do. AS-ta la PROK-si-ma",
+      "pt": "Merci pour tout. À la prochaine.",
+      "tts": "Muchas gracias por todo. Hasta la próxima."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n26",
+      "bloco": "permissao",
+      "pt": "Vous avez le droit de laisser la valise et de repartir les mains vides. Et vous avez le droit de dire que vous reviendrez."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n27",
+      "bloco": "clique",
+      "pt": "Comptez avec moi : la réception, la consigne, le taxi, la gare. Quatre comptoirs, sans rien chercher."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n28",
+      "pt": "Ces phrases, personne ne vous les a soufflées aujourd'hui. Elles étaient toutes prêtes, depuis dix-huit parties."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n29",
+      "bloco": "piso",
+      "pt": "Vous récupérez la veste restée dans le taxi. La plupart la passent par pertes et profits, sans même essayer."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-s00",
+      "pt": "À répéter. Fort, avec eux, la phrase enchaînée d'un souffle. Les deux qui portent le dernier jour :"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "b18-llaves-e",
+      "molde": "ME-HE-DEJADO",
+      "es": "Me he dejado las llaves en la habitación.",
+      "pinyin": "mé é dé-KHA-do lass YA-bess en la a-bi-ta-SSION",
+      "pt": "J'ai laissé les clés dans la chambre."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "b18-pagado-e",
+      "molde": "YA-ESTA",
+      "es": "Ya está pagado.",
+      "pinyin": "ya es-TA pa-GA-do",
+      "pt": "C'est déjà payé."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "b18-r01",
+      "bloco": "recap",
+      "pt": "Encore une fois à voix haute, à un comptoir où vous étiez chaque matin depuis lundi."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["simpatia/agradecer"],
+      "promptAudioKey": "b18-p14",
+      "promptPt": "Six heures et demie, le dernier café, et l'homme derrière le comptoir sait depuis lundi ce que vous buvez. Le taxi arrive. Dites-le-lui avant de passer la porte. Parlez maintenant.",
+      "audioKey": "b18-hasta-e",
+      "es": "Muchas gracias por todo. Hasta la próxima.",
+      "pinyin": "MOU-tchass GRA-ssiass por TO-do. AS-ta la PROK-si-ma",
+      "pt": "merci pour la semaine, et à bientôt"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n30",
+      "pt": "C'est fini. Arrivé, compris, commandé, payé, dormi — et rentré. Seul, dix-huit parties durant."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b18-n31",
+      "tom": "ganha",
+      "pt": "On continue avec la partie dix-neuf : l'heure à laquelle on mange là-bas, et ce qu'elle vous offre le soir. Hasta luego."
+    }
+  ],
+
+  "aprofundar": {
+    "titulo": "Le dernier jour, lu au calme (facultatif)",
+    "secoes": [
+      {
+        "titulo": "La taxe de séjour — pourquoi elle surgit au comptoir et pas dans la réservation",
+        "corpo": "La taxe n'est pas inventée par l'hôtel : elle est prélevée par la communauté autonome, et l'établissement ne fait que l'encaisser. C'est justement pour ça qu'elle n'est presque jamais dans le prix qu'affiche une plateforme de réservation : la plateforme vend la nuitée, pas la taxe. Aux Baléares — l'une des destinations où arrive une grande part des visiteurs français — elle va, selon la catégorie, d'un à quatre euros par personne et par nuit, avec dix pour cent en plus sur ce montant ; la hausse annoncée pour 2025 n'est pas entrée en vigueur. À Barcelone, le montant se compose d'une taxe régionale et d'une surtaxe municipale et atteint, depuis le 1er avril 2026, douze euros par nuit pour les établissements de la catégorie la plus haute, avec un calendrier qui relève la part municipale jusqu'en 2029. Pour un couple sur sept nuits, ce n'est pas une erreur d'arrondi, c'est une addition de restaurant. Deux gestes valent donc la peine : demander à l'arrivée si elle est dans le prix, et garder quelques billets pour elle, car beaucoup d'hôtels la veulent en espèces — pour vous qui réglez tout par carte, c'est peut-être le seul moment du voyage où le porte-monnaie a l'avantage.",
+        "exemplos": [
+          {
+            "es": "¿La tasa turística está incluida?",
+            "pt": "la TA-ssa tou-RISS-ti-ka es-TA in-klou-I-da — La taxe de séjour est comprise ? (la question est pour le premier jour, pas pour le dernier matin)"
+          },
+          {
+            "es": "¿Se paga aparte?",
+            "pt": "sé PA-ga a-PAR-té — Ça se paie à part ? (la version courte, quand quelqu'un paie déjà)"
+          }
+        ]
+      },
+      {
+        "titulo": "« Me he dejado » — la phrase où votre langue vous aide deux fois, et le seul mot qui se retourne",
+        "corpo": "Deux fois elle aide. D'abord la construction est la même : le français parlé raconte le passé avec « avoir » et une deuxième forme derrière — « j'ai laissé » —, et l'espagnol de la péninsule bâtit cette phrase pareil : « me he dejado » commence par le même auxiliaire. Ensuite l'ordre des mots est amical : d'abord le début, puis l'objet, puis le lieu, toujours dans cet ordre, et seuls l'objet et le lieu changent. Là où un apprenant d'une autre langue se bat, vous non : la couture « me he » qu'un Allemand doit forcer d'un coup de glotte, votre bouche l'enchaîne toute seule, sans y penser, et le « h » ne se prononce pas — comme dans « hôtel ». Ce qui vous reste n'est pas une construction mais un son : la jota de « dejado », ce raclement du fond de la gorge que vous travaillez depuis le jambon de la partie treize. Et la différence avec la phrase voisine n'est pas un détail : « me han robado » lance une plainte, « me he dejado » lance une recherche sur une étagère — et sur l'étagère, l'objet est le plus souvent vraiment là. Un dernier mot, parce que la proximité qui vous sert ici est aussi celle qui vous piège ailleurs : « en absoluto » a l'air d'« absolument » et dit exactement le contraire — pas du tout. Devant le patron du bar qui vous demande si vous reviendrez, ce serait le pire endroit pour le sortir.",
+        "exemplos": [
+          {
+            "es": "Me he dejado las llaves en la habitación.",
+            "pt": "mé é dé-KHA-do lass YA-bess en la a-bi-ta-SSION — J'ai laissé les clés dans la chambre. (le ll sonne comme le y de « yaourt », le v de llaves est un b doux)"
+          },
+          {
+            "es": "Me he dejado una cosa aquí. ¿La han encontrado?",
+            "pt": "mé é dé-KHA-do OU-na KO-ssa a-KI. la an en-kon-TRA-do — J'ai laissé quelque chose ici. Vous l'avez retrouvé ? (la version pour tout ce dont vous ignorez le nom)"
+          }
+        ]
+      },
+      {
+        "titulo": "tique, factura, consigna — et la dernière course",
+        "corpo": "Trois mots débarrassent le dernier matin. Un tique, c'est le ticket de caisse qu'on reçoit sans demander ; il suffit pour tout ce que vous dépensez à titre privé. Une factura est le document qui porte votre nom, et seul celui-là, une assurance l'accepte si vous voulez vous faire rembourser en rentrant — d'où la question qui vient aussitôt au comptoir : à quel nom. Et la consigna, c'est la pièce derrière la réception : l'utiliser fait partie du séjour, dans la plupart des hôtels elle ne coûte rien, et la question marche aux deux bouts du voyage — le jour de l'arrivée avant la remise de la chambre comme le jour du départ après. Donnez une heure plutôt que « plus tard » ; tout l'art est là. Reste la course vers l'aéroport. À Madrid, entre Barajas et toute adresse à l'intérieur de la M-30 s'applique un forfait, 24 heures sur 24 et tous les jours, sans supplément autorisé — il est de 33 euros depuis début 2024, et comme les tarifs sont révisés chaque année, demandez plutôt le prix fixe que le chiffre. Hors de cet anneau, le compteur tourne, et ce n'est pas un piège, c'est la limite. Barcelone fait l'inverse : pas de forfait général vers la ville, mais un supplément aéroport et un montant minimum pour toute course au départ de l'aéroport. Pour les deux villes le conseil est le même, et c'est un protocole, pas un chiffre : ne bâtissez pas le transfert autour d'une appli, allez à la station, et réglez le prix tant que la voiture est encore à l'arrêt.",
+        "exemplos": [
+          {
+            "es": "¿Puedo dejar las maletas hasta las seis?",
+            "pt": "POUÉ-do dé-KHAR lass ma-LE-tass AS-ta lass seiss — Je peux laisser les valises jusqu'à six heures ? (avec une heure, jamais « plus tard »)"
+          },
+          {
+            "es": "¿Me puede dar la factura, por favor?",
+            "pt": "mé POUÉ-dé dar la fak-TOU-ra, por fa-BOR — Pouvez-vous me donner la facture, s'il vous plaît ? (celle à votre nom ; le tique ne suffit pas)"
+          }
+        ]
+      }
+    ]
+  }
+}

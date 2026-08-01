@@ -1,0 +1,917 @@
+{
+  "id": "b13",
+  "slot": "B13",
+  "nivel": "basico",
+  "numero": 13,
+  "parte": "13",
+  "titulo": "Ce qu'il y a dans les haricots verts",
+  "subtitulo": "Les trois paliers qui arrivent jusqu'à la cuisine — et le papier qu'on montre quand le bar est trop bruyant",
+  "moldura": "protege",
+
+  "cena": "Neuf heures et demie, une table en terrasse. Vous venez de dire qu'il y a quelque chose que vous ne pouvez pas manger — et le serveur sourit, hoche la tête et dit une phrase qui sonne comme un oui et n'en est pas un.",
+
+  "moldes": ["SOY-ESTOY", "LLEVA"],
+
+  "clique": {
+    "contagem": [
+      "la boulangerie",
+      "l'étal du marché",
+      "le bar",
+      "la table du restaurant"
+    ],
+    "desconto": "Aucune de ces phrases ne vous a été soufflée. Vous venez de les monter à partir de deux petits débuts.",
+    "piso": "Dans un endroit inconnu, vous commandez comme tout le monde. La plupart des gens allergiques passent deux semaines à manger à l'hôtel."
+  },
+  "cliqueAudioKey": "b13-n31",
+
+  "frasePiso": "Dans un endroit inconnu, vous commandez comme tout le monde. La plupart des gens allergiques passent deux semaines à manger à l'hôtel.",
+
+  "permissao": "Vous n'expliquez rien. Pas de raison, pas d'histoire, pas d'excuse — la phrase seule suffit. Vous avez le droit de dire deux fois la même chose sans vous radoucir. Vous avez le droit de montrer le papier au lieu de parler, et ce n'est pas un recul. Et à cette table, vous pouvez rester au vous : au comptoir il marque la distance, ici il porte le sérieux.",
+  "permissaoAudioKey": "b13-n28",
+
+  "espelho": "Répéter deux fois la même phrase ne se remarque pas là-bas — ce qui se remarque, c'est la justification avant. Qui explique pourquoi il ne peut pas manger quelque chose transforme une annonce en opinion, et une opinion, à table, ça se discute.",
+
+  "fichasCulturais": [
+    {
+      "sinal": "Vous dites que vous êtes allergique, et on vous répond par un sourire et «un petit peu, ça ne fait rien, non ?».",
+      "suaLeitura": "Il ne me croit pas. Je viens de devenir l'étranger difficile, et si j'insiste, ça va empirer.",
+      "oQueEAli": "Ce n'est pas de la méfiance : au même comptoir, «sans oignon» et «sans fruits à coque» arrivent par le même canal, et la phrase peut vouloir dire les deux. Le «un petit peu» est une tentative de vous arranger — elle ne sépare simplement pas les deux choses. Ce qui les sépare, c'est une phrase ferme et un papier que la loi oblige à fournir.",
+      "oQueVoceFaz": "Ne pas discuter, ne pas expliquer. Répéter la même phrase ferme, plus calme et plus lentement ; puis demander que ça arrive en cuisine ; puis demander la carte des allergènes.",
+      "oQueMelhora": "La conversation passe de l'opinion au document, et à partir de là le serveur cherche avec vous et non contre vous — vous mangez là où mangent tous les autres.",
+      "ondeNaoVale": "Pas pour une intolérance : là, «un petit peu» est vraiment votre propre décision, et les trois paliers sont trop lourds pour l'occasion. Et pas à un comptoir bondé sur trois rangs à minuit — là personne ne lit une liste ; là vous prenez quelque chose dont vous voyez le contenu.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["b13-n08", "b13-n09", "b13-n10", "b13-n11", "b13-n13"]
+    },
+    {
+      "sinal": "Sur la carte il y a «judías verdes» ou «arroz de verduras», et dedans il y a du jambon ou du bouillon de poisson.",
+      "suaLeitura": "On m'a menti, ou alors on ne prend pas le végétarien au sérieux ici.",
+      "oQueEAli": "Dans beaucoup de cuisines, le jambon est la base des plats de légumes et le bouillon de poisson la base du riz — ils comptent comme assaisonnement, pas comme ingrédient. «Verduras» nomme ce qu'on voit. Rien n'est caché ; la frontière est juste tracée ailleurs que chez vous, et c'est pareil pour l'unique friteuse où tout est frit.",
+      "oQueVoceFaz": "Demander l'assiette, pas la catégorie — «¿Lleva jamón o chorizo?», avant de commander, pas après.",
+      "oQueMelhora": "Vous commandez les plats de légumes du pays au lieu de manger de la salade douze jours de suite — et la question prend deux secondes.",
+      "ondeNaoVale": "Pas là où une carte des allergènes est affichée ou une carte à part pour les plats végétariens : la question est déjà répondue, et insister une deuxième fois se lit comme de la méfiance.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["b13-n20", "b13-n22", "b13-n23", "b13-n24"]
+    }
+  ],
+
+  "fatosDatados": [
+    {
+      "id": "carta-alergenos-obrigatoria",
+      "afirmacao": "En Espagne, la restauration doit informer sur les quatorze allergènes à déclaration obligatoire, y compris pour les plats servis non emballés — c'est le même règlement européen qu'en France.",
+      "fonte": "Reg. (UE) 1169/2011 e RD 126/2015 (AESAN) — citado em docs/pesquisa-espanha.md §5.C e §fontes",
+      "ano": 2015,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": ["b13-n13"]
+    }
+  ],
+
+  "_autoria": {
+    "_": "PARTE ESCRITA em FRANCÊS (o andaime saiu). A fala espanhola continua ativo de DESTINO: nenhum campo `es`/`tts` foi tocado, os audioKey e mp3 herdados do curso base estão intactos e NENHUM clipe espanhol novo foi criado — o custo de crédito espanhol desta parte é ZERO. O que este SKU paga aqui é a narração-guia FRANCESA, e as duas vozes-guia ainda são PLACEHOLDER no audio.config (GuiaFem educadora + GuiaMasc de alertas, voiceId «TODO-FR-...»): o áudio-guia não se gera até o casting fechar. Voz-guia: Juli→GuiaFem, Thomas→GuiaMasc; Carmen/Emilio (peninsulares) reusadas verbatim. MEDIDO no arquivo: 85 steps, 29 `ouvir`, 14 `responde`, 2 `shadow`, 42 clipes de narração (GuiaFem 36 + GuiaMasc 6).",
+    "eixo_falso_amigo": "O eixo do SKU (o falso amigo, a língua-irmã que engana) entra aqui em SOY-ESTOY, e por três sinais distintos, na ordem da DERIVACAO §4.0. (1) BRINDE — a transparência que ACERTA: o francês diz `allergique À`, cuja preposição COINCIDE com o espanhol `alérgico A`. Onde o alemão errava com `gegen` (produzindo `alérgico contra`), o francês já traz a peça certa; então o GuiaMasc de t01 INVERTE o clipe alemão: era advertência, virou reforço («o à que você diria já é o bom»). (2) FALSO AMIGO de saúde, o único lexical da parte: `constipado`=RESFRIADO, não `constipé`=prisão de ventre — GuiaMasc t05, grudado à lista fechada de SOY-ESTOY (que carrega o rótulo), mas apontado PARA A FRENTE, à farmácia (B17), porque a cena que morde é lá; o aluno NÃO o produz aqui (não há clipe espanhol de `constipado` em B13 — está em ep-b17) e a guia apenas o CITA na narração francesa. (3) BRINDE-ESPELHO do artigo: `Soy vegetariano` sem artigo, como `Je suis végétarien` — vira UMA linha de reconhecimento (b13-n06), não bloco.",
+    "jota_som_novo": "A armadilha FONÉTICA da parte, re-derivada do alemão e PIOR que ele. O alemão tinha o par de leitura ⟨ll⟩ vs ⟨j⟩ na MESMA letra alemã (⟨ll⟩ = o seu j de `ja`; ⟨j⟩ = nunca o seu j, mas o [x] de `Bach` que ele JÁ TEM). Para o francês nada disso porta: o ⟨ll⟩ soa como o `y` de `yaourt`/`paille` (GuiaMasc t02, e é REDISPARO — o ⟨ll⟩ já foi ensinado em B01, não é novidade), e o ⟨j⟩ é um SOM NOVO que o francês não tem — nem o seu `j` [ʒ] («zhamón») nem o seu `ch` [ʃ] («shamón»): é o raclement de gorge, ancorado no `r` uvular deles, mesmo ponto (GuiaMasc t03/t04). Numa frase de ALERGIA (`jamón`, `ajo`), errar não é constrangimento, é risco — por isso o GuiaMasc entra imediatamente depois do primeiro `responde` de LLEVA, cena → produção → regra, intervalo encolhido. A NASAL de `jamón` (o `-n` pleno, não vogal de nariz) fica no gloss, não em bloco próprio.",
+    "recalibragem": "Uma linha só (b13-n30, permissao), e ela é o contrapeso honesto de B11 e a direção CERTA da recalibragem francesa (bidirecional): as vozes nativas usam `usted` na escada inteira (`¿Me lo puede hacer…?`, `¿Puede avisar en cocina?`), e a mesa da alergia é o `usted` DEVIDO (contexto sério), o `onde não vale` de «no balcão o tú é o default». Não é o bloco anti-`Sie` alemão num sentido só (anti-padrão 9) — é permissão: a forma que o francês traz de casa (`vous`→`usted`) está certa AQUI.",
+    "gag_morta": "A gag alemã `vino`×`fino` NÃO existe neste par (o francês distingue b/v e diz `[vino]` certo) e não aparece em lugar nenhum desta parte. A gag deste SKU é `embarazada` (I07) + `largo` (balcão, B11); nenhuma das duas cai em B13.",
+    "intocavel": "B13 é INTOCÁVEL por lei (PRODUTO §3.2 regra 7 e slots.json → nota): nunca cortada, nunca atrás de paywall. Consequência de redação: as três frases da escada, o cartão e as duas perguntas de ingrediente têm de funcionar para quem só ouviu B01 até aqui.",
+    "lista_fechada": "SOY-ESTOY é FECHADO e a lista curta é a feature. B13 ensina quatro dos seis encaixes (frutos secos, marisco, vegetariano/a, celíaco/a) porque são os que têm cena à mesa; `constipado/a` (só citado, sem clipe, aponta a B17) e `perdido/a` (B08) não se produzem aqui. A narração diz que a lista é curta e fechada sem recitá-la inteira — recitar seis rótulos é a palestra que o G4 mede.",
+    "respelling_FR": "INFERÊNCIA — revisor FR-L1 + espanhol peninsular PENDENTE (DERIVACAO §1/§5); nada disto vira áudio antes. O campo `pinyin` é respelling para OLHO FRANCÊS (INV-6, nunca ao TTS) e foi RE-DERIVADO do alemão para a leitura francesa, aplicando a camada fonética do roster: ⟨j⟩ e ⟨g⟩+e,i (a jota [x])→«kh» (evita o `j`=[ʒ] e o `ch`=[ʃ] do olho francês; aproxima pelo `r` uvular) · ⟨ll⟩ e ⟨y⟩→«y» (o y de `yaourt`) · ⟨ch⟩→«tch» (o francês lê ⟨ch⟩=[ʃ]) · ⟨u⟩→«ou» (o francês lê ⟨u⟩=[y]) · ⟨v⟩→«b» · ⟨qu⟩→«k» · ⟨h⟩ some · ⟨s⟩/⟨z⟩/⟨c⟩+e,i→«ss» (o s intervocálico francês é [z]) · ⟨ñ⟩→«gn» · -e final pronunciado→«-é» (contra o apagamento francês do -e) · MAIÚSCULA marca a TÔNICA (o erro nº 1 do francês). A NASALIZAÇÃO (`sin`/`con`/`jamón`) NÃO é codificada no respelling — fica no gloss, é revisor-território. O [θ] da distinción sai «ss» (aceito; o proibido é [z]).",
+    "consulta": "SEIS `responde` levam marcação, cobrindo SEIS folhas: `dieta/sem` (duas cartas: p01 `sin leche`, p13 `sin jamón`), `dieta/dizer` + `saude/minha-alergia` (p02), `dieta/nao-levam-a-serio` (p06), `dieta/o-que-tem` + `dieta/cartao` (p08), `mesa/comida` (p09). FICA ABERTO: `dieta/cartao` (mostrar o papel não é fala — candidato a card de ação sem frase-alvo) e `dieta/acontecendo` (reativo puro, mora em B17). O G8 acusa as folhas vazias até lá — dívida nomeada.",
+    "cena_e_narracao": "Declarado `cena` (a parte entra EM VIGOR: valida-tom passa a cobrar erro, não aviso) e removido `aguardaNarracao`. A narração-guia estava vazia (era alemã, foi limpa); os glosses de exibição (`pt`/`acao` de `ouvir`/`responde`/`shadow`, top-level e `aprofundar`) foram reescritos do alemão para o FRANCÊS.",
+    "pendencia_G14": "O portão voz × língua roda neste SKU mas o script ainda não tem marcas de `fr` (scripts/lib/g14-voz-lingua.mjs MARCAS sem `fr`): a metade que confere a guia falando francês fica DESLIGADA — conferência humana OBRIGATÓRIA. GuiaFem e GuiaMasc CITAM espanhol dentro da narração francesa (`Soy`, `Lleva`, `alérgico a`, `jamón`, `constipado`, `Puede ser grave`) e isso é o trabalho da guia; nenhum step de voz-guia carrega uma frase espanhola como fala. Carmen e Emilio não dizem uma palavra de francês. INV-5."
+  },
+
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n01",
+      "bloco": "aquecimento",
+      "gesto": 4,
+      "tom": "ganha",
+      "pt": "Échauffement, dix secondes. Un petit coup pour chaque r : a-LÈR-khi-ko, ma-RISS-ko, a-RI-na. Et le même point, au fond de la bouche, pour le j. On tape, on ne frotte pas."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "molde": "SIN-CON-PARA",
+      "encaixe": "leche",
+      "encaixeGloss": "lait",
+      "promptAudioKey": "b13-p01",
+      "promptPt": "Petit-déjeuner à l'hôtel, huit heures et demie, et ici le café arrive blanc d'office. Deux mots avant qu'il ne verse. Parlez.",
+      "audioKey": "e04a-sinleche-c",
+      "es": "Sin leche, por favor.",
+      "pinyin": "sin LÉ-tché, por fa-BOR",
+      "pt": "sans ce qui vient sinon d'office",
+      "consulta": ["dieta/sem"]
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n02",
+      "bloco": "cena",
+      "pt": "Neuf heures et demie, une table en terrasse, et vous venez de dire qu'il y a quelque chose que vous ne pouvez pas manger."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04a-d1-c",
+      "receptivo": true,
+      "acao": "D'abord la phrase qui protège. On commande après.",
+      "es": "¿Qué van a tomar?",
+      "pinyin": "ké ban a to-MAR",
+      "pt": "👂 «Qu'est-ce que vous prenez ?» — la question devant laquelle vient votre phrase la plus importante.",
+      "tts": "¿Qué van a tomar?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n03",
+      "pt": "Cette phrase-là vient avant la commande, jamais après. Elle est courte, et elle ne change jamais."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n04",
+      "bloco": "molde",
+      "pt": "Le premier moule, c'est Soy. Un mot, puis l'étiquette. La liste derrière est courte, et elle est fermée."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e04a-frutossecos-e",
+      "es": "Soy alérgico a los frutos secos.",
+      "pinyin": "soi a-LÈR-khi-ko a loss FROU-toss SSÉ-koss",
+      "pt": "Je suis allergique aux fruits à coque. («frutos secos» couvre noix et graines.)",
+      "tts": "Soy alérgico a los frutos secos."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04a-marisco-c",
+      "es": "Soy alérgica al marisco.",
+      "pinyin": "soi a-LÈR-khi-ka al ma-RISS-ko",
+      "pt": "Je suis allergique aux fruits de mer. («marisco» : crustacés, coquillages et crevettes.)",
+      "tts": "Soy alérgica al marisco."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b13-t01",
+      "pt": "Bonne nouvelle : votre à de «allergique à» est déjà le bon ici. Alérgico a — et le a reste collé à la phrase, ne le lâchez pas."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "SOY-ESTOY",
+      "encaixe": "alérgico a los frutos secos",
+      "encaixeGloss": "les fruits à coque",
+      "promptAudioKey": "b13-p02",
+      "promptPt": "Une petite tapa sur le comptoir, quelque chose de brun et haché dessus — et depuis l'enfance vous savez ce qu'une seule bouchée déclenche. Avant d'y toucher. Parlez.",
+      "audioKey": "e04a-frutossecos-e",
+      "es": "Soy alérgico a los frutos secos.",
+      "pinyin": "soi a-LÈR-khi-ko a loss FROU-toss SSÉ-koss",
+      "pt": "l'étiquette, avant tout le reste",
+      "consulta": ["dieta/dizer", "saude/minha-alergia"]
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "SOY-ESTOY",
+      "encaixe": "alérgica al marisco",
+      "encaixeGloss": "les fruits de mer",
+      "promptAudioKey": "b13-p03",
+      "promptPt": "Un restaurant de plage, et le serveur pose au centre la grande poêle où repose tout ce qui est sorti de l'eau ce matin. Parlez.",
+      "audioKey": "e04a-marisco-c",
+      "es": "Soy alérgica al marisco.",
+      "pinyin": "soi a-LÈR-khi-ka al ma-RISS-ko",
+      "pt": "la même étiquette, un autre contenu"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n05",
+      "pt": "Seule l'étiquette au bout change. Devant, rien ne bouge — et le petit a reste collé, comme votre à."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e04b-celiaco-e",
+      "es": "Soy celíaco. Sin gluten, por favor.",
+      "pinyin": "soi ssé-LI-a-ko. sin GLOU-ten, por fa-BOR",
+      "pt": "Je suis cœliaque. Sans gluten, s'il vous plaît. (deux phrases, toujours ensemble)",
+      "tts": "Soy celíaco. Sin gluten, por favor."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "SOY-ESTOY",
+      "encaixe": "celíaco",
+      "encaixeGloss": "cœliaque",
+      "promptAudioKey": "b13-p04",
+      "promptPt": "La boulangerie du coin, huit heures du matin, et derrière la vitre tout est fait de la seule céréale que votre ventre ne voit plus depuis douze ans. Parlez.",
+      "audioKey": "e04b-celiaco-e",
+      "es": "Soy celíaco. Sin gluten, por favor.",
+      "pinyin": "soi ssé-LI-a-ko. sin GLOU-ten, por fa-BOR",
+      "pt": "l'étiquette, et juste derrière la condition"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04b-vegetariana-c",
+      "es": "Soy vegetariana: no como carne ni pescado.",
+      "pinyin": "soi bé-khé-ta-RIA-na: no KO-mo KAR-né ni péss-KA-do",
+      "pt": "Je suis végétarienne : je ne mange ni viande ni poisson.",
+      "tts": "Soy vegetariana: no como carne ni pescado."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n06",
+      "pt": "Pas d'article devant le mot, comme chez vous : Soy vegetariano, je suis végétarien. Pour une fois, ça tombe juste."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n07",
+      "pt": "Et ni pescado doit suivre. Le poisson ne compte pas partout comme viande, et l'assiette arrive quand même."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "SOY-ESTOY",
+      "encaixe": "vegetariano",
+      "encaixeGloss": "végétarien",
+      "promptAudioKey": "b13-p05",
+      "promptPt": "On vous a invité à manger, la marmite est déjà au centre, tout le monde attend votre signe de tête. Dites-le — et dites-le en entier. Parlez.",
+      "audioKey": "e04b-vegetariana-c",
+      "es": "Soy vegetariana: no como carne ni pescado.",
+      "pinyin": "soi bé-khé-ta-RIA-na: no KO-mo KAR-né ni péss-KA-do",
+      "pt": "l'étiquette, et la moitié qu'on voudrait laisser tomber"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04a-yhuevo-c",
+      "receptivo": true,
+      "acao": "Répondre d'un mot : sí ou no. Elle n'en demande pas plus.",
+      "es": "Vale. ¿Y huevo sí come?",
+      "pinyin": "BA-lé. i OUÉ-bo si KO-mé",
+      "pt": "👂 «Et l'œuf, vous en mangez ?» — la question à laquelle un mot suffit.",
+      "tts": "Vale. ¿Y huevo sí come?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e04b-vegano-e",
+      "es": "Soy vegano: sin carne, sin pescado, sin huevo y sin leche.",
+      "pinyin": "soi bé-GA-no: sin KAR-né, sin péss-KA-do, sin OUÉ-bo i sin LÉ-tché",
+      "pt": "Je suis végétalien : sans viande, sans poisson, sans œuf et sans lait. La liste toujours entière.",
+      "tts": "Soy vegano: sin carne, sin pescado, sin huevo y sin leche."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04a-sinatun-c",
+      "receptivo": true,
+      "tom": "ganha",
+      "acao": "Dire oui. Elle a compris et réfléchit déjà à la suite.",
+      "es": "Pues le hago una ensalada. Sin atún, claro.",
+      "pinyin": "pouess lé A-go OU-na én-ssa-LA-da. sin a-TOUN, KLA-ro",
+      "pt": "👂 «Alors je vous fais une salade. Sans thon, bien sûr.» — voilà comment ça sonne quand c'est passé.",
+      "tts": "Pues le hago una ensalada. Sin atún, claro."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b13-t05",
+      "pt": "Un mot de cette liste fermée qui vous piège plus tard : constipado ne veut pas dire constipé, mais enrhumé. À la pharmacie, ça vous enverrait au mauvais médicament."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n08",
+      "bloco": "corpo",
+      "tom": "protege",
+      "pt": "C'était le premier palier, et le plus souvent il suffit. Parfois non — alors vient cette phrase, et elle a l'air aimable."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04a-d2-c",
+      "receptivo": true,
+      "acao": "Ne pas discuter, ne pas expliquer. La même phrase encore une fois, plus calme.",
+      "es": "Vale, un poquito no pasa nada, ¿no?",
+      "pinyin": "BA-lé, oun po-KI-to no PA-ssa NA-da, no",
+      "pt": "👂 «Un petit peu, ça ne fait rien, non ?» — c'est là que ça bascule, et c'est là que vous intervenez.",
+      "tts": "Vale, un poquito no pasa nada, ¿no?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n09",
+      "pt": "Ce n'est pas de la méfiance. Au même comptoir, «sans oignon» et «sans fruits à coque» arrivent par le même canal."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n10",
+      "tom": "protege",
+      "pt": "Alors vous séparez les deux. Une phrase ferme, pas de dispute, pas de justification. C'est le deuxième palier."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04a-mania-c",
+      "es": "Es alergia, no es manía.",
+      "pinyin": "éss a-LÈR-khia, no éss ma-NI-a",
+      "pt": "C'est une allergie, pas un caprice.",
+      "tts": "Es alergia, no es manía."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e04a-grave-e",
+      "es": "Es una alergia grave. Puedo acabar en el hospital.",
+      "pinyin": "éss OU-na a-LÈR-khia GRA-bé. POUÉ-do a-ka-BAR én él oss-pi-TAL",
+      "pt": "C'est une allergie grave. Je peux finir à l'hôpital.",
+      "tts": "Es una alergia grave. Puedo acabar en el hospital."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04a-poquitoseguro-c",
+      "receptivo": true,
+      "acao": "Deuxième tentative de sa part. Vous gardez exactement les mêmes mots.",
+      "es": "Bueno, un poquito seguro que no pasa nada.",
+      "pinyin": "BOUÉ-no, oun po-KI-to ssé-GOU-ro ké no PA-ssa NA-da",
+      "pt": "👂 «Un tout petit peu, ça ne fait sûrement rien.» — ça revient souvent deux fois.",
+      "tts": "Bueno, un poquito seguro que no pasa nada."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "tom": "protege",
+      "promptAudioKey": "b13-p06",
+      "promptPt": "On vous assure une deuxième fois qu'un tout petit peu, ce n'est rien. Vous ne souriez plus avec eux, vous tenez le regard et vous dites les deux phrases fermes. Parlez.",
+      "audioKey": "e04a-mania-e",
+      "es": "No. Es alergia, no es manía. Es una alergia grave.",
+      "pinyin": "no. éss a-LÈR-khia, no éss ma-NI-a. éss OU-na a-LÈR-khia GRA-bé",
+      "pt": "les deux phrases qui font bouger la cuisine",
+      "consulta": ["dieta/nao-levam-a-serio"]
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n11",
+      "pt": "Puis le troisième palier, le plus important : le serveur ne cuisine pas. Faites passer le message."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e04a-cocina-e",
+      "es": "¿Puede avisar en cocina, por favor?",
+      "pinyin": "POUÉ-dé a-bi-SSAR én ko-SSI-na, por fa-BOR",
+      "pt": "Pouvez-vous prévenir en cuisine, s'il vous plaît ?",
+      "tts": "¿Puede avisar en cocina, por favor?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PUEDE",
+      "encaixe": "avisar en cocina",
+      "encaixeGloss": "prévenir en cuisine",
+      "promptAudioKey": "b13-p07",
+      "promptPt": "Il a compris, hoche la tête et se retourne — et entre lui et la marmite il reste trois personnes qui n'en savent rien. Retenez-le. Parlez.",
+      "audioKey": "e04a-cocina-e",
+      "es": "¿Puede avisar en cocina, por favor?",
+      "pinyin": "POUÉ-dé a-bi-SSAR én ko-SSI-na, por fa-BOR",
+      "pt": "faire passer, là où l'on cuisine"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04a-valeperdone-c",
+      "receptivo": true,
+      "tom": "ganha",
+      "acao": "Ne rien ajouter. C'était le basculement.",
+      "es": "Vale, vale. Perdone.",
+      "pinyin": "BA-lé, BA-lé. per-DO-né",
+      "pt": "👂 «Oui, oui. Pardon.» — c'est là que ça s'arrête presque toujours.",
+      "tts": "Vale, vale. Perdone."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n12",
+      "tom": "ganha",
+      "pt": "Le plus souvent, ça s'arrête là. Et il y a plus fort que n'importe quelle phrase : le papier."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04a-alergenos-c",
+      "es": "¿Tienen la carta de alérgenos?",
+      "pinyin": "TIÉ-nen la KAR-ta de a-LÈR-khé-noss",
+      "pt": "Avez-vous la carte des allergènes ?",
+      "tts": "¿Tienen la carta de alérgenos?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n13",
+      "pt": "L'information est obligatoire — même règlement européen que chez vous, mêmes quatorze substances, même pour un plat servi à table."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "tom": "ganha",
+      "promptAudioKey": "b13-p08",
+      "promptPt": "Plus un mot sur votre corps. Réclamez le papier où la cuisine elle-même a écrit ce qu'il y a dans chaque plat. Parlez.",
+      "audioKey": "e04a-alergenos-c",
+      "es": "¿Tienen la carta de alérgenos?",
+      "pinyin": "TIÉ-nen la KAR-ta de a-LÈR-khé-noss",
+      "pt": "le papier au lieu de l'avis",
+      "consulta": ["dieta/o-que-tem", "dieta/cartao"]
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04a-d3-c",
+      "receptivo": true,
+      "tom": "ganha",
+      "acao": "Rester assis et lire. À partir d'ici c'est son papier, pas votre prononciation.",
+      "es": "Por supuesto. Le traigo la carta de alérgenos.",
+      "pinyin": "por sou-POUÉSS-to. lé TRAI-go la KAR-ta de a-LÈR-khé-noss",
+      "pt": "👂 «Bien sûr, je vous apporte la carte des allergènes.» — la conversation a changé de terrain.",
+      "tts": "Por supuesto. Le traigo la carta de alérgenos."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n14",
+      "bloco": "molde",
+      "pt": "Le deuxième moule tient en un mot, et il interroge l'assiette au lieu de vous."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04b-jamon-c",
+      "es": "¿Lleva jamón o chorizo?",
+      "pinyin": "YÉ-ba kha-MON o tcho-RI-sso",
+      "pt": "Il y a du jambon ou du chorizo dedans ?",
+      "tts": "¿Lleva jamón o chorizo?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n15",
+      "pt": "Lleva veut dire : il y a dedans. Devant, rien d'autre ; au bout, le seul ingrédient qui vous importe."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e04b-caldo-e",
+      "es": "¿Lleva caldo de pescado o de carne?",
+      "pinyin": "YÉ-ba KAL-do de péss-KA-do o de KAR-né",
+      "pt": "Il y a du bouillon de poisson ou de viande dedans ? — devant le même mot, au bout tout autre chose.",
+      "tts": "¿Lleva caldo de pescado o de carne?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "LLEVA",
+      "encaixe": "ajo",
+      "encaixeGloss": "l'ail",
+      "promptAudioKey": "b13-p09",
+      "promptPt": "L'étal du marché, un gobelet de quelque chose de crémeux qui ne ressemble à rien — et dans presque toutes les poêles du pays il y a une gousse râpée que vous ne digérez pas. Demandez précisément celle-là. Parlez.",
+      "audioKey": "e04b-ajo-c",
+      "es": "¿Lleva ajo?",
+      "pinyin": "YÉ-ba A-kho",
+      "pt": "est-ce qu'il y a celui-là dedans ?",
+      "consulta": ["mesa/comida"]
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b13-t02",
+      "pt": "Attention. Le double l, vous le connaissez déjà : il sonne comme le y de «yaourt», de «paille». Et il est dans le moule lui-même : YÉ-ba."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b13-t03",
+      "pt": "Et dans le même mot, l'inverse : le j espagnol n'est ni votre j ni votre ch. C'est un raclement de gorge — visez votre r, au même endroit. kha-MON, jamais «jamon»."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b13-t04",
+      "pt": "Un mot, deux lettres, deux consignes opposées : le ll qui glisse, le j qui racle. YÉ-ba kha-MON."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "LLEVA",
+      "encaixe": "harina",
+      "encaixeGloss": "la farine",
+      "promptAudioKey": "b13-p10",
+      "promptPt": "Le bar du coin, une assiette de six beignets dorés que tout le monde adore ici — et ça ne va presque jamais sans ce que vous évitez. Parlez.",
+      "audioKey": "e04b-harina-c",
+      "es": "¿Lleva harina o gluten?",
+      "pinyin": "YÉ-ba a-RI-na o GLOU-ten",
+      "pt": "le blanc fin, et son cousin"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "LLEVA",
+      "encaixe": "caldo de pescado",
+      "encaixeGloss": "le bouillon de poisson",
+      "promptAudioKey": "b13-p11",
+      "promptPt": "Sur l'ardoise, une grande poêle de riz, et à côté le mot pour légumes. Le riz, lui, a cuit dans quelque chose que personne n'a écrit. Parlez.",
+      "audioKey": "e04b-caldo-e",
+      "es": "¿Lleva caldo de pescado o de carne?",
+      "pinyin": "YÉ-ba KAL-do de péss-KA-do o de KAR-né",
+      "pt": "ce dans quoi il a cuit"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "LLEVA",
+      "encaixe": "frutos secos",
+      "encaixeGloss": "les fruits à coque",
+      "promptAudioKey": "b13-p12",
+      "promptPt": "Avec le café, la maison pose sans le demander un petit gâteau. Il a l'air inoffensif, et vous avez une seconde avant de le prendre. Parlez.",
+      "audioKey": "e04a-frutos-lleva-e",
+      "es": "¿Lleva frutos secos?",
+      "pinyin": "YÉ-ba FROU-toss SSÉ-koss",
+      "pt": "ce que vous ne pouvez pas voir"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n16",
+      "pt": "La liste derrière Lleva est ouverte. Personne ne peut vous la dicter, parce que personne ne connaît votre assiette."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e04a-conservantes-e",
+      "es": "¿Lleva conservantes?",
+      "pinyin": "YÉ-ba kon-sser-BAN-tess",
+      "pt": "Il y a des conservateurs dedans ? — le même mot, une étiquette plus loin.",
+      "tts": "¿Lleva conservantes?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n17",
+      "pt": "Et si la réponse est oui, il y a deux voies. La première : la cuisine le retire."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e03b-sincebolla-e",
+      "es": "¿Me lo puede hacer sin cebolla?",
+      "pinyin": "mé lo POUÉ-dé a-SSER sin ssé-BO-ya",
+      "pt": "Pouvez-vous me le faire sans oignon ? — la phrase d'hier, aujourd'hui avec un autre poids.",
+      "tts": "¿Me lo puede hacer sin cebolla?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e04b-sinajo-e",
+      "es": "¿Me lo puede hacer sin ajo?",
+      "pinyin": "mé lo POUÉ-dé a-SSER sin A-kho",
+      "pt": "Pouvez-vous me le faire sans ail ? (ajo = A-kho, un raclement de gorge, pas votre j)",
+      "tts": "¿Me lo puede hacer sin ajo?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PUEDE",
+      "encaixe": "hacer sin jamón",
+      "encaixeGloss": "le faire sans jambon",
+      "promptAudioKey": "b13-p13",
+      "promptPt": "Un pincho sur le comptoir, sous le fromage quelque chose de rose que vous ne mangez plus depuis vingt ans. Le reste a l'air très bien. Parlez.",
+      "audioKey": "e04b-sinjamon-c",
+      "es": "¿Me lo puede hacer sin jamón?",
+      "pinyin": "mé lo POUÉ-dé a-SSER sin kha-MON",
+      "pt": "comme ça, mais sans celui-là",
+      "consulta": ["dieta/sem"]
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n18",
+      "tom": "protege",
+      "pt": "La deuxième voie est un non, et c'est un non honnête. Certaines choses sont cuites avec, depuis le début."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04a-jamondentro-c",
+      "receptivo": true,
+      "acao": "Prendre autre chose. C'était la vérité, pas une excuse.",
+      "es": "Es que ya viene con el jamón dentro, cocinado.",
+      "pinyin": "éss ké ya BIÉ-né kon él kha-MON DEN-tro, ko-ssi-NA-do",
+      "pt": "👂 «C'est déjà cuit avec le jambon dedans.» — la réponse la plus honnête qui soit.",
+      "tts": "Es que ya viene con el jamón dentro, cocinado."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n19",
+      "pt": "Et une question qu'aucun guide de conversation ne donne et qui compte ici tous les jours : il y a une friteuse."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e04b-freidora-e",
+      "acao": "Demander une fois, avant de commander des légumes frits.",
+      "es": "¿Lo fríen en la misma freidora que el pescado?",
+      "pinyin": "lo FRI-en én la MISS-ma frei-DO-ra ké él péss-KA-do",
+      "pt": "Vous les faites frire dans la même friteuse que le poisson ?",
+      "tts": "¿Lo fríen en la misma freidora que el pescado?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n20",
+      "bloco": "capsula",
+      "pt": "Maintenant tout l'échange d'un seul tenant, à la table du restaurant. Elle vient de recommander le légume du jour."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04b-d1-c",
+      "acao": "Ne pas encore commander. D'abord demander ce qu'il y a dedans.",
+      "es": "Las judías verdes están muy buenas hoy.",
+      "pinyin": "lass khou-DI-ass BÈR-dess éss-TAN moui BOUÉ-nass oi",
+      "pt": "👂 «Les haricots verts sont très bons aujourd'hui.» — la recommandation qui appelle une question.",
+      "tts": "Las judías verdes están muy buenas hoy."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e04b-jamon-e",
+      "molde": "LLEVA",
+      "es": "¿Lleva jamón o chorizo?",
+      "pinyin": "YÉ-ba kha-MON o tcho-RI-sso",
+      "pt": "— Il y a du jambon ou du chorizo dedans ?",
+      "tts": "¿Lleva jamón o chorizo?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04b-d2-c",
+      "acao": "Ne pas accepter le «un peu» : dire l'étiquette et demander la version sans.",
+      "es": "Sí, lleva un poco de jamón. Pero muy poquito.",
+      "pinyin": "si, YÉ-ba oun PO-ko de kha-MON. PÉ-ro moui po-KI-to",
+      "pt": "👂 «Oui, un peu de jambon. Mais vraiment très peu.» — «peu» n'est pas une quantité, c'est une manière de vous rassurer.",
+      "tts": "Sí, lleva un poco de jamón. Pero muy poquito."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e04b-d3-e",
+      "es": "Soy vegetariano: no como carne ni pescado. ¿Me lo puede hacer sin jamón?",
+      "pinyin": "soi bé-khé-ta-RIA-no: no KO-mo KAR-né ni péss-KA-do. mé lo POUÉ-dé a-SSER sin kha-MON",
+      "pt": "— Je suis végétarien, ni viande ni poisson. Pouvez-vous le faire sans jambon ?",
+      "tts": "Soy vegetariano: no como carne ni pescado. ¿Me lo puede hacer sin jamón?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04b-d4-c",
+      "tom": "ganha",
+      "acao": "Accepter l'indice : laisser le riz et lui demander ce qu'elle recommande à la place.",
+      "es": "Claro que sí. ¿Y el arroz? Ese lleva caldo de pescado.",
+      "pinyin": "KLA-ro ké si. i él a-RROSS? É-ssé YÉ-ba KAL-do de péss-KA-do",
+      "pt": "👂 «Bien sûr. Et le riz ? Lui, il est au bouillon de poisson.» — à partir d'ici, elle cherche avec vous.",
+      "tts": "Claro que sí. ¿Y el arroz? Ese lleva caldo de pescado."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e04b-d5-e",
+      "es": "Entonces no, gracias. ¿Qué me recomienda?",
+      "pinyin": "én-TON-ssess no, GRA-ssiass. ké mé rré-ko-MIÉN-da",
+      "pt": "— Alors non, merci. Qu'est-ce que vous me recommandez ?",
+      "tts": "Entonces no, gracias. ¿Qué me recomienda?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n21",
+      "tom": "ganha",
+      "pt": "Écoutez ce qui a changé à mi-chemin : elle cherche avec vous. L'obstacle est devenu un allié."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n22",
+      "pt": "Haricots verts, épinards, lentilles, soupe de légumes : bien souvent le jambon est la base, pas la garniture."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n23",
+      "pt": "Rien n'est caché — verduras nomme ce qu'on voit. Demandez l'assiette, pas la catégorie."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n24",
+      "pt": "Là où une carte des allergènes est affichée, ou une carte à part, la question est déjà réglée. Alors on n'insiste pas."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n25",
+      "bloco": "capsula",
+      "pt": "Et le papier. Demandez-le à la réception, ou apportez-le imprimé de chez vous."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n26",
+      "pt": "Deux lignes, pas plus : Soy alérgico a — et ensuite votre affaire. En dessous : Puede ser grave."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n27",
+      "pt": "Dans un bar bruyant, le papier est plus fort que n'importe quelle prononciation. Le montrer n'est pas un recul."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n28",
+      "bloco": "permissao",
+      "tom": "ganha",
+      "pt": "Et vous n'expliquez rien. Pas de raison, pas d'histoire, pas d'excuse — la phrase seule suffit."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n29",
+      "pt": "Vous avez le droit de dire deux fois la même chose sans vous radoucir. Ici, personne ne le remarque."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n30",
+      "tom": "ganha",
+      "pt": "À cette table, vous pouvez rester au vous — usted. Au comptoir il marque la distance ; ici il porte le sérieux."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n31",
+      "bloco": "clique",
+      "pt": "Comptez avec moi. La boulangerie. L'étal du marché. Le bar. La table du restaurant. Deux moules, quatre endroits."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n32",
+      "pt": "Aucune de ces phrases ne vous a été soufflée. Vous venez de les monter à partir de deux petits débuts."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n33",
+      "bloco": "piso",
+      "pt": "Dans un endroit inconnu, vous commandez comme tout le monde. La plupart des gens allergiques mangent à l'hôtel."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-s00",
+      "pt": "Répétez. Fort, avec eux. Les deux qui, à table, viennent en premier :"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "e04a-frutossecos-e",
+      "molde": "SOY-ESTOY",
+      "es": "Soy alérgico a los frutos secos.",
+      "pinyin": "soi a-LÈR-khi-ko a loss FROU-toss SSÉ-koss",
+      "pt": "Je suis allergique aux fruits à coque."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "e04b-jamon-c",
+      "molde": "LLEVA",
+      "es": "¿Lleva jamón o chorizo?",
+      "pinyin": "YÉ-ba kha-MON o tcho-RI-sso",
+      "pt": "Il y a du jambon ou du chorizo dedans ?"
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "b13-r01",
+      "bloco": "recap",
+      "pt": "Encore une fois, à voix haute, à un comptoir où nous n'étions pas aujourd'hui."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PUEDE",
+      "encaixe": "hacer sin ajo",
+      "encaixeGloss": "le faire sans ail",
+      "promptAudioKey": "b13-p14",
+      "promptPt": "Un comptoir de gare, la tartine à la tomate est presque prête, et l'homme attrape déjà la gousse qu'il va râper dessus. Retenez-le. Parlez.",
+      "audioKey": "e04b-sinajo-e",
+      "es": "¿Me lo puede hacer sin ajo?",
+      "pinyin": "mé lo POUÉ-dé a-SSER sin A-kho",
+      "pt": "sans ce qu'il va râper dessus"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b13-n34",
+      "pt": "C'est tout. Une phrase pour vous, une phrase pour l'assiette, un papier pour l'urgence. Hasta luego."
+    }
+  ],
+
+  "aprofundar": {
+    "titulo": "Le jambon qui n'est pas un ingrédient — et les quatorze substances (lecture facultative)",
+    "secoes": [
+      {
+        "titulo": "Les trois paliers, et pourquoi celui du milieu est le plus important",
+        "corpo": "L'ordre n'est pas de la politesse, c'est de la technique. Le premier palier, c'est l'étiquette : Soy alérgico a … Ainsi ce dont il s'agit est dit, et dans la plupart des maisons cela suffit. Le deuxième palier, c'est la phrase que vous n'aurez, on l'espère, jamais à utiliser et que vous devriez pourtant savoir par cœur : Es alergia, no es manía. Elle existe parce qu'à un comptoir espagnol «sans oignon» et «sans fruits à coque» arrivent par le même canal — les deux sont une demande, les deux sonnent pareil, et le rappel amical «un petit peu, ça ne fait rien» est une tentative de vous arranger, pas de passer outre. La phrase sépare les deux choses en quatre mots, sans accuser personne. Le troisième palier sort de la responsabilité celui qui, de toute façon, ne cuisine pas : ¿Puede avisar en cocina, por favor? Qui ne dit que le premier palier espère ensuite que l'information trouvera, à travers trois personnes, un chemin que personne ne lui a ouvert. Et si le bar est bruyant ou la soirée longue : le papier imprimé bat n'importe quelle prononciation. Deux lignes, en espagnol, en grand — SOY ALÉRGICO/A A: … PUEDE SER GRAVE. À la réception de l'hôtel, on vous l'écrit en trente secondes.",
+        "exemplos": [
+          {
+            "es": "¿Me lo puede hacer sin ajo?",
+            "pt": "mé lo POUÉ-dé a-SSER sin A-kho — Pouvez-vous me le faire sans ail ? (la première voie : retirer)"
+          },
+          {
+            "es": "Es que ya viene con el jamón dentro, cocinado.",
+            "pt": "éss ké ya BIÉ-né kon él kha-MON DEN-tro — 👂 «C'est déjà cuit avec.» — la deuxième voie : prendre autre chose, et c'est bon signe."
+          }
+        ]
+      },
+      {
+        "titulo": "Où se cache le jambon, et pourquoi personne ne le cache",
+        "corpo": "La liste des endroits où se trouve quelque chose d'animal sans que ce soit sur la carte est courte et toujours la même : judías verdes, espinacas, lentejas et sopa de verduras sont souvent préparés avec du jambon ou du chorizo ; le riz et la paella «de verduras» sont souvent cuits avec du caldo de pescado ; l'ensaladilla contient du thon ; la salsa marinera et beaucoup de bouillons contiennent des fruits de mer. Derrière cela, aucune négligence, mais une frontière tracée ailleurs : le jambon et le bouillon de poisson comptent comme assaisonnement, et verduras nomme ce qu'on voit dans l'assiette. C'est pourquoi la question par catégorie ne marche pas et la question par l'assiette, oui — ¿Lleva jamón o chorizo? est concret, court, et n'est jamais entendu comme un reproche. Pour le gluten, c'est parallèle : croquetas, sauces liées à la farine, tout ce qui est rebozado, et la bière. Plus l'unique friteuse où poisson, croquettes et pommes de terre passent l'un après l'autre — c'est le point où une cuisine doit dire non honnêtement, et la plupart le font. Et un mot pour la carte elle-même : S.M. ou según mercado à côté des fruits de mer ne dit rien que sur le prix, rien sur le contenu.",
+        "exemplos": [
+          {
+            "es": "¿Lleva caldo de pescado o de carne?",
+            "pt": "YÉ-ba KAL-do de péss-KA-do o de KAR-né — Il y a du bouillon de poisson ou de viande dedans ? (la question pour tout riz)"
+          },
+          {
+            "es": "¿Lo fríen en la misma freidora que el pescado?",
+            "pt": "lo FRI-en én la MISS-ma frei-DO-ra — Vous les faites frire dans la même friteuse que le poisson ?"
+          }
+        ]
+      },
+      {
+        "titulo": "Deux lettres que cette phrase vous apprend en même temps",
+        "corpo": "¿Lleva jamón? fait trois mots et contient votre plus grand piège de lecture et son contraire. Le double l est votre y : ll et y se lisent comme le y de yaourt, de paille, de fille — llave, botella, tortilla, calle, allí, et justement lleva, YÉ-ba. C'est la seule règle de lecture de l'espagnol qui travaille pour vous et non contre vous, parce que vous avez déjà le son et n'échangez que la lettre. La lettre espagnole j, elle, n'est jamais votre j : ce n'est ni le j de «jour» ni le ch de «chat» — c'est un raclement au fond de la gorge, le son que vous n'avez pas. Le plus simple : visez votre r, il se fait au même endroit. jamón, c'est kha-MON, ajo c'est A-kho, jarra c'est KHA-rra. Même chose pour g devant e et i, et c'est là que logent deux mots de cette leçon : alérgico, c'est a-LÈR-khi-ko, et vegetariano, c'est bé-khé-ta-RIA-no, jamais avec un g dur. Deux mots encore, fréquents ici, qui demandent le même traitement : celíaco, c'est ssé-LI-a-ko, et alérgenos, c'est a-LÈR-khé-noss.",
+        "exemplos": [
+          {
+            "es": "¿Lleva ajo?",
+            "pt": "YÉ-ba A-kho — Il y a de l'ail dedans ? (deux mots, deux lettres, deux directions)"
+          },
+          {
+            "es": "Soy vegetariano: no como carne ni pescado.",
+            "pt": "soi bé-khé-ta-RIA-no — Je suis végétarien : ni viande ni poisson. (le v est un b, le g est un raclement de gorge)"
+          }
+        ]
+      },
+      {
+        "titulo": "La carte des allergènes n'est pas une faveur — et vous la connaissez déjà",
+        "corpo": "Ce que vous demandez en Espagne avec la carta de alérgenos est la même chose que vous connaissez en France : l'information sur les quatorze allergènes à déclaration obligatoire, encadrée par le règlement européen 1169/2011 et, en Espagne, en plus par le Real Decreto 126/2015 ; elle vaut expressément aussi pour les plats servis non emballés — donc pour l'assiette au restaurant, pas seulement pour le paquet au supermarché. Concrètement : il doit y avoir une information, sous une forme vérifiable, et dans la plupart des maisons c'est un classeur ou une feuille derrière le comptoir. L'utilité pour vous est moins juridique que sociale : la question déplace la conversation de votre prononciation et de son appréciation vers un papier que la cuisine a elle-même écrit. C'est pourquoi elle vient en troisième position dans le cours et non en première — c'est le levier, pas l'ouverture. Là où la feuille n'existe pas, c'est un signal sur la maison, et vous décidez avec vos pieds, pas avec une discussion.",
+        "exemplos": [
+          {
+            "es": "¿Tienen la carta de alérgenos?",
+            "pt": "TIÉ-nen la KAR-ta de a-LÈR-khé-noss — Avez-vous la carte des allergènes ? (elle doit exister)"
+          },
+          {
+            "es": "¿Puede avisar en cocina, por favor?",
+            "pt": "POUÉ-dé a-bi-SSAR én ko-SSI-na — Pouvez-vous prévenir en cuisine, s'il vous plaît ?"
+          }
+        ]
+      }
+    ]
+  }
+}

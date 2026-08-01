@@ -1,0 +1,786 @@
+{
+  "id": "i05",
+  "slot": "I05",
+  "nivel": "intermediario",
+  "numero": 23,
+  "parte": "23",
+  "titulo": "Les cinq questions qu'ils posent",
+  "subtitulo": "L'ouverture qui tombe à tous les comptoirs — d'où vous venez, si c'est la première fois, combien de jours, si ça vous plaît, ce que vous avez mangé — et les réponses courtes qui en rendent une au lieu de clore",
+  "moldura": "ganha",
+  "cena": "Deuxième tournée à un comptoir, dans une ville de la côte où vous êtes arrivé ce matin par la route ; l'homme sur le tabouret s'est à moitié retourné et vient de vous demander d'où vous venez — et il vous a tutoyé.",
+  "decisao": "si les cinq questions deviennent une conversation ou restent en plan — la table qui répond et en rend une repart avec le plat qui n'est pas sur la carte, le bar sans enseigne, une invitation à la table du dimanche et, dans une petite boutique, de temps en temps une tournée qui ne passe jamais sur l'addition ; la table qui se contente de hocher la tête est servie et laissée tranquille. Pour quelqu'un qui revient sur la même côte, parfois avec une maison là-bas, c'est la différence entre douze jours d'habitué et douze jours de client.",
+  "emJogo": "ambos",
+  "moldes": [
+    "PREFERENCIA"
+  ],
+  "clique": {
+    "contagem": [
+      "le comptoir",
+      "la terrasse",
+      "l'étal du marché",
+      "le taxi",
+      "la réception"
+    ],
+    "desconto": "Ces phrases, personne ne vous les a données. Vous les avez bâties, avec deux débuts et deux mots rendus.",
+    "piso": "Vous répondez aux cinq questions qu'un inconnu vous pose au comptoir et vous en rendez une. La plupart des clients répondent à la première et hochent la tête pour les quatre autres."
+  },
+  "cliqueAudioKey": "i05-n30",
+  "frasePiso": "Vous répondez aux cinq questions qu'un inconnu vous pose au comptoir et vous en rendez une. La plupart des clients répondent à la première et hochent la tête pour les quatre autres.",
+  "permissao": "Vous n'aurez jamais à dire «estáis», «habéis» ou «sois» vous-même — vous les entendez toute la journée et vous n'en construisez aucun, et aux Canaries «ustedes» fait le même travail. Chez vous, un seul mot, «vous», fait le service du singulier poli et du pluriel ; ici il y en a quatre, et c'est le seul endroit du voyage où votre langue en a moins que celle d'en face : vous n'avez qu'à les reconnaître. Trois mots font une réponse entière, et aimer la chose la plus évidente est une vraie réponse : personne ne note votre goût. Si un inconnu vous tutoie, vous avez le droit de le lui rendre tout de suite avec un «¿y tú?» — ce n'est pas trop familier, c'est le ton chaud ordinaire d'ici. Et vous avez le droit de perdre la question et de la faire répéter deux fois sans que la conversation en souffre.",
+  "permissaoAudioKey": "i05-n27",
+  "espelho": "Rabaisser son propre espagnol — «non, non, c'est affreux» — c'est ça qui détonne là-bas : ça renvoie la balle vide, et celui qui tenait la porte la referme poliment ; et exiger sa langue au comptoir de l'autre, c'est le même geste à toutes les frontières, dans les deux sens.",
+  "fichasCulturais": [
+    {
+      "sinal": "Quelqu'un que vous avez rencontré il y a quatre-vingt-dix secondes vous demande d'où vous êtes, si c'est la première fois, combien de jours vous avez, si ça vous plaît et ce que vous avez mangé — l'une après l'autre, sans pause.",
+      "suaLeitura": "On me jauge, et dans dix secondes il va falloir tenir une vraie conversation — alors je souris, ou je bascule en français.",
+      "oQueEAli": "C'est l'ouverture ordinaire pour quiconque vient d'entrer, et c'est comme ça qu'un inconnu au comptoir devient quelqu'un qui est là. Les questions sont l'accueil, pas le contrôle.",
+      "oQueVoceFaz": "Répondre à chacune en trois ou quatre mots, et en rendre une courte après les deux premières.",
+      "oQueMelhora": "Vous cessez d'être la table à qui personne ne parle, et les réponses reviennent avec des adresses dedans.",
+      "ondeNaoVale": "Pas au comptoir avec onze personnes derrière vous, et pas à la banque, chez le médecin ni à un contrôle de la Guardia Civil — là, personne ne demande rien qui ne soit sur un formulaire, et le silence n'est pas de la froideur.",
+      "evidencia": "CONSENSO",
+      "audioKeys": [
+        "i05-n20",
+        "i05-n21",
+        "i05-n22"
+      ]
+    },
+    {
+      "sinal": "Les questions arrivent toutes en «tú» — «¿de dónde eres?», «¿y tú?» — et l'homme de vingt-cinq ans à côté de vous attend une réponse sur le même ton.",
+      "suaLeitura": "Il est un peu familier ; je reste poli et à distance, comme chez moi avec un inconnu. Ou l'inverse : je suis en Méditerranée, je me sens chez moi, je tutoie tout le monde.",
+      "oQueEAli": "Au comptoir, le «tú» est le réglage par défaut, et les questions viennent exactement sur ce ton ; rester au «usted» n'est pas du respect formel, ça se lit comme une distance choisie, et la distance revient. Dans l'autre sens, à la banque, chez le médecin ou avec une personne nettement plus âgée dans un cadre formel, le «usted» est celui qui convient.",
+      "oQueVoceFaz": "Répondre sur le même ton et rendre avec «¿y tú?» ; garder le «usted» pour les guichets, l'administration et les gens nettement plus âgés. La machine, vous l'avez déjà — elle pointe juste ailleurs.",
+      "oQueMelhora": "L'ouverture devient une conversation au lieu d'un interrogatoire, et la deuxième soirée ne ressemble pas à la première.",
+      "ondeNaoVale": "Pas avec la Guardia Civil, à la banque, chez le médecin, à un guichet administratif ni avec des personnes nettement plus âgées en cadre formel — là, le «usted» est juste, et un cours qui vous l'enlève vous a pris quelque chose.",
+      "evidencia": "CONSENSO",
+      "audioKeys": [
+        "i05-n23",
+        "i05-n24",
+        "i05-n26"
+      ]
+    },
+    {
+      "sinal": "Vous lui rendez une question — s'il y a quelque chose qu'on ne fait qu'ici — et il s'arrête, et il y réfléchit pour de bon avant de répondre.",
+      "suaLeitura": "Je viens de mettre un inconnu au travail, et je prends un après-midi qu'on ne m'a pas proposé.",
+      "oQueEAli": "Qu'on lui demande ce qu'il y a à savoir sur sa ville est une tâche qu'on accepte volontiers, et ici elle se fait à voix haute, au comptoir, pendant que le reste du bar écoute et le corrige.",
+      "oQueVoceFaz": "Demander une fois, puis se taire et le laisser répondre à son rythme. Noter le nom qu'il donne.",
+      "oQueMelhora": "Vous repartez avec un plat et une rue qu'aucune recherche n'aurait trouvés, et souvent il dit au patron ce que vous allez boire ensuite. Sur une côte où vous reviendrez, le nom noté sert plusieurs voyages.",
+      "ondeNaoVale": "Pas avec quelqu'un qui écoule une file à deux heures et demie — là, la même question est une gêne, et ce qui revient est le premier nom de la liste.",
+      "evidencia": "CONSENSO",
+      "audioKeys": [
+        "i05-n16",
+        "i05-n17",
+        "i05-n18"
+      ]
+    }
+  ],
+  "fatosDatados": [
+    {
+      "id": "vosotros-receptivo-e-ustedes-no-sul",
+      "afirmacao": "«Vosotros» est le «vous» pluriel ordinaire dans la plus grande partie de l'Espagne, et un visiteur est presque toujours du côté de celui qui le reçoit plutôt que de celui qui le produit ; aux Canaries et dans une grande partie de l'Andalousie occidentale, «ustedes» tient le même rôle dans l'usage informel.",
+      "fonte": "docs/pesquisa-espanha.md §4.2, apoiada em RAE/ASALE, Nueva gramática básica §10.6.2 e Moreno Fernández (CVC); a nuance regional está marcada na própria pesquisa como síntese secundária. O ÂNGULO FRANCÊS desta parte — o `vous` francês faz DOIS trabalhos (singular formal + plural) onde o espanhol distingue quatro formas, e por isso o `vosotros` peninsular é justamente o que mais custa a este comprador distinguir de `ustedes` (docs/DERIVACAO-FR.md §4.3) — é observação tipológica corrente sobre o francês, NÃO parte da afirmação datada, e não carrega fonte primária própria.",
+      "ano": 2026,
+      "revisarAte": "2029-01-01",
+      "evidencia": "CONSENSO",
+      "risco": "baixo",
+      "audioKeys": [
+        "i05-cuantosdias-e",
+        "i05-n27"
+      ]
+    }
+  ],
+  "_notas": {
+    "_": "PARTE ESCRITA EM FRANCÊS (`aguardaNarracao` removido, `cena` declarado — entra em vigor estrito no valida-tom). É a CASA do molde social PREFERENCIA e a primeira parte de APROVEITO deste SKU. A fala espanhola é ativo de DESTINO: NENHUM campo `es`, `audioKey` ou `tts` foi tocado, os 18 audioKey espanhóis herdados do par base continuam todos em uso (nenhum clipe gravado fica órfão) e o custo de crédito espanhol desta parte é ZERO. O que este SKU paga aqui é a narração FRANCESA — GuiaFem, dois clipes de GuiaMasc e os doze prompts.",
+    "voz_guia_renomeada": "As vozes-guia dos steps passaram de `Juli`/`Thomas` (resíduo do scaffold alemão) para `GuiaFem`/`GuiaMasc`, que são os nomes declarados em `audio.config.json._g14.guia` para este SKU. Não é cosmético: o G14 (voz × língua) só confere um clipe cuja `voz` está no conjunto `guia` ou `alvo` — com `Juli`/`Thomas` a narração francesa passaria SEM SER CHECADA. Carmen e Emilio (peninsulares, alvo) intocados.",
+    "clipe_espanhol_novo": "NENHUM. A GAG `vino`×`fino` NÃO ENTRA: ela MORRE neste par, porque o francês distingue ⟨b⟩ de ⟨v⟩ e diz [vino] certo — `prefiero el vino tinto` sai limpo e ninguém pede um xerez por engano (DERIVACAO-FR §1.2 linha 13, §1.4, e a nota de PREFERENCIA em `moldes.json`). Copiar o recall alemão de B01 aqui seria o anti-padrão 9 em ato. Consequência estrutural: os DOIS clipes do guia-masc que no par alemão cobravam a gag (t01/t02) ficam LIVRES e passam a carregar o FALSO AMIGO deste slot, `en absoluto` — entregue por CITAÇÃO da guia (voz francesa citando o espanhol, o que o G14 permite), NUNCA como clipe nativo novo nem como alvo de produção. `moldes.json` marca `en_absoluto` como «CLIPE NOVO se usado»; a decisão editorial desta parte é NÃO gastar essa linha de crédito (mesma decisão de I07 com `embarazada` — a fala espanhola nova é a única linha de crédito espanhol do SKU, anti-padrão 21). Se o dono quiser `—¿Te molesta? —En absoluto.` como clipe nativo (Carmen/Emilio), é decisão de manifesto, e I05 é o endereço.",
+    "falso_amigo_desta_parte": "`en absoluto` — o único do inventário cujo sentido é OPOSTO, e por isso o mais barato de errar sem perceber: `absolument` do francês diz SIM, `en absoluto` do espanhol diz NÃO, «pas du tout». `—¿Te molesta? —En absoluto.` o francês entende «oui, beaucoup» e a conversa vira ao contrário sem que ninguém veja. É item de ESCUTA: o aluno não precisa produzir a frase, precisa não entendê-la ao avesso. Regra de redação cumprida (DERIVACAO-FR §4.0): UM falso amigo por parte, grudado à cena, DEPOIS de o aluno já ter produzido — t01/t02 caem logo depois de ele dizer `Prefiero el vino tinto`, nunca antes, e nunca como lista lida em voz alta. Reaparece só no corpo do `aprofundar` §2, que é leitura, não áudio.",
+    "inversao_deste_par": "vs DE: no par alemão o CORAÇÃO de I05 era a recalibragem `Sie`→`tú` (o instinto de recuar para o formal onde o balcão é caloroso), e ela gastava três clipes seguidos em sentido ÚNICO. No francês o tratamento é erro de SEGUNDA ORDEM, mole e BIDIRECIONAL (DERIVACAO-FR §2.1 e §3.4 item 2): copiar o bloco anti-`Sie` alemão é o anti-padrão 9. O beat fica, mais leve, e ganha a metade que o alemão não tinha — n26 carrega o `usted` DEVIDO no banco, no médico e diante da Guardia Civil, contra a sub-formalização de quem se sente em casa no Mediterrâneo. O coração migra para dois lugares que são deste par: (a) o falso amigo de escuta `en absoluto`; (b) o `vous` que faz DOIS trabalhos — o francês tem UMA palavra onde o espanhol tem quatro (`tú`/`usted`/`vosotros`/`ustedes`), e este é o único ponto da viagem em que a língua do comprador tem MENOS distinções que a de destino (DERIVACAO-FR §4.3). No alemão o `vosotros` era quase de graça (`ihr` existe e mapeia 1:1); aqui é justamente o que mais custa distinguir de `ustedes`, e a permissão trata disso.",
+    "molde_casa_e_redisparos": "CASA de PREFERENCIA, o BRINDE do roster: a inversão de `gustar` — o obstáculo mais notório do anglófono — é NATIVA do francês via `plaire` (`ça me plaît` = experienciador no dativo, coisa como sujeito). A âncora entra em CINCO palavras — «ça marche comme plaire» (INV-7) — e a proibição do jargão continua inteira: `me gusta` é bloco congelado com a coisa depois, a palavra «verbe» não aparece, a inversão do sujeito nunca se explica (kill-switch PRODUTO §5.1). Os quatro tempos NOMEIAM «le moule» (G15, `_regras.vocabulario_molde`), sempre no MASCULINO — `la moule` é mexilhão, e o par mínimo de gênero reforça de brinde a lição do artigo colado. O tempo que o brinde libera NÃO se devolve ao roteiro: vai para ENCAIXES — sete de PREFERENCIA (`este barrio`, `esta plaza`, `el vino tinto`, `sentarme fuera`, `el de la esquina`, `el pulpo`, `andar`) em doze `responde`. Redisparos cumpridos com encaixe novo: HAY (`¿Hay algo típico de aquí?`) e SOY-ESTOY (`Soy de Londres, ¿y tú?`).",
+    "fonetica_desta_parte": "A carga é a que `moldes.json` declara para PREFERENCIA: TÔNICA e FINAIS. O aquecimento fica no gesto 4 (o flick), que no francês tem peso ALTO — o `r` dele é uvular e o espanhol quer o toque de língua: `prefiero`, `parece`, `primera`. A TÔNICA vai junto pelo respelling (pré-FYÉ-ro, pa-RÉ-ssé), porque o francês soca a última sílaba de tudo. Os FINAIS são o custo caro desta parte e estão em quase todo clipe: o `-s` de `días`, `más`, `Londres`, `gracias`, `estáis`, `habéis` — comer o `-s` de `días` custa o plural. NÃO entrou NADA de `h`, `qu`, `v`=[f], vogais puras ou ritmo silábico: são brindes do francês (o `qu` de `esquina` sai [k] de graça, onde o alemão penava com «kwe»), e ensiná-los é o anti-padrão 9. Esta parte não tem UMA jota: o glifo `kh` de B10 não é exercido aqui.",
+    "respelling_para_leitor_frances": "O campo `pinyin` foi RE-DERIVADO para o OLHO FRANCÊS na convenção JÁ DECLARADA em ep-b10/ep-i07 — nenhum glifo novo foi inventado nesta parte, de propósito (duas convenções paralelas divergiriam em silêncio). Esquema: MAIÚSCULA = sílaba tônica · `ou` = o `u` espanhol [u], nunca o [y] francês (`mucho`→MOU-tcho, `pulpo`→POUL-po, `tú`→tou) · `ss` = ⟨z⟩, ⟨c⟩+e,i e ⟨s⟩ intervocálico ou final, sempre duro, para bloquear o [z] francês (`plaza`→PLA-ssa, `vez`→béss, `Londres`→LON-dréss) · `tch` = ⟨ch⟩ espanhol, nunca o «ch» de «chat» · `y` = ⟨ll⟩/⟨y⟩, o «y» de «yaourt» (`barrio`→BA-rryo) · `b` = ⟨v⟩ (`vino`→BI-no, `vez`→béss) · ⟨h⟩ muda cai (`hay`→aï) · `qu` = k (brinde) · `-e` final → `-é` · finais escritas SÃO para pronunciar. INFERÊNCIA — pendência de revisor FR-L1 + espanhol peninsular antes do áudio (DERIVACAO-FR §5).",
+    "voz_das_chaves_ambiguas": "Três chaves vinham declaradas ora Carmen ora Emilio no par EN, com UM mp3 cada. A decisão do par base é MANTIDA e aplicada de forma consistente em toda aparição neste arquivo (ouvir, responde, shadow): `i05-esquina-e` = Emilio, `i05-pulpo-c` = Carmen, `i05-tipico-e` = Emilio. O mp3 é o mesmo; o que se conserva é o rótulo, único por chave dentro da parte.",
+    "previa_potencial": "Nenhuma prévia é cumprida aqui: I05 é a CASA de PREFERENCIA e o primeiro slot do módulo. HAY e SOY-ESTOY já têm casa (B08, B13) e chegam como redisparo, não como prévia.",
+    "pendencia_G14": "O portão voz × língua roda neste SKU (`audio.config.json._g14`, guiaLingua `fr`) e esta parte sai para zero divergência depois da renomeação GuiaFem/GuiaMasc: a guia francesa CITA espanhol dentro da narração francesa (é o trabalho dela — «me gusta», «prefiero», «¿y tú?», «en absoluto») e nunca o FALA; Carmen e Emilio não dizem uma palavra de francês. INV-5 exige conferência humana — este repositório já teve o acidente do mp3 na língua errada.",
+    "pendencias": [
+      "REVISOR FR-L1 + espanhol peninsular: todo o respelling `pinyin` desta parte é INFERÊNCIA, incluindo a marcação de tônica por MAIÚSCULA e o `ss` de final de palavra (o dispositivo que tenta devolver o `-s` que o francês apaga).",
+      "`en absoluto` SEM CLIPE é decisão editorial desta parte (citação da guia, zero crédito espanhol). Se o dono quiser o par gravado `—¿Te molesta? —En absoluto.`, é decisão de manifesto e I05 é o endereço — seria a única linha de crédito espanhol candidata aqui.",
+      "`Soy de Londres, ¿y tú?` é clipe HERDADO do par base e não se regrava: a narração glossa «Soy de» + votre ville e o `aprofundar` repete o ajuste. Nenhum comprador francês diz Londres, mas o mp3 é ativo de destino e a moldura resolve.",
+      "A taxa de repetição e a segunda residência do visitante francês são NÃO CONFERIDAS (DERIVACAO-FR §6 item 8): `decisao`, a ficha 3 e a narração falam do visitante que volta SEM número e sem afirmar taxa. O único dado com fonte encostado aqui é o meio de chegada (65% por carretera, Turespaña), e ele entra na `cena` como «par la route», não como estatística falada.",
+      "`moldes.json` v1 declara PREFERENCIA com casa em I05 e redisparos em I06 e I09; enquanto essas duas partes estiverem em alemão, o G9 vai acusar «molde aparece em uma parte só». É aviso agregado da obra em andamento, não regressão desta parte."
+    ]
+  },
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n01",
+      "bloco": "aquecimento",
+      "gesto": 4,
+      "tom": "ganha",
+      "pt": "Échauffement : le coup de langue. Un seul, en haut, jamais du fond de la gorge. Pré-FYÉ-ro, pa-RÉ-ssé, pri-MÉ-ra."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n02",
+      "pt": "La langue touche une fois et repart. Trois de plus, et l'appui au milieu, pas au bout."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "promptAudioKey": "i05-p01",
+      "promptPt": "Fin d'une longue soirée, vous êtes quatre, et il tape déjà une seule somme sur l'appareil. Devancez-le. Parlez maintenant.",
+      "audioKey": "e03c-separado-e",
+      "es": "Pagamos por separado, por favor.",
+      "pinyin": "pa-GA-moss por sé-pa-RA-do, por fa-BOR",
+      "pt": "chacun paie le sien"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n03",
+      "bloco": "cena",
+      "pt": "Deuxième tournée, un comptoir, une ville où vous êtes arrivé ce matin par la route. L'homme d'à côté se retourne à moitié."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n04",
+      "pt": "Il ne vous vend rien. Il vous pose cinq questions d'affilée, et il les pose vite."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i05-dedonde-e",
+      "receptivo": true,
+      "acao": "Écouter. Celle-là tombe partout, à chaque fois.",
+      "es": "¿De dónde eres?",
+      "pinyin": "dé DON-dé É-ress",
+      "pt": "👂 «Tu viens d'où ?» — et en «tú», dès la première phrase.",
+      "tts": "¿De dónde eres?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i05-primeravez-c",
+      "receptivo": true,
+      "acao": "Ce n'est pas un examen — la curiosité est vraie.",
+      "es": "¿Es la primera vez?",
+      "pinyin": "ess la pri-MÉ-ra béss",
+      "pt": "👂 «C'est la première fois ?»",
+      "tts": "¿Es la primera vez?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i05-cuantosdias-e",
+      "receptivo": true,
+      "acao": "«estáis» : il vous parle à tous les deux. À entendre, jamais à construire.",
+      "es": "¿Cuántos días estáis?",
+      "pinyin": "KOUAN-toss DI-ass ess-TAÏSS",
+      "pt": "👂 «Vous restez combien de jours ?» — à vous deux.",
+      "tts": "¿Cuántos días estáis?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i05-queteparece-c",
+      "receptivo": true,
+      "acao": "La question qui décide de la soirée.",
+      "es": "¿Qué te parece Madrid?",
+      "pinyin": "ké té pa-RÉ-ssé ma-DRID",
+      "pt": "👂 «Madrid, ça te plaît ?» — mettez le nom de la ville où vous êtes.",
+      "tts": "¿Qué te parece Madrid?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i05-quehabeis-e",
+      "receptivo": true,
+      "acao": "Pas de la conversation en l'air — il veut le nom du plat.",
+      "es": "¿Y qué habéis comido?",
+      "pinyin": "i ké a-BÉ-iss ko-MI-do",
+      "pt": "👂 «Et vous avez mangé quoi ?»",
+      "tts": "¿Y qué habéis comido?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n05",
+      "pt": "Cinq en trente secondes. Un mot par question, et il se retourne vers la télé."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n06",
+      "tom": "ganha",
+      "pt": "Trois mots par question, et une rendue — et la soirée prend une autre forme."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n07",
+      "bloco": "molde",
+      "pt": "Le moule qui fait ça tient en deux mots, et ensuite ce qui vous plaît."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i05-barrio-e",
+      "molde": "PREFERENCIA",
+      "es": "Me gusta mucho este barrio.",
+      "pinyin": "mé GOUSS-ta MOU-tcho ESS-té BA-rryo",
+      "pt": "Ce quartier me plaît beaucoup. Ça marche comme «plaire» : la chose vient après.",
+      "tts": "Me gusta mucho este barrio."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n08",
+      "pt": "«Me gusta», puis la chose. Devant, rien ne bouge. Seule la fin change."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i05-plaza-c",
+      "molde": "PREFERENCIA",
+      "es": "Me gusta mucho esta plaza.",
+      "pinyin": "mé GOUSS-ta MOU-tcho ESS-ta PLA-ssa",
+      "pt": "Les deux mêmes mots, avec autre chose au bout.",
+      "tts": "Me gusta mucho esta plaza."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n09",
+      "pt": "Le petit mot devant la chose a suivi — este, esta. À l'oreille, jamais à la règle."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "PREFERENCIA",
+      "encaixe": "este barrio",
+      "encaixeGloss": "ce quartier",
+      "consulta": [
+        "simpatia/elogiar-lugar",
+        "simpatia/puxar-conversa"
+      ],
+      "promptAudioKey": "i05-p02",
+      "promptPt": "L'homme sur le tabouret veut savoir ce que vous pensez des ruelles où vous marchez depuis le petit déjeuner. Parlez maintenant.",
+      "audioKey": "i05-barrio-e",
+      "es": "Me gusta mucho este barrio.",
+      "pinyin": "mé GOUSS-ta MOU-tcho ESS-té BA-rryo",
+      "pt": "ce que vous en pensez"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "PREFERENCIA",
+      "encaixe": "esta plaza",
+      "encaixeGloss": "cette place",
+      "promptAudioKey": "i05-p03",
+      "promptPt": "Deux villes plus loin, une terrasse posée sur les pavés devant une église, et le serveur s'arrête pour demander si ça vous plaît, ici. Parlez maintenant.",
+      "audioKey": "i05-plaza-c",
+      "es": "Me gusta mucho esta plaza.",
+      "pinyin": "mé GOUSS-ta MOU-tcho ESS-ta PLA-ssa",
+      "pt": "sur l'endroit où vous êtes assis"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n10",
+      "pt": "Un deuxième début, pour quand deux choses sont devant vous et que vous en voulez une."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i05-tinto-e",
+      "molde": "PREFERENCIA",
+      "es": "Prefiero el vino tinto.",
+      "pinyin": "pré-FYÉ-ro el BI-no TIN-to",
+      "pt": "Je préfère le rouge.",
+      "tts": "Prefiero el vino tinto."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i05-fuera-c",
+      "molde": "PREFERENCIA",
+      "es": "Prefiero sentarme fuera.",
+      "pinyin": "pré-FYÉ-ro sen-TAR-mé FOUÉ-ra",
+      "pt": "Je préfère m'asseoir dehors. — même début, avec un geste au bout.",
+      "tts": "Prefiero sentarme fuera."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i05-andar-e",
+      "molde": "PREFERENCIA",
+      "es": "Prefiero andar.",
+      "pinyin": "pré-FYÉ-ro an-DAR",
+      "pt": "Je préfère marcher. — deux mots, une réponse entière.",
+      "tts": "Prefiero andar."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n11",
+      "pt": "«Prefiero», puis la chose ou le geste. Personne ne vous demande de vous expliquer."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "PREFERENCIA",
+      "encaixe": "el vino tinto",
+      "encaixeGloss": "le vin rouge",
+      "promptAudioKey": "i05-p04",
+      "promptPt": "Un étal en fin de matinée, deux bouteilles ouvertes sur la planche, et la femme derrière tient un verre dans chaque main et vous attend. Parlez maintenant.",
+      "audioKey": "i05-tinto-e",
+      "es": "Prefiero el vino tinto.",
+      "pinyin": "pré-FYÉ-ro el BI-no TIN-to",
+      "pt": "laquelle des deux"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "i05-t01",
+      "pt": "Un faux ami, et celui-là dit le contraire : «en absoluto» sonne comme «absolument». Ça veut dire pas du tout."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "i05-t02",
+      "pt": "«¿Te molesta?» — «En absoluto.» Ce n'est pas oui : c'est non, pas le moins du monde. À l'oreille, ce mot s'inverse."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "PREFERENCIA",
+      "encaixe": "sentarme fuera",
+      "encaixeGloss": "m'asseoir dehors",
+      "consulta": [
+        "mesa/mesa"
+      ],
+      "promptAudioKey": "i05-p05",
+      "promptPt": "La porte du restaurant, neuf heures et demie, et la fille aux cartes montre d'une main la salle sombre et de l'autre le trottoir. Parlez maintenant.",
+      "audioKey": "i05-fuera-c",
+      "es": "Prefiero sentarme fuera.",
+      "pinyin": "pré-FYÉ-ro sen-TAR-mé FOUÉ-ra",
+      "pt": "où vous voulez être"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n12",
+      "pt": "Encore un, pour quand vous avez essayé deux endroits et qu'il y en avait un meilleur."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i05-esquina-e",
+      "molde": "PREFERENCIA",
+      "es": "Me gusta más el de la esquina.",
+      "pinyin": "mé GOUSS-ta mass el dé la ess-KI-na",
+      "pt": "Celui du coin me plaît davantage. — deux bars, une réponse courte.",
+      "tts": "Me gusta más el de la esquina."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "PREFERENCIA",
+      "encaixe": "el de la esquina",
+      "encaixeGloss": "celui du coin",
+      "consulta": [
+        "simpatia/puxar-conversa"
+      ],
+      "promptAudioKey": "i05-p06",
+      "promptPt": "Dans le taxi du retour, le chauffeur a nommé les deux bars où vous êtes allés ce soir et veut savoir dans lequel vous retourneriez. Parlez maintenant.",
+      "audioKey": "i05-esquina-e",
+      "es": "Me gusta más el de la esquina.",
+      "pinyin": "mé GOUSS-ta mass el dé la ess-KI-na",
+      "pt": "dans lequel des deux"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n13",
+      "pt": "Maintenant la moitié qui entretient la chose : ce soir, chaque réponse finit par deux mots."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i05-ytu-c",
+      "receptivo": true,
+      "acao": "L'accrocher, et la question est de nouveau la sienne.",
+      "es": "¿Y tú?",
+      "pinyin": "i tou",
+      "pt": "👂 «Et toi ?» — deux mots, en «tú», et la balle est repartie.",
+      "tts": "¿Y tú?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n14",
+      "pt": "Dites le vôtre, rendez-la aussitôt, et on cesse de vous interroger."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i05-londres-e",
+      "molde": "SOY-ESTOY",
+      "es": "Soy de Londres, ¿y tú?",
+      "pinyin": "soï dé LON-dréss, i tou",
+      "pt": "D'où vous êtes chez vous — «Soy de» et votre ville —, puis c'est à lui.",
+      "tts": "Soy de Londres, ¿y tú?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "SOY-ESTOY",
+      "encaixe": "de Londres",
+      "encaixeGloss": "de Londres — mettez votre ville",
+      "consulta": [
+        "simpatia/puxar-conversa",
+        "chegar/tu-usted"
+      ],
+      "promptAudioKey": "i05-p07",
+      "promptPt": "Première des cinq questions, trente secondes d'âge, et il vous attend. Dites d'où vous venez, et rendez-la aussitôt. Parlez maintenant.",
+      "audioKey": "i05-londres-e",
+      "es": "Soy de Londres, ¿y tú?",
+      "pinyin": "soï dé LON-dréss, i tou",
+      "pt": "et ensuite c'est à lui"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n15",
+      "pt": "Deux des cinq veulent un chiffre ou un oui. Les deux réponses font trois mots."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i05-primera-c",
+      "es": "Sí, es la primera vez.",
+      "pinyin": "si, ess la pri-MÉ-ra béss",
+      "pt": "Oui, la première fois. Point, et c'est à lui.",
+      "tts": "Sí, es la primera vez."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i05-p08",
+      "promptPt": "Il a demandé si vous étiez déjà venu — vous ne l'étiez pas. Trois mots, et c'est à lui. Parlez maintenant.",
+      "audioKey": "i05-primera-c",
+      "es": "Sí, es la primera vez.",
+      "pinyin": "si, ess la pri-MÉ-ra béss",
+      "pt": "trois mots, puis point"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i05-diezdias-e",
+      "es": "Diez días. ¿Y tú, eres de aquí?",
+      "pinyin": "dyéss DI-ass. i tou, É-ress dé a-KI",
+      "pt": "Dix jours — et ça repart aussitôt vers lui.",
+      "tts": "Diez días. ¿Y tú, eres de aquí?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i05-p09",
+      "promptPt": "Il veut savoir combien de temps vous restez. Donnez le chiffre, et découvrez si c'est sa ville à lui. Parlez maintenant.",
+      "audioKey": "i05-diezdias-e",
+      "es": "Diez días. ¿Y tú, eres de aquí?",
+      "pinyin": "dyéss DI-ass. i tou, É-ress dé a-KI",
+      "pt": "le chiffre, puis la sienne"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n16",
+      "pt": "Et il y a une sixième question. Celle-là est la vôtre, et c'est elle qui paie la soirée."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i05-tipico-e",
+      "molde": "HAY",
+      "es": "¿Hay algo típico de aquí?",
+      "pinyin": "aï AL-go TI-pi-ko dé a-KI",
+      "pt": "«Il y a quelque chose qu'on ne trouve qu'ici ?» — maintenant il a une tâche.",
+      "tts": "¿Hay algo típico de aquí?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "HAY",
+      "encaixe": "algo típico de aquí",
+      "encaixeGloss": "quelque chose qu'on ne trouve qu'ici",
+      "consulta": [
+        "simpatia/puxar-conversa"
+      ],
+      "promptAudioKey": "i05-p10",
+      "promptPt": "Il vous a raconté où il est né et pourquoi le pont est fermé. Donnez-lui la question qu'il attend depuis le début de la soirée. Parlez maintenant.",
+      "audioKey": "i05-tipico-e",
+      "es": "¿Hay algo típico de aquí?",
+      "pinyin": "aï AL-go TI-pi-ko dé a-KI",
+      "pt": "la seule question qui est la vôtre"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n17",
+      "pt": "Il réfléchit pour de bon, et le reste du bar se met à le corriger. Laissez-les faire."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n18",
+      "tom": "ganha",
+      "pt": "De là sortent le plat qui n'est pas sur la carte, le bar sans enseigne, la table du dimanche."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n19",
+      "pt": "La dernière des cinq, c'est le repas — et c'est celle qu'ils veulent le plus vous entendre répondre."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i05-pulpo-c",
+      "molde": "PREFERENCIA",
+      "es": "Me gusta mucho el pulpo.",
+      "pinyin": "mé GOUSS-ta MOU-tcho el POUL-po",
+      "pt": "La réponse qui transforme une carte en conversation.",
+      "tts": "Me gusta mucho el pulpo."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "PREFERENCIA",
+      "encaixe": "el pulpo",
+      "encaixeGloss": "le poulpe",
+      "consulta": [
+        "simpatia/elogiar-comida",
+        "simpatia/puxar-conversa"
+      ],
+      "promptAudioKey": "i05-p11",
+      "promptPt": "Le matin, la réception, et la femme qui a fait passer votre table hier veut savoir ce que vous avez pris. Il y en a un que vous recommandez toujours. Parlez maintenant.",
+      "audioKey": "i05-pulpo-c",
+      "es": "Me gusta mucho el pulpo.",
+      "pinyin": "mé GOUSS-ta MOU-tcho el POUL-po",
+      "pt": "celui vers lequel vous revenez"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n20",
+      "bloco": "capsula",
+      "pt": "Revenons aux cinq questions. Ce n'est pas un interrogatoire, et personne n'est curieux de vous."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n21",
+      "pt": "C'est l'accueil ordinaire de qui vient d'entrer, et en une minute c'est passé."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n22",
+      "pt": "Pas au comptoir avec onze personnes derrière vous. Là, personne ne demande rien, et c'est très bien."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n23",
+      "pt": "Une chose encore, et elle est pour vous : les questions arrivent en «tú». «¿De dónde eres?», «¿y tú?»."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n24",
+      "pt": "Chez vous, «vous» fait tout le travail. Ici, le «tú» du comptoir est le ton normal, pas un excès."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n25",
+      "tom": "protege",
+      "pt": "Reculer vers le «usted» quand on vous tutoie se lit comme de la distance, pas comme du respect."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n26",
+      "pt": "À la banque, chez le médecin, devant la Guardia Civil, le «usted» reste juste. Se sentir chez soi ne l'annule pas."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n27",
+      "bloco": "permissao",
+      "pt": "«Estáis», «habéis» : jamais à produire. Vous les entendez toute la journée. Aux Canaries, «ustedes» fait le même travail."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n28",
+      "tom": "ganha",
+      "pt": "Trois mots font une réponse entière. Et un «¿y tú?» rendu tombe juste, jamais trop familier."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n29",
+      "bloco": "espelho",
+      "pt": "Rabaisser son propre espagnol — «non, non, c'est affreux» — renvoie la balle vide, et la porte ouverte se referme."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n30",
+      "bloco": "clique",
+      "tom": "ganha",
+      "pt": "Comptez les endroits. Le comptoir. La terrasse. L'étal du marché. Le taxi. La réception."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n31",
+      "pt": "Ces phrases, personne ne vous les a données. Vous les avez bâties, avec deux débuts et deux mots rendus."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n32",
+      "bloco": "piso",
+      "pt": "Vous répondez aux cinq et vous en rendez une. La plupart répondent à la première et hochent la tête pour le reste."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-s00",
+      "pt": "À répéter. Fort, avec eux, un seul coup de langue. Les deux de tous les jours :"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "i05-barrio-e",
+      "molde": "PREFERENCIA",
+      "es": "Me gusta mucho este barrio.",
+      "pinyin": "mé GOUSS-ta MOU-tcho ESS-té BA-rryo",
+      "pt": "Ce quartier me plaît beaucoup."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "i05-tinto-e",
+      "molde": "PREFERENCIA",
+      "es": "Prefiero el vino tinto.",
+      "pinyin": "pré-FYÉ-ro el BI-no TIN-to",
+      "pt": "Je préfère le rouge."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "i05-rend",
+      "bloco": "recap",
+      "tom": "ganha",
+      "pt": "Encore une fois, à voix haute, dans un endroit où l'on ne s'est pas encore arrêté. Personne ne vous a rien demandé."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "PREFERENCIA",
+      "encaixe": "andar",
+      "encaixeGloss": "marcher",
+      "promptAudioKey": "i05-p12",
+      "promptPt": "Neuf heures et demie du matin, le parvis de la gare, et un chauffeur a ouvert une portière pour un endroit à quinze minutes à pied. Parlez maintenant.",
+      "audioKey": "i05-andar-e",
+      "es": "Prefiero andar.",
+      "pinyin": "pré-FYÉ-ro an-DAR",
+      "pt": "deux mots, et c'est une réponse"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i05-n33",
+      "pt": "C'est tout. On vous a demandé, vous avez répondu court, et vous en avez rendu une. Hasta luego."
+    }
+  ],
+  "aprofundar": {
+    "titulo": "Les cinq questions, et les deux débuts qui y répondent (lecture optionnelle)",
+    "secoes": [
+      {
+        "titulo": "Me gusta et prefiero — ça marche comme «plaire»",
+        "corpo": "Les deux s'apprennent entiers, avec au bout la chose qui vous plaît, et aucun des deux ne vous demande de calculer quoi que ce soit au comptoir. «Me gusta mucho este barrio» — ce quartier me plaît beaucoup. «Prefiero el vino tinto» — je préfère le rouge. La construction, vous l'avez déjà en français : c'est celle de «plaire». La chose vous plaît, ce n'est pas vous qui aimez la chose — «ça me plaît», la personne devant, la chose derrière, exactement comme en espagnol. C'est pour ça que ce moule ne vous coûte aucun temps d'apprentissage : seulement l'habillage espagnol. «Mucho» est facultatif et ne fait que monter le volume ; «me gusta este barrio» est une réponse complète et parfaitement ordinaire. Une chose vaut d'être sue, et c'est la raison pour laquelle chaque exemple enregistré ne nomme qu'une seule chose : avec deux choses ou plus au bout, le début prend un -n — «me gustan las croquetas». Vous contournez ça pendant deux semaines entières en n'en nommant qu'une, ce qui est de toute façon la meilleure réponse socialement, parce qu'une chose nommée est ce que l'autre peut reprendre et prolonger. Le petit mot devant la chose la suit — este barrio, esta plaza, el vino, la plaza — et celui-là, vous le prenez à l'oreille ; à l'envers, c'est entendu comme un accent, pas comme une faute, et la phrase arrive intacte. Un avertissement qui ne coûte rien : «me gusta» dit d'une personne se lit comme une déclaration d'intérêt, pas comme de la gentillesse. Gardez-le pour les rues, les places, les assiettes et le vin.",
+        "exemplos": [
+          {
+            "es": "Me gusta mucho esta ciudad.",
+            "pt": "mé GOUSS-ta MOU-tcho ESS-ta syou-DAD — cette ville me plaît beaucoup"
+          },
+          {
+            "es": "Prefiero andar, gracias.",
+            "pt": "pré-FYÉ-ro an-DAR, GRA-syass — je préfère marcher, merci (une réponse entière à un taxi qu'on vous ouvre)"
+          }
+        ]
+      },
+      {
+        "titulo": "Les cinq questions, dans l'ordre où elles tombent",
+        "corpo": "Elles arrivent plus ou moins dans cet ordre, et elles sont les mêmes dans un bar de Bilbao et dans une boulangerie de Cadix. «¿De dónde eres?» — tu viens d'où. «¿Es la primera vez?» — c'est la première fois. «¿Cuántos días estáis?» ou «¿Cuánto tiempo estáis?» — vous restez combien. «¿Qué te parece Madrid?» — littéralement «comment Madrid t'apparaît», et la réponse courte et honnête est la bonne. «¿Y qué habéis comido?» — et vous avez mangé quoi, qui n'est pas du remplissage : ce que vous avez mangé passe pour la preuve que vous vous y prenez bien. Deux autres tombent dans le même créneau : «¿Estáis de vacaciones?» (vous êtes en vacances) et «¿Y qué tal?» (et alors, comment ça va), qui est plutôt une porte ouverte qu'une question à réponse. Les réponses qui marchent font trois ou quatre mots, et chacune finit par quelque chose de rendu : «¿y tú?» fait l'affaire à chaque fois, et «¿eres de aquí?» — tu es d'ici — est celle qui vous vaut une biographie. Une réponse courte ne coûte rien en politesse ; une longue coûte pour de bon, parce que l'autre est debout, tient un verre et attend un tour. Et un mot à ne pas prendre à l'envers dans ce qu'on vous répond : «en absoluto». Il ressemble à «absolument», il dit exactement le contraire — «pas du tout», «pas le moins du monde». «—¿Te molesta que me siente aquí? —En absoluto» veut dire : allez-y, ça ne me dérange pas. Si vous l'entendez comme un oui, la conversation part à l'envers sans que personne s'en aperçoive : c'est le seul mot du voyage qui s'inverse, et il suffit de le savoir une fois.",
+        "exemplos": [
+          {
+            "es": "¿Y tú, eres de aquí?",
+            "pt": "i tou, É-ress dé a-KI — et toi, tu es d'ici ? (celle qui ouvre tout)"
+          },
+          {
+            "es": "¿Estáis de vacaciones?",
+            "pt": "ess-TAÏSS dé ba-ka-SYO-ness — 👂 vous êtes en vacances ? (à vous deux)"
+          }
+        ]
+      },
+      {
+        "titulo": "Vosotros : dans l'oreille toute la journée, jamais dans la bouche",
+        "corpo": "L'Espagne a un «vous pluriel» que l'Amérique latine n'a pas, et c'est pour ça que la moitié des questions d'ici sonnent comme s'il y avait dedans un mot que vous n'avez jamais rencontré. Et il y a une raison précise pour laquelle il vous coûte plus qu'à d'autres : chez vous, un seul mot, «vous», fait deux métiers — le singulier poli et le pluriel. L'espagnol les sépare, et là où vous avez deux formes il en a quatre : tú, usted, vosotros, ustedes. C'est le seul endroit du voyage où votre langue a moins de distinctions que celle d'en face — partout ailleurs c'est l'inverse. La bonne nouvelle est que la moitié qui vous manque est purement à recevoir. «Vosotros» vous tombe dessus chaque fois que quelqu'un s'adresse à votre table plutôt qu'à vous : «¿qué vais a tomar?» (vous prenez quoi), «¿habéis reservado?» (vous avez réservé), «¿de dónde sois?» (vous venez d'où), «pasad», «sentaos» (entrez, asseyez-vous). Vous êtes presque toujours du côté qui le reçoit — pour en produire un, il faudrait donner une instruction à deux Espagnols, ce que ce voyage ne contient pas. Il vit donc dans l'oreille et pas dans la bouche, et si un jour il vous en faut vraiment un, «ustedes» fait le service et vous marque comme l'étranger que vous êtes. Deux repères géographiques. Aux Canaries et dans une bonne partie de l'Andalousie occidentale, «ustedes» s'emploie aussi en informel — si vous passez une semaine à Séville sans entendre un seul «estáis», rien n'a raté et personne n'est formel avec vous. Et le -s au bout de ces formes s'amincit souvent, dans le Sud, jusqu'à un souffle — «estáih», «habéih» —, la même érosion que la partie d'écoute du cours prend de front. Ironie utile : c'est exactement ce que votre bouche fait toute seule en français, où le -s final ne se prononce pas. Vous les comprendrez donc mieux que la plupart — à condition de rendre le vôtre quand c'est vous qui parlez.",
+        "exemplos": [
+          {
+            "es": "¿Habéis reservado?",
+            "pt": "a-BÉ-iss rré-ser-BA-do — 👂 vous avez réservé ? (à la porte du restaurant)"
+          },
+          {
+            "es": "¿De dónde sois?",
+            "pt": "dé DON-dé soïss — 👂 vous venez d'où, tous les deux ?"
+          }
+        ]
+      },
+      {
+        "titulo": "Tú ou usted — la machine, vous l'avez déjà ; elle pointe ailleurs",
+        "corpo": "Tout ce que vous produisez dans cette partie est identique quel que soit celui qui vous fait face : «me gusta», «prefiero», «soy de Toulouse», «¿hay algo típico de aquí?» ne portent aucune décision sur la personne. Ce qui change, c'est ce que vous entendez. Un homme de votre âge sur le tabouret d'à côté dit «¿de dónde eres?» ; un serveur plus âgé, dans une salle plus formelle, dit «¿de dónde es usted?», et vous répondez la même chose aux deux. Le réglage par défaut au bar, en boutique, au restaurant et en taxi, c'est «tú», et c'est le contraire de ce que propose le réflexe rapporté de chez vous, où l'on vouvoie tout adulte inconnu. Prendre le «usted» partout n'est pas plus poli : ça met de la distance, et la distance revient ; au pire vous récoltez un «no me trates de usted, que me haces mayor» joyeux. Gardez-le pour trois endroits : la police et l'administration, les personnes nettement plus âgées, et un guichet formel. Si on vous tutoie, tutoyez en retour. Et l'erreur marche aussi dans l'autre sens, celle qu'on fait quand on se sent chez soi de ce côté-ci de la Méditerranée : tutoyer au guichet de la banque est le même écart à l'envers, et là il se remarque. Rendre sa question à quelqu'un de soixante-dix ans avec un «¿y tú?» ne casse rien — au pire, il trouve ça sympathique. Le miroir, pour finir, parce qu'il vaut dans les deux sens : l'Espagnol qui débarque à Paris ne se fait tutoyer nulle part et trouve le comptoir froid, sans que personne lui ait rien fait. C'est la même machine, réglée autrement — le changement ne coûte pas d'apprentissage, juste une décision.",
+        "exemplos": [
+          {
+            "es": "¿De dónde es usted?",
+            "pt": "dé DON-dé ess ouss-TÉD — 👂 la version usted de la première question"
+          },
+          {
+            "es": "¿Y usted?",
+            "pt": "i ouss-TÉD — 👂 et vous ? (ce qu'un inconnu plus âgé vous renvoie)"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "id": "b06",
+  "slot": "B06",
+  "nivel": "basico",
+  "numero": 6,
+  "parte": "6",
+  "titulo": "La première heure : la valise, la porte et l'argent liquide",
+  "subtitulo": "Un mot, deux syllabes, pour demander dans le hall d'arrivée tout ce que vous voulez faire vous-même — et le distributeur où vous ne retirez pas d'argent",
+  "moldura": "ganha",
+
+  "cena": "Dix heures et demie, le hall d'arrivée est clair, votre chambre n'est libre qu'à trois heures, et la valise à côté de vous décide de l'heure qui vient.",
+
+  "moldes": ["PUEDO"],
+
+  "clique": {
+    "contagem": ["la réception", "le bar", "la caisse", "l'entrée du métro"],
+    "desconto": "Ces quatre phrases, personne ne vous les a données. Vous les avez faites ici, à partir d'un seul mot, qui est à vous désormais.",
+    "piso": "Vous passez la première heure avec quatre questions à vous. La plupart n'en posent aucune de toute la première semaine."
+  },
+  "cliqueAudioKey": "b06-n22",
+
+  "frasePiso": "Vous passez la première heure avec quatre questions à vous. La plupart n'en posent aucune de toute la première semaine.",
+
+  "permissao": "Vous avez le droit de déposer la valise à la réception bien avant que la chambre soit libre — c'est ordinaire, pas une faveur. Vous avez le droit d'utiliser les toilettes du bar où vous venez de commander. Et «puedo» demande les deux à la fois, «je peux» et «j'ai le droit» — comme votre «pouvoir», rien à trancher. Votre téléphone, vous n'y touchez même pas : dans l'UE, votre forfait marche ici comme chez vous.",
+  "permissaoAudioKey": "b06-n20",
+
+  "fichasCulturais": [
+    {
+      "sinal": "Vingt pas après le tapis à bagages, le premier distributeur, le menu en français, et personne devant.",
+      "suaLeitura": "Pratique, et l'euro reste l'euro — rien ne peut vraiment mal tourner.",
+      "oQueEAli": "Le distributeur isolé du hall n'appartient à aucune banque, mais à l'exploitant de la machine, et celui-ci prend sa propre commission à chaque retrait — sur ces appareils, deux à cinq euros. Ce qui compte, ce n'est pas le montant, c'est qu'elle tombe par retrait et non par somme : trois fois cent coûtent trois fois, une fois trois cents coûte une fois. Et l'écran de conversion qui coûte de l'argent aux autres ne vous touche pas : carte en euros, pays en euros.",
+      "oQueVoceFaz": "Retirer beaucoup une fois plutôt que peu trois fois, et au distributeur d'une banque dans la rue — pas à celui du hall d'arrivée.",
+      "oQueMelhora": "Vous payez la commission une fois pour tout le voyage au lieu de deux fois par semaine, et l'argent reste où il doit rester.",
+      "ondeNaoVale": "Sauf si vous avez besoin des vingt euros tout de suite — pour le bus, pour le bar «SOLO EFECTIVO» à la porte. «Banque» n'est d'ailleurs pas une garantie : selon l'enseigne, la commission y va d'un demi-euro à six, donc au pire au-dessus de l'appareil isolé. Et au village, l'unique distributeur est parfois le seul à la ronde.",
+      "evidencia": "FATO",
+      "audioKeys": ["b06-t01", "b06-t02", "b06-n13"]
+    },
+    {
+      "sinal": "Vous n'avez presque pas de liquide sur vous, comme chez vous — et au comptoir du petit bar, un panneau dit «SOLO EFECTIVO».",
+      "suaLeitura": "Je paie tout par carte, partout — ici comme ailleurs, ça passera bien.",
+      "oQueEAli": "La surprise ne va pas où vous l'attendez. Dans les grandes villes — Madrid, Barcelone, València — la carte sans contact est le réglage par défaut, comme chez vous, et le minimum de cinq euros a disparu de la plupart des commerces. Mais rien n'oblige un établissement à prendre la carte : un bar peut légalement n'accepter que les espèces, et alors «SOLO EFECTIVO» est affiché à la porte.",
+      "oQueVoceFaz": "Un peu de liquide sur vous, en petites coupures, et la question avant de commander, pas à la caisse.",
+      "oQueMelhora": "Quarante à soixante euros en petites coupures couvrent tout ce qui marche sans carte, et vous ne retirez qu'une fois.",
+      "ondeNaoVale": "Au bar de quartier, au marché, à la petite pharmacie et dans le taxi hélé dans la rue, le liquide seul est ordinaire — et le billet de cinquante bloque le petit bar qui, à neuf heures du matin, n'a pas encore de fond de caisse.",
+      "evidencia": "FATO",
+      "audioKeys": ["b06-n10", "b06-n11"]
+    },
+    {
+      "sinal": "Vous cherchez un panneau dans le hall et n'en trouvez aucun : pas de «WC», pas un mot que vous connaissiez, mais ASEOS, SERVICIOS ou LAVABOS.",
+      "suaLeitura": "J'ai appris «baño», donc quelque chose cloche — et sans rien commander, de toute façon, je n'entre pas.",
+      "oQueEAli": "À l'oral, c'est «el baño» ; à l'écrit, presque jamais : sur les panneaux, ces trois mots-là. En Catalogne et à València, la même chose est en catalan — LAVABOS, le même mot, ou SERVEIS. Dans un bar, la porte va avec la commande, et la commande, c'est un café au comptoir, le poste le moins cher de la carte.",
+      "oQueVoceFaz": "Chercher les trois mots au lieu de «WC». Au bar, commander d'abord, demander ensuite — une phrase suffit.",
+      "oQueMelhora": "Vous trouvez la porte en dix secondes au lieu de deux tours du hall, et au bar vous êtes client, pas quémandeur.",
+      "ondeNaoVale": "À la gare, au centre commercial et au musée, la porte est là sans commander, parfois avec un tourniquet devant. Et dans un bar bondé à deux heures de l'après-midi, on ne demande pas, on y va.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["b06-n08", "b06-n09"]
+    }
+  ],
+
+  "fatosDatados": [
+    {
+      "id": "comision-del-cajero",
+      "afirmacao": "Chaque retrait en Espagne entraîne une commission de l'exploitant du distributeur, prélevée par retrait et non par montant : aux distributeurs des banques, selon l'enseigne, environ 0,50 à 6 euros ; aux distributeurs isolés des zones touristiques, en général 1,95 à 4,99 euros.",
+      "fonte": "Monito, «ATMs in Spain» e «Euronet ATM charges», 2026 — sintetizado em docs/pesquisa-espanha.md §8.2",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["b06-t01", "b06-t02"]
+    },
+    {
+      "id": "sin-obligacion-de-aceptar-tarjeta",
+      "afirmacao": "En Espagne, aucune loi n'oblige à accepter le paiement par carte ; un établissement peut légalement n'accepter que les espèces et le signale par l'affiche «SOLO EFECTIVO». À Madrid, Barcelone et València, le sans-contact est en même temps le réglage par défaut, et le minimum de 5 euros a disparu de la plupart des établissements.",
+      "fonte": "docs/pesquisa-espanha.md §8.2 (guias de campo 2026 convergentes; Euro Weekly News, abr/2026)",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": ["b06-n11", "b06-n12"]
+    },
+    {
+      "id": "roaming-en-la-ue",
+      "afirmacao": "À l'intérieur de l'UE, le forfait mobile national reste valable sans supplément («Roam like at home») ; la règle court jusqu'en 2032.",
+      "fonte": "Regulamento (UE) 2022/612 — citado em docs/DERIVACAO-FR.md §4.1 como motivo de o eSIM sair de B04 e de B06",
+      "ano": 2022,
+      "revisarAte": "2028-01-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": ["b06-n14"]
+    }
+  ],
+
+  "_notasDeAutoria": {
+    "_": "Narração FRANCESA de B06 escrita em 2026-07-28, re-derivada da parte alemã (ep-b06 DE) contra a DERIVACAO-FR.md §4.2 (linha B06: «eSIM sai (roaming UE); caixa de banco × Euronet; ¿Dónde hay un cajero? mantém a prévia; cartão já é hábito») e o roster FR (moldes.json → PUEDO, casa B06). NENHUMA linha alemã sobreviveu. NENHUM campo `es`/`tts`/`audioKey` de clipe reusado foi tocado — conferido contra static/audio/manifest.json: as 15 chaves espanholas batem verbatim (b06-*, e02b-alojo-e, e05a/e05b-cajero, b08-comision-e, i09-sentarme-e). Vozes-guia: Juli→GuiaFem (educadora), Thomas→GuiaMasc (alertas), casando audio.config.json._g14.guia; guiaLingua «fr». Carmen/Emilio intactos.",
+    "o_recorte_deste_par": "B06 é a CASA de PUEDO (moldes.json), e o slot é MÉDIA na tabela dos 36. O que muda vs o alemão é PEQUENO em estrutura e grande em MOLDURA: (1) a dispensa `können`/`dürfen` que dava peso ao PUEDO alemão ENCOLHE A ZERO — `pouvoir` cobre «poder» e «ter licença» num verbo só, então `b06-n06` e a `permissao` reduzem a UMA linha («comme votre pouvoir, rien à trancher»), sem bloco. (2) A surpresa do dinheiro INVERTE: o alemão vinha de um país de espécie (45%, Bundesbank) e o miolo era «aqui é mais cartão do que você espera»; o francês é PAÍS DE CARTÃO, então o susto é o `SOLO EFECTIVO` que o pega desprevenido (`b06-n10` re-enquadrado, ficha 2 invertida, DERIVACAO §3.3 item 1). (3) O caixa independente × caixa de banco de rua SOBE de peso (65% chega de carro, encontra a tarifa mais vezes) e continua carregando o bloco pela regra do «por saque», não do «vá ao banco» chapado.",
+    "falso_amigo_desta_parte": "NENHUM de assinatura — PUEDO declara `falsos_amigos: []` no roster. Por isso a parte é mais LEVE (DERIVACAO: slot sem falso amigo = fonética + estrutura). Não se inventa um: o eixo do curso mora em B10 e reaparece por cena (salida B08, largo B11, embarazada I07). B06 não antecipa o eixo.",
+    "fonetica_desta_parte": "BRINDE, e é o que a parte anuncia. A casca `¿Puedo…?` é quase limpa: o `qu` de `aquí` é BRINDE (o alemão lia «kveria»), o `h` não aparece na casca, e `puedo`=POUÉ-do reusa o glifo já fixado em B10 (`POUÉ-do`). O que a parte cobra, de leve e DEPOIS da produção, é o conjunto de PUEDO no roster — `fonetica: [\"finais\", \"tonica\"]`: o FINAL apagado nos infinitivos (`pagar`→«pagá», `dejar`→«dejá», `usar`→«usá», `entrar`→«entrá»), que o aquecimento (`b06-n01`, gesto 2, la main plate) ancora no `-r` de `pagar`/`dejar`, e a TÔNICA. A jota entra UMA vez, mínima, em `dejar`/`cajero` (`de-KHAR`, `ka-KHÉ-ro`) — sua casa é B13, não se rouba a primeira aparição de peso. Nasal (`con`, `un`) tratada só no respelling. Zero nota de `h`/`qu`/`v`=[f] (brindes; escrevê-las é o anti-padrão 9).",
+    "respelling_para_leitor_frances": "Campo `pinyin` re-derivado para o OLHO FRANCÊS na convenção de B10 (a primeira parte FR escrita): MAIÚSCULA = tônica · `ou`=`u` espanhol [u] (POUÉ-do, ou-SSAR, aï oun) · `kh`=jota [x] (de-KHAR, ka-KHÉ-ro, tar-KHÉ-ta) · `tch`=`ch` espanhol [tʃ] (tchek-AOUT) · `b`=`v`/`b` espanhol (é-fek-TI-bo, BI-a) · `ss`=z/c+e,i/s intervocálico duro (a-SSÉ-oss, SSIEN-to, ou-SSAR) · `gn`=ñ (BA-gno, kon-tra-SSÉ-gna) · `y`=ll [j] (KA-yess) · `h` mudo cai (AS-ta, aï, e-ne-lo-TEL) · `qu`=k (a-KI, TI-ké) · finais escritas pronunciadas, `-e` final→`-é` (DON-dé, TAR-dé, TI-ké), `-s` do plural dobrado para soar (lass, doss, KA-yess). `Madrid`→«ma-DRI» (o francês apaga o `-d`, coincide com o peninsular coloquial «Madrí» — DERIVACAO §1.2 linha 11/17). TODO o respelling é INFERÊNCIA, pendência de revisor FR-L1 + peninsular (em especial a nasal de `con`/`un`/`SSIEN`, que respelling nenhum resolve, e o glifo `kh`).",
+    "previas_cumpridas": "Duas, ambas com modelo nativo ANTES do `responde`, nenhuma declara `molde` (prévia não é o molde voltando, é chegando — moldes.json `_regras.previas`), nenhuma conta no P5. HAY (casa B08, dois slots depois): `¿Hay wifi?` com modelo da Carmen (`b06-wifi-c`) no `ouvir` imediatamente antes, e `b06-n16` prometendo que «hay» ganha o próprio turno — SEM a nota do ⟨h⟩ alemão, porque o `h` francês é mudo (o primeiro sinal de que a tabela de leitura alemã não porta, DERIVACAO §1.2 linha 4). DONDE (casa B08): `¿Dónde hay un cajero?` com modelo da Carmen (`e05a-cajero-c`) e alvo do Emilio (`e05b-cajero-e`); slot que SOBE de peso neste par (caixa de banco × Euronet). Nenhum dos dois declara `molde`.",
+    "dependencias_declaradas": "Como no alemão, dois steps vêm de chaves de outras partes (a biblioteca espanhola é a mesma dos três pares, custo de crédito ZERO): (1) `b08-comision-e` (Emilio, «Ahí en la esquina hay uno, pero cobra comisión…»), que mora em ep-b08 e entra aqui como resposta receptiva à prévia de DONDE — carrega a ficha do caixa na voz nativa; B08 continua com a chave. (2) `i09-sentarme-e` (Emilio, «¿Puedo sentarme aquí?»), de ep-i09, usado no `responde` do recap por ser encaixe de PUEDO e mudar de lugar (a terraza). I09 é redisparo de PUEDO e mantém encaixe próprio novo (`sacar una foto`, roster), então o P5 dele não fica devendo. Se qualquer chave for renomeada, o valida-audio acusa.",
+    "fatosDatados_re_derivados": "TRÊS, contra os quatro do alemão. PORTAM reescritos em francês: `comision-del-cajero` (tarifa por saque, banco × Euronet), `sin-obligacion-de-aceptar-tarjeta` (SOLO EFECTIVO legal + default contactless nas grandes cidades) e `roaming-en-la-ue` (o telefone é de graça, fonte trocada para o Regulamento UE 2022/612 citado em DERIVACAO-FR §4.1). SAIU `bargeldanteil-in-deutschland` (os 45% em espécie da Alemanha): a França é país de cartão e uma estatística FRANCESA de uso de cartão não estava à mão — não se fabrica (mesma decisão de B10 FR). O ângulo francês do dinheiro está na narração (`b06-n10`), sem número.",
+    "tratamento": "GuiaFem trata o aluno por «vous» na narração (é o registro da guia). O beat de recalibragem `vous`≠`usted` NÃO mora aqui (é de B02/I02, LEVE e bidirecional) — B06 é rotina e não o toca.",
+    "vozes_g14": "GuiaFem e GuiaMasc CITAM espanhol dentro da narração francesa (é o trabalho da guia, INV-5 — `b06-n09` cita SERVEIS, `b06-n12` cita SOLO EFECTIVO, `b06-n17` cita «contraseña», `b06-n18` cita «esto») e nunca o falam; Carmen e Emilio não dizem uma palavra de francês. As duas vozes-guia são PLACEHOLDER no audio.config (voiceId «TODO-FR-...») — o áudio-guia NÃO se gera até o casting fechar.",
+    "medido": "29 clipes de narração (GuiaFem 27 + GuiaMasc 2: b06-n01..n25, s00, rend, t01, t02) + 9 prompts. Maior clipe de narração ≤ 320 (individual) e média ≤ 120 (G4). 9 `responde`, dos quais 5 declaram PUEDO (maleta, baño, tarjeta, esto, sentarme); os outros 4 são callback (alojo) e as duas prévias (cajero, wifi) — nenhum novo `es`, nenhum clipe espanhol novo.",
+    "pendencias": [
+      "REVISOR FR-L1 + espanhol PENINSULAR: todo o respelling `pinyin` e a fonética (finais apagados, tônica, jota, nasal de `con`/`un`) são INFERÊNCIA (DERIVACAO §1, §5). Nada NÃO CONFERIDO vira áudio.",
+      "VOZ-GUIA FRANCESA (casting): GuiaFem + GuiaMasc são placeholder no audio.config; o gerador não emite job de narração-guia enquanto os voiceId forem «TODO-FR-...».",
+      "G14 (voz × língua) por conferência HUMANA em toda entrega: guia francesa nunca fala espanhol, Carmen/Emilio nunca falam francês (este repositório já teve o acidente do mp3 na língua errada).",
+      "DEPENDÊNCIA de `b08-comision-e` (ep-b08) e `i09-sentarme-e` (ep-i09): se renomeadas, este arquivo fica sem áudio nesses dois steps e o valida-audio acusa."
+    ]
+  },
+
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n01",
+      "bloco": "aquecimento",
+      "gesto": 2,
+      "pt": "Échauffement, dix secondes. Votre réflexe, c'est d'avaler le bout : ici le «r» de pagar, de dejar, sonne. Tenez-le — pa-GAR, de-KHAR."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "promptAudioKey": "b06-p01",
+      "promptPt": "L'homme au comptoir de location tient votre carte d'identité et veut savoir où vous dormez cette semaine. Parlez maintenant.",
+      "audioKey": "e02b-alojo-e",
+      "es": "Me alojo en el hotel Rialto, en Madrid.",
+      "pinyin": "me a-LO-kho e-ne-lo-TEL rri-AL-to, en ma-DRI",
+      "pt": "où vous logez cette semaine"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n02",
+      "bloco": "cena",
+      "pt": "Dix heures et demie. Le hall est clair, la valise a fait son tour de tapis, et votre chambre n'est libre qu'à trois heures."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n03",
+      "pt": "Quatre choses à régler, toutes dans l'heure qui vient, et toutes commencent par la même question : est-ce que j'ai le droit ?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n04",
+      "bloco": "molde",
+      "pt": "Un seul moule les ouvre toutes. Le voici : «¿Puedo…?», deux syllabes — et dans le moule, ce que vous voulez faire."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b06-tarjeta-c",
+      "es": "¿Puedo pagar con tarjeta?",
+      "pinyin": "POUÉ-do pa-GAR kon tar-KHÉ-ta",
+      "pt": "Je peux payer par carte ? — pa-GAR : le «r» du bout sonne, ne l'avalez pas."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n05",
+      "pt": "Devant, rien ne bouge. Seul ce qui vient derrière change. Écoutez-le encore une fois."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b06-maleta-e",
+      "es": "¿Puedo dejar la maleta aquí?",
+      "pinyin": "POUÉ-do de-KHAR la ma-LÉ-ta a-KI",
+      "pt": "Je peux laisser la valise ici ? — de-KHAR : le «j» gratte au fond, pas le «j» de jour."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n06",
+      "pt": "Et «puedo», c'est les deux à la fois : je peux, et j'ai le droit — comme votre «pouvoir». Rien à trancher."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "PUEDO",
+      "encaixe": "dejar la maleta aquí",
+      "encaixeGloss": "la laisser ici",
+      "consulta": ["quarto/mala"],
+      "promptAudioKey": "b06-p02",
+      "promptPt": "Onze heures dix à la réception, la chambre n'est libre que l'après-midi, et vous traînez encore tout avec vous. Parlez maintenant.",
+      "audioKey": "b06-maleta-e",
+      "es": "¿Puedo dejar la maleta aquí?",
+      "pinyin": "POUÉ-do de-KHAR la ma-LÉ-ta a-KI",
+      "pt": "avoir les mains libres"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b06-hasta-e",
+      "es": "¿Hasta qué hora?",
+      "pinyin": "AS-ta ké O-ra",
+      "pt": "Jusqu'à quelle heure ? (trois mots, et la soirée est sauvée)"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b06-seis-c",
+      "receptivo": true,
+      "acao": "Retenir l'heure. Après, la pièce est fermée.",
+      "es": "Hasta las seis.",
+      "pinyin": "AS-ta lass séiss",
+      "pt": "👂 «Jusqu'à six heures.» — voilà la réponse : une heure, pas un oui."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n07",
+      "pt": "Sans cette question, vous vous retrouvez le soir devant une porte fermée, et derrière, votre valise."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b06-p03",
+      "promptPt": "Il dit oui et montre une pièce derrière le comptoir. Il manque une question, et sans elle vous n'y aurez plus accès le soir. Parlez maintenant.",
+      "audioKey": "b06-hasta-e",
+      "es": "¿Hasta qué hora?",
+      "pinyin": "AS-ta ké O-ra",
+      "pt": "combien de temps la pièce reste ouverte"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n08",
+      "bloco": "capsula",
+      "pt": "Deuxième chose, plus pressante. Vous êtes au bar du hall, le café est déjà devant vous."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "PUEDO",
+      "encaixe": "usar el baño",
+      "encaixeGloss": "utiliser les toilettes",
+      "consulta": ["chegar/entrar"],
+      "promptAudioKey": "b06-p04",
+      "promptPt": "Le café est commandé et payé, et il vous faut la porte tout au fond à gauche. Demandez à l'homme au comptoir. Parlez maintenant.",
+      "audioKey": "b06-banyo-c",
+      "es": "¿Puedo usar el baño?",
+      "pinyin": "POUÉ-do ou-SSAR el BA-gno",
+      "pt": "la porte au fond à gauche"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b06-placas-c",
+      "receptivo": true,
+      "acao": "Chercher ces trois mots-là, pas «WC».",
+      "es": "ASEOS · SERVICIOS · LAVABOS · SOLO EFECTIVO",
+      "pinyin": "a-SSÉ-oss · ser-BI-ssioss · la-BA-boss · SO-lo é-fek-TI-bo",
+      "pt": "👂 Trois panneaux pour la même porte — et un quatrième qui décide de votre porte-monnaie.",
+      "tts": "Aseos. Servicios. Lavabos. Solo efectivo."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n09",
+      "pt": "On dit «el baño», on l'écrit presque jamais. En Catalogne et à València, la même chose est en catalan : SERVEIS."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n10",
+      "bloco": "capsula",
+      "pt": "Troisième chose : l'argent. Chez vous, la carte passe partout — et c'est justement ce qui vous piège ici."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "PUEDO",
+      "encaixe": "pagar con tarjeta",
+      "encaixeGloss": "payer par carte",
+      "consulta": ["pagar/cartao"],
+      "promptAudioKey": "b06-p05",
+      "promptPt": "Un café et un croissant, trois euros quarante, et l'homme le tape déjà en caisse. Vous ne savez pas encore si ça passe ici. Parlez maintenant.",
+      "audioKey": "b06-tarjeta-c",
+      "es": "¿Puedo pagar con tarjeta?",
+      "pinyin": "POUÉ-do pa-GAR kon tar-KHÉ-ta",
+      "pt": "le plastique plutôt que les billets"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b06-soloefectivo-e",
+      "receptivo": true,
+      "acao": "Ne pas discuter. Il vous faut des billets, maintenant.",
+      "es": "Solo efectivo, lo siento.",
+      "pinyin": "SO-lo é-fek-TI-bo, lo SSIEN-to",
+      "pt": "👂 «Espèces seulement, désolé.» — il est dans son droit, et le panneau était sur la porte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n11",
+      "tom": "protege",
+      "pt": "À Madrid, à Barcelone, on vous tend le terminal avant même d'ouvrir le porte-monnaie. Prendre la carte, personne n'y est pourtant obligé."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n12",
+      "pt": "«SOLO EFECTIVO» est permis, et c'est affiché plus souvent qu'on ne croit. Alors demandez avant, pas à la caisse."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e05a-cajero-c",
+      "es": "¿Dónde hay un cajero?",
+      "pinyin": "DON-dé aï oun ka-KHÉ-ro",
+      "pt": "Où est-ce qu'il y a un distributeur ici ?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["pagar/dinheiro"],
+      "promptAudioKey": "b06-p06",
+      "promptPt": "Le bar ne prend que du liquide, votre porte-monnaie n'en a pas, et sur le pas de la porte un homme fume, assis sur la marche. Parlez maintenant.",
+      "audioKey": "e05b-cajero-e",
+      "es": "¿Dónde hay un cajero?",
+      "pinyin": "DON-dé aï oun ka-KHÉ-ro",
+      "pt": "où trouver des billets par ici"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b08-comision-e",
+      "receptivo": true,
+      "acao": "La deuxième moitié est l'info qui compte : deux rues plus loin.",
+      "es": "Ahí en la esquina hay uno, pero cobra comisión. El del banco está a dos calles.",
+      "pinyin": "a-Í en la es-KI-na aï OU-no, PÉ-ro KO-bra ko-mi-SSION. el del BAN-ko es-TA a doss KA-yess",
+      "pt": "👂 «Là au coin il y en a un, mais il prend une commission. Celui de la banque est à deux rues.»"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b06-t01",
+      "tom": "protege",
+      "pt": "Le distributeur du hall d'arrivée n'appartient à aucune banque. Il prend sa propre commission à chaque retrait."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b06-t02",
+      "tom": "protege",
+      "pt": "Deux à cinq euros, et par retrait, pas par montant. Donc retirer beaucoup une fois plutôt que peu trois fois."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n13",
+      "tom": "ganha",
+      "pt": "L'écran qui demande à d'autres quelle monnaie, ce n'est pas votre affaire : carte en euros, pays en euros."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n14",
+      "tom": "ganha",
+      "bloco": "capsula",
+      "pt": "Quatrième chose, et elle est offerte : dans l'UE, votre forfait marche ici comme chez vous. Rien à acheter, rien à insérer."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n15",
+      "pt": "Ce qui manque, c'est le réseau du lieu. Deux mots l'obtiennent, et vous les entendez en entier."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b06-wifi-c",
+      "es": "¿Hay wifi?",
+      "pinyin": "aï WI-fi",
+      "pt": "Il y a du wifi ici ?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n16",
+      "pt": "Deux mots, trois syllabes. Et «hay», ce début-là, aura bientôt son tour à lui."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["chegar/balcao"],
+      "promptAudioKey": "b06-p07",
+      "promptPt": "Le bar du hall, le café est là, et vous voulez charger vos messages sans y user vos données. Parlez maintenant.",
+      "audioKey": "b06-wifi-c",
+      "es": "¿Hay wifi?",
+      "pinyin": "aï WI-fi",
+      "pt": "est-ce qu'il y en a ici ?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b06-contrasenatique-e",
+      "receptivo": true,
+      "acao": "Ne pas redemander. Le ticket dans votre main l'a déjà.",
+      "es": "Sí. La contraseña está en el tique.",
+      "pinyin": "si. la kon-tra-SSÉ-gna es-TA en el TI-ké",
+      "pt": "👂 «Oui. Le mot de passe est sur le ticket.»"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n17",
+      "pt": "«Contraseña» ne ressemble à rien que vous connaissiez, et ça veut dire mot de passe. C'est écrit sur le ticket de caisse."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n18",
+      "pt": "Dernière chose de la première heure. Le mot de l'objet, vous ne l'avez pas — vous le montrez du doigt et dites «esto»."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "PUEDO",
+      "encaixe": "entrar con esto",
+      "encaixeGloss": "entrer avec ça",
+      "consulta": ["transporte/bagagem"],
+      "promptAudioKey": "b06-p08",
+      "promptPt": "À l'entrée du métro : le tourniquet est étroit, la valise est large, et l'homme dans la cabine lève les yeux. Parlez maintenant.",
+      "audioKey": "b06-esto-e",
+      "es": "¿Puedo entrar con esto?",
+      "pinyin": "POUÉ-do en-TRAR kon ES-to",
+      "pt": "l'objet que vous montrez du doigt"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n19",
+      "tom": "ganha",
+      "pt": "Quatre phrases, et dans aucune vous n'avez eu besoin du mot de la chose qui vous barrait la route."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n20",
+      "bloco": "permissao",
+      "tom": "ganha",
+      "pt": "Vous avez le droit de déposer la valise bien avant que la chambre soit libre. C'est ordinaire, pas une faveur."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n21",
+      "tom": "ganha",
+      "pt": "Et les toilettes du bar où vous avez commandé sont à vous. Demander coûte une phrase — celle que vous avez, maintenant."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n22",
+      "bloco": "clique",
+      "tom": "ganha",
+      "pt": "Comptez les endroits. La réception. Le bar. La caisse. L'entrée du métro. Un seul début les a tous ouverts."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n23",
+      "tom": "ganha",
+      "pt": "Ces quatre phrases, personne ne vous les a données. Vous les avez faites ici, à partir d'un seul mot, qui est à vous désormais."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n24",
+      "bloco": "piso",
+      "tom": "ganha",
+      "pt": "Vous passez la première heure avec quatre questions à vous. La plupart n'en posent aucune de toute la première semaine."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-s00",
+      "pt": "À répéter. Fort, avec eux, la fin tenue. Les deux qui reviennent aujourd'hui :"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "b06-maleta-e",
+      "molde": "PUEDO",
+      "es": "¿Puedo dejar la maleta aquí?",
+      "pinyin": "POUÉ-do de-KHAR la ma-LÉ-ta a-KI",
+      "pt": "Je peux laisser la valise ici ?"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "b06-tarjeta-c",
+      "molde": "PUEDO",
+      "es": "¿Puedo pagar con tarjeta?",
+      "pinyin": "POUÉ-do pa-GAR kon tar-KHÉ-ta",
+      "pt": "Je peux payer par carte ?"
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "b06-rend",
+      "bloco": "recap",
+      "pt": "Encore une fois, à voix haute, dans un endroit où nous n'étions pas encore. Une chaise libre, et la table n'est pas vide."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "PUEDO",
+      "encaixe": "sentarme aquí",
+      "encaixeGloss": "s'asseoir là",
+      "promptAudioKey": "b06-p09",
+      "promptPt": "En terrasse, il reste exactement une chaise, et à la même table quelqu'un est déjà là, un café devant lui. Parlez maintenant.",
+      "audioKey": "i09-sentarme-e",
+      "es": "¿Puedo sentarme aquí?",
+      "pinyin": "POUÉ-do sen-TAR-mé a-KI",
+      "pt": "la seule chaise libre"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b06-n25",
+      "tom": "ganha",
+      "pt": "C'était la première heure : valise déposée, porte trouvée, payé, entré. La suite, jusqu'au lit. Hasta luego."
+    }
+  ],
+
+  "aprofundar": {
+    "titulo": "La première heure, relue tranquillement (lecture facultative)",
+    "secoes": [
+      {
+        "titulo": "«Puedo» = je peux et j'ai le droit — la catégorie «ça se fait ici ?»",
+        "corpo": "En français, «pouvoir» dit déjà les deux : ce qui est possible et ce qui est permis, et vous ne choisissez pas entre eux — «je peux entrer ?» vaut pour la porte comme pour la règle. L'espagnol fait pareil avec un seul verbe : «¿Puedo…?» couvre les deux, et rien à trancher. Ce n'est donc pas une pièce à travailler, mais une pièce déjà à vous, transposée telle quelle — ailleurs le cours vous apprend du neuf ; ici il vous rend ce que vous aviez. Derrière, la chose arrive à l'infinitif, sans que rien ne change devant : pagar, dejar, usar, entrar, sentarme, aparcar, probar. C'est pour ça que ce moule voyage si loin : il est la catégorie «ça se fait, ici ?», et vous en avez besoin parce que les règles changent d'une ville à l'autre et que personne ne vous les annonce. Vous arrivez nombreux en voiture, et la route la multiplie : se garer, entrer dans une zone, laisser la valise, prendre une photo — autant de «puedo».",
+        "exemplos": [
+          {
+            "es": "¿Puedo aparcar aquí?",
+            "pt": "POUÉ-do a-par-KAR a-KI — Je peux me garer ici ? (la même question, autre chose derrière)"
+          },
+          {
+            "es": "¿Puedo hacer el check-out más tarde?",
+            "pt": "POUÉ-do a-SSÉR el tchek-AOUT mass TAR-dé — Je peux faire le check-out plus tard ?"
+          }
+        ]
+      },
+      {
+        "titulo": "Le distributeur, la commission et l'écran qui ne vous regarde pas",
+        "corpo": "Deux choses se confondent régulièrement lors d'un retrait à l'étranger. La première est la conversion : elle n'apparaît que si la monnaie de votre carte diffère de celle du pays. Pour une carte en euros dans un pays à l'euro, il n'y a rien à convertir, l'écran qui demande la monnaie ne s'affiche même pas, et tout ce bloc — le plus cher des vacances pour d'autres voyageurs — tombe pour vous. La seconde demeure : la commission de l'exploitant du distributeur, qui n'a rien à voir avec votre banque. Elle est prélevée par retrait, pas par montant — trois petits retraits coûtent trois fois, un gros retrait coûte une fois. Les appareils isolés des halls d'arrivée, des rues piétonnes et des fronts de mer prennent en général deux à cinq euros ; ceux des banques vont, selon l'enseigne, d'un demi-euro à six. Lisez ces deux fourchettes de près, car elles se chevauchent : la banque de rue est le meilleur pari, pas une garantie, et la seule chose que vous décidez vraiment, c'est le nombre de retraits. La règle du voyage suit donc du «par retrait» et non du panneau sur la machine : moins souvent, plus gros, et quand les deux existent, à une banque dans la rue. Et comme un commerce peut ici légalement n'accepter que les espèces, il vous en faut — mais pas à refaire chaque jour.",
+        "exemplos": [
+          {
+            "es": "¿Hay un cajero por aquí?",
+            "pt": "aï oun ka-KHÉ-ro por a-KI — Il y a un distributeur par ici ?"
+          },
+          {
+            "es": "¿Aceptan tarjeta o solo efectivo?",
+            "pt": "a-SSEP-tan tar-KHÉ-ta o SO-lo é-fek-TI-bo — Vous prenez la carte ou espèces seulement ? (la question avant de commander)"
+          }
+        ]
+      },
+      {
+        "titulo": "Ce qui est écrit quand vous cherchez des toilettes",
+        "corpo": "On apprend «el baño», et à l'oral c'est juste. À l'écrit, presque jamais. Sur les panneaux des gares, des bars, des musées et des centres commerciaux, vous trouvez ASEOS, SERVICIOS ou LAVABOS ; en Catalogne et à València, la même chose est en catalan — LAVABOS, le même mot dans les deux langues, ou SERVEIS —, et les pictogrammes sont les mêmes que partout. «WC» y figure rarement. Qui cherche les trois mots au lieu de celui qu'il connaît trouve la porte du premier coup d'œil. La deuxième partie est sociale, pas linguistique : dans un bar, la porte va avec la commande. Ce n'est pas un marchandage — c'est la raison pour laquelle un café au comptoir est si souvent, en Espagne, le prix de tout le reste. Commander, rester debout, demander, partir. À la gare et au centre commercial, la question ne se pose pas : la porte est là sans commande, parfois avec un tourniquet devant.",
+        "exemplos": [
+          {
+            "es": "¿Dónde están los aseos?",
+            "pt": "DON-dé es-TAN loss a-SSÉ-oss — Où sont les toilettes ? (la forme qui est sur le panneau)"
+          },
+          {
+            "es": "¿Hay aseos por aquí?",
+            "pt": "aï a-SSÉ-oss por a-KI — Il y a des toilettes par ici ?"
+          }
+        ]
+      },
+      {
+        "titulo": "Le téléphone : rien à faire — et ce qui prend sa place",
+        "corpo": "Pour les voyageurs venus de hors de l'UE, la carte SIM est le premier point de la liste d'arrivée, et elle coûte de la préparation, de l'argent et parfois une heure au comptoir de l'aéroport. Pour vous, le point saute : à l'intérieur de l'UE, votre forfait national reste valable sans supplément, la règle court jusqu'en 2032, et votre téléphone est raccordé avant même le tapis à bagages. Un coup d'œil vaut tout de même la peine, dans votre propre contrat : le plafond d'usage raisonnable pour les données à l'étranger peut être plus bas que votre volume chez vous, et qui charge cartes et vidéos deux semaines durant le remarque la deuxième semaine. C'est justement pour ça que le wifi reste utile, et l'usage espagnol est régulier : le mot de passe s'appelle «la contraseña», il est rarement au mur et très souvent sur le ticket de caisse — sur «el tique». Qui jette le ticket avant de l'avoir lu demande deux fois.",
+        "exemplos": [
+          {
+            "es": "¿Cuál es la contraseña del wifi?",
+            "pt": "KOUAL es la kon-tra-SSÉ-gna del WI-fi — C'est quoi, le mot de passe du wifi ?"
+          },
+          {
+            "es": "Está en el tique.",
+            "pt": "es-TA en el TI-ké — 👂 «C'est sur le ticket.» — la réponse que vous entendrez le plus souvent."
+          }
+        ]
+      }
+    ]
+  }
+}

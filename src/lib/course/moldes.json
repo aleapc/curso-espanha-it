@@ -1,0 +1,503 @@
+{
+  "versao": 1,
+  "sku": "FR → Espanha",
+  "_changelog": [
+    "1 (2026-07-28): ROSTER INICIAL DO PAR FRANCÊS. NÃO é tradução do roster alemão nem do inglês — é a re-derivação que a DERIVACAO-FR.md §2 encomendou, implementada contra os 36 andaimes de fala espanhola do SKU (a mesma biblioteca espanhola serve os três pares, PRODUTO §3.2 regra 5). O RESULTADO CONFIRMA A ESPINHA de novo, e por um terceiro caminho: os quinze moldes sobrevivem inteiros, nenhum entra, nenhum sai, o teto continua 12+3. Mudou o PREÇO de quase todo molde e a CAMADA DE ANOTAÇÃO inteira; a ORDEM mudou MENOS que no alemão, e isso é resultado, não preguiça — a força que reorganizou o roster alemão (a recalibragem cara e num sentido só) é FRACA e BIDIRECIONAL aqui (DERIVACAO §2.1).",
+    "1 (2026-07-28): A ORDEM — UM ÚNICO SWAP vs o roster alemão, e ele é a prova da tese. QUERIA volta a nº 1 e ME-PONE desce a nº 3; nada mais se move de lugar. O motivo é exato: o que empurrou ME-PONE ao nº 1 no alemão foi a recalibragem `Sie`≠`usted`, o erro mais caro daquele comprador. Para o francês o tratamento é erro de SEGUNDA ordem, mole e nos dois sentidos (DERIVACAO §2.1), porque o erro nº 1 dele não é o tratamento, é o LÉXICO (o falso amigo, §_eixo). Tira-se a força que movia ME-PONE e ele assenta de volta abaixo de QUERIA e de HAY; QUERIA retorna ao centro (nº 1) com o argumento REESCRITO. HAY continua nº 2 (baratíssimo, `il y a`=`hay` traço a traço, e o ⟨h⟩ que era o pior trap alemão é BRINDE aqui). PUEDO FICA em 4º — a dispensa `können`/`dürfen` que lhe dava peso no alemão ENCOLHE A ZERO (`pouvoir` cobre os dois sentidos num verbo só), mas o valor dele NÃO cai: 65% deste comprador chega de CARRO (FATO, Turespaña), e a categoria de improviso `isso aqui pode?` — ZBE, estacionar, terraza, foto, bagagem — é onde PUEDO paga, e ela CRESCE neste par. Ultrapassado no alemão por um motivo, sustentado no francês por outro. Ordinal que se mantém sem motivo escrito é tão suspeito quanto ordinal que cai sem motivo — os dois estão escritos.",
+    "1 (2026-07-28): CAMPO NOVO `falsos_amigos` por molde, e ele é o que faz este roster ser do PAR — o equivalente exato do `armadilhas` (regra de leitura) do roster alemão, generalizado do olho para o LÉXICO. O erro nº 1 deste comprador não é de boca nem de olho: é de CONFIANÇA (DERIVACAO §1.1). Francês e espanhol são ~75% cognatos, então ele fala espanhol fluente e seguro cheio de galicismos e falsos amigos SEM DESCONFIAR de si uma vez — léxico presente e mal calibrado custa mais que ausente, porque o aluno não desconfia. Cada molde cuja casca ou encaixes tocam um falso amigo declara qual, no array `falsos_amigos` (que a máquina lê) e na `nota` (que o `briefing-slot.mjs` imprime). O eixo mora fisicamente em B10 (`_regras.falsos_amigos`), e a regra de redação é a mesma que segura o G4: UM falso amigo por parte, grudado à cena onde ele morde, DEPOIS de o aluno já ter produzido a frase, NUNCA uma lista lida em voz alta.",
+    "1 (2026-07-28): CAMADA FONÉTICA por molde TROCADA. Saíram as sete armadilhas de leitura alemãs (⟨qu⟩=[kv], ⟨v⟩=[f], ⟨h⟩ audível, etc.) — a maioria é BRINDE ou não-problema para o francês, e copiá-las seria o anti-padrão 9. Entrou o conjunto francês (`_regras.interferencia_fonetica`): a TÔNICA OXÍTONA (o soco, que VOLTA ao centro de B01), os FINAIS APAGADOS (-s, -e, -r), o `u`=[y], a JOTA como som NOVO [ʒ] (pior que no alemão, que tem o [x] de `Bach`), e o `ch`=[ʃ]. Consequência medida e boa: ME-HE-DEJADO, que era o molde MAIS DENSO do roster alemão (6 das 7 armadilhas, incluindo ⟨h⟩ e ⟨qu⟩ na casca), fica MENOS denso aqui — `he` e `chaqueta` que traíam o alemão pelo ⟨h⟩ e pelo ⟨qu⟩ são BRINDES para o francês; sobram a jota de `dejado`, o `ch` de `chaqueta`, o `s` de `pasaporte`. A densidade migrou para LLEVA (a jota de `jamón` vira SOM NOVO) e para SOY-ESTOY (a carga de falso amigo).",
+    "1 (2026-07-28): TRÊS REMOÇÕES/REPOSIÇÕES e a MORTE de uma gag, medidas contra o disco. (a) `sin conversión` SAIU dos exemplos de SIN-CON-PARA (DERIVACAO §3.3 item 1 — a França é Eurozona, cartão em euros, o DCC não existe), reposto por `con tarjeta`; o argumento de reposição é MAIS FRACO que no alemão, porque o francês JÁ usa cartão com naturalidade (país de cartão, ao contrário dos 45% em espécie da Alemanha) — a surpresa invertida do alemão quase não existe aqui. (b) A GAG `vino`×`fino` MORRE (DERIVACAO §1.4/§1.2 linha 13): o francês DISTINGUE `b` de `v` e diz `[vino]` certo — `vino` continua `vino`, entendido. NÃO usar essa piada em OTRA nem em PREFERENCIA. A gag deste par é `embarazada` (icônica, I07) + `largo` (balcão, B11). (c) CLIPES ESPANHÓIS NOVOS conferidos contra o andaime: `largo` NÃO existe (medido — é a gag de balcão, clipe novo, pendência §5), `embarazada` NÃO existe (clipe novo), `vaso`/`estoy caliente`/`en absoluto` NÃO existem. JÁ EXISTEM e servem de graça: `Estoy constipado.` (ep-b17), `¿Dónde está la salida?` (ep-b08/09/10), `¡Qué rico!` (ep-i07), `No entiendo. ¿Cómo dice?` (kit anti-pânico), `Se la quito por encima` (ep-b13), `a nombre de` (ep-b05/b16/b18). Não se escreve gag fingindo que o clipe existe — a fala espanhola nova é a única linha de crédito espanhol deste SKU.",
+    "1 (2026-07-28): O QUE NÃO PORTOU, para ninguém repor. (a) `QUERIA.porque_o_numero_1` foi REESCRITO do zero: sai a fuga da decisão tú/usted (que já não era o argumento nem no alemão) e entra brevidade + registro local; o francês TEM a máquina do tratamento (`tu`/`vous`), como o alemão, então a muleta não se vende a ele. (b) A recalibragem `vous`→`usted` entra como beat LEVE e BIDIRECIONAL (inclui o `usted` DEVIDO em banco/médico/Guardia Civil contra a sub-formalização do francês que se sente em casa no Mediterrâneo) — NÃO o bloco anti-`Sie` alemão, num sentido só, que aqui é o anti-padrão 9. (c) O `porque` de `Me gustaría` em `cortados` foi reescrito de novo: nem o acolchoamento britânico nem o alemão — corta-se por ser mais longo que `quería` e porque `Je voudrais` traduz para um registro um tom acima."
+  ],
+  "_leia": "O NÚCLEO GERADOR do par FRANCÊS → espanhol. Um molde (`le moule`, ver `_regras.vocabulario_molde`) é um encaixe cujo buraco se preenche com uma COISA DO MUNDO (um café, a conta, outro quarto) — escolha, não cálculo de conjugação. É o que separa este produto do phrasebook. LEIA ISTO ANTES DE USAR O ARQUIVO: ele NÃO é tradução do `moldes.json` do curso alemão nem do inglês, e comparar linha a linha para «conferir a versão» é o anti-padrão 9 em ato. O roster é ativo de PAR e se RE-DERIVOU (`_regras.ativo_de_par`); o que sobreviveu sobreviveu por mérito, não por herança. E este par tem uma camada que o inglês não tem e que o alemão tem por outro motivo: o comprador francês fala uma língua-IRMÃ do espanhol (~75% cognata) e por isso ERRA COM CONFIANÇA — cada molde declara o FALSO AMIGO que carrega (`_regras.falsos_amigos`), que é o eixo do curso inteiro (`_regras._eixo`). O campo `exemplos` é lista de encaixes PLAUSÍVEIS, não manifesto de áudio: confira contra o andaime antes de escrever qualquer frase-alvo nova — a fala espanhola nova é a única linha de crédito espanhol deste SKU e ela é pequena, não zero.",
+  "_regras": {
+    "teto": "12 moldes OPERACIONAIS + até 3 moldes SOCIAIS = 15 declarados no curso inteiro, e os dois números são LEI (PRODUTO §5.1 e INV-14). O limite é orçamentário, não estético: o molde não custa a apresentação, custa a agenda de recall — 15 × 3 recalls = 45 slots de recall em 36 partes. É também trava anti-fraude do G9: declarar molde a mais para inflar o numerador quebra o build. O teto NÃO se mexeu na derivação para o francês (DERIVACAO §2.3 item 16), e isso é decisão, não inércia: o orçamento é o mesmo. Um 13º operacional ou um 4º social só entram por decisão do dono, e o caminho, se o piso do G9 precisar subir, é ELEVAR o teto de 12 para 14 com o dado na mão — nunca inflar a lista com o que o curso já ensina de graça. TENTAÇÃO NOMEADA DESTE PAR: `¿Tengo que + [infinitivo]?` fica barato aqui (`Est-ce que je dois…?`, próximo mas não tão um-a-um quanto o `Muss ich…?` alemão) e `Pagamos + [por separado / a partes iguales]` continua sendo a fricção de rachar a conta — mas rachar DESCE de peso neste par (o francês está perto do default espanhol de dividir `a partes iguales`, DERIVACAO §3.4 item 3). Nenhum dos dois entra: o primeiro segue em `ensinados_mas_nao_declarados`, o segundo é inventário congelado que reprova em P2.",
+    "_eixo": "O EIXO DO CURSO É O FALSO AMIGO — a língua-irmã que engana. Como «a regra de leitura» organizou o alemão, «o falso amigo» organiza o francês (DERIVACAO §4.0). É o erro nº 1 (a proximidade que engana: o espanhol que o francês acha que já sabe); é a categoria mais cara da derivação (léxico presente e mal calibrado custa mais que ausente, porque o aluno NÃO DESCONFIA — o mesmo princípio do `Sie`/`du` alemão, generalizado ao vocabulário inteiro); mora fisicamente em B10 (`_regras.falsos_amigos`), reaparece como gag em I07 (`embarazada`) e no balcão (`largo`), na conversa (`en absoluto`, sentido oposto), na farmácia (`constipado`, perigoso) e no pedido de socorro (`entender`=compreender, não «ouvir» — a frase-âncora `no entiendo`). ATENÇÃO, e é onde o revisor mais deixa passar: o eixo é a TRANSPARÊNCIA FALSA, não só o léxico. Além do falso amigo lexical, a mesma proximidade produz CALQUE (`estoy caliente` por `j'ai chaud` — o certo é `tengo calor`), EXCESSO DO PERFEITO (`ayer he ido` por `fui` — I06) e SENTIDO INVERTIDO (`en absoluto`). Briefar «falso amigo» como se fosse só vocabulário deixa esses três de fora, e são os que «soam espanhóis». A moldura do tom (§tom): a sua proximidade é a sua vantagem E a sua armadilha — você entende quase tudo; treine os poucos lugares onde «quase» é o problema.",
+    "recalibragem": "A DECISÃO QUE NO ALEMÃO REORGANIZOU O ROSTER, e que AQUI QUASE NÃO O TOCA — e o «quase» é o ponto. O par `¿me pone?` / `¿me pones?` é o slot cognitivo `vous` / `tu`, e o comprador francês JÁ RODA essa máquina desde criança, como o alemão. Só que a calibragem francesa é DIFERENTE da alemã: (1) o `vous` francês também é default com estranho/garçom/balconista (França é cultura de vouvoiement), então há o MESMO excesso de `usted` — mas ATENUADO, porque o francês passa a `tu` com mais facilidade que o alemão (mais jovem, mais casual, o Midi mediterrâneo é menos formal); (2) há um SEGUNDO sentido de erro que o alemão não tem — por proximidade cultural e por não estudar, o francês pode SUB-formalizar, cair no `tú`/na familiaridade em balcão institucional onde o `usted` é devido. O alemão decide o tratamento com confiança e erra num sentido só, com força; o francês decide o LÉXICO inteiro com confiança e erra em toda parte, e o tratamento para ele é erro de segunda ordem, mole e nos DOIS sentidos. POR ISSO ME-PONE NÃO É O Nº 1 aqui (é ~nº 3): a recalibragem é real, mas fraca, e não puxa QUERIA para baixo com a força que puxou no alemão. Ela entra como beat LEVE e BIDIRECIONAL em B02 e como um dos eixos de I02. ONDE A RECALIBRAGEM MANDA `usted` (contra a sub-formalização, e sem esta linha o produto fabrica um francês que trata o banco por `tú`): Guardia Civil, banco, médico, funcionário público e pessoa claramente mais velha em contexto formal. COPIAR O BLOCO ANTI-`Sie` DO CURSO ALEMÃO AQUI É O ANTI-PADRÃO 9.",
+    "falsos_amigos": {
+      "_porque": "O eixo do curso (`_eixo`), e a camada que faz este roster ser do PAR. O espanhol é ~75% cognato do francês e por isso MENTE para ele por semelhança, não por opacidade. Cada molde declara em `falsos_amigos` os que carrega na casca ou nos encaixes; os que não pendem em nenhum molde vivem aqui e têm CASA física em B10 (o inventário NOVO e mais denso que o do inglês — DERIVACAO §1.6). REGRA DE REDAÇÃO (a que impede o G4 de estourar): UM falso amigo por parte, grudado à cena onde ele morde, DEPOIS de o aluno já ter produzido a frase, NUNCA uma lista lida em voz alta.",
+      "em_ordem_de_perigo": {
+        "embarazada": "`embarrassée` = envergonhada → em espanhol GRÁVIDA. A gag icônica do par (I07/B17). Entrega uma coisa errada real, é falsificável e engraçada; limitação honesta: é de gênero (só morde a compradora). CLIPE NOVO — `embarazada` NÃO existe no andaime (medido). Pendência §5.",
+        "constipado": "`constipé` = com prisão de ventre → em espanhol RESFRIADO. B17, médico, PERIGOSO — pede o remédio errado na farmácia. Ainda mais traiçoeiro que no inglês/alemão por ser cognato quase idêntico. GRAVADO: `Estoy constipado.` está em ep-b17.json.",
+        "entender": "`entendre` = OUVIR (e, arcaico, compreender) → em espanhol COMPREENDER (ouvir = `oír`). Alto valor: `No entiendo` é a frase de sobrevivência nº 1 do curso, e o francês pode cruzá-la com «não ouço» e, pior, CONFIAR que `entender`=ouvir e não pedir que repitam. GRAVADO: `No entiendo. ¿Cómo dice?`. Pende em ME-PUEDE (o kit anti-pânico).",
+        "salir_salida": "`salir` = SUJAR; `sale` = sujo → em espanhol SAIR / SAÍDA. O francês hesita diante de `SALIDA` (associa a «sujo») ou evita dizer `salir`. Receptivo, altíssima frequência em placa. GRAVADO: `¿Dónde está la salida?` (ep-b08/09/10). Pende em DONDE.",
+        "en_absoluto": "`absolument` = absolutamente (SIM) → em espanhol DE JEITO NENHUM (não). Sentido OPOSTO. `—¿Te molesta? —En absoluto` o francês entende «sim, muito». Item de conversa, I05 receptivo. CLIPE NOVO se usado.",
+        "largo": "`large` = largo, largura → em espanhol COMPRIDO. `café largo` (aguado/estirado), `cama larga`. A gag de balcão do par (B11/B15/B16). CLIPE NOVO — `largo` NÃO existe no andaime (medido). Pendência §5, a escolha final da gag de balcão.",
+        "rico": "`riche` = rico (dinheiro) → em espanhol GOSTOSO no elogio à comida. O falso amigo DENTRO do elogio (APRECIACION, I07). GRAVADO: `¡Qué rico!` (ep-i07).",
+        "caliente": "calque, não falso amigo lexical: `j'ai chaud` → o francês diz `estoy caliente` (= excitado) por «tenho calor»; o certo é `tengo calor`. Mora em SOY-ESTOY (estar + adjetivo). Só `agua caliente` está gravado (ep-b16); o calque `estoy caliente` é clipe novo se a cena o pedir — e provavelmente NÃO se grava, ensina-se como dispensa.",
+        "nombre": "`nombre` = NÚMERO em francês → em espanhol NOME. `una reserva a nombre de…`; o francês pode dar/entender um número. Cena de check-in (B05/B16). GRAVADO: `a nombre de` (ep-b05/b16/b18). Inventário congelado, não molde.",
+        "demandar": "`demander` = pedir → em espanhol PROCESSAR (jurídico). «peço um café» vira «processo por um café». Item de apoio: o francês provavelmente usa `quería`/`pedir`, então o reflexo pode não disparar. Conceitual, não gravado. Apoio em QUERIA.",
+        "quitar": "`quitter` = deixar/abandonar → em espanhol TIRAR/REMOVER. `quítese`, `¿le quito esto?`. Receptivo (B15/B16). GRAVADO: `Se la quito por encima` (ep-b13).",
+        "atender_esperar": "`attendre` = esperar → em espanhol ATENDER = servir; `espérer` = ter esperança → em espanhol ESPERAR = aguardar. `¿me atiende?` o francês lê «espere». Apoio em ME-PUEDE.",
+        "vaso": "`vase` = vaso de flor → em espanhol COPO. `un vaso de agua`; o francês pensa «jarro/vaso». Apoio em ME-PONE (B11). CLIPE NOVO se usado.",
+        "contestar": "`contester` = contestar/disputar → em espanhol RESPONDER. Apoio, B03/social. Conceitual.",
+        "discutir": "`discuter` = conversar → em espanhol BRIGAR/discutir acaloradamente. Candidato de apoio em A04 (DERIVACAO §4.2)."
+      },
+      "_brinde_espelho": "`la carta` = `la carte` francês (que É o cardápio!) e `el menú` = `le menu` francês (que É a refeição fechada, `menu du jour` = `menú del día`). OS DOIS BATEM CERTO — o falso amigo diário do inglês (`carta`≠«card») NÃO EXISTE para o francês. B12/I03 economizam o aviso. Registrar como brinde, não gastar áudio. Idem `recomendar`=`recommander` (ELECCION) e a inversão de `gustar` via `plaire` (PREFERENCIA)."
+    },
+    "interferencia_fonetica": {
+      "_porque": "A camada fonética por molde, que SUBSTITUI as `armadilhas` de leitura alemãs (a maioria delas é brinde para o francês). O erro nº 1 articulatório do francês é a TÔNICA; os demais são finais apagados, o `u`=[y], a jota como som novo e o `ch`. Cada molde declara em `fonetica` quais carrega. Régua de evidência: os fatos tipológicos do francês são CONFERIDO; toda consequência no espanhol é INFERÊNCIA que EXIGE revisor FR-L1 + espanhol peninsular antes do áudio (DERIVACAO §1, §5). REGRA DE REDAÇÃO idêntica à do falso amigo: uma por parte, grudada a uma palavra que a parte já diz, depois da produção, nunca uma tabela.",
+      "as_cinco": {
+        "tonica": "A TÔNICA OXÍTONA RÍGIDA — o erro nº 1 articulatório. O francês não tem acento lexical (acento fixo no fim do grupo rítmico) e puxa tudo para a ÚLTIMA sílaba: `papa`→`papá`, `hablo`→`habló`, `esta`→`está`; e acha `hóla`, `grácias`, `Espáña` estranhos. É o MOTOR CENTRAL de B01 (o soco VOLTA ao centro, oposto do alemão que o rebaixou).",
+        "finais": "OS FINAIS APAGADOS. O francês apaga o `e caduc` final (`noche`→«nosh», `tarde`→«tard») e emudece `-s`/`-r` finais (`gracias`→«gracia», `dos`→«do», `más`→«ma», `hablar`→«hablá»). O `-s` apagado MATA o plural e a inteligibilidade. Ironia p/ A01: o apagamento francês do `-s` imita o `-s` aspirado andaluz/canário — ele vai SOAR meridional.",
+        "u_y": "O `u`=[y]. O francês escreve `u`=[y] (`tu`, `lune`), som que o espanhol não tem: `mucho`→«mücho», `tú`→[ty], `gusta`, `puedo`. Alvo: o `u` espanhol é de fundo de boca, como em `tour`, nunca o de `tu`.",
+        "jota": "A JOTA como SOM NOVO. `j` e `g`+e/i = [ʒ] em francês (`je`, `gente`); o francês NÃO TEM o [x] espanhol: `jamón`→«zhamón», `gente`→«zhente», `ajo`→«azho». PIOR que no alemão, que tem o [x] de `Bach` e erra só a letra — o francês não tem o som. Âncora possível: aproximar pelo `r` uvular deles (mesmo ponto).",
+        "ch": "O `ch`=[ʃ]. O francês `ch`=[ʃ] (`chat`), nunca [tʃ]: `mucho`→«musho», `noche`→«noshe», `chorizo`→«shorizo». O espanhol quer [tʃ] (o «tch» de «Tchad»). A leitura-armadilha francesa mais limpa."
+      },
+      "_onde_o_frances_ganha_de_graca": "NÃO confundir com o alemão — a maioria dos traps alemães é BRINDE aqui, e escrever a nota é o anti-padrão 9. Brindes: o `qu`=[k] (`quería` limpo, onde o alemão lia «kveria»); o `h` MUDO (`¿Hay?` natural, onde o alemão dizia «Hai»); a LIAISON/encadeamento (o francês liga palavras e não dá golpe de glote — o problema-motor nº 1 do alemão, o `Knacklaut`, NÃO existe aqui, e o programa do deslize não é necessário); o `ñ` NATIVO (`España` perfeito); o RITMO SILÁBICO (o francês não comprime átonas — o metrônomo fica LEVE); as 5 vogais orais PURAS (zero ditongação); e a distinção `b`≠`v`, que MATA a gag alemã `vino`×`fino`. CONTINUAM CAROS: o `r` (uvular, sem âncora no padrão), a distinción/`s` intervocálico [z] (`casa`→«kaza» — o proibido é [z]; [s] seseo aceito), e a NASALIZAÇÃO (o francês nasaliza `un`/`con`/`pan`/`jamón`, e o `-n`/`-m` espanhol é consoante plena, sempre)."
+    },
+    "ensinados_mas_nao_declarados": {
+      "_porque": "Estes o curso ENSINA com ≥2 substituições na frente do aluno e mesmo assim NÃO entram na declaração, porque o teto é lei e a lista já está cheia com os de maior cobertura. É legítimo (PRODUTO §5.1) e a consequência é assumida: não contam no numerador do G9, então a taxa medida SUBESTIMA o produto. O que NÃO é permitido é o inverso — sumir com um destes da grade porque «não está no roster». A lista dos cinco PORTOU INTEIRA do par alemão (motivos de TETO e de CENA, nenhum sobre a língua do comprador — DERIVACAO §2.3 item 15). Mudou o PREÇO de dois deles.",
+      "lista": [
+        {
+          "forma": "[X] no funciona",
+          "casa": "B16",
+          "encaixe": "o que quebrou no quarto (el aire acondicionado, la ducha, la llave, el wifi)",
+          "porque_fora": "cobertura de uma cena só — o quarto. Não passa em P2 com folga para gastar um dos 12. PREÇO NESTE PAR: barato (`ne marche pas`, mesmo desenho). FALSO AMIGO no encaixe: `la llave` sai «lave» ([j]/[l]) e é a palavra da recepção às onze da noite; e `caliente` mora ao lado (`no hay agua caliente`)."
+        },
+        {
+          "forma": "Me han robado + [X]",
+          "casa": "B17",
+          "encaixe": "o que sumiu (el móvil, la cartera, el pasaporte, la maleta)",
+          "porque_fora": "cobre uma cena só e é o par escuro de ME-HE-DEJADO, que é o que devolve o objeto de verdade. Declarar o roubo e não o esquecimento premiaria a moldura de perda que o G1 contém. FONÉTICA: `el pasaporte` carrega o `s` intervocálico ([z])."
+        },
+        {
+          "forma": "Voy a + [infinitivo]",
+          "casa": "B14",
+          "encaixe": "o que eu vou fazer agora (pagar con tarjeta, pagar en efectivo, esperar fuera)",
+          "porque_fora": "no uso do curso é frase preventiva, não família aberta. DIFERENÇA DESTE PAR vs o alemão: no alemão `Voy a pagar con tarjeta` SUBIA de peso porque resolvia a surpresa invertida de quem vinha de um país de espécie. Aqui a surpresa é FRACA — o francês já paga com cartão (país de cartão). A frase FICA, mas o argumento é menor; é a mesma string que dá a SIN-CON-PARA o encaixe `con tarjeta` que repõe `sin conversión`, e quem escrever B14 declara UMA das duas, não as duas."
+        },
+        {
+          "forma": "¿Nos vemos + [hora] + en + [lugar]? · ¿Quedamos allí? · Vale, allí estaré",
+          "casa": "I08",
+          "encaixe": "forma fechada, 4 encaixes gravados: hora × lugar",
+          "porque_fora": "é o molde COMBINAR, e fica FORA porque o teto de 3 sociais já está tomado por APRECIAÇÃO, ESCOLHA e PREFERÊNCIA — mas VOLTA como forma fechada, e isto não é negociável: sem ele o aluno ENTENDE o convite e não consegue marcar, e I05/I08 não fecham. BRINDE DESTE PAR, ao contrário do alemão: a hora do encontro NÃO tem o trap `halb zehn`. O francês diz `neuf heures et demie` = `las nueve y media` = 9h30, mesma contagem PARA TRÁS. `¿Nos vemos a las nueve y media?` sai de graça, onde o alemão errava uma hora inteira."
+        },
+        {
+          "forma": "¿Tengo que + [infinitivo]?",
+          "casa": "B09",
+          "encaixe": "obrigação — só a interrogativa (validar, hacer transbordo, reservar, llevar algo)",
+          "porque_fora": "não está na tabela de casos de fronteira do PRODUTO (que é LEI) e os dois não cabem nos 12. Continua ENSINADO em B09 com ≥2 encaixes; só não conta no numerador do G9. `Est-ce que je dois…?` é próximo, mas MENOS um-a-um que o `Muss ich…?` alemão — argumento para reabrir o teto SÓ se o G9 medido ficar abaixo do piso, com o dado na mão, nunca por antecipação."
+        }
+      ]
+    },
+    "casa": "Onde o molde é ENSINADO, com no mínimo 2 substituições na frente do aluno.",
+    "redisparos": "Onde ele volta com encaixe NOVO. Nenhum molde ganha parte própria — molde atravessa a jornada; virar episódio é como a gramática volta pela janela. LEI DE ORDEM (G9d): todo redisparo vem DEPOIS da casa na ordem canônica dos slots (B01…B18 → I01…I10 → A01…A08). NOTA DE DERIVAÇÃO: nenhuma casa mudou de slot em relação aos pares EN/DE, e isso não é herança — é resultado. A casa é onde a CENA primeiro paga, e a cena é do destino, que não mudou. O que mudou foi quanto tempo cada casa gasta ensinando (na `nota` de cada molde) e a camada de anotação (falso amigo + fonética francesa). ATENÇÃO: os redisparos e prévias declarados aqui são COMPROMISSOS COM O AUTOR DA PARTE — é ele quem converte `ouvir` em `responde` e declara `molde` no step; enquanto isso não acontece o G9 mede zero, e isso é esperado.",
+    "previas": "Onde o molde APARECE antes da casa, como inventário congelado modelado por nativo. Três regras: (1) prévia NUNCA entra em `redisparos` nem conta no P5 — não é o molde voltando, é chegando; (2) modelo nativo ANTES do `responde`; (3) a narração da prévia não diz que o aluno «já tem» a peça, e a da CASA não a apresenta como novidade. NESTE SKU vale mais que nos anteriores: as 36 narrações estão por escrever (em FRANCÊS), então quem escrever acerta de primeira em vez de corrigir depois de gravado.",
+    "padrao_de_ensino": "Quatro tempos: nomear o molde (`le moule`) → nomear a peça trocável → trocar na frente do aluno, por voz nativa → mandar o aluno trocar num responde. NESTE PAR entra um QUINTO tempo opcional, e ele custa uma frase: quando o molde carrega FALSO AMIGO ou uma interferência fonética (a tônica, um final apagado, a jota), a advertência vem grudada ao encaixe que a contém, DEPOIS de o aluno já ter produzido a frase. Nunca antes — a ordem é cena → produção → regra (PRODUTO §4). E, ao contrário do alemão (regra de leitura), aqui a advertência é quase sempre de SENTIDO («`largo` não é largo, é comprido»), não de som.",
+    "m2": "APROVEITO não introduz molde OPERACIONAL nenhum: troca os encaixes do que M1 plantou. EXCEÇÃO FECHADA, a única (PRODUTO §5.1): M2 planta até TRÊS MOLDES SOCIAIS, nomeados para sempre — APRECIAÇÃO (I07), ESCOLHA (I03), PREFERÊNCIA (I05). Existem porque a família apetitiva não tem cena em M1. NOTA DESTE PAR: ao contrário do alemão (que tem dois idiomas de fuga em Mallorca — inglês forte + rede em alemão), o FRANCÊS NÃO TEM ESCOTILHA: o inglês dele é moderado e EMPATADO com o do anfitrião espanhol (EF EPI 2025, França 38º/539, fala 456), e não há rede em francês fora da faixa catalã. Isso INVERTE o peso vs o alemão: M1 volta a carregar valor real de produção (a promessa do balcão é honesta), e M2/M3 continuam sendo sair do circuito. Não muda a espinha nem o teto; muda a ordem dos argumentos na loja.",
+    "moldes_sociais": "Um molde SOCIAL não pede, não paga e não repara: devolve algo à conversa — apreciação, escolha, preferência. A ORDEM DOS TRÊS não se mexeu (é a ordem em que o PRODUTO §5.1 os nomeia, lei de catálogo). A INVERSÃO DE PREÇO deste par — PREFERÊNCIA é o brinde (`plaire`) e APRECIAÇÃO deixa de ser a cara pela permissão (o francês é expressivo à mesa) e passa a doer pelo FALSO AMIGO dentro do elogio (`rico`≠`riche`) — está na `nota` de cada um, onde muda o trabalho do autor, não no índice do array, onde não muda nada.",
+    "m3": "LEIO A SALA não produz molde nenhum; a relação dele com os moldes é auditiva — reconhecer, não montar. Neste SKU o ear module de A01 ganha um sentido novo: os quinze moldes ouvidos em velocidade real vêm com os MESMOS audioKeys, custo zero, e o `-s` aspirado andaluz que some É o mesmo que o próprio francês apaga — a virada de A01 é «eles comem o fim como você; devolva-o quando é você que fala». O programa do deslize (contra o golpe de glote alemão) NÃO entra — o francês encadeia naturalmente; o programa novo dele, o soco (oxítona), é de PRODUÇÃO, não de escuta.",
+    "ativo_de_par": "O núcleo gerador vive inteiro em ME VIRO, que é específico do PAR (L1 × destino), e NÃO se amortiza entre compradores. A cada comprador novo o roster se RE-DERIVA, não se traduz. ESTE ARQUIVO É A PROVA E O CONTRAEXEMPLO, pela TERCEIRA vez: mudou a L1 inteira (do alemão para o francês) e mudaram o preço de quase todo molde, a camada de anotação (do olho para o léxico) e a fonética por molde; e AINDA ASSIM nenhum molde entrou, nenhum saiu, o teto é 12+3, e a ordem mudou apenas UM lugar. Isso NÃO autoriza orçar o próximo SKU como «só troca a narração»: a economia do catálogo cobre a pesquisa de destino e a fala espanhola, e o PRODUTO §3.2 regra 5 diz em letra que ela NÃO cobre a camada de molde. Oito das doze casas caem em slots `dono: destino` e as doze se re-derivaram assim mesmo.",
+    "_estado_do_andaime": "FATO, conferido em disco em 2026-07-28: os 36 `ep-*.json` deste SKU têm a fala espanhola definitiva com os audioKeys do curso base; o `es` de cada step NÃO se mexe (regravação paga, e o portão de áudio acusa). A narração-guia está VAZIA/por escrever — e será escrita em FRANCÊS, por duas vozes-guia novas (uma feminina + um masculino de alertas) AINDA POR DEFINIR NO CASTING (`audio.config`: a voz FR é PLACEHOLDER, o áudio só grava depois). O portão G14 (integridade voz × língua) continua PENDENTE no script: a guia FRANCESA nunca fala espanhol, Carmen e Emilio (peninsulares) nunca falam francês — conferência humana obrigatória em toda entrega (este repositório já teve o acidente do mp3 na língua errada). CONSEQUÊNCIA: cada redisparo/prévia aqui é conferido contra a string espanhola que o cumpre; se o autor não achar a frase no arquivo dele, o erro é deste roster e se corrige aqui, não inventando fala espanhola nova.",
+    "_o_que_este_roster_nao_decidiu": "Nomeado para que ninguém suponha resolvido. (1) A GRADE-36-FR.md, linha a linha — este arquivo diz quais moldes caem em cada slot, não o que a parte fala. (2) A revisão nativa da fonética: TODO o §1 da DERIVACAO-FR (as consequências no espanhol) é INFERÊNCIA e precisa de revisor com FRANCÊS L1 + espanhol peninsular ANTES de virar áudio. (3) A escolha final da gag de BALCÃO (`largo` × outra) e a conferência dos clipes espanhóis NOVOS contra o manifesto: `largo`, `embarazada`, `vaso`, `estoy caliente` e `en absoluto` NÃO existem no andaime (medido) e são clipes novos — não se escreve a gag fingindo que estão gravados. (4) A voz-guia FRANCESA (casting) — placeholder até lá. (5) A ZBE para placa ESTRANGEIRA (pesa mais neste par, 65% de carro) e a carga da relação França–Espanha em A03 — pesquisa + revisor, exposição ao G6.",
+    "vocabulario_molde": {
+      "termo": "le moule",
+      "_nota": "Como a narração FRANCESA nomeia o molde — o primeiro dos quatro tempos. Estável por SKU (PT «molde», EN «the frame», DE «Baustein», FR «le moule»). ESCOLHA JUSTIFICADA: «le moule» (o molde/fôrma de fundição) é o cognato direto do PT «molde» e mantém a metáfora do método — a peça sólida em que se DESPEJA a palavra do mundo (o buraco que se preenche); «couler dans le moule» é idiomático. Preferido a «la structure» (abstrato demais, perde a metáfora do encaixe) e a «le schéma». CUIDADO DE GÊNERO, e ele é um in-joke útil: `le moule` (masc.) = fôrma; `la moule` (fem.) = MEXILHÃO. A narração mantém o masculino sempre; o par mínimo de gênero reforça, de brinde, a própria lição do artigo colado (OTRA). O G15 lê este termo para conferir que toda casa NOMEIA a peça."
+    }
+  },
+  "moldes": [
+    {
+      "id": "QUERIA",
+      "categoria": "operacional",
+      "forma": "Quería + [substantivo]",
+      "encaixe": "qualquer coisa que se pede num balcão",
+      "tipo": "aberto",
+      "casa": "B12",
+      "redisparos": ["B15", "B16", "B18", "I01", "I03", "I10"],
+      "previas": [
+        "B09 — `Quería dos billetes para Sevilla` na bilheteria, com modelo nativo imediatamente antes do `responde`. Frase inteira, um encaixe só: é a chegada do molde, não a volta. B09 vem três slots ANTES da casa em B12. AVISO DE REDAÇÃO: a narração de B09 (em francês) NÃO pode dizer que o aluno «já tem» a palavra da padaria — a padaria é B12 e vem depois.",
+        "B11 — `Quería la carta, por favor` em `ouvir`, zero produção. B11 vem um slot antes da casa; a narração deve prometer que o molde ganha o turno dele em seguida."
+      ],
+      "tiles": ["mesa", "compras", "quarto", "saude", "transporte"],
+      "exemplos": [
+        "dos billetes para Sevilla",
+        "una mesa para las nueve y media",
+        "otra habitación, si es posible",
+        "una habitación más tranquila, si es posible",
+        "algo para las quemaduras del sol",
+        "medio kilo de esto",
+        "media ración",
+        "cambio, por favor"
+      ],
+      "falsos_amigos": ["demandar"],
+      "fonetica": ["tonica", "finais"],
+      "porque_o_numero_1": "REESCRITO do zero, não traduzido. O argumento dos pares anteriores era sobre a L1 do comprador — no inglês, `Quería` salvava o aluno da decisão tú/usted (o inglês perdeu o T/V no séc. XVII); no alemão, esse argumento já tinha caído porque o alemão TEM a máquina do tratamento. O francês TAMBÉM a tem (`tu`/`vous`), então a fuga da decisão NÃO é benefício para ele — vender `Quería` como muleta a quem tem a perna boa é o erro. O molde FICA no nº 1 por um motivo honesto e próprio deste par: ele é mais curto e menos marcado que qualquer alternativa (`Je voudrais` traduz para um registro um tom acima), soa LOCAL, e abre bilheteria, recepção, farmácia, padaria, loja, locadora e comisaría — que é a jornada inteira do francês, que não tem escotilha de inglês. E VOLTA ao nº 1 (vs 3º no alemão) porque a única força que o tinha derrubado — a recalibragem `Sie`≠`usted`, que fez ME-PONE ser o nº 1 alemão — é FRACA aqui: o tratamento é erro de segunda ordem para o francês (`_regras.recalibragem`).",
+      "nota": "1º e não 3º: ver `porque_o_numero_1` e o changelog do único swap do roster. O trabalho da casa em B12 é abrir a peça e ajustar o registro; o `qu` de `quería`, que era o pior trap do alemão («kveria»), é BRINDE para o francês — `quería` sai limpo, [k]. O que a casca cobra é a TÔNICA (o francês tende a oxítona: querÍa em risco de virar «queriÁ») e o FINAL apagado (o `-a` de `quería`, e o `-s`/`-e` dos encaixes: `dos billetes` → «do bijet»). FALSO AMIGO de apoio: `demandar`≠`demander` — se o aluno pensar «le demando un café» («eu lhe PEÇO», pensa ele) sai «eu o PROCESSO por um café»; item leve, porque o francês costuma usar `quería`/`pedir` e o reflexo pode não disparar. BRINDE a registrar e não gastar áudio: `Quería la carta` — `la carta`=`la carte` francês (o cardápio), o falso amigo diário do inglês não existe aqui.",
+      "idNoRosterEN": "QUERIA"
+    },
+    {
+      "id": "HAY",
+      "categoria": "operacional",
+      "forma": "¿Hay + [X]?",
+      "encaixe": "existência de qualquer coisa",
+      "tipo": "aberto",
+      "casa": "B08",
+      "redisparos": ["B09", "B10", "B11", "B12", "B14", "B16", "B17", "I01", "I03", "I05"],
+      "previas": [
+        "B06 — `¿Hay wifi?` no bar do saguão, com modelo nativo imediatamente antes. Uma frase, três sílabas, nenhuma substituição: inventário congelado que B08 abre depois com cinco encaixes. B06 vem dois slots antes de B08. NOTA DE PAR: é a primeira vez que o aluno lê um `¿Hay…?` espanhol, e AO CONTRÁRIO DO ALEMÃO não há nada a ensinar sobre o `h` — o `h` francês é mudo (`hôtel`), então `¿Hay?` sai natural de graça. É o primeiro sinal de que a tabela de leitura alemã não porta."
+      ],
+      "tiles": ["mesa", "quarto", "dieta", "chegar", "transporte", "saude", "simpatia"],
+      "exemplos": [
+        "wifi",
+        "mesa a las diez",
+        "ascensor",
+        "otro tren esta tarde",
+        "menú del día",
+        "suplemento de terraza",
+        "algo sin gluten",
+        "una farmacia de guardia por aquí",
+        "algo típico de aquí",
+        "alguien que hable inglés"
+      ],
+      "falsos_amigos": [],
+      "fonetica": ["tonica"],
+      "porque_o_numero_2": "É provavelmente o molde mais barato do SKU. `il y a…?` é traço a traço o mesmo molde — mesma pergunta de existência, mesma resposta binária, altíssima frequência na língua do aluno. O aluno não aprende nada estrutural, só a casca espanhola. E é o de maior alcance do roster: dez redisparos, sete tiles.",
+      "nota": "2º, e aqui o francês GANHA exatamente onde o alemão penava: o `¿Hay…?` alemão era o melhor endereço do curso para a regra do `h` (o alemão lê «Hai»); para o francês o `h` é mudo e não custa NADA. A casca é limpa de falso amigo e quase limpa de fonética — o que sobra é a TÔNICA (`hay` monossílabo tônico é fácil; o risco está nos encaixes: `ascensor`→«ansansór», `farmacia`). Segue sendo o contorno canônico do subjuntivo: `busco un sitio que tenga wifi` → `¿Hay wifi?`. NOTA DE PRODUTO DESTE PAR (a escotilha de reparo, DERIVACAO §3.5): `¿Hay alguien que hable inglés?` é o degrau universal da escada de B03, MAS com a ressalva de que o inglês do interlocutor pode não salvar (empate de proficiência França×Espanha). Onde há faixa catalã/fronteiriça, `¿Hay alguien que hable francés?` funciona — mas trate isso como fato local (dito uma vez em I09/A05), nunca como estratégia do Básico: instalar a fuga para o francês dentro do kit anti-pânico é ensinar o aluno a não usar o curso.",
+      "idNoRosterEN": "HAY"
+    },
+    {
+      "id": "ME-PONE",
+      "categoria": "operacional",
+      "forma": "¿Me pone / Me pones + [X]?",
+      "encaixe": "bebida, comida, quantidade — no balcão",
+      "tipo": "aberto",
+      "casa": "B11",
+      "redisparos": ["B15", "I01", "I02", "I03"],
+      "previas": [
+        "B01 — `Perdona, ¿me pones una caña?`, com modelo nativo no `ouvir` e o mesmo clipe reusável no step do aluno. É a PRIMEIRA aparição do molde, dez slots antes da casa. A frase entra em B01 como SOM: o que B01 ensina nela é o flick do `r` (que neste par tem peso alto — o `r` francês é uvular, sem âncora no tap) e a TÔNICA. Nenhuma linha nomeia `una caña` como peça trocável; o step não declara `molde`.",
+        "B02 — as DUAS formas lado a lado (`Ponme una caña, por favor.` tú, e `Perdone, ¿me pone un café con leche, por favor?` usted), modeladas por vozes diferentes. É AQUI que entra o beat da recalibragem `vous`≠`usted`, LEVE e BIDIRECIONAL: o `tú` do balcão amigável E o `usted` devido no banco/médico. B02 vem nove slots antes da casa; continua prévia — o que B02 ensina é o par tú×usted da CASCA, a peça só abre em B11.",
+        "B07 — `¿Me pone el taxímetro, por favor?` no banco de trás do táxi. O encaixe sai do balcão (`el taxímetro` não é bebida) e mostra o molde na cena que ninguém escreveu. Quem escrever B07 confere o modelo nativo da casca."
+      ],
+      "tiles": ["mesa", "compras"],
+      "exemplos": [
+        "una caña",
+        "un cortado",
+        "un café largo",
+        "dos claras",
+        "una jarra de agua del grifo",
+        "un pincho de tortilla",
+        "un vaso de agua",
+        "cien gramos de jamón",
+        "lo mismo que él",
+        "otra ronda"
+      ],
+      "falsos_amigos": ["largo", "vaso"],
+      "fonetica": ["jota", "nasal", "finais"],
+      "porque_deixou_de_ser_o_numero_1": "3º e não 1º, e é o ÚNICO swap do roster vs o alemão. No alemão ME-PONE era o nº 1 porque `¿me pone?`×`¿me pones?` é o slot cognitivo `Sie`/`du` e a recalibragem era o erro MAIS CARO daquele comprador (ele errava `usted` com convicção, num sentido só, durante doze dias). Para o francês a mesma recalibragem é FRACA e BIDIRECIONAL (`_regras.recalibragem`): ele passa a `tu` com mais facilidade e o tratamento é erro de SEGUNDA ordem, porque o erro nº 1 dele é o LÉXICO. Tirada a força que o empurrava, ME-PONE assenta abaixo de QUERIA e de HAY. O MOLDE FICA e continua central — abre bar, mercado, padaria e terraza —, e a variante ultracurta `Ponme` continua item declarado em I02 (não é grosseria, é a forma normal do balcão, e o pedido curto o francês já traz de casa). O que sai é o posto de nº 1, não o molde.",
+      "nota": "Casca LIMPA de fonética (`¿me pone?` não carrega tônica nem final perigoso), o que a faz o veículo barato do beat de recalibragem. As dificuldades chegam pelos ENCAIXES: a JOTA (som novo) em `cien gramos de jamón` («zhamón») e a NASAL na mesma palavra (o `-n` de `jamón` é consoante plena, não vogal de nariz); o FINAL em `dos claras`/`un cortado`. FALSO AMIGO — a GAG DE BALCÃO deste par mora aqui: `un café largo` — `largo`=`large` para o francês (largo/largura), mas em espanhol é COMPRIDO; ele pede pensando «grande/largo» e recebe um café aguado/estirado, coisa real e pedível, falsificável na primeira manhã. E `un vaso de agua` — `vaso`=`vase` (vaso de flor) para o francês, mas é COPO. CUSTO DECLARADO: `largo` e `vaso` NÃO existem no andaime (medido) — são clipes espanhóis NOVOS, e a escolha final da gag de balcão é pendência §5; não escreva a gag fingindo que está gravada. A gag alemã `vino`×`fino` NÃO PORTA (o francês diz [vino] certo) — não usá-la aqui.",
+      "idNoRosterEN": "ME-PONE"
+    },
+    {
+      "id": "PUEDO",
+      "categoria": "operacional",
+      "forma": "¿Puedo + [infinitivo]?",
+      "encaixe": "qualquer coisa que EU quero fazer",
+      "tipo": "aberto",
+      "casa": "B06",
+      "redisparos": ["B07", "B09", "B10", "B14", "B15", "B16", "B18", "I09"],
+      "tiles": ["pagar", "compras", "quarto", "taxi"],
+      "exemplos": [
+        "pagar con tarjeta",
+        "sentarme aquí",
+        "dejar las maletas hasta la hora de entrada",
+        "hacer el check-out más tarde",
+        "probármelo",
+        "aparcar aquí",
+        "sacar una foto",
+        "cambiar el billete",
+        "subir con esta maleta"
+      ],
+      "falsos_amigos": [],
+      "fonetica": ["finais", "tonica"],
+      "nota": "FICA em 4º, e o motivo tem de estar escrito porque o ARGUMENTO mudou mesmo com a posição parada. No alemão PUEDO ganhava peso por uma dispensa (o alemão separa `können` de `dürfen` e o curso dizia «`puedo` cobre os dois»). Essa dispensa ENCOLHE A ZERO no francês: `pouvoir` cobre «poder» e «ter licença» num verbo só, nativamente — não há o que dispensar, uma nota mínima basta. Mas o VALOR de PUEDO não cai, e por um motivo próprio deste par: 65% deste comprador chega de CARRO (FATO, Turespaña), e a categoria de improviso `isso aqui pode?` — ZBE, estacionar (`aparcar aquí`), terraza, foto, bagagem — é onde PUEDO paga, e ela CRESCE com o carro. Ultrapassado no alemão por uma dispensa que já não existe; sustentado no francês pela cena do carro. FONÉTICA: a casca `¿Puedo…?` é quase limpa (o `qu` de `aquí`/`cambiar` é BRINDE); o que cobra é o FINAL apagado nos infinitivos (`pagar`→«pagá», `aparcar`→«aparcá», `probármelo`) e a TÔNICA.",
+      "idNoRosterEN": "PUEDO"
+    },
+    {
+      "id": "SIN-CON-PARA",
+      "categoria": "operacional",
+      "forma": "sin / con / para + [X]",
+      "encaixe": "ingrediente, formato, destinatário, finalidade",
+      "tipo": "aberto",
+      "clipe": true,
+      "casa": "B12",
+      "redisparos": ["B13", "B14", "I03"],
+      "previas": [
+        "B11 — `Una botella de agua sin gas, por favor.` no balcão, um slot antes da casa. Frase inteira, um encaixe só; B12 abre `sin` como peça e empilha `sin hielo`, `sin gas`, `para llevar`, `para dos`. Quem escrever B11 garante o modelo nativo ANTES de qualquer `responde`."
+      ],
+      "tiles": ["mesa", "dieta", "pagar"],
+      "exemplos": [
+        "sin gluten",
+        "sin hielo",
+        "sin gas",
+        "sin cebolla",
+        "sin leche",
+        "con tarjeta",
+        "con ensalada",
+        "para llevar",
+        "para compartir",
+        "para dos",
+        "para mí",
+        "para el seguro"
+      ],
+      "falsos_amigos": [],
+      "fonetica": ["nasal", "finais"],
+      "nota": "O melhor retorno por unidade ensinada da lista, e com folga ainda maior neste par: `sans`/`avec`/`pour` são um-a-um, verbo nenhum, e `para llevar`=`à emporter` é expressão de todo dia. Funciona como enunciado inteiro — `Sin hielo, por favor.` basta. A REMOÇÃO OBRIGATÓRIA, a única do roster: `sin conversión` SAIU. O DCC só existe quando a moeda do cartão difere da da transação, e o francês paga em euros com cartão em euros (Eurozona) — a maquininha não oferece nada. Reposto por `con tarjeta`, MAS o argumento é MAIS FRACO que no alemão: o francês JÁ usa cartão com naturalidade (país de cartão), então a «surpresa invertida» que o alemão tinha (vindo de um país de espécie) quase não existe. FONÉTICA: a NASAL de `sin`/`con` (o `-n` é consoante plena — `sin`≠[sɛ̃], `con`≠[kɔ̃]); o `h` de `sin hielo` é BRINDE (mudo, onde o alemão lia «Hielo»); `ll` de `para llevar` sai [j]. Cola em todos os outros onze encaixes.",
+      "idNoRosterEN": "SIN-CON-PARA"
+    },
+    {
+      "id": "OTRA",
+      "categoria": "operacional",
+      "forma": "Otra / Otro + [X]",
+      "encaixe": "repetir o que já deu certo",
+      "tipo": "aberto",
+      "casa": "B11",
+      "redisparos": ["B15", "B16", "I04"],
+      "tiles": ["mesa", "quarto"],
+      "exemplos": [
+        "otra, por favor",
+        "otra ronda",
+        "otro café",
+        "otro tenedor",
+        "otra toalla",
+        "otra habitación",
+        "otra talla",
+        "otra almohada"
+      ],
+      "falsos_amigos": [],
+      "fonetica": ["nasal", "finais"],
+      "nota": "Baratíssimo: `encore un(e)` = `otro/otra`, e `encore une bière` é A frase de balcão francesa — a estrutura, a brevidade e o gesto vêm de casa, falta a casca. `Otra, por favor.` é enunciado completo SEM substantivo. É o molde que te dá de novo o que já deu certo, 90% do que o turista quer depois do primeiro acerto. NOTA DE GÊNERO, e é onde o calque francês morde: o francês tem 2 gêneros (un/une), mais próximos que os 3 do alemão — MAS `le`/`la`≠`el`/`la` em muitas palavras: `la leche`=le lait, `el color`=la couleur, `la sangre`=le sang, `la leche`/`el mapa`. A dispensa do PRODUTO §5.4 vale, mas o ENQUADRAMENTO é «você tem gênero e está mal ajustado: cole o artigo na palavra e não traduza o SEU». Sem essa linha ele traduz o gênero francês e erra COM MÉTODO. A GAG ALEMÃ `otro vino`→`fino` MORRE aqui (o francês distingue b/v e diz [vino] certo) — `otro vino` é encaixe normal, sem piada. FONÉTICA: NASAL e `-ción` de `otra habitación`; FINAL de `otra`/`otro`.",
+      "idNoRosterEN": "OTRA"
+    },
+    {
+      "id": "ME-PUEDE",
+      "categoria": "operacional",
+      "forma": "¿Me puede + [infinitivo]?",
+      "encaixe": "qualquer coisa que eu quero que VOCÊ faça",
+      "tipo": "aberto",
+      "casa": "B03",
+      "redisparos": ["B04", "B07", "B09", "B13", "B14", "B17", "B18", "I07"],
+      "tiles": ["reparo", "saude", "pagar"],
+      "exemplos": [
+        "repetir",
+        "hablar más despacio",
+        "escribir",
+        "llamar un taxi",
+        "enseñar en el mapa",
+        "activar la SIM aquí",
+        "abrir el maletero",
+        "recargar la tarjeta",
+        "hacer sin ajo",
+        "avisar en cocina",
+        "recomendar algo para el dolor de cabeza",
+        "dar la factura para el seguro"
+      ],
+      "falsos_amigos": ["entender", "atender_esperar"],
+      "fonetica": ["finais", "jota", "nasal"],
+      "nota": "Barato — `pouvez-vous me…?` = `¿me puede…?` traço a traço — e traz a heroína do kit anti-pânico: `¿Me lo escribe?`. FALSO AMIGO DE ALTO VALOR, e o briefing pediu este: `entender`≠`entendre`. `No entiendo` é a frase de sobrevivência nº 1 do curso, e o francês pode cruzá-la com «não OUÇO» (`entendre`=ouvir em francês) e, pior, CONFIAR que `entender`=ouvir e nem pedir que repitam. GRAVADO e de graça: `No entiendo. ¿Cómo dice?`. Segundo falso amigo, de apoio: `atender`≠`attendre` — `¿me atiende?` (= me serve) o francês lê «espere», e `espero` (= aguardo) ele cruza com «tenho esperança» (`espérer`). FONÉTICA: casca limpa; os encaixes trazem o FINAL dos infinitivos (`repetir`→«repetí», `escribir`), a JOTA em `hacer sin ajo` («azho») e a NASAL em `avisar en cocina`. NOTA DE ESCADA (DERIVACAO §3.5): o degrau universal de reparo é `¿Hay alguien que hable inglés?` (ver HAY), COM a ressalva de que o inglês do interlocutor pode não salvar — o francês não tem escotilha, e é por isso que ME-PUEDE + o `¿Me lo escribe?` carregam mais peso aqui do que no alemão.",
+      "idNoRosterEN": "ME-PUEDE"
+    },
+    {
+      "id": "DONDE",
+      "categoria": "operacional",
+      "forma": "¿Dónde está + [el/la X]? · ¿Dónde hay + [un/una X]?",
+      "encaixe": "lugar conhecido × lugar qualquer",
+      "tipo": "aberto",
+      "par": true,
+      "casa": "B08",
+      "redisparos": ["B09", "B10", "B17"],
+      "previas": [
+        "B01 — `¿Dónde está el hospital?`, sete slots antes da casa e a primeira aparição de DONDE. B01 ensina a frase inteira pelo lugar do SOCO (a tônica), e o par definido×qualquer continua sendo da casa. NOTA DE PAR: `hospital` era a palavra do GUIRI ALERT do «-o tax» inglês (o britânico diz `HOSpital`); o francês diz `hospitál` também, mas por OUTRO motivo (a oxítona), e a cena é a mesma por acidente — o enquadramento é a TÔNICA MÓVEL, não o latinismo. Escrever o «-o tax» aqui é o anti-padrão 9.",
+        "B06 — `¿Dónde hay un cajero?` diante do caixa de rua, com modelo nativo gravado. Segue prévia (B06 vem dois slots antes de B08). Este slot SOBE de peso neste par — o caixa de banco de rua contra o Euronet de saguão."
+      ],
+      "tiles": ["chegar", "transporte", "saude"],
+      "exemplos": [
+        "el baño",
+        "la salida",
+        "el control de acceso",
+        "el andén 4",
+        "el consulado",
+        "un cajero",
+        "una farmacia",
+        "un súper"
+      ],
+      "falsos_amigos": ["salir_salida"],
+      "fonetica": ["jota", "tonica", "finais"],
+      "nota": "Barato e par de graça: `où est le…?`×`où y a-t-il un…?` é o contraste definido×qualquer, NATIVO do francês. O tempo do par colapsa e NÃO se devolve ao roteiro — vai para a escotilha (`¿Está lejos?`+`¿Me lo escribe?`+o dedo) e para a ESCUTA, que é onde a cena quebra. A casa CONTINUA B08. FALSO AMIGO: `salida`/`salir` — `salir`=SUJAR e `sale`=sujo para o francês, então ele HESITA diante de `SALIDA` (associa a «sujo») ou evita dizer `salir`. Receptivo, alta frequência em placa, e GRAVADO: `¿Dónde está la salida?` (ep-b08/09/10). FONÉTICA: casca limpa; os encaixes trazem a JOTA em `un cajero` («kazhero»), o FINAL/tônica em `una farmacia`, e o `h` de `el hospital` é BRINDE (mudo).",
+      "idNoRosterEN": "DONDE"
+    },
+    {
+      "id": "LLEVA",
+      "categoria": "operacional",
+      "forma": "¿Lleva + [ingrediente]?",
+      "encaixe": "qualquer ingrediente",
+      "tipo": "aberto",
+      "casa": "B13",
+      "redisparos": ["B14", "I03"],
+      "previas": [
+        "B01 — `¿Lleva jamón?`, doze slots antes da casa em B13 e a primeira aparição de LLEVA. A frase entra em B01 pela JOTA e não pelo ingrediente; o step não declara `molde`. NESTE PAR ELA É O ITEM FONÉTICO MAIS DURO DO ROSTER: a jota de `jamón` é SOM NOVO para o francês [ʒ] («zhamón»), não só letra errada como era para o alemão (que tem o [x] de `Bach`). O bloco não é regra de leitura, é treino de som — uma linha + um pouco de prática, aproximando a jota pelo `r` uvular deles (mesmo ponto).",
+        "B11 — `¿Lleva jamón o chorizo?` em `ouvir`, zero produção. A narração promete que a palavra que abre a pergunta ganha o turno depois. B11 vem dois slots antes de B13."
+      ],
+      "tiles": ["dieta", "mesa"],
+      "exemplos": [
+        "jamón",
+        "chorizo",
+        "ajo",
+        "gluten",
+        "harina",
+        "caldo de pescado",
+        "frutos secos",
+        "conservantes",
+        "cebolla",
+        "leche",
+        "carne"
+      ],
+      "falsos_amigos": [],
+      "fonetica": ["jota", "ch", "nasal", "finais"],
+      "nota": "Entra por aposta × indeterminação, não por frequência: a lista de ingredientes-armadilha é ABERTA (jamón no feijão-verde, caldo de peixe no arroz «de verduras») — a prova mais limpa de que inventário fixo não fecha. FONÉTICA: É O MOLDE FONÉTICO MAIS CARO deste par, e o motivo é a JOTA como SOM NOVO numa frase de ALERGIA, onde errar não é constrangimento, é risco: `jamón` e `ajo` («zhamón», «azho»), mais o `ch`=[ʃ] de `chorizo` («shorizo») e a NASAL de `jamón` (o `-n` pleno). É o único lugar do curso onde a advertência tem de vir junto com a primeira produção e não depois dela — a ordem cena→produção→regra vale, mas o intervalo encolhe. BRINDE que o alemão não tinha: `harina` começa com `h` MUDO (o alemão lia «Harina»). B13 é INTOCÁVEL por lei (PRODUTO §3.2 regra 7): nunca cortado, nunca atrás de paywall. Só I03 (`¿Lleva carne?`) traz encaixe novo além da casa; `ep-b14` recita a mesma string de B13 (redisparo de CENA, conta no G9, não vale como encaixe novo no P5).",
+      "idNoRosterEN": "LLEVA"
+    },
+    {
+      "id": "YA-ESTA",
+      "categoria": "operacional",
+      "forma": "Ya está + [pagado / reservado / hecho / incluido]",
+      "encaixe": "lista fechada de 4",
+      "tipo": "fechado",
+      "casa": "B14",
+      "redisparos": ["B16", "B18"],
+      "previas": [
+        "B09 — `Ya está pagado` na bilheteria e `Ya está reservado` no balcão de longa distância, os dois com modelo nativo em `ouvir` antes. A prévia mais forte do roster: dois dos quatro encaixes, cinco slots antes da casa. Não vira casa porque falta o primeiro tempo (nenhuma linha nomeia o molde nem diz que a lista é fechada em quatro) — e a lista fechada É a feature. AVISO: a narração da casa (francesa) NÃO apresenta como novidade o que o aluno já usou duas vezes."
+      ],
+      "tiles": ["pagar", "quarto"],
+      "exemplos": ["pagado", "reservado", "hecho", "incluido"],
+      "falsos_amigos": [],
+      "fonetica": ["ch", "s_sonoro", "finais"],
+      "nota": "Fechado é a FEATURE: com lista fechada o aluno não inventa. Evita pagar duas vezes e o hotel decidir sozinho o que era a reserva. BARATO neste par: o francês falado usa o `passé composé` com `avoir` (`c'est déjà payé/fait/réservé`, `déjà`=`ya`) e não estranha um estado declarado no presente — o bloco de gramática em foco encolhe a uma linha. FONÉTICA: `hecho` carrega o `ch`=[ʃ] (o francês diz «esho», não «etcho» — quer [tʃ]) e o `h` mudo (brinde); `reservado` traz o `s` intervocálico [z] («rezervado»). Ensine `hecho` pelo `ch` e pare aí.",
+      "idNoRosterEN": "YA-ESTA"
+    },
+    {
+      "id": "SOY-ESTOY",
+      "categoria": "operacional",
+      "forma": "Soy / Estoy + [lista fechada]",
+      "encaixe": "lista fechada de 6",
+      "tipo": "fechado",
+      "casa": "B13",
+      "redisparos": ["B17", "I05", "I06"],
+      "previas": [
+        "B08 — `Estoy perdido/a`, com modelo gravado nas duas vozes e a nota de gênero. Frase inteira, presa à escotilha de «parei um estranho e não entendi a resposta»; a casa em B13 ensina `Soy + [rótulo]` com a lista fechada. B08 vem cinco slots antes de B13.",
+        "B05 — a função do slot (motivo, tempo, onde você fica) sobrevive, mas B05 é REESCRITA TOTAL neste par: num voo/estrada Schengen interno não há controle de fronteira, e a função migra para o check-in do hotel (RD 933/2021, lei, não golpe) e o balcão da locadora. As respostas gravadas (`Vengo de vacaciones`, `Diez días`, `Me alojo en…`) servem nos dois balcões sem tocar no `es`. Prévia potencial, não redisparo (B05 vem antes da casa). BÔNUS: o falso amigo `nombre`≠«número» cai aqui, onde alguém pede o nome da reserva."
+      ],
+      "tiles": ["dieta", "saude", "simpatia"],
+      "exemplos": [
+        "alérgico/a a los frutos secos",
+        "alérgica al marisco",
+        "vegetariano/a",
+        "celíaco/a",
+        "constipado/a",
+        "perdido/a"
+      ],
+      "falsos_amigos": ["embarazada", "constipado", "caliente"],
+      "fonetica": ["jota", "s_sonoro", "tonica"],
+      "nota": "Fechado de propósito: com a lista aberta o aluno produz `soy aburrido` («sou chato»). O eixo ser/estar é IGUAL de opaco (o francês só tem `être`) e a regra do PRODUTO §5.4 não muda: contraste de sistema nunca se contrasta, chunks congelados mais dispensa. CARREGA A MAIOR CARGA DE FALSO AMIGO DO ROSTER, e é `estar` + adjetivo que a concentra: (1) `estoy embarazada` = a gag ICÔNICA do par — `embarrassée`=envergonhada para o francês, mas `embarazada`=GRÁVIDA (I07/B17); clipe NOVO, não gravado. (2) `estoy constipado` = `constipé`=prisão de ventre, mas em espanhol RESFRIADO — B17, farmácia, PERIGOSO (remédio errado); GRAVADO em ep-b17. (3) calque `estoy caliente` por `j'ai chaud` (= excitado, não «tenho calor»; o certo é `tengo calor`) — ensina-se como dispensa, não se grava. BRINDE que o alemão NÃO tinha (o alemão errava com `gegen`): o francês diz `allergique **à**`, cuja preposição COINCIDE com o espanhol `alérgico **a**` — a preposição vai grudada na frase-martelo e a palavra «regência» não aparece. E `Soy vegetariano` sem artigo, como `Je suis végétarien` — não gaste áudio consertando o que não quebra. FONÉTICA: `alérgico`/`vegetariano` trazem a JOTA escrita ⟨g⟩ (que o francês já diz [ʒ], perto do alvo), `celíaco`/`embarazada` o `s`/distinción, e a TÔNICA em todos.",
+      "idNoRosterEN": "SOY-ESTOY"
+    },
+    {
+      "id": "ME-HE-DEJADO",
+      "categoria": "operacional",
+      "forma": "Me he dejado + [X] + [lugar]",
+      "encaixe": "lista fechada de 4 a 5 objetos × lugar",
+      "tipo": "fechado",
+      "casa": "B07",
+      "_casa_herdada": "A casa B07 é decisão ESTRUTURAL, não linguística, e porta sem re-derivação: B18 é o último slot de ME VIRO, os outros usos (B07, B16) ficam antes dele, e nem APROVEITO nem LEIO A SALA usam o molde. Casa em B18 daria ZERO redisparos e molde sem ≥2 recalls é frase (P5). B07 é onde o molde primeiro paga — o telefone que ficou no táxi à meia-noite.",
+      "redisparos": ["B16", "B18"],
+      "tiles": ["quarto", "taxi", "apuro"],
+      "exemplos": ["el móvil", "la chaqueta", "el pasaporte", "la maleta", "las llaves"],
+      "falsos_amigos": [],
+      "fonetica": ["jota", "ch", "s_sonoro", "finais"],
+      "nota": "É o esquecimento, não o roubo — e é a diferença que devolve o objeto: `Me han robado` aciona denúncia; `me he dejado` aciona a recepção, o táxi e o bar, onde a coisa realmente está. BRINDE GRANDE deste par: o francês falado usa `passé composé` com `avoir` (`j'ai laissé/oublié`), mesmo desenho do `he dejado` peninsular — o bloco de gramática encolhe a uma linha. FONÉTICA, e aqui a INVERSÃO vs o alemão é forte: era o molde MAIS DENSO do roster alemão (6 das 7 armadilhas, incluindo `he`⟨h⟩ e `chaqueta`⟨qu⟩ na casca); para o francês `he` (h mudo) e o `qu` de `chaqueta` são BRINDES, e o molde fica MENOS denso. Sobram a JOTA de `dejado` («dezhado»), o `ch`=[ʃ] de `chaqueta` («shaqueta»), o `s` intervocálico de `el pasaporte` («pazaporte») e o FINAL de `las llaves` (o `-s` do plural, que o francês apaga). Não ensine as quatro: uma por parte, grudada ao encaixe que a parte já diz, o resto nos redisparos de B16/B18. NOTA I06 (trap forte, DERIVACAO §2.3 item 10): o francês SUPERUSA o perfeito (quase não usa `passé simple`), então em I06 `ayer` pede `fui`, não `he ido` — pior que no alemão, que ao menos alterna. Item receptivo de alto valor em I06.",
+      "idNoRosterEN": "ME-HE-DEJADO"
+    },
+    {
+      "id": "APRECIACION",
+      "categoria": "social",
+      "nome": "APRECIAÇÃO",
+      "forma": "[isto] estaba + [adjetivo forte] · ¡Qué + [adjetivo]!",
+      "encaixe": "lista fechada de 6 adjetivos de elogio, gravados inteiros",
+      "tipo": "fechado",
+      "casa": "I07",
+      "redisparos": ["I08", "I09"],
+      "tiles": ["simpatia", "mesa"],
+      "exemplos": [
+        "estaba buenísimo",
+        "estaba riquísimo",
+        "¡qué bueno!",
+        "¡qué rico!",
+        "¡qué sitio más bonito!",
+        "¡qué buena pinta!"
+      ],
+      "falsos_amigos": ["rico"],
+      "fonetica": ["s_sonoro", "tonica", "finais"],
+      "nota": "O molde que faltava, a maior lacuna medida do produto (em 252 frases-alvo do par EN a única fala de apreciação era `¿qué me recomienda?`). Fechado porque o adjetivo concorda (buenísimo/buenísima) e a lista curta é a feature. Abastece o tile `simpatia` (G8 exige ≥8 cards). O QUE INVERTE NESTE PAR: no alemão APRECIAÇÃO era o social CARO porque o alemão achava o `-ísimo` exagero (fala contida) e o produto entregava PERMISSÃO. O francês é EXPRESSIVO à mesa (⚠️ G6: atribuir ao registro/à cultura gastronômica, NUNCA escrever «o francês é expressivo»), mais perto do registro espanhol — a permissão custa MENOS. O risco migra para o FALSO AMIGO DENTRO DO ELOGIO: `rico`=GOSTOSO ≠ `riche` (rico de dinheiro) — o francês pode achar que `¡qué rico!` fala de dinheiro. GRAVADO: `¡Qué rico!` (ep-i07). E a gag `embarazada` mora ao lado (uma francesa que quer dizer `embarrassée`). FONÉTICA: o `qu` de `¡Qué…!` é BRINDE (o alemão penava aqui); sobram o `s` intervocálico de `riquísimo`/`buenísimo` e a TÔNICA do `-ísimo`. Este é o social que INVERTE em relação a PREFERÊNCIA.",
+      "idNoRosterEN": "APRECIACION"
+    },
+    {
+      "id": "ELECCION",
+      "categoria": "social",
+      "nome": "ESCOLHA",
+      "forma": "¿Cuál me recomienda: [A] o [B]? · ¿Este es mejor que aquel?",
+      "encaixe": "duas coisas do mundo, lidas na carta, na vitrine ou na mesa ao lado",
+      "tipo": "aberto",
+      "casa": "I03",
+      "redisparos": ["I04", "I09"],
+      "tiles": ["mesa", "compras"],
+      "exemplos": [
+        "¿cuál me recomienda: el pulpo o las croquetas?",
+        "¿cuál me recomienda: el arroz o el pescado?",
+        "¿cuál está mejor hoy?",
+        "¿cuál es más típico de aquí?",
+        "¿cuál me recomienda: este o aquel?"
+      ],
+      "falsos_amigos": [],
+      "fonetica": ["jota", "tonica"],
+      "nota": "Transforma `¿qué me recomienda?` — pergunta aberta cuja resposta o aluno não entende — numa pergunta BINÁRIA cuja resposta cabe na cabeça sob estresse (o mesmo princípio de HAY). O encaixe é coisa do mundo (dois pratos): passa em P1 por escolha, não por cálculo. BARATO e SEM re-derivação: `que me recommandez-vous: A ou B?` é o mesmo desenho, `recomendar`=`recommander` é BRINDE, e `menú del día`=`menu du jour` vem de graça (o falso amigo `carta`/`menú` não existe para o francês). É o único dos três sociais cuja linha não muda de preço. FONÉTICA: a JOTA em `mejor` («mezhor»), a TÔNICA; o `qu` de `¿qué?`/`aquel` é BRINDE, e `cuál` NÃO é armadilha (o `c` antes de `u` é [k] nas duas línguas — gastar tempo nele é consertar o que não quebra).",
+      "idNoRosterEN": "ELECCION"
+    },
+    {
+      "id": "PREFERENCIA",
+      "categoria": "social",
+      "nome": "PREFERÊNCIA",
+      "forma": "Me gusta + [X] · Prefiero + [X]",
+      "encaixe": "coisa, lugar, comida ou bebida — o que eu quero de volta",
+      "tipo": "aberto",
+      "casa": "I05",
+      "redisparos": ["I06", "I09"],
+      "tiles": ["simpatia", "mesa"],
+      "exemplos": [
+        "me gusta mucho este barrio",
+        "prefiero el vino tinto",
+        "prefiero sentarme fuera",
+        "me gusta más el de la esquina",
+        "me gusta este sitio",
+        "prefiero andar"
+      ],
+      "falsos_amigos": ["en_absoluto"],
+      "fonetica": ["tonica", "finais"],
+      "nota": "A resposta pronta às perguntas que ELES fazem (`¿qué te parece Madrid?`, `¿tinto o blanco?`) e a única forma de o turista DAR algo à conversa em vez de só pedir. Fica em I05 e não em M1 porque a família apetitiva não tem cena no Básico. É O BRINDE DO ROSTER: a inversão de `gustar` — o obstáculo mais notório do anglófono — é NATIVA do francês via `plaire`: `ça me plaît` = experienciador no dativo, coisa como sujeito, INV-7 em cinco palavras («funciona como `plaire`»). A proibição do jargão vale inteira: `me gusta` entra como bloco congelado, nunca se explica a inversão, a palavra «verbo» não aparece. O tempo liberado NÃO se devolve: vai para ENCAIXES (o G9 mede cobertura, não economia). FALSO AMIGO de escuta em I05: `en absoluto` — `absolument`=absolutamente (sim) para o francês, mas em espanhol DE JEITO NENHUM (não), sentido OPOSTO: `—¿Te molesta? —En absoluto` ele entende «sim, muito». Item receptivo (clipe novo se usado). A GAG `vino`×`fino` MORRE aqui: `prefiero el vino tinto` — o francês diz [vino] certo, não pede `el fino`. FONÉTICA: a TÔNICA e o FINAL (`prefiero`, `barrio`); o `qu` de `esquina` é BRINDE. Este é o social que INVERTE em relação a APRECIAÇÃO.",
+      "idNoRosterEN": "PREFERENCIA"
+    }
+  ],
+  "cortados": [
+    {
+      "forma": "Me gustaría + [infinitivo]",
+      "porque": "CONTINUA CORTADO, motivo REESCRITO (não traduzido). No inglês o argumento era o acolchoamento britânico (`I was wondering if I could…`); no alemão, que já pede curto e direto (`Ein Bier, bitte`), o argumento virou «é mais longo e mais marcado que `quería`». Para o francês vale a segunda metade E uma razão própria: o equivalente que ele traria de casa, `Je voudrais`, traduz para um registro UM TOM ACIMA de `quería` — traduzir peça a peça sobe o registro sem que ele perceba. Corta-se por ser mais longo que `quería` e por esse deslize de registro. Nomeado para que nenhum agente futuro o traga de volta."
+    },
+    {
+      "forma": "GRAU — un poco más / un poco menos + [X]",
+      "porque": "FORA, e o motivo é do DESTINO e da língua-alvo, não do comprador — porta sem re-derivação. O que justifica esse molde no Phûut! é a escala de picante, e a cozinha espanhola não é apimentada. Onde a viagem pede grau na Espanha, a necessidade já está coberta por forma fechada gravada no andaime: `Poco hecho / Al punto / Muy hecho` (B12) e `media ración` (B11/I03)."
+    },
+    {
+      "forma": "Subjuntivo em subordinada",
+      "porque": "Regra geral: não subordinar — uma oração, um pedido. `Quiero que me traiga la cuenta` → `La cuenta, por favor.` · `Busco un sitio que tenga wifi` → `¿Hay wifi?` (HAY existe para absorver isto) · `Cuando llegue el tren…` → apontar o painel. Motivo do destino e da língua-alvo, porta sem re-derivação. EXCEÇÃO já concedida: os votos congelados de I08 (`que aproveche`, `que vaya bien`, `¡salud!`) são vocabulário com forma de subjuntivo, não subjuntivo. NOTA DESTE PAR: `¡Salud!` = `Santé!` francês, e o protocolo do olhar ao tinir NÃO é a regra rígida que é na Alemanha — menos delta. ⚠️ o campo 6 da Ficha (onde não vale) ainda não está fechado: não vai ao áudio sem ele."
+    }
+  ]
+}

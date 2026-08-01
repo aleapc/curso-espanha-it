@@ -1,0 +1,894 @@
+{
+  "id": "b11",
+  "slot": "B11",
+  "nivel": "basico",
+  "numero": 11,
+  "parte": "11",
+  "titulo": "Une seconde et demie au comptoir",
+  "subtitulo": "Être servi en une phrase courte — et savoir d'avance ce que coûtent le comptoir, la table et la terrasse",
+  "moldura": "ganha",
+
+  "cena": "Deux heures moins dix, le comptoir plein sur trois rangs, le patron vous regarde, dit «Dime» et vous laisse une seconde et demie avant de passer au suivant.",
+
+  "moldes": ["ME-PONE", "OTRA"],
+
+  "clique": {
+    "contagem": ["le comptoir", "la terrasse", "le bar de gare", "la table du restaurant"],
+    "desconto": "Ces phrases, personne ne vous les a données. Vous les avez bâties ici, à partir de deux débuts qui sont désormais à vous.",
+    "piso": "On vous sert en une phrase courte, sans excuse avant. La plupart des clients attendent deux semaines qu'on les remarque."
+  },
+  "cliqueAudioKey": "b11-n38",
+
+  "frasePiso": "On vous sert en une phrase courte, sans excuse avant. La plupart des clients attendent deux semaines qu'on les remarque.",
+
+  "permissao": "Vous avez le droit de rester une heure au comptoir avec un demi, et de demander avant de vous asseoir ce que coûte la terrasse. Les deux sont ordinaires. «Ponme una caña» n'est pas impoli — court et direct, c'est la forme normale ici, et vous l'apportez déjà. Et si le mot vous manque: montrez du doigt. Le moule porte le reste de la phrase.",
+  "permissaoAudioKey": "b11-n36",
+
+  "espelho": "Rester au vouvoiement douze jours, c'est ça qui détonne là-bas: avec un serveur d'à peine vingt-cinq ans, ça se lit comme une distance voulue, et il vous répond dans la même monnaie.",
+
+  "fichasCulturais": [
+    {
+      "sinal": "Le patron dit «Dime», vous regarde droit dans les yeux, et après une seconde et demie son regard repart le long du comptoir.",
+      "suaLeitura": "Il est brusque, et il me pousse déjà vers une commande que je n'ai pas encore décidée.",
+      "oQueEAli": "C'est le passage de main, pas la pression. À un comptoir plein, l'attention va à un client après l'autre et repart dès qu'elle n'est pas prise; «Dime», c'est le relais.",
+      "oQueVoceFaz": "Lever les yeux, tenir le regard et dire la commande en une phrase courte, plus fort qu'il ne vous paraît poli. Sans élan, sans excuse avant.",
+      "oQueMelhora": "Vous êtes servi au premier passage de son attention, pas au quatrième, et vous avez pour deux semaines le bon volume dans la salle.",
+      "ondeNaoVale": "Pas au comptoir du petit-déjeuner de l'hôtel — là on attend tant que vous voulez. Cette horloge est celle du comptoir, pas de l'Espagne.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["b11-n03", "b11-n04", "b11-n05"]
+    },
+    {
+      "sinal": "Vous dites «¿me pone?» à un serveur d'à peine vingt-cinq ans, et revient une réponse correcte, brève, sans un mot de trop.",
+      "suaLeitura": "J'ai été poli, comme chez moi. L'homme est simplement froid.",
+      "oQueEAli": "Au bar, en boutique et au comptoir, «tú» est le réglage par défaut. «Usted» n'est pas faux, il est marqué: il pose une distance, et la distance revient.",
+      "oQueVoceFaz": "Au comptoir, prendre le tutoiement — «¿me pones?» — et monter d'un cran le volume. La commande courte et directe est déjà juste.",
+      "oQueMelhora": "Vous êtes servi plus vite et traité plus chaleureusement, et le deuxième soir dans le même bar n'a plus la couleur du premier.",
+      "ondeNaoVale": "Pas avec la Guardia Civil, à la banque, chez le médecin, à l'administration ni avec une personne nettement plus âgée en cadre formel — là «usted» est le juste, et un cours qui vous l'enlève vous a pris quelque chose.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["b11-n33", "b11-n34", "b11-n35"]
+    },
+    {
+      "sinal": "À côté de la porte, une liste imprimée où la même boisson figure deux ou trois fois, avec deux ou trois montants.",
+      "suaLeitura": "Ils tiennent deux tarifs, et je vais recevoir celui des touristes.",
+      "oQueEAli": "Comptoir, table intérieure et terrasse peuvent avoir chacun leur montant; la liste affichée est ce que la loi exige — elle doit être visible, et le montant y inclut déjà la taxe.",
+      "oQueVoceFaz": "Lire quatre secondes avant de choisir votre place, ou demander à voix haute si c'est le même prix au comptoir.",
+      "oQueMelhora": "Vous choisissez votre place en sachant ce qu'elle coûte; sur deux semaines, la différence paie en silence la dernière tournée des vacances.",
+      "ondeNaoVale": "Pas dans le bar d'une seule salle à quatre tabourets, sans terrasse — là où il n'y a pas d'autre place, il y a un montant, et la question passe pour un examen.",
+      "evidencia": "FATO",
+      "audioKeys": ["b11-n17", "b11-n18", "b11-n20"]
+    },
+    {
+      "sinal": "Une petite assiette que vous n'avez pas commandée se pose à côté de votre boisson.",
+      "suaLeitura": "Ou bien c'est la fameuse tapa gratuite, ou bien elle finira en silence sur l'addition.",
+      "oQueEAli": "L'assiette avec la tournée est une habitude régionale, pas une loi nationale: dans l'est de l'Andalousie, Grenade en tête, elle vient avec la boisson; à Barcelone, Madrid, Saint-Sébastien et Valence, c'est un article qu'on achète.",
+      "oQueVoceFaz": "Demander une fois, à la première tournée, si elle va avec la boisson — avant de la manger et avant que quelqu'un compte.",
+      "oQueMelhora": "À Grenade, vous commandez la deuxième tournée en sachant qu'une autre assiette suit, et c'est la meilleure affaire du pays.",
+      "ondeNaoVale": "Pas au bar à pintxos basque: là on se sert soi-même au comptoir, et les piques dans votre assiette sont ce qu'on compte — gardez donc chacune.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["b11-n22", "b11-n23", "b11-n24"]
+    }
+  ],
+
+  "fatosDatados": [
+    {
+      "id": "agua-grifo-gratis",
+      "afirmacao": "Depuis 2022, les établissements de restauration en Espagne doivent toujours offrir la possibilité de boire de l'eau non emballée gratuitement — en pratique, de l'eau du robinet sur demande.",
+      "fonte": "Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular, art. 18.3 (BOE) — citada em docs/pesquisa-espanha.md §7.2",
+      "ano": 2022,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": ["b11-n10", "b11-n13"]
+    },
+    {
+      "id": "tres-precios-lista-obrigatoria",
+      "afirmacao": "Un bar peut pratiquer des montants différents au comptoir, à la table intérieure et en terrasse, mais doit l'indiquer sur une liste de prix visible; le montant affiché est définitif, taxe déjà comprise.",
+      "fonte": "RDL 1/2007, Texto Refundido de la Ley General para la Defensa de los Consumidores, com regulação autonômica de consumo — síntese em docs/pesquisa-espanha.md §7.2",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["b11-n17", "b11-n18"]
+    },
+    {
+      "id": "extras-cobraveis-e-carta-em-papel",
+      "afirmacao": "Le pain, la glace et le lait du café peuvent être facturés à condition d'en avoir informé au préalable; un QR code comme seule carte et le refus d'eau du robinet gratuite ne sont pas admis.",
+      "fonte": "OCU, via Infobae, jul/2026 — citado em docs/pesquisa-espanha.md §7.2",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": ["b11-n16", "b11-n21"]
+    },
+    {
+      "id": "tapa-gratis-e-geografia",
+      "afirmacao": "La tapa gratuite avec la boisson est une habitude régionale — est de l'Andalousie, parties de Castille-et-León et Galice — et non une loi espagnole; à Barcelone, Madrid, Saint-Sébastien et Valence, c'est un article payant.",
+      "fonte": "consenso de fontes gastronômicas espanholas 2022–2025, registrado em docs/pesquisa-espanha.md §7.2",
+      "ano": 2026,
+      "revisarAte": "2028-01-01",
+      "evidencia": "CONSENSO",
+      "risco": "baixo",
+      "audioKeys": ["b11-n22", "b11-n23"]
+    }
+  ],
+
+  "_notas": {
+    "_": "Parte ESCRITA (o andaime saiu). A fala espanhola continua sendo ativo de DESTINO: nenhum campo `es` nem `tts` foi alterado — os audioKey e os mp3 em disco (herdados do curso base pelas mesmas chaves) estão intactos. O que este SKU paga aqui é a narração FRANCESA: 43 clipes da guia feminina (GuiaFem) + 2 da guia de alertas (GuiaMasc) + 15 prompts. Voz-guia FR ainda PLACEHOLDER no audio.config (`GuiaFem`/`GuiaMasc` = 'TODO-FR-...'): nada vira áudio até o casting E a revisão nativa da fonética (DERIVACAO-FR §5).",
+    "voz_guia": "Juli/Thomas do scaffold alemão foram renomeados para GuiaFem/GuiaMasc (as chaves que o audio.config._g14 declara como guia FR). Sem isso o G14 não guardava a narração — 'Juli' não está nem na lista guia nem na alvo.",
+    "falso_amigo_de_balcao": "A gag de balcão do par é `largo` (=comprido, não «large»/largura): `un café largo` chega ALLONGÉ, não grande. Segundo traidor: `vaso` (=copo, não «vase»/vaso de flor). AMBOS são tratados SÓ na narração (a guia CITA o espanhol — é o trabalho dela, G14), porque `largo` e `vaso` NÃO existem no andaime (medido) e são clipes espanhóis NOVOS: o aluno não PRODUZ nenhum dos dois aqui, então nenhum modelo nativo é devido. Estão nos clipes de alerta da GuiaMasc (b11-t01/b11-t02), grudados ao balcão, DEPOIS de o aluno já ter produzido no molde ME-PONE.",
+    "gag_vino_fino_morta": "A gag alemã `vino`×`fino` (⟨v⟩=[f]) MORREU: o francês distingue b/v e diz [vino] certo (DERIVACAO §1.2 linha 13). Os dois clipes de alerta que no alemão ensinavam o ⟨v⟩ foram reaproveitados para o falso amigo `largo`/`vaso`; o step `b11-otrovino-e` fica como encaixe OTRA NEUTRO («Otro vino, por favor.»), sem piada — de fato serve de contraste seguro entre os dois alertas (a maioria dos cognatos é segura; poucos traem).",
+    "le_moule": "A narração nomeia o molde por «le moule» (masc. sempre — `la moule`=mexilhão é o in-joke do artigo, roster §vocabulario_molde). Aparece em b11-n06, n11, n26, n38, t02 e na permissão. B11 é CASA de ME-PONE e de OTRA — o G15 exige que a casa nomeie a peça.",
+    "prévias_e_redisparo": "Prévias cumpridas, todas em `ouvir`, zero produção, narração que promete o turno seguinte sem dizer que o aluno já tem a peça: SIN-CON-PARA em `e03c-singas-e` (casa B12), QUERIA em `e03b-quericarta-c` (casa B12), LLEVA em `e04b-jamon-c` (casa B13). Redisparo: HAY em `e03a-suplemento-c`. Os quatro batem contra a fala espanhola do andaime.",
+    "tratamento_bidirecional": "n33–n35 dão o tú do balcão E o usted devido em banco/médico/Guardia Civil — beat LEVE e BIDIRECIONAL (DERIVACAO §3.4 item 2), NÃO o bloco anti-`Sie` alemão num sentido só (isso seria o anti-padrão 9).",
+    "pendencia_G14": "A guia (GuiaFem/GuiaMasc, francês) CITA espanhol dentro da narração francesa — é o trabalho dela — e nunca o fala; Carmen/Emilio nunca dizem uma palavra de francês. Zero divergência esperada, mas o G14 exige conferência humana em toda entrega (este repo já teve o acidente do mp3 na língua errada). NOTA: MARCAS não tem entrada 'fr' em g14-voz-lingua.mjs, então o braço guia→alvo do G14 roda inerte para este SKU — mais um motivo para a conferência humana.",
+    "PENDENCIA_pinyin": "BLOQUEIA ÁUDIO. O campo `pinyin` de cada step é o respelling herdado do scaffold ALEMÃO (⟨v⟩→b, ⟨j⟩→ch-de-Bach, ⟨s⟩→ss, etc.) — para OLHO ALEMÃO, e ATIVAMENTE ERRADO para o leitor francês (ex.: «CHA-rra» um francês lê «sharra»; a jota é justamente o SOM NOVO do par). NÃO foi reescrito aqui de propósito: um respelling FR precisa de esquema definido + revisor FR-L1 (mesma cesta da fonética §1, INFERÊNCIA), e inventá-lo ad-hoc numa parte só criaria convenção não revisada e inconsistente com as outras 35. Re-derivar a camada `pinyin` para o francês é item de onda própria, junto da revisão nativa. O `es`/`tts` (o que vai ao TTS) não é afetado."
+  },
+
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n01",
+      "bloco": "aquecimento",
+      "gesto": 2,
+      "tom": "ganha",
+      "pt": "Échauffement, dix secondes. Main à plat: ca-ña, ba-rra, te-rra-za. Tenez la dernière voyelle — la main bascule, elle s'efface."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "molde": "HAY",
+      "encaixe": "un cajero",
+      "encaixeGloss": "un distributeur",
+      "consulta": ["chegar/balcao"],
+      "promptAudioKey": "b11-p01",
+      "promptPt": "À la porte du bar, un écriteau: SOLO EFECTIVO, et dans votre poche il n'y a que du plastique. Demandez à l'homme sur la marche ce qui règle ça. Parlez maintenant.",
+      "audioKey": "b08-cajero-c",
+      "es": "¿Hay un cajero por aquí?",
+      "pinyin": "ai un ka-CHE-ro por a-KI",
+      "pt": "retirer de l'argent par ici"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n02",
+      "bloco": "cena",
+      "pt": "Deux heures moins dix, un mardi. Le comptoir est plein sur trois rangs, mouillé, et vous êtes au deuxième."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n03",
+      "pt": "Son regard longe la rangée et s'arrête sur vous. Un mot, et vous avez une seconde et demie."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e03a-dime-e",
+      "receptivo": true,
+      "acao": "Répondez aussitôt, en une phrase.",
+      "es": "Dime.",
+      "pinyin": "DI-meh",
+      "pt": "👂 «Vas-y.» — il vous passe le comptoir.",
+      "tts": "Dime."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e03a-quienva-c",
+      "receptivo": true,
+      "acao": "Signalez-vous. Qui se tait perd son tour au suivant.",
+      "es": "¿Quién va?",
+      "pinyin": "kjen ba",
+      "pt": "👂 «C'est à qui ?» — répondez, sinon celui de derrière le fait.",
+      "tts": "¿Quién va?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e03a-quevais-e",
+      "receptivo": true,
+      "acao": "Commander pour deux — il vous prend comme couple.",
+      "es": "¿Qué vais a tomar?",
+      "pinyin": "ke bais a to-MAR",
+      "pt": "👂 «Vous prenez quoi ?» — vous l'entendez chaque jour et ne le dites jamais.",
+      "tts": "¿Qué vais a tomar?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n04",
+      "pt": "Les trois vous visent. Il ne vous presse pas, il fait tourner le comptoir. Regardez-le, tenez le regard, et parlez plus fort qu'il vous paraît poli."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n05",
+      "pt": "Au petit-déjeuner de l'hôtel, non — là on attend tant que vous voulez. Cette horloge est celle du comptoir."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n06",
+      "bloco": "molde",
+      "pt": "Voici le moule qui vous sert au comptoir. Trois mots: «¿Me pones» — puis la chose."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e03a-cana-e",
+      "es": "¿Me pones una caña, por favor?",
+      "pinyin": "me PO-ness U-na KA-nja, por fa-BOR",
+      "pt": "Un demi de pression, s'il vous plaît.",
+      "tts": "¿Me pones una caña, por favor?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n07",
+      "pt": "Devant, rien ne bouge. Seule la chose, à la fin, change. Écoutez-le encore."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e03a-cafeleche-e",
+      "es": "¿Me pones un café con leche, por favor?",
+      "pinyin": "me PO-ness un ka-FE kon LE-tscheh, por fa-BOR",
+      "pt": "Un café au lait, s'il vous plaît.",
+      "tts": "¿Me pones un café con leche, por favor?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n08",
+      "pt": "Un mot qui compte: «caña». Petit verre de pression. Qui dit «une bière», en français, reçoit la bouteille, plus chère."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PONE",
+      "encaixe": "una caña",
+      "encaixeGloss": "une petite pression",
+      "consulta": ["chegar/balcao", "mesa/bebida", "chegar/tu-usted"],
+      "promptAudioKey": "b11-p02",
+      "promptPt": "Onze heures et demie, un rade de quartier, et sur toute la rangée chaque main tient le même petit verre froid. Il vient de dire votre mot. Parlez maintenant.",
+      "audioKey": "e03a-cana-e",
+      "es": "¿Me pones una caña, por favor?",
+      "pinyin": "me PO-ness U-na KA-nja, por fa-BOR",
+      "pt": "le petit verre que tout le monde a ici"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PONE",
+      "encaixe": "dos cañas",
+      "encaixeGloss": "deux, pareil",
+      "consulta": ["mesa/bebida"],
+      "promptAudioKey": "b11-p03",
+      "promptPt": "Dehors, en terrasse, au soleil, et vous ne buvez pas seul — la personne en face veut exactement la même chose. Parlez maintenant.",
+      "audioKey": "e03a-doscanas-c",
+      "es": "¿Me pones dos cañas, por favor?",
+      "pinyin": "me PO-ness doss KA-njass, por fa-BOR",
+      "pt": "la même chose, mais pour deux"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PONE",
+      "encaixe": "un café con leche",
+      "encaixeGloss": "un café au lait",
+      "consulta": ["mesa/bebida"],
+      "promptAudioKey": "b11-p04",
+      "promptPt": "Huit heures et quart au bar de gare, votre train part dans vingt minutes, et la bière est un pas de trop. Commandez ce que l'homme à côté boit avec sa tartine. Parlez maintenant.",
+      "audioKey": "e03a-cafeleche-e",
+      "es": "¿Me pones un café con leche, por favor?",
+      "pinyin": "me PO-ness un ka-FE kon LE-tscheh, por fa-BOR",
+      "pt": "celui du matin, avec du lait"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n09",
+      "pt": "Pas que des boissons. Trente-six degrés, vous êtes deux, et une bouteille que personne n'a commandée arrive déjà."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n10",
+      "pt": "Depuis 2022, chaque bar doit proposer de l'eau non emballée gratuite. Cinq mots la font venir."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e03c-agua-c",
+      "es": "Agua del grifo, por favor.",
+      "pinyin": "A-gwa del GRI-fo, por fa-BOR",
+      "pt": "De l'eau du robinet, s'il vous plaît. («grifo», c'est le robinet.)",
+      "tts": "Agua del grifo, por favor."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n11",
+      "pt": "Le même moule la commande, et vous en demandez assez pour toute la table. Un aller pour lui, pas de bouteille."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PONE",
+      "encaixe": "una jarra de agua del grifo",
+      "encaixeGloss": "une carafe de ça",
+      "consulta": ["mesa/agua-pao"],
+      "promptAudioKey": "b11-p05",
+      "promptPt": "À deux, à une table dehors, trente-six degrés, et il part déjà vers le frigo chercher ce que vous paieriez. Devancez-le. Parlez maintenant.",
+      "audioKey": "b11-jarra-e",
+      "es": "¿Me pones una jarra de agua del grifo?",
+      "pinyin": "me PO-ness U-na CHA-rra de A-gwa del GRI-fo",
+      "pt": "la gratuite, et en quantité",
+      "tts": "¿Me pones una jarra de agua del grifo?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n12",
+      "tom": "protege",
+      "pt": "Dans la rue touristique, on vous dira parfois «seulement en bouteille». Ne discutez pas. Une phrase calme suffit."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e03c-porley-c",
+      "es": "Es gratuita por ley, ¿verdad?",
+      "pinyin": "ess gra-TWI-ta por lej, ber-DAD",
+      "pt": "C'est gratuit par la loi, n'est-ce pas ?",
+      "tts": "Es gratuita por ley, ¿verdad?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["mesa/agua-pao"],
+      "promptAudioKey": "b11-p06",
+      "promptPt": "«Désolé, nous n'avons que des bouteilles.» Vous gardez le sourire et restez assis. Rappelez-lui la règle — et faites-en une question. Parlez maintenant.",
+      "audioKey": "e03c-porley-c",
+      "es": "Es gratuita por ley, ¿verdad?",
+      "pinyin": "ess gra-TWI-ta por lej, ber-DAD",
+      "pt": "le rappel poli"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e03a-traigojarra-e",
+      "receptivo": true,
+      "acao": "Ne rajoutez rien. C'était le oui.",
+      "es": "Sí, sí. Ahora os traigo una jarra.",
+      "pinyin": "ssi, ssi. a-O-ra oss TRAI-go U-na CHA-rra",
+      "pt": "👂 «Oui, oui. Je vous apporte une carafe tout de suite.» — là, ça finit presque toujours.",
+      "tts": "Sí, sí. Ahora os traigo una jarra."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n13",
+      "tom": "ganha",
+      "pt": "En général la carafe arrive, tout simplement. Et si vraiment non, il y aura plus tard un formulaire pour ça."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n14",
+      "pt": "Ce n'est pas une croisade. Qui préfère une bouteille fraîche prend la bouteille. Personne ne compte."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e03c-singas-e",
+      "molde": "SIN-CON-PARA",
+      "es": "Una botella de agua sin gas, por favor.",
+      "pinyin": "U-na bo-TE-ja de A-gwa ssin gass, por fa-BOR",
+      "pt": "Une bouteille d'eau plate, s'il vous plaît. «Sin gas» c'est plate, «con gas» c'est gazeuse.",
+      "tts": "Una botella de agua sin gas, por favor."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n15",
+      "pt": "Le petit mot devant «gas» sépare le plat du pétillant. Il aura sa propre scène dès la partie suivante."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n16",
+      "tom": "protege",
+      "pt": "Le pain arrive sans qu'on le demande et, le plus souvent, va sur l'addition. C'est permis s'il était affiché."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e03c-pan-c",
+      "es": "¿El pan se cobra aparte?",
+      "pinyin": "el pan sse KO-bra a-PAR-teh",
+      "pt": "Le pain est-il facturé à part ?",
+      "tts": "¿El pan se cobra aparte?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["mesa/agua-pao"],
+      "promptAudioKey": "b11-p07",
+      "promptPt": "Une corbeille que personne n'a commandée est posée entre vous, encore intacte, et le serveur repart déjà. Arrêtez-le et trouvez ce qu'elle coûte. Parlez maintenant.",
+      "audioKey": "e03c-pan-c",
+      "es": "¿El pan se cobra aparte?",
+      "pinyin": "el pan sse KO-bra a-PAR-teh",
+      "pt": "ça atterrit sur l'addition ?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e03c-nopan-e",
+      "es": "No queremos pan, gracias.",
+      "pinyin": "no ke-RE-moss pan, GRA-ssjass",
+      "pt": "Nous ne voulons pas de pain, merci. (Le rendre intact ne gêne personne.)",
+      "tts": "No queremos pan, gracias."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n17",
+      "bloco": "capsula",
+      "pt": "Maintenant la liste à la porte, que presque personne ne lit. La même bière y figure deux ou trois fois."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n18",
+      "pt": "Comptoir, table intérieure, terrasse: chacun peut avoir son prix. La liste doit être visible, taxe comprise."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e03a-mismoprecio-e",
+      "es": "¿Es el mismo precio en la barra?",
+      "pinyin": "ess el MISS-mo PRE-ssjo en la BA-rra",
+      "pt": "Est-ce le même prix au comptoir ?",
+      "tts": "¿Es el mismo precio en la barra?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "HAY",
+      "encaixe": "suplemento de terraza",
+      "encaixeGloss": "un supplément terrasse",
+      "consulta": ["mesa/mesa", "mesa/conta"],
+      "promptAudioKey": "b11-p08",
+      "promptPt": "Une jolie place à Séville, une table libre au soleil, et le serveur vous tire déjà la chaise. Avant de vous asseoir: trouvez ce que le soleil coûte. Parlez maintenant.",
+      "audioKey": "e03a-suplemento-c",
+      "es": "¿Hay suplemento de terraza?",
+      "pinyin": "ai ssu-ple-MEN-to de te-RRA-ssa",
+      "pt": "ça coûte plus dehors ?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n19",
+      "tom": "ganha",
+      "pt": "Quatre secondes de lecture, et la place où vous vous asseyez est une place que vous avez choisie."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n20",
+      "pt": "Dans le bar d'une seule salle à quatre tabourets, inutile: pas de seconde place, un prix, pas de question."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n21",
+      "pt": "Encore un point de la porte: s'ils ne montrent qu'un code et que votre téléphone n'a pas de réseau, le papier est dû."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "c01b-17",
+      "es": "¿Me deja ver la carta en papel, por favor?",
+      "pinyin": "me DE-cha ber la KAR-ta en pa-PEL, por fa-BOR",
+      "pt": "Puis-je voir la carte sur papier, s'il vous plaît ?",
+      "tts": "¿Me deja ver la carta en papel, por favor?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n22",
+      "bloco": "capsula",
+      "pt": "Une petite assiette que personne n'a commandée se pose près du verre. Cadeau ou non, c'est la carte du pays qui décide."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n23",
+      "pt": "Offerte avec la tournée dans l'est de l'Andalousie, Grenade en tête. À Barcelone et Madrid, c'est un article payant."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["mesa/comida"],
+      "promptAudioKey": "b11-p09",
+      "promptPt": "Première tournée du soir, et quelque chose de petit s'est posé près de votre verre. Éclaircissez-le tout de suite, avant de le manger. Parlez maintenant.",
+      "audioKey": "c01b-23",
+      "es": "¿La tapa va incluida con la bebida?",
+      "pinyin": "la TA-pa ba in-klu-I-da kon la be-BI-da",
+      "pt": "cadeau ou article ?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n24",
+      "pt": "Au bar à pintxos basque, l'inverse: on se sert au comptoir, et les piques sur l'assiette font l'addition."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n25",
+      "pt": "Et si l'on ne voit pas ce qu'il y a dedans, un mot ouvre l'assiette. Il aura sa partie plus tard."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04b-jamon-c",
+      "molde": "LLEVA",
+      "es": "¿Lleva jamón o chorizo?",
+      "pinyin": "JE-ba cha-MON o tscho-RI-sso",
+      "pt": "Y a-t-il du jambon ou du chorizo dedans ?",
+      "tts": "¿Lleva jamón o chorizo?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n26",
+      "bloco": "molde",
+      "pt": "Votre verre est vide. Pas besoin d'une nouvelle phrase pour ça. Le deuxième moule tient en un mot."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e03a-otra-c",
+      "es": "Otra, por favor.",
+      "pinyin": "O-tra, por fa-BOR",
+      "pt": "Une autre, s'il vous plaît.",
+      "tts": "Otra, por favor."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "OTRA",
+      "consulta": ["mesa/bebida"],
+      "promptAudioKey": "b11-p10",
+      "promptPt": "De nouveau au comptoir, le verre devant vous vide depuis un moment, et il passe avec un plateau. Deux mots et un s'il vous plaît. Parlez maintenant.",
+      "audioKey": "e03a-otra-c",
+      "es": "Otra, por favor.",
+      "pinyin": "O-tra, por fa-BOR",
+      "pt": "encore une, la même"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n27",
+      "pt": "Une phrase entière avec rien derrière — le verre vide dit le reste. Accrochez-lui une chose, et elle voyage."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b11-t01",
+      "pt": "Attention à un mot du comptoir qui a l'air français et vous trahit: «largo». Ce n'est pas «large» — c'est «long», «allongé»."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b11-otrovino-e",
+      "molde": "OTRA",
+      "es": "Otro vino, por favor.",
+      "pinyin": "O-tro BI-no, por fa-BOR",
+      "pt": "Encore un vin, s'il vous plaît.",
+      "tts": "Otro vino, por favor."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b11-t02",
+      "pt": "«Un café largo», commandé en pensant «grand», arrive allongé. Et «un vaso» est un verre, pas un vase. Le moule ne ment pas — le mot, oui."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "OTRA",
+      "encaixe": "otro café",
+      "encaixeGloss": "encore un café",
+      "consulta": ["mesa/bebida"],
+      "promptAudioKey": "b11-p11",
+      "promptPt": "Petit-déjeuner, le même bar, et la petite tasse devant vous est vide depuis dix minutes. Vous en voulez une seconde. Parlez maintenant.",
+      "audioKey": "b11-otrocafe-c",
+      "es": "Otro café, por favor.",
+      "pinyin": "O-tro ka-FE, por fa-BOR",
+      "pt": "encore une de celles-là",
+      "tts": "Otro café, por favor."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n28",
+      "pt": "La fin du mot a suivi la chose. Prenez-la à l'oreille, jamais à la règle. Personne ne s'en formalise."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n29",
+      "pt": "Vous avez deux genres chez vous et les accordez sans y penser. Ici, ils tombent seulement autrement."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n30",
+      "pt": "«le lait», c'est «la leche»; «la couleur», c'est «el color». Collez l'article au mot, ne traduisez pas le vôtre."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "OTRA",
+      "encaixe": "otro tenedor",
+      "encaixeGloss": "encore une fourchette",
+      "consulta": ["mesa/errado"],
+      "promptAudioKey": "b11-p12",
+      "promptPt": "À la table du restaurant, et la chose dans votre main droite vient de passer par-dessus le bord, par terre. Le serveur est à deux pas. Parlez maintenant.",
+      "audioKey": "b11-otrotenedor-e",
+      "es": "Otro tenedor, por favor.",
+      "pinyin": "O-tro te-ne-DOR, por fa-BOR",
+      "pt": "une propre, s'il vous plaît",
+      "tts": "Otro tenedor, por favor."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n31",
+      "pt": "S'asseoir coûte deux phrases de plus. La première: la cuisine est-elle réveillée ? Sept heures et demie, c'est tôt ici."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e03a-comidas-e",
+      "es": "¿Están sirviendo comidas?",
+      "pinyin": "ess-TAN ssir-BJEN-do ko-MI-dass",
+      "pt": "Vous servez à manger en ce moment ?",
+      "tts": "¿Están sirviendo comidas?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["mesa/mesa"],
+      "promptAudioKey": "b11-p13",
+      "promptPt": "Sept heures dix, vous avez faim, et sur le seuil d'un local vivement éclairé et vide se tient un serveur. Demandez depuis le trottoir, avant de vous asseoir quarante minutes. Parlez maintenant.",
+      "audioKey": "e03a-comidas-e",
+      "es": "¿Están sirviendo comidas?",
+      "pinyin": "ess-TAN ssir-BJEN-do ko-MI-dass",
+      "pt": "la cuisine est ouverte ?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["mesa/mesa"],
+      "promptAudioKey": "b11-p14",
+      "promptPt": "À l'intérieur d'un restaurant plein, et quelqu'un avec une pile de cartes sous le bras vous regarde, vous et la personne à côté de vous. Parlez maintenant.",
+      "audioKey": "e03a-mesados-c",
+      "es": "¿Tienen mesa para dos? Somos dos.",
+      "pinyin": "TJE-nen ME-ssa PA-ra doss. SSO-moss doss",
+      "pt": "de la place pour deux — et combien vous êtes"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e03a-dentroterraza-e",
+      "receptivo": true,
+      "acao": "Répondre exprès: dehors peut légalement coûter plus.",
+      "es": "¿Dentro o en la terraza?",
+      "pinyin": "DEN-tro o en la te-RRA-ssa",
+      "pt": "👂 «À l'intérieur ou en terrasse ?» — la même boisson peut coûter plus dehors.",
+      "tts": "¿Dentro o en la terraza?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n32",
+      "pt": "À table il y a un second début, et il marche à tout comptoir du pays. C'est lui, ensuite."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e03b-quericarta-c",
+      "molde": "QUERIA",
+      "es": "Quería la carta, por favor.",
+      "pinyin": "ke-RI-a la KAR-ta, por fa-BOR",
+      "pt": "Je voudrais la carte, s'il vous plaît.",
+      "tts": "Quería la carta, por favor."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n33",
+      "bloco": "capsula",
+      "pt": "Une dernière chose, et elle est à vous, pas à lui. Au comptoir, on se tutoie. «¿Me pones?» est le tutoiement."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n34",
+      "pt": "Le vouvoiement existe aussi, vous l'avez entendu. Au comptoir, il se lit comme de la distance, pas du respect."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n35",
+      "pt": "Chez le médecin, à la banque, avec la Guardia Civil, il reste juste. Au comptoir, non."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n36",
+      "bloco": "permissao",
+      "pt": "Et «Ponme una caña» n'est pas impoli. Court et direct, c'est la forme normale ici — vous l'apportez déjà."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n37",
+      "pt": "Vous avez le droit de rester une heure au comptoir avec un demi. Et si le mot vous manque, montrez du doigt."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n38",
+      "bloco": "clique",
+      "pt": "Comptez les lieux. Le comptoir. La terrasse. Le bar de gare. La table du restaurant. Deux moules ont servi les quatre."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n39",
+      "pt": "Ces phrases, personne ne vous les a données. Vous les avez bâties ici, à partir de deux débuts qui sont à vous."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n40",
+      "bloco": "piso",
+      "pt": "On vous sert en une phrase courte, sans excuse avant. La plupart des clients attendent deux semaines qu'on les remarque."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-s00",
+      "pt": "Répétez. Fort, avec eux, tenez la dernière syllabe. Les deux qui reviennent chaque jour:"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "e03a-cana-e",
+      "molde": "ME-PONE",
+      "es": "¿Me pones una caña, por favor?",
+      "pinyin": "me PO-ness U-na KA-nja, por fa-BOR",
+      "pt": "Un demi de pression, s'il vous plaît."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "e03a-otra-c",
+      "molde": "OTRA",
+      "es": "Otra, por favor.",
+      "pinyin": "O-tra, por fa-BOR",
+      "pt": "Une autre, s'il vous plaît."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "b11-rend",
+      "bloco": "recap",
+      "pt": "Encore une fois, à voix haute, à un comptoir où nous n'étions pas encore. Un plateau de choses sans nom."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PONE",
+      "encaixe": "una de esas",
+      "encaixeGloss": "une de celles-là",
+      "consulta": ["chegar/balcao", "compras/balcao"],
+      "promptAudioKey": "b11-p15",
+      "promptPt": "Un bar dans le Nord, un plateau derrière la vitre, et vous n'avez aucune idée du nom de tout ça. Montrez le plus beau et lancez-vous. Parlez maintenant.",
+      "audioKey": "b11-unadeesas-e",
+      "es": "¿Me pones una de esas, por favor?",
+      "pinyin": "me PO-ness U-na de E-ssass, por fa-BOR",
+      "pt": "celle-là, s'il vous plaît",
+      "tts": "¿Me pones una de esas, por favor?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b11-n41",
+      "pt": "C'est tout. Salué, servi, assis — et vous savez ce que la place coûte. Ensuite, le repas. Hasta luego."
+    }
+  ],
+
+  "aprofundar": {
+    "titulo": "Trois prix, un seul bar (lecture optionnelle)",
+    "secoes": [
+      {
+        "titulo": "Pourquoi la terrasse coûte plus — et quand cela cesse d'être permis",
+        "corpo": "Le droit de la consommation espagnol permet à un bar de pratiquer des montants différents au comptoir, aux tables intérieures et en terrasse. Ce qu'il n'autorise pas, c'est de vous en surprendre: la liste de prix doit être affichée là où un client peut la voir, et les montants indiqués incluent déjà la taxe. Un supplément de terrasse qui figure sur la liste affichée est donc légitime, et il n'y a rien à discuter. Un supplément qui n'apparaît que sur l'addition, c'est autre chose — et pour cela il y a le formulaire de réclamation, qui aura sa propre partie plus loin dans le cours. Par boisson, l'écart est petit; il ne devient grand que sur deux semaines, trois boissons par jour et deux personnes. Nous n'y mettons volontairement aucun chiffre: il n'existe aucune série publiée là-dessus, seulement des anecdotes.",
+        "exemplos": [
+          {
+            "es": "¿Es el mismo precio en la terraza?",
+            "pt": "Est-ce le même prix en terrasse ?"
+          },
+          {
+            "es": "¿Me deja ver la carta en papel, por favor?",
+            "pt": "Puis-je voir la carte sur papier ? (un QR code ne peut pas être la seule carte)"
+          }
+        ]
+      },
+      {
+        "titulo": "«Caña» et sa parenté — et le mot qui a l'air du vôtre",
+        "corpo": "Une «caña», c'est un petit verre de bière pression, servie froide et bue vite, ce qui est tout l'intérêt. Qui commande «une bière» en français reçoit une bouteille: plus chère, et tiède avant d'être finie. Autres tailles au tableau: un «doble» est la caña double, un «tercio» une bouteille de 330 ml, et une «jarra» de bière est un grand verre, tandis qu'une «jarra de agua» est la carafe pour le milieu de la table — le même mot, deux objets, et le mot d'après vous dit lequel. Pour le vin, «tinto» est rouge, «blanco» blanc, «rosado» rosé; une «clara» est une bière panachée et, en août, rien dont on ait honte. Tous entrent dans le même moule: ¿Me pones un tercio? ¿Me pones una clara? Rien d'autre ne bouge dans la phrase. Et méfiez-vous du mot qui a l'air du vôtre: «largo» n'est pas «large», c'est «long, allongé» — «un café largo» arrive étiré, pas grand; «un vaso» est un verre, pas un vase. La lettre qui coûte vraiment, ici, est la jota: le «j» de «jarra» et le «g» de «gente» ne sont pas votre «j», c'est un son nouveau, du fond de la gorge, tout près de votre «r».",
+        "exemplos": [
+          {
+            "es": "¿Me pones un tercio, por favor?",
+            "pt": "Une bouteille de bière, s'il vous plaît."
+          },
+          {
+            "es": "Otra ronda, por favor.",
+            "pt": "Une autre tournée, s'il vous plaît. (le second moule, avec la tournée à la fin)"
+          }
+        ]
+      },
+      {
+        "titulo": "Eau gratuite, pain payant, et la tapa qui n'est gratuite que par endroits",
+        "corpo": "L'eau est le droit le plus net de tout le voyage: depuis la Ley 7/2022, les établissements de restauration doivent toujours offrir la possibilité de boire de l'eau non emballée gratuitement. Cela a été écrit contre le plastique, pas pour le consommateur, mais l'effet est le même. Demandez une «jarra» plutôt qu'un verre: même loi, de quoi servir la table, un seul aller pour le serveur. Le pain, la glace et le lait du café sont des choses qu'un bar peut facturer, à condition de vous en avoir informé ou que ce soit sur la liste affichée; la faute n'est presque jamais la facturation elle-même, mais la surprise. C'est pourquoi «est-ce que c'est sur la liste ?» est une question plus utile que «a-t-on le droit ?». Et la tapa gratuite est une géographie, pas une loi: l'est de l'Andalousie — Grenade en tête, où chaque tournée amène une autre assiette — plus Almería, où l'on choisit sur une liste, et des parties de Castille-et-León et de Galice. Barcelone, Madrid, Saint-Sébastien et Valence traitent l'assiette comme un article qu'on achète. Le Pays basque a un troisième système: les pintxos sont sur le comptoir, on se sert soi-même, et les piques sur l'assiette sont ce qu'on additionne — ne les jetez donc pas.",
+        "exemplos": [
+          {
+            "es": "Una jarra de agua del grifo, por favor.",
+            "pt": "Une carafe d'eau du robinet, s'il vous plaît."
+          },
+          {
+            "es": "¿Cuántos palillos tienes?",
+            "pt": "👂 «Combien de piques as-tu ?» — il ne vous accuse pas, il compte."
+          }
+        ]
+      },
+      {
+        "titulo": "Tu ou vous — la machine, vous l'avez déjà, elle pointe juste ailleurs",
+        "corpo": "La différence entre «¿me pones?» et «¿me pone?» est exactement l'interrupteur que vous actionnez chez vous des dizaines de fois par jour, sans y penser. Sauf qu'ici il part d'un autre réglage. En France, le vous est le défaut avec tout adulte inconnu, serveurs et vendeuses compris, et le passage au tu est un petit événement. En Espagne, «tú» est le défaut au bar, en boutique et au comptoir, et «usted» avec un serveur d'à peine vingt-cinq ans n'est pas faux, il est marqué: il se lit comme une distance voulue, un ton d'administration ou de l'ironie. Le désagréable n'est pas la phrase isolée — c'est que personne ne vous corrige, et donc que vous ne doutez jamais. La règle du voyage tient en une ligne: au comptoir, tutoyez; avec la Guardia Civil, la banque, le médecin, l'administration et une personne nettement plus âgée en cadre formel, vouvoyez. Et comme les deux relèvent de la même machine, le changement ne coûte pas de temps d'apprentissage, seulement une décision.",
+        "exemplos": [
+          {
+            "es": "Ponme una caña, por favor.",
+            "pt": "Sers-moi un demi, s'il te plaît. (tutoiement, tout à fait normal au comptoir)"
+          },
+          {
+            "es": "Perdone, ¿me pone un café con leche, por favor?",
+            "pt": "Vouvoiement: juste à l'administration, à la banque, chez le médecin."
+          }
+        ]
+      }
+    ]
+  }
+}

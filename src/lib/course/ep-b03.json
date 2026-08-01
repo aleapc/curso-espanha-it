@@ -1,0 +1,653 @@
+{
+  "id": "b03",
+  "slot": "B03",
+  "nivel": "basico",
+  "numero": 3,
+  "parte": "3",
+  "titulo": "Encore une fois, plus lentement, et sur un bout de papier",
+  "subtitulo": "Trois marches qui gardent la conversation en vie — et le seul début qui les porte toutes",
+  "moldura": "ganha",
+
+  "cena": "Vous demandez votre chemin dans la rue, la réponse dure douze secondes, et quand elle s'achève, il vous en reste un seul mot.",
+
+  "moldes": ["ME-PUEDE"],
+
+  "clique": {
+    "contagem": ["le guichet de gare", "l'étal du marché", "la rue", "la réception"],
+    "desconto": "Ces phrases, personne ne vous les a données. Vous les avez bâties à partir d'un seul début, qui est à vous maintenant.",
+    "piso": "Vous gardez en vie une conversation que vous n'avez pas comprise. La plupart des gens changent de langue au premier faux pas."
+  },
+  "cliqueAudioKey": "b03-n26",
+
+  "frasePiso": "Vous gardez en vie une conversation que vous n'avez pas comprise. La plupart des gens changent de langue au premier faux pas et font le reste du voyage en anglais.",
+
+  "permissao": "Vous avez le droit de faire répéter trois fois. Le droit de le faire écrire. Et le droit de simplement montrer du doigt. Ce que vous n'avez pas à faire: vous excuser d'avoir demandé — «Perdone» ne fait qu'interpeller et ne regrette rien, et pour l'autre il ne s'est encore rien passé. Et si la réponse revient en anglais, ce n'est pas un verdict sur votre espagnol; vous avez le droit de rester où vous êtes.",
+  "permissaoAudioKey": "b03-n24",
+
+  "espelho": "S'excuser à chaque question, c'est ça qui se remarque là-bas — «Perdone» ne fait qu'interpeller et n'en est pas une: pour l'autre, rien ne s'est encore passé, et l'excuse transforme une question en incident.",
+
+  "fichasCulturais": [
+    {
+      "sinal": "Vous demandez une répétition, et elle arrive sans un froncement — et deux minutes plus tard, vous entendez deux personnes au comptoir se demander exactement la même chose l'une à l'autre.",
+      "suaLeitura": "J'ai échoué, et tout le monde dans la salle l'a remarqué.",
+      "oQueEAli": "On parle vite et l'un par-dessus l'autre, même entre gens de même langue maternelle, et «¿Cómo?» est la réponse habituelle à ça — au comptoir, au téléphone, à la table de famille. Demander une répétition est un coup dans la conversation, pas un renseignement sur vous.",
+      "oQueVoceFaz": "Demandez dès la première fois, pas à la troisième, et sans excuse devant — «Perdone» ne fait qu'interpeller et n'en compte pas comme une. Qui attend trop doit réentendre toute la phrase à la fin.",
+      "oQueMelhora": "Vous restez dans la conversation au lieu de la quitter, et la personne en face se règle sur votre rythme, pas sur votre niveau de langue.",
+      "ondeNaoVale": "Pas à un comptoir sur trois rangs à minuit ni au guichet avec vingt personnes derrière: là, rien ne se dit deux fois, et la question vous coûte votre place. Là, seul le papier aide.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["b03-n16", "b03-n17", "b03-n18", "b03-n19", "b03-n20"]
+    },
+    {
+      "sinal": "Vous avez posé votre question en espagnol, et la réponse revient en anglais, aimable et rapide.",
+      "suaLeitura": "Mon espagnol était si mauvais qu'il préfère faire ça lui-même.",
+      "oQueEAli": "Le passage à l'anglais est le plus souvent un service, pas un verdict: on prend la langue commune la plus rapide pour régler l'affaire en trente secondes. Sur votre prononciation, ça ne dit rien.",
+      "oQueVoceFaz": "Remerciez et restez où vous êtes: la question suivante de nouveau en espagnol, calme et d'un cran plus lente. À la deuxième ou troisième fois, la réponse reste le plus souvent là où vous la voulez. Et sachez-le: en face, l'anglais n'est pas toujours meilleur que le vôtre.",
+      "oQueMelhora": "Vous passez deux semaines dans le pays où vous êtes venu, au lieu du couloir qu'on garde ouvert pour les visiteurs.",
+      "ondeNaoVale": "À la pharmacie, chez le médecin, au comptoir de location et partout où un chiffre ou une dose doit être juste: là, vous acceptez l'anglais et vous en êtes content. L'exactitude bat l'entraînement, et le cours le veut ainsi.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["b03-n21", "b03-n22", "b03-n23"]
+    }
+  ],
+
+  "_notas": {
+    "_": "PARTE ESCRITA EM FRANCÊS, re-derivada do andaime alemão (ep-b03.json do curso-espanha-de) contra a DERIVACAO-FR.md §2/§4 e o molde ME-PUEDE do moldes.json FR. Nenhum campo `es`, `tts` nem `audioKey` foi tocado — os treze clipes espanhóis do andaime são reusados verbatim, custo de crédito espanhol ZERO (a fala espanhola nova é a única linha de crédito do SKU e esta parte não a puxa). Só a NARRAÇÃO-guia (o `pt`/moldura), a `cena`, o `pinyin` (respelling re-derivado para o olho francês), os `encaixeGloss` e os `acao` se re-derivaram em francês.",
+    "voz_guia_renomeada": "Juli→GuiaFem (educadora) e Thomas→GuiaMasc (alertas), os nomes que o audio.config.json._g14.guia declara para este SKU, guiaLingua `fr`. NÃO é cosmético: o G14 (voz × língua) só confere clipe cuja `voz` está em `guia` ou `alvo` — com Juli/Thomas a narração francesa passaria SEM checagem. O gênero foi preservado (clipes da Juli→GuiaFem, clipes do Thomas→GuiaMasc); nenhum clipe trocou de gênero. Carmen e Emilio (peninsulares, alvo) intocados.",
+    "falso_amigo_ancora": "`entender`≠`entendre`, a frase `No entiendo` — o falso amigo que o briefing pediu e o único desta parte (UM por parte, grudado à cena, DEPOIS da produção — a regra que segura o G4). Para o francês `entendre`=OUVIR; em espanhol `entender`=COMPREENDER (ouvir=`oír`). O risco não é de boca, é de confiança: cruzar `No entiendo` com «não ouço» e, pior, CONFIAR que já entendeu e não pedir que repitam. Delivery: a mordida cai em `b03-n14` (GuiaFem), logo APÓS o aluno produzir `No entiendo` em `b03-p10`; a frase é gravada e de graça (`No entiendo. ¿Cómo dice?`, e01c-07). O `aprofundar` (seção da escada) reencontra o mesmo par. O segundo falso amigo do molde (`atender`≠`attendre`) NÃO entrou: não há cena para ele nos treze steps, e forçá-lo estouraria a regra de um-por-parte.",
+    "fonetica_desta_parte": "A carga do molde ME-PUEDE é `finais`+`jota`+`nasal`, mas ESTA parte não tem uma única jota (nenhum ⟨j⟩ nem ⟨g⟩+e/i em todo o espanhol dos steps — a casa da jota é B13/`jamón`). Sobra a fonética que a cena morde de verdade: os FINAIS APAGADOS, e em especial o `-r` do infinitivo (repetir, hablar, escribir, llamar, ayudar, enseñar), que o francês come por analogia com o `-er` mudo. É a re-derivação exata do bloco alemão: onde o alemão (Thomas, b03-t01/t02) ensinava o ⟨h⟩ mudo de `hablar` como regra de leitura, o francês recebe o ⟨h⟩ mudo DE GRAÇA (brinde, declarado em B01) e os DOIS clipes GuiaMasc migram para o erro francês — o `-r` que ele engole. A TÔNICA dos infinitivos é oxítona, então o francês frappe no lugar certo de graça (como `hospital` em B01): declarado como brinde, não gasto. O ⟨ll⟩ de `llamar`→[j] sai numa linha (b03-n09), com a âncora `yaourt` de B01, não com o ⟨j⟩ alemão de `ja` (que em francês seria [ʒ]).",
+    "brindes_nao_gastos": "Copiá-los seria o anti-padrão 9. O ⟨h⟩ mudo (hablar, hablo, habla) — o francês tem `h muet`, é o mesmo lugar em que o alemão penava e o francês ganha; entra só como REASSEGURO de uma linha (b03-t01: «c'est offert»), nunca como lição. O ⟨qu⟩ e o ⟨j⟩ não têm uma palavra nesta parte. `poder` cobre «poder» e «ter licença» num verbo só, como `pouvoir` — a dispensa `können`/`dürfen` que o alemão gastava ENCOLHE A ZERO (registrado no aprofundar §1, uma frase).",
+    "recalibragem_leve_bidirecional": "Os beats `b03-n30`/`b03-n31` portam o «por que usted aqui» do alemão, mas na chave francesa: LEVE e BIDIRECIONAL. `¿me puede?`/`¿me puedes?` é o slot `vous`/`tu`, que o francês já roda; a mordida é que o molde de reparo cai com estranhos (usted), o balcão amigável segue no `tú` de B02, e `¿me puedes?` de volta é a MESMA coisa — não reconstruir. O aprofundar §2 acrescenta o único sentido em que a recalibragem MANDA `usted` contra a sub-formalização do francês que se sente em casa no Mediterrâneo (banco, médico, Guardia Civil). NÃO é o bloco anti-`Sie` alemão, num sentido só (anti-padrão 9).",
+    "callback_me_pone": "O step de abertura (e01b-08, Carmen, `Perdone, ¿me pone un café con leche?`) é a prévia de ME-PONE reusada de B02, frase inteira, `molde` NÃO declarado no step (prévia não é o molde voltando; a casa de ME-PONE é B11). A cena do café antigo com o dono idoso — herdada da revisão adversarial alemã — sobrevive porque o dono claramente mais velho é gatilho legítimo de `usted`/`vous` também para o francês.",
+    "escada_de_reparo_ressalva": "DERIVACAO-FR §3.5: o degrau universal `¿Habla inglés?` (e01c-04, já no andaime) fica, MAS o francês não tem escotilha — o inglês do interlocutor é moderado e empatado com o dele, então «pode não salvar». A ressalva entra no aprofundar (seção da escada) e na ficha 2, sem instalar fuga para o francês dentro do kit (isso seria ensinar o aluno a não usar o curso). A forma longa `¿Hay alguien que hable inglés?` (instância de HAY, casa B08) NÃO é trazida para cá.",
+    "pinyin_re_derivado": "O respelling é re-derivado para o OLHO FRANCÊS (o esquema alemão — `tscheh`, `ssjo`, `dess`, `ja`=[j] — não quer dizer nada para um francês e seria resíduo). Convenção herdada de B10/B01: MAIÚSCULA=tônica · `ou`=[u] (nunca o `u`=[y] francês) · `tch`=ch [tʃ] · `b`=v/b espanhol · `ss`=z, c+e/i e s intervocálico/final, sempre [s] duro (contra o s→[z] francês) · `gn`=ñ · `y`=ll/y [j] (contra o ⟨j⟩ alemão) · h mudo cai · qu=k · finais escritas pronunciadas, `-e` final→`-é`, `-r` mantido (é a lição). ESTA CONVENÇÃO É INFERÊNCIA e é PENDÊNCIA de revisor FR-L1 + peninsular antes do áudio.",
+    "pendencias": [
+      "REVISOR FR-L1 + espanhol PENINSULAR: a projeção fonológica (os finais apagados, o `-r` do infinitivo, a tônica) e todo o `pinyin` são INFERÊNCIA (DERIVACAO-FR §1). Nada disso vira áudio antes da conferência.",
+      "VOZ-GUIA FRANCESA (casting): GuiaFem e GuiaMasc são placeholder (`TODO-FR-...`) no audio.config; o gerador NÃO emite job de narração-guia até os voiceId saírem.",
+      "G14 (voz × língua) por conferência HUMANA: a guia francesa CITA espanhol dentro da narração (`¿Me puede`, `hablar`, `No entiendo`, `¿Cómo?`) — trabalho da guia, INV-5 — e nunca o fala como fala-alvo; Carmen/Emilio não dizem uma palavra de francês.",
+      "COMPONENTE `GestoRitmoFR.svelte` não criado nesta tarefa: `b03-n01` declara `gesto: 4` (o flick), como no andaime.",
+      "package.json do SKU ainda diz «curso-espanha-de» (resíduo do scaffold) — cosmético, fora do escopo."
+    ]
+  },
+
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n01",
+      "bloco": "aquecimento",
+      "gesto": 4,
+      "tom": "ganha",
+      "pt": "Échauffement, dix secondes. Un petit coup sec pour le r: rré-pé-TIR. En avant sur la langue, pas dans la gorge."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "promptAudioKey": "b03-p01",
+      "promptPt": "Huit heures et demie, un vieux café sur la place, et derrière le comptoir le patron: bien plus de soixante-dix ans, blouse blanche, aucune hâte. Commandez le premier du jour. Parlez maintenant.",
+      "audioKey": "e01b-08",
+      "es": "Perdone, ¿me pone un café con leche, por favor?",
+      "pinyin": "per-DO-né, mé PO-né oun ka-FÉ kon LÉ-tché, por fa-BOR",
+      "pt": "celui du matin, avec du lait"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n02",
+      "bloco": "cena",
+      "pt": "Vous demandez votre chemin dans la rue. La réponse arrive: douze secondes, très vite, avec un geste de la main en prime."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n03",
+      "pt": "Un seul mot, vous l'avez saisi. La personne vous regarde et attend. Et vous hochez la tête."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n04",
+      "pt": "À partir d'ici, deux chemins. L'un change de langue. L'autre, ce sont trois phrases."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n05",
+      "bloco": "molde",
+      "pt": "Les trois commencent pareil. Le moule, c'est «¿Me puede» — et derrière, ce que la personne doit faire."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01c-repetir-c",
+      "es": "¿Me puede repetir, por favor?",
+      "pinyin": "mé POUÉ-dé rré-pé-TIR, por fa-BOR",
+      "pt": "Vous pouvez répéter, s'il vous plaît ?",
+      "tts": "¿Me puede repetir, por favor?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n06",
+      "pt": "Le début ne bouge pas. Seul le mot de la fin change. Emilio, au même coin de rue."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e01c-despacio-e",
+      "es": "¿Me puede hablar más despacio, por favor?",
+      "pinyin": "mé POUÉ-dé a-BLAR mass dess-PA-ssio, por fa-BOR",
+      "pt": "Vous pouvez parler un peu plus lentement, s'il vous plaît ?",
+      "tts": "¿Me puede hablar más despacio, por favor?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PUEDE",
+      "encaixe": "repetir",
+      "encaixeGloss": "répéter",
+      "consulta": ["reparo/devagar"],
+      "promptAudioKey": "b03-p02",
+      "promptPt": "Au guichet de la gare. Elle a dit la voie et l'heure d'un seul souffle et se tourne déjà vers l'écran. Le chiffre, vous ne l'avez pas. Parlez maintenant.",
+      "audioKey": "e01c-repetir-c",
+      "es": "¿Me puede repetir, por favor?",
+      "pinyin": "mé POUÉ-dé rré-pé-TIR, por fa-BOR",
+      "pt": "encore une fois, depuis le début"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PUEDE",
+      "encaixe": "hablar más despacio",
+      "encaixeGloss": "plus lentement",
+      "consulta": ["reparo/devagar"],
+      "promptAudioKey": "b03-p03",
+      "promptPt": "À l'étal du marché, on vous explique avec joie ce qu'est ce fromage, et les mots arrivent plus vite que vous ne les ramassez. Parlez maintenant.",
+      "audioKey": "e01c-despacio-e",
+      "es": "¿Me puede hablar más despacio, por favor?",
+      "pinyin": "mé POUÉ-dé a-BLAR mass dess-PA-ssio, por fa-BOR",
+      "pt": "le rythme, pas les mots"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n30",
+      "pt": "Pourquoi «puede», la forme polie ? Parce que cette demande tombe au guichet, dans la rue, chez des inconnus. «¿Me puede…?» passe avec tout le monde."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n31",
+      "pt": "Au comptoir amical, vous tutoyez, comme en partie deux. Et si «¿me puedes?» revient, c'est exactement pareil — ne reconstruisez rien."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n07",
+      "pt": "Deux phrases, et la conversation continue. La troisième la sort de l'air et la pose sur le papier."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01c-escribir-c",
+      "es": "¿Me lo puede escribir, por favor?",
+      "pinyin": "mé lo POUÉ-dé ess-kri-BIR, por fa-BOR",
+      "pt": "Vous pouvez me l'écrire, s'il vous plaît ?",
+      "tts": "¿Me lo puede escribir, por favor?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PUEDE",
+      "encaixe": "escribir",
+      "encaixeGloss": "écrire",
+      "consulta": ["reparo/escreve"],
+      "promptAudioKey": "b03-p04",
+      "promptPt": "De retour dans la rue: l'adresse, trois noms à la suite, et vous n'en retenez aucun. Demandez quelque chose que vous pouvez emporter. Parlez maintenant.",
+      "audioKey": "e01c-escribir-c",
+      "es": "¿Me lo puede escribir, por favor?",
+      "pinyin": "mé lo POUÉ-dé ess-kri-BIR, por fa-BOR",
+      "pt": "noir sur blanc"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01c-vuelta-c",
+      "receptivo": true,
+      "acao": "Répondre tout de suite. Les deux marchent — l'un des deux marche aussi batterie à plat.",
+      "es": "¿En el móvil o en un papel?",
+      "pinyin": "en el MO-bil o en oun pa-PEL",
+      "pt": "👂 «Sur le téléphone ou sur un papier ?» — la question en retour, à laquelle quatre mots suffisent.",
+      "tts": "¿En el móvil o en un papel?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e01c-papel-e",
+      "es": "En un papel, por favor.",
+      "pinyin": "en oun pa-PEL, por fa-BOR",
+      "pt": "— Sur un papier, s'il vous plaît.",
+      "tts": "En un papel, por favor."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["reparo/escreve"],
+      "promptAudioKey": "b03-p05",
+      "promptPt": "Un autre comptoir, la même question en retour, et il vous tend déjà son téléphone. Vous le préféreriez en main, quand le soir plus personne ne recharge. Parlez maintenant.",
+      "audioKey": "e01c-papel-e",
+      "es": "En un papel, por favor.",
+      "pinyin": "en oun pa-PEL, por fa-BOR",
+      "pt": "plutôt ce qui ne s'éteint pas"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b03-t01",
+      "pt": "Attention, et vous le savez depuis la première partie: le h de hablar ne se dit pas — ça, c'est offert. Le piège est à l'autre bout du mot."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b03-t02",
+      "pt": "a-BLAR, rré-pé-TIR, ess-kri-BIR: le -r de la fin, vous le mangez comme en français. En espagnol il sonne — tenez-le jusqu'au bout."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n08",
+      "bloco": "molde",
+      "pt": "Le même début en rapporte deux autres. Le premier vous sert à six heures du matin, à la réception."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e01c-taxi-e",
+      "es": "¿Me puede llamar un taxi?",
+      "pinyin": "mé POUÉ-dé ya-MAR oun TAK-si",
+      "pt": "Vous pouvez m'appeler un taxi ?",
+      "tts": "¿Me puede llamar un taxi?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n09",
+      "pt": "Le ll de llamar, c'est le y de «yaourt»: ya-MAR. Vos yeux voient deux l, votre bouche n'en fait aucun."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PUEDE",
+      "encaixe": "llamar un taxi",
+      "encaixeGloss": "appeler un taxi",
+      "promptAudioKey": "b03-p06",
+      "promptPt": "Six heures du matin à la réception, l'aéroport à quarante minutes, et devant la porte, rien. Demandez-lui d'en commander un. Parlez maintenant.",
+      "audioKey": "e01c-taxi-e",
+      "es": "¿Me puede llamar un taxi?",
+      "pinyin": "mé POUÉ-dé ya-MAR oun TAK-si",
+      "pt": "en faire commander un, maintenant"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n10",
+      "pt": "Et le second est la phrase la plus courte du jour. Trois mots, et ils vont partout."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01c-ayudar-c",
+      "es": "¿Me puede ayudar?",
+      "pinyin": "mé POUÉ-dé a-you-DAR",
+      "pt": "Vous pouvez m'aider ?",
+      "tts": "¿Me puede ayudar?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PUEDE",
+      "encaixe": "ayudar",
+      "encaixeGloss": "aider",
+      "promptAudioKey": "b03-p07",
+      "promptPt": "Le distributeur du quai a avalé votre carte et ne rend rien. À deux mètres, quelqu'un en uniforme. Parlez maintenant.",
+      "audioKey": "e01c-ayudar-c",
+      "es": "¿Me puede ayudar?",
+      "pinyin": "mé POUÉ-dé a-you-DAR",
+      "pt": "les trois mots qui vont partout"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n11",
+      "tom": "ganha",
+      "pt": "Encore une, et c'est la meilleure: elle ne réclame aucune langue en retour, juste un doigt."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e01c-mapa-e",
+      "es": "¿Me lo puede enseñar en el mapa?",
+      "pinyin": "mé lo POUÉ-dé en-se-GNAR en el MA-pa",
+      "pt": "Vous pouvez me le montrer sur la carte ?",
+      "tts": "¿Me lo puede enseñar en el mapa?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PUEDE",
+      "encaixe": "enseñar en el mapa",
+      "encaixeGloss": "montrer sur la carte",
+      "consulta": ["reparo/apontar"],
+      "promptAudioKey": "b03-p08",
+      "promptPt": "Encore la rue, encore trois noms que vous ne connaissez pas — mais votre téléphone est ouvert et tout le quartier y tient. Tendez-le. Parlez maintenant.",
+      "audioKey": "e01c-mapa-e",
+      "es": "¿Me lo puede enseñar en el mapa?",
+      "pinyin": "mé lo POUÉ-dé en-se-GNAR en el MA-pa",
+      "pt": "le doigt à la place du mot"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n12",
+      "bloco": "corpo",
+      "pt": "Trois courtes encore, et elles passent avant toutes les autres. La première ouvre la porte."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01c-02",
+      "es": "Hablo un poco de español.",
+      "pinyin": "A-blo oun PO-ko dé es-pa-GNOL",
+      "pt": "Je parle un peu espagnol.",
+      "tts": "Hablo un poco de español."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b03-p09",
+      "promptPt": "Une boutique à la campagne, et la femme derrière le comptoir démarre aussitôt, faute de savoir où vous en êtes. Dites-le-lui. Parlez maintenant.",
+      "audioKey": "e01c-02",
+      "es": "Hablo un poco de español.",
+      "pinyin": "A-blo oun PO-ko dé es-pa-GNOL",
+      "pt": "un peu — et ça suffit"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n13",
+      "pt": "Ce n'est pas une excuse, c'est une annonce. Après ça, on vous parle autrement."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e01c-07",
+      "es": "No entiendo. ¿Cómo dice?",
+      "pinyin": "no en-TIEN-do. KO-mo DI-ssé",
+      "pt": "Je ne comprends pas. Vous dites ?",
+      "tts": "No entiendo. ¿Cómo dice?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b03-p10",
+      "promptPt": "La phrase était longue, et cette fois rien n'est vraiment passé. Dites-le franchement, sans élan. Parlez maintenant.",
+      "audioKey": "e01c-07",
+      "es": "No entiendo. ¿Cómo dice?",
+      "pinyin": "no en-TIEN-do. KO-mo DI-ssé",
+      "pt": "rien n'est passé"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n14",
+      "pt": "«No entiendo» — et voici le mot qui vous ressemble et vous trompe: «entender» n'est pas «entendre». Ça ne dit pas «je n'entends pas», mais «je ne comprends pas». Le vrai piège: se croire suivi, et ne pas redemander."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e01c-04",
+      "es": "¿Habla inglés?",
+      "pinyin": "A-bla in-GLÉSS",
+      "pt": "Vous parlez anglais ? — la dernière marche, celle qu'on garde pour la fin.",
+      "tts": "¿Habla inglés?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["reparo/ingles"],
+      "promptAudioKey": "b03-p11",
+      "promptPt": "La pharmacie, huit heures dix, et il s'agit de quelque chose où deviner n'est pas une option. Les trois marches, vous les avez essayées. Parlez maintenant.",
+      "audioKey": "e01c-04",
+      "es": "¿Habla inglés?",
+      "pinyin": "A-bla in-GLÉSS",
+      "pt": "la dernière marche"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n15",
+      "pt": "Elle est la dernière, pas la première. Chaque marche d'avant vous garde dans la conversation; celle-ci y met fin."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n16",
+      "bloco": "capsula",
+      "pt": "Une chose encore, et elle enlève tout son poids à cette partie."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n17",
+      "pt": "On parle vite, et l'un par-dessus l'autre, même entre gens de la même langue maternelle."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n18",
+      "pt": "Et «¿Cómo?» est la réponse habituelle à ça. Au comptoir, au téléphone, à la table de famille."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n19",
+      "tom": "ganha",
+      "pt": "Redemander n'est pas un aveu. C'est le tempo de la conversation, et c'est par là que vous y entrez."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01c-18",
+      "receptivo": true,
+      "acao": "Ne rien ajouter derrière. L'affaire est close.",
+      "es": "No pasa nada.",
+      "pinyin": "no PA-ssa NA-da",
+      "pt": "👂 «Ce n'est rien.» — ça vient presque toujours, et ce n'est pas une formule creuse.",
+      "tts": "No pasa nada."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n20",
+      "tom": "protege",
+      "pt": "Pas à un comptoir sur trois rangs à minuit. Là, rien ne se dit deux fois — là, c'est le papier qui sauve."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n21",
+      "bloco": "capsula",
+      "pt": "Et si la réponse revient en anglais: ce n'est pas un verdict sur votre espagnol."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n22",
+      "pt": "C'est le chemin commun le plus rapide. Remerciez — et restez où vous êtes."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n23",
+      "tom": "protege",
+      "pt": "À la pharmacie, chez le médecin, au comptoir de location, vous l'acceptez. Là, c'est l'exactitude qui compte, pas l'entraînement."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n24",
+      "bloco": "permissao",
+      "pt": "Vous avez le droit de faire répéter trois fois. Le droit de le faire écrire. Et le droit de simplement montrer du doigt."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n25",
+      "pt": "«Perdone» interpelle, ça ne regrette rien. Vous n'avez pas à vous excuser: en face, rien ne s'est passé."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n26",
+      "bloco": "clique",
+      "pt": "Comptez les endroits. Le guichet de gare. L'étal du marché. La rue. La réception. Un seul début, payé quatre fois."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n27",
+      "pt": "Ces phrases, personne ne vous les a données. Vous les avez bâties à partir d'un seul début, qui est à vous maintenant."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n28",
+      "bloco": "piso",
+      "tom": "ganha",
+      "pt": "Vous gardez en vie une conversation que vous n'avez pas comprise. La plupart changent de langue au premier faux pas."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-s00",
+      "pt": "À répéter. Fort, avec eux, la dernière syllabe tenue. Les deux qui reviennent dès le premier jour:"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "e01c-repetir-c",
+      "molde": "ME-PUEDE",
+      "es": "¿Me puede repetir, por favor?",
+      "pinyin": "mé POUÉ-dé rré-pé-TIR, por fa-BOR",
+      "pt": "Vous pouvez répéter, s'il vous plaît ?"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "e01c-escribir-c",
+      "molde": "ME-PUEDE",
+      "es": "¿Me lo puede escribir, por favor?",
+      "pinyin": "mé lo POUÉ-dé ess-kri-BIR, por fa-BOR",
+      "pt": "Vous pouvez me l'écrire, s'il vous plaît ?"
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "b03-r01",
+      "bloco": "recap",
+      "pt": "Encore une fois à voix haute, devant une porte où nous ne nous sommes pas encore trouvés."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "ME-PUEDE",
+      "encaixe": "repetir",
+      "encaixeGloss": "répéter",
+      "promptAudioKey": "b03-p12",
+      "promptPt": "Le chauffeur vous dit quelque chose sur le retour tout en fermant déjà la portière, et vous restez avec la valise sous la pluie. Parlez maintenant.",
+      "audioKey": "e01c-repetir-c",
+      "es": "¿Me puede repetir, por favor?",
+      "pinyin": "mé POUÉ-dé rré-pé-TIR, por fa-BOR",
+      "pt": "encore une fois, avant que la portière ne se ferme"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b03-n29",
+      "pt": "C'est tout. Trois marches, et aucune n'est une retraite. Ensuite, les papiers. Hasta luego."
+    }
+  ],
+
+  "aprofundar": {
+    "titulo": "Le début qui a payé six fois (lecture facultative)",
+    "secoes": [
+      {
+        "titulo": "¿Me puede…? — et pourquoi vous le savez déjà",
+        "corpo": "Le début, c'est «¿Me puede» plus la chose que l'autre doit faire, à l'infinitif: ¿Me puede repetir? ¿Me puede escribir? ¿Me puede ayudar? Quand vous renvoyez à ce qui vient d'être dit, un «lo» se glisse au milieu — ¿Me lo puede escribir? veut dire «ça, sur papier, s'il vous plaît». Les deux formes vont partout, et aucune ne se calcule: «Pouvez-vous me…?» se pose morceau par morceau à côté, même ordre, même effet. Et ici, une bonne nouvelle qui vous est propre et qui, ailleurs, coûte deux semaines de détours: d'autres langues séparent «pouvoir» au sens de «être capable» de «avoir le droit», et cherchent donc un second verbe. Le vôtre n'en a qu'un. «Poder» couvre les deux exactement comme «pouvoir», et vous ne choisissez rien. Le jumeau de ce début, celui qui couvre l'autre sens, vient plus loin dans le cours: ¿Puedo…? c'est le même, pour ce que VOUS voulez faire.",
+        "exemplos": [
+          {
+            "es": "¿Me puede llamar un taxi?",
+            "pt": "mé POUÉ-dé ya-MAR oun TAK-si — Pouvez-vous m'appeler un taxi ? (le ll est le y de «yaourt»: ya-MAR, jamais «la-mar»)"
+          },
+          {
+            "es": "¿Me lo puede enseñar en el mapa?",
+            "pt": "mé lo POUÉ-dé en-se-GNAR en el MA-pa — Pouvez-vous me le montrer sur la carte ? (la phrase qui ne réclame aucune réponse en mots)"
+          }
+        ]
+      },
+      {
+        "titulo": "Puede ou puedes — pourquoi tout est à la forme polie ici",
+        "corpo": "Dans la partie deux, vous avez appris qu'au comptoir, dans la petite boutique et dans le taxi on tutoie, et que le «usted» va au guichet administratif, à la banque, chez le médecin, à la Guardia Civil et aux personnes nettement plus âgées dans un cadre formel. Ce moule reste pourtant au «usted» d'un bout à l'autre, et c'est voulu, pas une rechute. Deux raisons. D'abord, cette phrase-là tombe surtout là où vous êtes étranger et sous pression: guichet de billets, réception, rue, pharmacie. Ensuite, «¿me puede…?» est juste avec absolument tout le monde — au pire vous sonnez d'un cran plus formel que nécessaire, ce qui, dans une réparation, ne coûte rien. À l'inverse: si la personne est jeune et décontractée et que «¿me puedes…?» vous revient, ça veut dire exactement la même chose. Ne recalculez pas, ne reconstruisez rien, continuez de répondre. Une forme qui passe partout vaut mieux, sous pression, que deux entre lesquelles il faut choisir au milieu de la phrase — et le choix, vous l'avez déjà en main depuis la partie deux. Le seul endroit où l'on ne glisse pas vers le «tú» parce qu'on se sent chez soi au bord de la Méditerranée: la banque, le médecin, la Guardia Civil — là, le «usted» est celui qui convient.",
+        "exemplos": [
+          {
+            "es": "¿Me puede repetir, por favor?",
+            "pt": "mé POUÉ-dé rré-pé-TIR — au «usted», et juste comme ça au guichet"
+          },
+          {
+            "es": "¿Me puedes repetir, por favor?",
+            "pt": "mé POUÉ-dess rré-pé-TIR — au «tú»; la même chose, et le plus souvent ce qui revient"
+          }
+        ]
+      },
+      {
+        "titulo": "L'échelle, et dans quel ordre on la prend",
+        "corpo": "Quatre marches, dans l'ordre où vous les avez eues à l'oreille — et l'ordre n'est pas affaire de goût: les trois premières vous gardent dans la conversation, la quatrième seule y met fin. Un, la répétition — ¿Me puede repetir? Demandez dès la première phrase, pas à la quatrième; qui attend doit tout réentendre à la fin. Deux, le rythme — ¿Me puede hablar más despacio? la demande la moins chère, parce qu'elle ne répète rien, elle change juste la vitesse, et la réponse d'après est presque toujours compréhensible. Trois, le papier — ¿Me lo puede escribir? la seule dont le résultat survit au reste de la journée: une adresse, une heure, un prix, un quai. Comptez avec la question en retour ¿En el móvil o en un papel?, et répondez papel — un bout de papier marche encore quand la batterie est à onze pour cent. Et quatre, seulement après, ¿Habla inglés? Elle est permise, parfois juste, et elle clôt la conversation en espagnol; tout ce qui précède la garde ouverte. Une réserve qui est la vôtre plus que celle d'un autre voyageur: l'anglais qui revient ne vous sauve pas toujours, parce qu'en face il est à peu près aussi moyen que le vôtre — raison de plus pour que les trois premières marches portent. Deux petites choses à grand effet: Hablo un poco de español n'est pas une excuse mais une annonce — après, on ralentit souvent de soi-même — et ¿Me puede ayudar? est la phrase complète la plus courte du cours, bonne partout. Et une dernière, qui est le piège même de cette partie: No entiendo. ¿Cómo dice? «Entender» a beau ressembler à «entendre», ce n'est pas «je n'entends pas», c'est «je ne comprends pas» (entendre, en espagnol, c'est «oír»). Le vrai danger n'est pas de mal prononcer, c'est de croire qu'on a suivi parce qu'on a entendu — et de ne pas redemander.",
+        "exemplos": [
+          {
+            "es": "Hablo un poco de español.",
+            "pt": "A-blo oun PO-ko dé es-pa-GNOL — Je parle un peu espagnol. (aucun h à entendre, ni ici ni dans hablar)"
+          },
+          {
+            "es": "No entiendo. ¿Cómo dice?",
+            "pt": "no en-TIEN-do. KO-mo DI-ssé — Je ne comprends pas. Vous dites ? («entender» = comprendre, pas «entendre»; entendre, c'est «oír»)"
+          }
+        ]
+      },
+      {
+        "titulo": "Redemander, et ce qui revient",
+        "corpo": "La phrase que presque personne ne vous fournit, la voici: demander une répétition n'est pas là-bas une question d'examen. On parle vite, souvent l'un par-dessus l'autre, et «¿Cómo?» vole entre des gens qui ont la même langue maternelle — au comptoir, au téléphone, à table. Quand vous redemandez, vous ne vous signalez donc pas comme visiteur; vous entrez dans un tempo qui tourne déjà. La réaction habituelle, c'est No pasa nada, et ce n'est pas une formule de politesse mais le constat que rien ne s'est passé. Deux limites, sinon elles coûtent cher: à un comptoir sur trois rangs à minuit et à un guichet avec vingt personnes derrière, rien ne se dit deux fois — là, la troisième marche, le papier, est la seule qui porte. Et si la réponse revient en anglais, c'est presque toujours du service et presque jamais un jugement: on prend la langue commune la plus rapide pour en finir. Vous remerciez et posez la question suivante de nouveau en espagnol. Là où il s'agit d'une dose, d'un chiffre ou d'une signature — pharmacie, médecin, comptoir de location —, vous acceptez l'anglais avec gratitude. L'exactitude avant l'entraînement, à chaque fois. Un dernier mot, parce qu'il pèse: «Perdone» interpelle, il ne s'excuse pas — c'est «pardon» pour appeler, pas «désolé». Vous n'avez pas à ouvrir chaque question par une excuse.",
+        "exemplos": [
+          {
+            "es": "¿Me puede repetir, por favor?",
+            "pt": "mé POUÉ-dé rré-pé-TIR, por fa-BOR — Pouvez-vous répéter, s'il vous plaît ? (le r du bout tenu, pas avalé)"
+          },
+          {
+            "es": "No pasa nada.",
+            "pt": "no PA-ssa NA-da — 👂 «Ce n'est rien.» — la réponse que vous obtenez presque toujours. Les deux s durs, jamais bourdonnants."
+          }
+        ]
+      }
+    ]
+  }
+}

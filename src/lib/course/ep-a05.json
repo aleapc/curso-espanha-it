@@ -1,0 +1,834 @@
+{
+  "id": "a05",
+  "slot": "A05",
+  "nivel": "avancado",
+  "numero": 33,
+  "parte": "33",
+  "titulo": "Bon dia, kaixo, bo día",
+  "subtitulo": "Huit panneaux et huit mots de politesse dans trois langues que vous ne parlez pas — et ce qui change au comptoir quand vous les dites",
+  "moldura": "ganha",
+
+  "cena": "Neuf heures dix, mardi, un bar à Gérone. L'ardoise derrière le comptoir est dans une langue que vous reconnaissez à moitié, quatre habitués ont levé les yeux, et le patron attend que vous disiez quelque chose.",
+
+  "frasePiso": "Vous lisez une sortie, une porte fermée et un WC dans trois langues que vous ne parlez pas, et vous saluez une salle dans la langue de la porte. La plupart des visiteurs supposent deux semaines durant que chaque panneau du pays est en espagnol.",
+
+  "permissao": "Vous n'insultez personne en parlant espagnol à Gérone, à Bilbao ou à Saint-Jacques — personne. Nul n'attend un mot de catalan, de basque ou de galicien d'un visiteur, et presque tout le monde vous répond en castillan dès qu'il entend votre accent. Bon dia est une politesse, pas une obligation, et la politesse est gratuite. Et vous avez le droit de mal lire un panneau et de le montrer du doigt.",
+  "permissaoAudioKey": "a05-n06",
+
+  "espelho": "Commencer par «Pardon, je ne parle pas catalan», c'est ça qui détonne là-bas. Ça leur donne à résoudre un problème qu'ils n'avaient pas — ils seraient passés au castillan de toute façon. Deux mots de salut, et votre espagnol ordinaire fait le même travail, sans demander pardon.",
+
+  "fichasCulturais": [
+    {
+      "sinal": "L'ardoise derrière le comptoir est en catalan seulement, et dès que vous ouvrez la bouche, le patron vous répond en castillan, sans qu'on le lui demande.",
+      "suaLeitura": "Ils ont affiché la carte dans une langue que je ne sais pas lire, et voilà qu'ils me corrigent en en changeant.",
+      "oQueEAli": "Deux décisions distinctes d'une même personne. L'ardoise est dans la langue de la rue où le bar se trouve ; le changement, c'est le service, réglé en une seconde pour quiconque n'est pas d'ici.",
+      "oQueVoceFaz": "Dire bon dia en entrant, puis commander dans votre espagnol ordinaire et laisser le changement se faire.",
+      "oQueMelhora": "On vous sert dans la langue que vous avez vraiment, et les deux secondes à la porte sont ce dont on se souvient la fois suivante.",
+      "ondeNaoVale": "Pas pour le basque. Dans une rue de Bilbao, bien moins de gens l'emploient d'heure en heure, alors kaixo passe comme un geste gentil, pas comme la langue de la maison — rien ne change, parce que rien n'était dans l'autre langue.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["a05-n25", "a05-n26", "a05-n27"]
+    },
+    {
+      "sinal": "Vous dites la version aimable de «au fond, c'est de l'espagnol», et la conversation qui allait bien retombe à plat en quatre secondes.",
+      "suaLeitura": "J'ai fait une remarque anodine sur les langues, et les voilà froids avec moi sans raison apparente.",
+      "oQueEAli": "Il a sa propre grammaire, sa propre orthographe et près de mille ans de littérature, et il est co-officiel depuis l'article trois de la Constitution de 1978. Le classer sous l'espagnol se lit comme si l'on rangeait l'adresse de quelqu'un sous le nom du voisin.",
+      "oQueVoceFaz": "Demandez, plutôt. Posez le doigt sur le mot de l'ardoise et demandez ce qu'il veut dire.",
+      "oQueMelhora": "Vous avez droit à deux minutes de cours, la table se tourne vers vous, et vous repartez avec un mot que vous reverrez sur quarante autres portes.",
+      "ondeNaoVale": "Pas comme correction en sens inverse. À Valence, ceux qui ont écrit la carte l'appellent valencià, et leur dire que c'est du catalan, c'est le même geste à l'envers. Employez le nom qui est sur l'enseigne.",
+      "evidencia": "FATO",
+      "audioKeys": ["a05-t01", "a05-t02"]
+    }
+  ],
+
+  "fatosDatados": [
+    {
+      "id": "cooficialidade-1978",
+      "afirmacao": "Le catalan, le basque et le galicien sont co-officiels avec le castillan dans les communautés dont les statuts les établissent — selon l'article 3 de la Constitution de 1978.",
+      "fonte": "Constitución Española de 1978, art. 3 (BOE-A-1978-31229)",
+      "ano": 1978,
+      "revisarAte": "2030-01-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": ["a05-t02"]
+    },
+    {
+      "id": "basco-lingua-isolada",
+      "afirmacao": "Le basque (euskara) n'a aucune parenté établie avec l'espagnol, le français, le latin ni aucune autre langue vivante ; son origine reste inexpliquée.",
+      "fonte": "Ethnologue / Glottolog classificam euskara como língua isolada; consenso da linguística histórica, sem fonte primária consultada",
+      "ano": 2026,
+      "revisarAte": "2031-01-01",
+      "evidencia": "CONSENSO",
+      "risco": "baixo",
+      "audioKeys": ["a05-n15", "a05-n16"]
+    }
+  ],
+
+  "_notas": {
+    "_": "Parte ESCRITA em FRANCÊS, derivada de ep-a05 alemão (o andaime saiu). LEIO A SALA (M3), receptiva: reconhecer, não montar — nenhum molde produzido, zero campo `moldes`/`clique` (o G16 só cobra clique de quem planta molde). A fala espanhola é ativo de DESTINO: NENHUM `es`, `audioKey`, `tts` foi tocado; os 25 audioKey e os mp3 herdados do par base estão intactos. O que este SKU paga aqui é a narração FRANCESA de GuiaFem/GuiaMasc (placeholder de casting) e o respelling/gloss re-derivado para o olho francês.",
+    "clipe_espanhol_novo": "NENHUM. Os 25 audioKey espanhóis já existem em mp3 no disco. Onze voltam como `responde` e dois como `shadow` — reuso da MESMA chave, custo de crédito ZERO. A05 é parte CULTURAL: o falso amigo é leve (o eixo aqui é a proximidade que engana na forma CULTURAL, não lexical), então nada de clipe espanhol novo — coerente com o anti-padrão 21.",
+    "voz_guia_renomeada": "Steps passaram de `Juli`/`Thomas` (resíduo do scaffold alemão) para `GuiaFem`/`GuiaMasc` (nomes que audio.config._g14.guia declara; guiaLingua `fr`). GuiaFem = educadora; GuiaMasc = masculino de alertas (o beat protege a05-t01/a05-t02). Carmen e Emilio (peninsulares, alvo) intocados. Sem renomeação o G14 passaria a narração FRANCESA sem checar voz×língua.",
+    "reenquadre_transfronteirico": "A INVERSÃO deste par vs o alemão (DERIVACAO-FR §4.3 e nota `catalao_reenquadrado` de b10). O alemão tratava a porta co-oficial como BALEAR (Baleares 42% do alemão) e gastava a capsula no `article salat`. Para o francês o destino é o LITORAL CONTINENTAL — Catalunha 30%, Valência 17% — então o CATALÃO sobe ao topo por ser a língua de 30% do destino E transfronteiriça (Rosselló/Pyrénées-Orientales): não é exótico, é quase de casa (a05-n04 `sortida`=`sortie`, a05-n13 as finais suaves ecoam o e caduc francês). A cena mudou de Palma → GÉRONE (Girona/Costa Brava, colada ao Rosselló) em a05-n03/n06/p02/p03/p12 e no `cena`/`permissao`. Bilbao (basco) e Santiago (galego) portam por serem fixados pelo conteúdo.",
+    "basco_transfronteirico": "O parágrafo que nenhum outro par precisa (DERIVACAO-FR §4.3): o basco é a MESMA língua dos dois lados da fronteira, e o comprador do Sudoeste pode tê-la em casa (Iparralde/País basco francês). Entra em a05-n16 («pour certains d'entre vous, il est de la maison»), sem tocar o fato `basco-lingua-isolada` (a05-n15 mantém: sem parentesco com espanhol, francês, latim; a05-n16 mantém: nem língua viva, origem desconhecida). BRINDE fonético associado, a05-kaixo-c: o `x` basco = [ʃ] = o `ch` francês de «chat» (KAI-cho), onde o alemão penava escrevendo «scho».",
+    "article_salat_rebaixado": "a05-n20/a05-n20b guardam es/sa (Sa Coma, Es Trenc, Ses Illetes) mas REENQUADRADOS como fenômeno de ILHA que o francês encontra SÓ «si vous passez aux Baléares» — não «jeden Tag/todo dia» como o alemão (que estava nas ilhas). a05-n20b acrescenta que na COSTA continental, onde o francês mais desembarca, é el/la. A seção do `aprofundar` sobre o article salat porta, também demovida a «si vous poussez jusqu'aux îles».",
+    "vosotros_e_ustedes": "O andaime traz quatro `vosotros` gravados (a05-vais-c, a05-habeis-e, a05-sois-c, a05-pasad-e), todos RECEPTIVOS. NOTA FR-específica (DERIVACAO-FR §4.3), em a05-n22: o `vous` francês JÁ é formal-singular E plural, então o `vosotros` peninsular (plural informal distinto) é exatamente o que mais lhe custa distinguir de `ustedes`. a05-n24 DROPOU a estatística alemã dos «22% nas Canárias» (não porta ao francês — Canárias não é destino top; a âncora é o OESTE DA ANDALUZIA, 11% do destino francês, §3.1) e NÃO fabricou número francês novo: «se você nunca ouve vosotros lá, nada deu errado».",
+    "respelling_para_leitor_frances": "Campo `pinyin` RE-DERIVADO para o OLHO FRANCÊS (INFERÊNCIA — pende revisor FR-L1 + espanhol peninsular; DERIVACAO-FR §1). Esquema: MAIÚSCULA = tônica · ⟨u⟩→«ou» ([u], nunca [y]) · ⟨s⟩ intervocálico/⟨z⟩/⟨c⟩+e,i→«ss» (bloqueia o [z] francês) · ⟨ch⟩→«tch» ([tʃ], não [ʃ]) · ⟨v⟩→«b» · ⟨h⟩ some · ⟨qu⟩→«k» (brinde) · finais `-s`/`-r`/`-d`/`-e` MOSTRADOS (`-e`→«-é»). CATALÃO/BASCO/GALEGO também para o olho francês: `x` basco→«ch» (KAI-cho, brinde — é o [ʃ] de «chat»); finais catalãs átonas suaves→«eu» (MOL-teus GRA-ssi-eus), que o francês reduz naturalmente como o e caduc; `sortida`→sour-TI-da (o `o` átono cai a [u], como em b10). Saíram as marcas alemãs (tsch, «ch de Bach», o «ss porque s alemão é [z]» virou «ss porque s francês é [z]»). O `pinyin` do ep-a05 EN (olho inglês) NÃO foi copiado — anti-padrão 8/9.",
+    "espelho_deste_par": "O espelho (trava C, obrigatório em M3) é próprio do comprador francês: começar por «Pardon, je ne parle pas catalan» dá à sala um problema que ela não tinha (ela ia mudar para o castelhano de qualquer forma). É a mesma proximidade que engana, em forma social. Risco duplo do francês, que o beat protege (a05-t01/t02) e a ficha de Valência carregam: (a) ARQUIVAR o catalão como «no fundo espanhol» (o G6-armadilha); (b) sobre-assimilá-lo ao seu, familiar do Rosselló, e «corrigir» um valenciano (dizer que valencià «é catalão» — o mesmo lance ao contrário). Nenhum é traço de povo: são comportamentos com consequência.",
+    "pendencia_G14": "GuiaFem e GuiaMasc CITAM catalão, basco, galego e espanhol dentro da narração FRANCESA (é o trabalho da guia — INV-5) e nunca os FALAM; Carmen e Emilio não dizem uma palavra de francês. G14 (voz×língua) roda neste SKU (audio.config._g14, guiaLingua `fr`) mas conferência humana continua obrigatória (este repositório já teve o acidente do mp3 na língua errada). TODO o respelling `pinyin` desta parte é INFERÊNCIA e pende revisor FR-L1 + peninsular antes do áudio, em especial as línguas co-oficiais."
+  },
+
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n01",
+      "bloco": "aquecimento",
+      "gesto": 1,
+      "tom": "ganha",
+      "pt": "Partie trente-trois. Échauffement, le rythme : Bon DI-a. Es-KÉ-rrik ASS-ko. Un coup par mot, le reste léger."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n02",
+      "pt": "Huit des mots d'aujourd'hui ne sont pas de l'espagnol du tout. La main marque quand même : un coup, et rien d'avalé."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "consulta": ["simpatia/puxar-conversa"],
+      "promptAudioKey": "a05-p01",
+      "promptPt": "Hier soir, deuxième verre de vin, et l'homme âgé en face vous a demandé tout net ce que vous pensez de l'indépendance catalane. Rendez-lui la parole. Parlez maintenant.",
+      "audioKey": "c03b-18",
+      "es": "No conozco bien el tema, cuénteme.",
+      "pinyin": "no ko-NOSS-ko byen el TÉ-ma, KOUÉN-té-mé",
+      "pt": "rendez-la, ne jugez pas"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n03",
+      "bloco": "cena",
+      "pt": "Neuf heures dix, mardi, un bar à Gérone. L'ardoise derrière le comptoir est dans une langue que vous reconnaissez à moitié."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n04",
+      "pt": "Un tiers, vous le devinez. Sortida — c'est «sortie». Tancat. Esmorzar. Assez proche pour deviner, assez loin pour n'être sûr de rien."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n05",
+      "pt": "Quatre habitués ont levé les yeux, le patron attend. Et aujourd'hui, la permission passe avant tout le reste."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n06",
+      "bloco": "permissao",
+      "tom": "ganha",
+      "pt": "Vous n'insultez personne en parlant espagnol à Gérone. Personne. On vous répond en espagnol avant que vous ayez fini."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n07",
+      "pt": "Bon dia est une politesse, jamais une obligation, et la politesse est gratuite. Un deuxième mot, personne ne l'attend de vous."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n08",
+      "pt": "Ce qu'il vous faut, ce sont les yeux. Dans un bar de quartier, la porte et l'ardoise sont souvent dans l'autre langue seulement."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n08b",
+      "pt": "Pas pour vous viser. Parce que c'est la langue de la rue où le bar se trouve."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "c03b-14",
+      "receptivo": true,
+      "acao": "Lire la porte fermée avant de la pousser.",
+      "es": "SORTIDA · OBERT · TANCAT",
+      "pinyin": "sour-TI-da · ou-BÉRT · tan-KAT",
+      "pt": "👂 Catalan à la porte : SORTIE · OUVERT · FERMÉ. Sortida, c'est salida — et «sortie» ; tancat, c'est cerrado.",
+      "tts": "Sortida. Obert. Tancat."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "c03b-15",
+      "receptivo": true,
+      "acao": "Tirer, pas pousser — la porte vient vers vous.",
+      "es": "ESTIRAR · EMPÈNYER · LAVABOS",
+      "pinyin": "es-ti-RA · em-PÈ-gne · la-BA-bous",
+      "pt": "👂 Portes : TIRER · POUSSER · WC. Estirar, c'est TIRER, comme le tirar de la partie dix. Empènyer, c'est POUSSER.",
+      "tts": "Estirar. Empènyer. Lavabos."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "a05-esmorzar-c",
+      "receptivo": true,
+      "acao": "Lire ensuite les horaires sur la porte.",
+      "es": "ESMORZAR · DINAR · SOPAR",
+      "pinyin": "es-mour-SA · di-NA · sou-PA",
+      "pt": "👂 Repas : PETIT-DÉJEUNER · DÉJEUNER · DÎNER. C'est ainsi que les horaires sont écrits sur la porte.",
+      "tts": "Esmorzar. Dinar. Sopar."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a05-preu-e",
+      "receptivo": true,
+      "acao": "Trouver le montant sur la carte.",
+      "es": "PREU · PA · AIGUA",
+      "pinyin": "PRÈ-ou · PA · AÏ-goua",
+      "pt": "👂 Sur la carte : PRIX · PAIN · EAU. Trois des quatre choses pour lesquelles on lit une carte.",
+      "tts": "Preu. Pa. Aigua."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "c03b-16",
+      "receptivo": true,
+      "acao": "Reconnaître la sortie, dans l'une ou l'autre langue.",
+      "es": "IRTEERA · KOMUNA · SAÍDA · PECHADO",
+      "pinyin": "ir-TÉ-é-ra · ko-MOU-na · sa-I-da · pé-TCHA-do",
+      "pt": "👂 Basque : SORTIE · WC. Galicien : SORTIE · FERMÉ. Quatre mots qu'on préfère ne pas rater.",
+      "tts": "Irteera. Komuna. Saída. Pechado."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n09",
+      "tom": "ganha",
+      "pt": "Deux mots paient toute la liste : tancat sur une porte que vous alliez pousser, et sortida en repartant."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "a05-t01",
+      "bloco": "protege",
+      "tom": "protege",
+      "pt": "Attention, une phrase à ranger. «Au fond, c'est de l'espagnol.» Elle refroidit une bonne soirée plus vite que tout le reste."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "a05-t02",
+      "tom": "protege",
+      "pt": "Sa grammaire, son orthographe, mille ans de littérature, et co-officiel depuis 1978. Demandez, au lieu de classer."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n10",
+      "tom": "ganha",
+      "pt": "Donc : les mots qui coûtent deux secondes et changent la température de la salle. Le catalan d'abord, là où vous allez le plus."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "c03b-05",
+      "es": "Bon dia.",
+      "pinyin": "bon DI-a",
+      "pt": "Bonjour. — Catalan. Ça s'adresse à la salle, pas à une personne.",
+      "tts": "Bon dia."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n11",
+      "pt": "À la salle. Assez fort pour l'homme à l'autre bout du comptoir, puis vous continuez normalement."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["chegar/entrar"],
+      "promptAudioKey": "a05-p02",
+      "promptPt": "Vous poussez à neuf heures la porte d'un petit bar à Gérone, et quatre habitués lèvent les yeux du comptoir. Saluez la salle dans la langue de l'ardoise. Parlez maintenant.",
+      "audioKey": "c03b-05",
+      "es": "Bon dia.",
+      "pinyin": "bon DI-a",
+      "pt": "à la salle, en entrant"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a05-digui-e",
+      "receptivo": true,
+      "acao": "La porte est ouverte — commandez dans votre espagnol.",
+      "es": "Bon dia! Digui.",
+      "pinyin": "bon DI-a · DI-gui",
+      "pt": "👂 «Bonjour ! J'écoute.» — digui, c'est le dime catalan. La porte est ouverte ; commandez dans votre espagnol habituel.",
+      "tts": "Bon dia! Digui."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n12",
+      "pt": "Deux de plus, et le catalan est bouclé pour la vie. Le premier se colle à la fin de tout ce que vous demandez :"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a05-sisusplau-e",
+      "es": "Si us plau.",
+      "pinyin": "si ous PLAou",
+      "pt": "La fin polie. — Catalan. Trois petits mots qui se comportent comme un seul.",
+      "tts": "Si us plau."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n12b",
+      "pt": "Il vient à la fin, après le geste, jamais avant. La seule chose qu'un doigt réclame encore."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["compras/balcao"],
+      "promptAudioKey": "a05-p03",
+      "promptPt": "Une boulangerie à Gérone. Vous avez montré la chose en vitrine et levé un doigt, et elle tend déjà la main. Finissez dans la langue de son enseigne. Parlez maintenant.",
+      "audioKey": "a05-sisusplau-e",
+      "es": "Si us plau.",
+      "pinyin": "si ous PLAou",
+      "pt": "la fin, dans la sienne"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "a05-aquite-c",
+      "receptivo": true,
+      "acao": "C'est la remise — prenez et remerciez.",
+      "es": "Aquí té.",
+      "pinyin": "a-KI TÉ",
+      "pt": "👂 «Voilà.» — Catalan, dit quand ça passe le comptoir jusqu'à votre main.",
+      "tts": "Aquí té."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "c03b-06",
+      "es": "Moltes gràcies.",
+      "pinyin": "MOL-teus GRA-ssi-eus",
+      "pt": "Le grand merci. — Catalan. La fin s'adoucit, comme votre e muet — pas le «a» plein de l'espagnol.",
+      "tts": "Moltes gràcies."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n13",
+      "pt": "Voilà ce que votre bouche fait déjà : ici les fins de mots s'adoucissent, comme chez vous. À l'oreille, jamais à la règle."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["simpatia/agradecer"],
+      "promptAudioKey": "a05-p04",
+      "promptPt": "Elle l'a emballé, tendu, et refusé la monnaie d'un geste. Donnez-lui la grande version, dans la sienne. Parlez maintenant.",
+      "audioKey": "c03b-06",
+      "es": "Moltes gràcies.",
+      "pinyin": "MOL-teus GRA-ssi-eus",
+      "pt": "la grande version, douce à la fin"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "a05-derres-c",
+      "receptivo": true,
+      "acao": "C'est la réponse — n'ajoutez rien.",
+      "es": "De res.",
+      "pinyin": "de RÈSS",
+      "pt": "👂 «De rien.» — Catalan. Même rôle que de nada, et c'est la réponse qui revient.",
+      "tts": "De res."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n14",
+      "pt": "Et celui pour la sortie — car ici on salue en entrant et en sortant, dans la même langue, si vous voulez."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "c03b-09",
+      "es": "Adéu.",
+      "pinyin": "a-DÉou",
+      "pt": "L'au revoir. — Catalan. Deux syllabes, les deux bien tenues.",
+      "tts": "Adéu."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["chegar/sair"],
+      "promptAudioKey": "a05-p05",
+      "promptPt": "Manteau sur le dos, café payé, à deux pas de la porte du même bar. Ne sortez pas sans rien — dites au revoir dans la langue où vous êtes entré. Parlez maintenant.",
+      "audioKey": "c03b-09",
+      "es": "Adéu.",
+      "pinyin": "a-DÉou",
+      "pt": "en sortant"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "a05-finsaviat-c",
+      "receptivo": true,
+      "acao": "Ça revient quand on vous tient la porte.",
+      "es": "Adéu! Fins aviat.",
+      "pinyin": "a-DÉou · finss a-bi-AT",
+      "pt": "👂 «Au revoir ! À bientôt.» — Catalan. Fins aviat revient quand on vous tient la porte ouverte.",
+      "tts": "Adéu! Fins aviat."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n15",
+      "pt": "Le basque ensuite, deux mots suffisent. L'euskara n'a de parenté ni avec l'espagnol, ni avec le français, ni avec le latin."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n16",
+      "pt": "Ni avec aucune langue vivante, origine inconnue. Et pourtant, pour certains d'entre vous, il est de la maison : on le parle aussi côté français."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "a05-kaixo-c",
+      "es": "Kaixo.",
+      "pinyin": "KAI-cho",
+      "pt": "Bonjour. — Basque. Plus facile qu'à l'écrit : le x, c'est votre ch de «chat». KAI-cho.",
+      "tts": "Kaixo."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n16b",
+      "pt": "Un mot, et il doit passer le bruit. Un bar à pintxos à une heure et demie est la salle la plus bruyante du voyage."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "a05-p06",
+      "promptPt": "Une heure et demie, un bar à pintxos dans la vieille ville de Bilbao, et vous venez d'entrer dans un mur de bruit. Saluez la salle dans la langue de cette rue. Parlez maintenant.",
+      "audioKey": "a05-kaixo-c",
+      "es": "Kaixo.",
+      "pinyin": "KAI-cho",
+      "pt": "un mot, à travers le bruit"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a05-zernahi-e",
+      "receptivo": true,
+      "acao": "Répondre en espagnol — c'est ce qu'il attend.",
+      "es": "Kaixo! Zer nahi duzu?",
+      "pinyin": "KAI-cho · sser NA-i DOU-ssou",
+      "pt": "👂 «Bonjour ! Vous voulez quoi ?» — Basque. Répondez en espagnol ; c'est ce qu'il attend de toute façon.",
+      "tts": "Kaixo! Zer nahi duzu?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "c03b-11",
+      "es": "Eskerrik asko.",
+      "pinyin": "es-KÉ-rrik ASS-ko",
+      "pt": "Merci. — Basque. Rien là-dedans ne ressemble à l'espagnol, et c'est justement ça, le point.",
+      "tts": "Eskerrik asko."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n17",
+      "pt": "Dans un bar à pintxos, vous vous servez au comptoir, et il compte les piques à la fin. Ceci, c'est pour après le compte."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "a05-p07",
+      "promptPt": "Il a compté vos piques, annoncé le montant et poussé l'assiette de côté. Vous avez payé. Maintenant le long, dans la sienne. Parlez maintenant.",
+      "audioKey": "c03b-11",
+      "es": "Eskerrik asko.",
+      "pinyin": "es-KÉ-rrik ASS-ko",
+      "pt": "le long, dans la sienne"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n18",
+      "pt": "Et si le mot qui revient n'offre aucune prise, l'outil de la partie trois marche dans les trois langues."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["reparo/escreve"],
+      "promptAudioKey": "a05-p08",
+      "promptPt": "La femme à l'autre bout du comptoir a nommé deux fois le pintxo qui vous a plu, et ce sont cinq syllabes qui ne vous rappellent rien. Elle le redirait volontiers. Pas la peine. Parlez maintenant.",
+      "audioKey": "e01c-08",
+      "es": "¿Me lo escribe, por favor?",
+      "pinyin": "mé lo es-KRI-bé, por fa-BOR",
+      "pt": "l'avoir sur le papier"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n19",
+      "pt": "Le galicien pour finir, et il sonne bien plus portugais que vous ne l'attendez. Deux mots encore, puis on s'arrête."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a05-bodia-e",
+      "es": "Bo día.",
+      "pinyin": "bo DI-a",
+      "pt": "Bonjour. — Galicien. Dites-le à Saint-Jacques et regardez le visage en face.",
+      "tts": "Bo día."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "a05-p09",
+      "promptPt": "Pluie à Saint-Jacques, et vous vous êtes réfugié dans un café à côté de la place, où même le ticket de caisse est dans l'autre langue. Ouvrez avec leur bonjour. Parlez maintenant.",
+      "audioKey": "a05-bodia-e",
+      "es": "Bo día.",
+      "pinyin": "bo DI-a",
+      "pt": "le bonjour, dans la leur"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "c03b-12",
+      "es": "Grazas.",
+      "pinyin": "GRA-ssass",
+      "pt": "Merci. — Galicien. Le même s dur que dans gracias, une syllabe de moins.",
+      "tts": "Grazas."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "a05-p10",
+      "promptPt": "Il a apporté le café et, à côté, une tranche de quelque chose aux amandes que vous n'avez pas commandé et qui n'est pas facturé. Un mot en retour. Parlez maintenant.",
+      "audioKey": "c03b-12",
+      "es": "Grazas.",
+      "pinyin": "GRA-ssass",
+      "pt": "un mot en retour"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n19b",
+      "pt": "Et le geste autour duquel tout tourne : demander, au lieu d'acquiescer à ce que vous n'avez pas saisi."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "a05-p11",
+      "promptPt": "Il répond par une phrase entière, et elle non plus n'était pas en espagnol. Vous n'avez pas compris un mot et vous hochez déjà la tête. Faites l'inverse et redemandez-lui. Parlez maintenant.",
+      "audioKey": "e01c-07",
+      "es": "No entiendo. ¿Cómo dice?",
+      "pinyin": "no en-TYEN-do. KO-mo DI-ssé",
+      "pt": "dites-le, et redemandez"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n20",
+      "bloco": "capsula",
+      "tom": "ganha",
+      "pt": "Un mot que vous lirez si vous passez aux Baléares, et qui n'est pas de l'espagnol : es et sa. Sa Coma, Es Trenc, Ses Illetes."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n20b",
+      "pt": "C'est l'article de l'île, pas el et la. Qui l'ignore lit de l'espagnol mal écrit. Sur la côte, où vous arrivez surtout, c'est el et la."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n21",
+      "pt": "Encore une langue dans la salle, et celle-là, c'est l'espagnol. C'est celle qu'on adresse à deux personnes à la fois."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n22",
+      "pt": "Elle vient vers vous et votre compagnon. Votre «vous» est déjà les deux — poli et pluriel —, donc ce vosotros est ce qui vous coûte le plus à démêler d'ustedes."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "a05-vais-c",
+      "receptivo": true,
+      "acao": "Commander pour deux — il vous demande en couple.",
+      "es": "¿Qué vais a tomar?",
+      "pinyin": "ké baïss a to-MAR",
+      "pt": "👂 «Vous prenez quoi, tous les deux ?» — la question du comptoir de la partie onze, adressée à deux.",
+      "tts": "¿Qué vais a tomar?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a05-habeis-e",
+      "receptivo": true,
+      "acao": "Répondre par oui ou non, pour les deux.",
+      "es": "¿Habéis reservado?",
+      "pinyin": "a-BÉ-iss ré-sser-BA-do",
+      "pt": "👂 «Vous avez réservé ?» — à la porte du restaurant, avant d'être installés.",
+      "tts": "¿Habéis reservado?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "a05-sois-c",
+      "receptivo": true,
+      "acao": "D'où vous êtes — la question s'adresse à vous deux.",
+      "es": "¿De dónde sois?",
+      "pinyin": "dé DON-dé ssoïss",
+      "pt": "👂 «Vous venez d'où, tous les deux ?» — la première des cinq questions de la partie vingt-trois.",
+      "tts": "¿De dónde sois?"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "a05-pasad-e",
+      "receptivo": true,
+      "acao": "C'est l'invitation — entrer, s'asseoir.",
+      "es": "Pasad. Sentaos.",
+      "pinyin": "pa-SSAD · ssen-TA-oss",
+      "pt": "👂 «Entrez. Asseyez-vous.» — une invitation, et elle tient en deux mots, pas en phrase.",
+      "tts": "Pasad. Sentaos."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n23",
+      "pt": "Dans l'oreille, jamais dans la bouche. Si jamais il vous le faut : ustedes marche, et ça fait de vous l'étranger que vous êtes."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n24",
+      "pt": "Dans l'ouest de l'Andalousie et aux Canaries, on entend à peine vosotros — ustedes va aussi aux amis. Si vous n'y entendez jamais vosotros, rien n'a raté."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n25",
+      "bloco": "capsula",
+      "pt": "Retour au patron qui a répondu à votre bon dia en castillan avant que vous l'ayez fini."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n26",
+      "pt": "Deux décisions d'une même personne. L'ardoise est dans la langue de sa rue ; le changement, c'est lui qui vous sert."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n27",
+      "tom": "ganha",
+      "pt": "Aucune n'était contre vous, et le salut a compté quand même. Prenez le changement et commandez dans votre espagnol."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n28",
+      "pt": "Où ça se passe autrement : une boulangerie de village, une dame âgée, et la réponse reste en catalan. Adéu, montrer, terminé."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n29",
+      "bloco": "espelho",
+      "pt": "Et la part que vous faites et qui détonne là-bas : commencer par «Pardon, je ne parle pas catalan»."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n30",
+      "pt": "Ça leur donne un problème qu'ils n'avaient pas — ils seraient passés au castillan de toute façon. Saluer, laisser changer, continuer, sans excuse avant."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n31",
+      "bloco": "piso",
+      "tom": "ganha",
+      "pt": "Comptez les portes que vous lisez : sortie, fermé, tirer, WC, petit-déjeuner, prix, pain, eau — dans une langue que vous ne parlez pas."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n32",
+      "pt": "La plupart supposent deux semaines durant que chaque panneau du pays est en espagnol, et restent devant des portes fermées."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-s00",
+      "pt": "Répétez, fort, avec eux. Les deux qui passent chaque porte, à l'entrée et à la sortie :"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "c03b-05",
+      "es": "Bon dia.",
+      "pinyin": "bon DI-a",
+      "pt": "Bonjour. — Catalan, en entrant."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "c03b-09",
+      "es": "Adéu.",
+      "pinyin": "a-DÉou",
+      "pt": "Au revoir. — Catalan, en sortant."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "a05-rend",
+      "bloco": "recap",
+      "tom": "ganha",
+      "pt": "Encore une fois, à voix haute, quelque part de plus calme, et cette fois personne n'a encore levé les yeux."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "a05-p12",
+      "promptPt": "Lundi matin, une boulangerie dans un village près de Gérone, et la femme derrière le comptoir vous tourne le dos. Deux mots à la porte. Parlez maintenant.",
+      "audioKey": "c03b-05",
+      "es": "Bon dia.",
+      "pinyin": "bon DI-a",
+      "pt": "deux mots à la porte"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a05-n33",
+      "pt": "C'était la partie trente-trois. Trois langues que vous ne parlez pas, et dès demain vous les lisez. Adéu."
+    }
+  ],
+
+  "aprofundar": {
+    "titulo": "Quatre langues, huit panneaux et les deux secondes à la porte (lecture optionnelle)",
+    "secoes": [
+      {
+        "titulo": "Qui parle quoi, et où vous le croisez",
+        "corpo": "Le castillan — ce que ce cours enseigne — est officiel dans tout le pays, et c'est ce dans quoi on vous répond dès que quelqu'un entend votre accent. À côté, le catalan est co-officiel en Catalogne, aux Baléares et dans la Communauté valencienne ; le basque (euskara) au Pays basque et au nord de la Navarre ; le galicien (galego) en Galice. Le catalan et le galicien sont des langues romanes : une grande part du catalan écrit et presque tout le galicien écrit se devinent à moitié quand on lit déjà l'espagnol. Le basque n'a de parenté avec aucune langue connue, si bien que rien dedans ne paraît familier et qu'il faut cesser d'y chercher une racine. Pour un visiteur, la forme pratique de tout ça est de biais et mérite d'être dite clairement : la langue co-officielle compte pour vous surtout à l'écrit — sur les portes, les ardoises, les horaires et les cartes — et presque pas à l'oral, parce que l'oral vous revient en castillan. Pour ce voyageur-ci, elle compte particulièrement là où vous débarquez : la Catalogne, trente pour cent de votre destination, et une langue qu'on parle aussi de votre côté de la frontière, en Roussillon — elle n'est pas exotique, elle est presque de la maison.",
+        "exemplos": [
+          {
+            "es": "Bon dia · Bona tarda · Si us plau · Moltes gràcies · Adéu",
+            "pt": "Catalan : bonjour · bon après-midi · s'il vous plaît · merci beaucoup · au revoir"
+          },
+          {
+            "es": "Kaixo · Eskerrik asko / Bo día · Grazas",
+            "pt": "Basque : bonjour · merci / Galicien : bonjour · merci"
+          }
+        ]
+      },
+      {
+        "titulo": "Le module des panneaux, et les deux qui valent la peine",
+        "corpo": "Reconnaître seulement — rien de tout ça n'est jamais produit à voix haute, et savoir écrire un panneau catalan ne sert à rien. Catalan : obert / tancat (ouvert / fermé) · sortida (sortie) · entrada · lavabos ou serveis (WC) · estirar / empènyer (tirer / pousser) · esmorzar / dinar / sopar (petit-déjeuner / déjeuner / dîner, à quoi vous lisez les horaires) · preu (prix) · pa (pain) · aigua (eau). Basque : irteera (sortie) · komuna (WC) · itxita (fermé). Galicien : saída (sortie) · aberto / pechado (ouvert / fermé). Deux d'entre eux font le travail de tous les autres : tancat, parce que sinon vous restez devant une porte fermée à la lire comme une invitation, et sortida, parce que sinon vous passez devant votre propre sortie. Une paire est à signaler, parce qu'on s'en méfie et qu'elle se révèle sûre : estirar, c'est TIRER en catalan, et le tirar espagnol de la partie dix est aussi TIRER — les deux vont dans le même sens que votre tirer français. Ce qui ne vous donne rien, c'est empènyer, POUSSER, sans aucun cousin que vous possédiez. Et un panneau que ce voyageur voit plus souvent qu'aucun autre : TANCAT PER VACANCES, le CERRADO POR VACACIONES catalan, tout le mois d'août.",
+        "exemplos": [
+          {
+            "es": "TANCAT PER VACANCES",
+            "pt": "👂 fermé pour congés — le catalan de CERRADO POR VACACIONES, partout en août"
+          },
+          {
+            "es": "ITXITA",
+            "pt": "👂 fermé, en basque. Quand la porte ne bouge pas, c'est le plus souvent ça qui est écrit"
+          }
+        ]
+      },
+      {
+        "titulo": "Les articles de l'île : es et sa",
+        "corpo": "Un détail que vous croiserez surtout si vous poussez jusqu'aux Baléares, et que la plupart des visiteurs du continent ne rencontrent jamais : à Majorque et dans une partie des Baléares, beaucoup de noms de lieux portent un article qui n'est pas el et la, mais es et sa — l'article salat, du latin ipse au lieu de ille. Sa Coma, Es Trenc, Ses Illetes, Sa Pobla, Es Pla, Es Mercadal. Ce n'est ni de l'espagnol mal écrit ni une coquille sur le panneau : c'est une autre langue avec un autre article, et qui l'ignore passe deux semaines à prendre chaque nom de lieu pour du castillan estropié. Vous n'avez rien à en prononcer — c'est sur les panneaux, sur le GPS de la voiture et à l'arrêt de bus, et la seule chose qu'il vous demande, c'est de ne pas le corriger en lisant. Sur la côte continentale, celle où vous arriverez le plus souvent, c'est el et la, comme au sud de la frontière. Traitez ce sa comme l'article défini qu'il est, et le nom du lieu prend soudain un sens.",
+        "exemplos": [
+          {
+            "es": "Sa Coma · Es Trenc · Ses Illetes",
+            "pt": "👂 la plage, la crique, le quartier — sa, es et ses sont l'article défini, pas une partie du nom"
+          },
+          {
+            "es": "Cala en Porter",
+            "pt": "👂 à Minorque — en devant un nom est l'article personnel, à peu près «chez»"
+          }
+        ]
+      },
+      {
+        "titulo": "Pourquoi bon dia marche quand ce n'est pas nécessaire",
+        "corpo": "Personne, du côté catalan, n'a besoin que vous parliez catalan, et presque personne ne l'attend. C'est justement pour ça que deux mots suffisent : le salut se lit comme une politesse, pas comme une revendication, et il ne coûte rien à la personne en face de l'accepter. Ce qui suit d'ordinaire, c'est qu'elle passe aussitôt au castillan, et les débutants lisent ce changement comme un rejet. Ça n'en est pas un. Saluer dans la langue de la maison, puis vous servir dans la langue que vous avez tous les deux, ce sont deux politesses différentes d'une même personne dans la même seconde. Prenez le changement, continuez dans votre espagnol ordinaire, et posez adéu sur le chemin de la sortie — saluer à l'entrée et à la sortie est de toute façon l'habitude ici, et le faire en catalan des deux côtés est un investissement de deux mots pour tout le voyage. La seule chose qui parte de façon fiable en sens inverse, c'est la phrase «au fond, c'est de l'espagnol». Une question sur le mot de l'ardoise obtient la réaction opposée à une remarque sur la langue.",
+        "exemplos": [
+          {
+            "es": "Bon dia! Digui.",
+            "pt": "👂 bonjour, j'écoute — digui, c'est le dime catalan, et c'est votre signal pour commander"
+          },
+          {
+            "es": "De res.",
+            "pt": "👂 de rien — le de nada catalan, la réponse habituelle à moltes gràcies"
+          }
+        ]
+      },
+      {
+        "titulo": "Le valencià, et l'erreur en sens inverse",
+        "corpo": "Dans la Communauté valencienne, la même langue s'appelle officiellement valencià, et c'est le nom sur les cartes, les panneaux de rue et les papiers officiels là-bas. Des visiteurs qui viennent d'apprendre que le catalan est une langue à part vont parfois un pas trop loin et corrigent un Valencien — «mais c'est du catalan, non» —, ce qui tombe aussi mal que d'appeler le catalan un dialecte, et pour la même raison : ça range le nom que quelqu'un donne à sa propre langue sous un nom choisi ailleurs. Et vous y êtes plus exposé qu'un autre : le catalan vous est familier depuis l'autre côté de la frontière, alors la tentation de le reconnaître à voix haute est plus forte. La règle qui ne vous coûte rien et ne se trompe jamais, c'est d'employer le nom imprimé sur le panneau devant vous. La question linguistique est débattue sérieusement par des gens à qui elle tient à cœur ; ce n'est pas une question sur laquelle un visiteur doit avoir un avis, et elle va dans le même tiroir que le sujet de la partie trente-deux.",
+        "exemplos": [
+          {
+            "es": "Bon dia · Bona vesprada",
+            "pt": "Valence : le salut de l'après-midi y est vesprada, là où Barcelone dit bona tarda"
+          }
+        ]
+      },
+      {
+        "titulo": "Vosotros et ustedes : dans l'oreille, pas dans la bouche",
+        "corpo": "L'espagnol de la Péninsule a une deuxième personne du pluriel que l'espagnol d'Amérique latine n'a pas, et c'est la forme qu'on dirige environ cinquante fois par jour sur vous et votre compagnon : ¿qué vais a tomar?, ¿habéis reservado?, ¿de dónde sois?, pasad, sentaos. Vous êtes presque toujours la cible et presque jamais le locuteur, car pour la produire il faudrait vous adresser à deux personnes à la fois. Elle vit donc, à dessein, dans la moitié réceptive de ce cours. Et voici l'arête qui compte plus pour vous que pour un autre : votre «vous» à vous est déjà les deux — le singulier poli et le pluriel —, alors ce vosotros, un pluriel informel distinct, est justement ce que vous avez le plus de mal à démêler d'ustedes. Si vous en avez un jour besoin : ustedes est grammatical, compris partout, et vous marque comme étranger — ce que vous êtes, et ce qui ne coûte rien. Une seconde arête : dans l'ouest de l'Andalousie et aux Canaries, ustedes s'emploie aussi entre amis, et vous n'y entendez presque jamais vosotros — si c'est le cas, rien n'a raté. Ce qui vous le fait reconnaître à l'oreille, ce sont les terminaisons : le -áis et le -éis en fin de question, c'est le son de quelqu'un qui vous vise tous les deux.",
+        "exemplos": [
+          {
+            "es": "¿Qué queréis?",
+            "pt": "👂 vous voulez quoi, tous les deux ? — la version plus courte et plus directe de ¿qué vais a tomar?"
+          },
+          {
+            "es": "Ustedes primero.",
+            "pt": "👂 après vous — aux Canaries, ustedes va aussi aux amis, là où Barcelone dit vosotros"
+          }
+        ]
+      },
+      {
+        "titulo": "Une note de son, pour les quelques mots que vous dites",
+        "corpo": "Tout ce que la partie un vous a martelé sur les voyelles espagnoles — cinq, pures, claires et tenues jusqu'à la dernière lettre — cesse de valoir à l'instant où vous dites un mot catalan. Le catalan réduit ses voyelles atones : le -es de moltes gràcies n'est pas le «es» espagnol, c'est un «eu» doux et à moitié avalé, et sortida sort plus près de sour-TI-deu que du sur-TI-da espagnol. Ce n'est pas une règle à apprendre, c'est un avertissement à ne pas appliquer ici la règle que vous avez — et pour vous, c'est facile, car votre propre langue réduit la fin atone exactement pareil, votre e muet, alors que vous deviez tenir l'espagnol ouvert à grand-peine contre lui. Copiez ce que vous entendez sur l'enregistrement et laissez la fin tomber ; le coup sur la syllabe accentuée est ce qui porte. Le basque et le galicien sont plus cléments : le galicien sonne, en voyelles, à peu près comme l'espagnol, et le basque se prononce presque exactement comme il s'écrit, dès que vous savez que le x est votre «ch» de chat et le z un s dur.",
+        "exemplos": [
+          {
+            "es": "Moltes gràcies.",
+            "pt": "MOL-teus GRA-ssi-eus — les deux fins s'adoucissent, le coup reste sur la première syllabe de chaque mot"
+          },
+          {
+            "es": "Kaixo.",
+            "pt": "KAI-cho — le x, c'est votre «ch». Écrit comme il sonne, dès que vous connaissez cette lettre-là"
+          }
+        ]
+      }
+    ]
+  }
+}

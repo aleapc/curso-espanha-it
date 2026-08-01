@@ -1,0 +1,958 @@
+{
+  "id": "i09",
+  "slot": "I09",
+  "nivel": "intermediario",
+  "numero": 27,
+  "parte": "27",
+  "titulo": "Faire ce qu'ils font",
+  "subtitulo": "Marché, bar du coin, place et la semaine qui appartient à toute la rue — comment entrer dans chacun, et pourquoi la règle qui décide du reste s'écrit à la mairie d'à côté, pas au niveau national",
+  "moldura": "ganha",
+
+  "cena": "Six heures dix, un jeudi, deux rues après le sable, la chemise encore à la main, et la place devant vous se remplit de gens qui habitent là.",
+
+  "decisao": "comment se passent les six heures entre le déjeuner et le dîner — et ce que les mêmes six heures coûtent deux villes plus loin : la chemise à la main, la canette dans la rue et le sac acheté sur le drap sont taxés chacun par la mairie où vous êtes, de cent à six cents euros, et à Barcelone, depuis février, encaissés sur-le-champ par carte",
+  "emJogo": "ambos",
+
+  "clique": {
+    "contagem": ["le marché", "le bar du coin", "la place", "la table en terrasse"],
+    "desconto": "Ces phrases, personne ne vous les a données. Le moule était déjà à vous, et l'après-midi n'a fait que changer ce qu'on y coule.",
+    "piso": "Vous passez un après-midi espagnol là où on le passe, et vous payez ce qu'on paie. La plupart des visiteurs restent deux semaines en vue de l'eau."
+  },
+  "cliqueAudioKey": "i09-n51",
+
+  "frasePiso": "Vous passez un après-midi espagnol là où on le passe, et vous payez ce qu'on paie. La plupart des visiteurs restent deux semaines en vue de l'eau.",
+
+  "permissao": "Vous avez le droit de parcourir un marché entier sans rien acheter. Vous avez le droit de laisser un petit verre au comptoir toute une mi-temps, et une commande peut tenir une table sur la place pendant une heure — c'est à ça qu'elle sert. Et vous avez le droit de vous tenir au milieu de la fête de rue d'un autre : à aucun bout personne ne contrôle de billet, parce qu'il n'y en a pas. La canette qui est un problème dans votre main n'est rien du tout sur la table en terrasse, deux mètres plus loin.",
+  "permissaoAudioKey": "i09-n48",
+
+  "espelho": "Commander un deuxième toutes les vingt minutes pour justifier la chaise, c'est ça qui détonne là-bas. Personne ne compte ce qui est devant vous, et s'acheter le droit de rester est la seule chose qui fait remarquer la table.",
+
+  "fichasCulturais": [
+    {
+      "sinal": "Une heure et vingt, un mardi, et l'homme à l'étal se met à empiler des cageots pendant que vous hésitez encore.",
+      "suaLeitura": "Il en a assez de moi, ou la boutique ferme plus tôt aujourd'hui et personne ne l'a dit.",
+      "oQueEAli": "Le petit commerce fait deux services, pas un — environ dix heures à une heure et demie, puis de cinq à huit. Le milieu de la journée, c'est le trou entre les deux, et le marché est le premier à y tomber.",
+      "oQueVoceFaz": "Faire le marché avant une heure et demie ou après cinq heures, et poser ce qui restait au milieu sur une table, avec une assiette devant.",
+      "oQueMelhora": "Vous avez le marché avec le quartier encore dedans, pas ses restes, et l'heure vide devient le long déjeuner qu'elle aurait toujours dû être.",
+      "ondeNaoVale": "Pas les grandes chaînes — El Corte Inglés, Mercadona, Lidl, Carrefour restent ouverts en continu, et les restaurants et les musées aussi.",
+      "evidencia": "FATO",
+      "audioKeys": ["i09-n06", "i09-n07"]
+    },
+    {
+      "sinal": "Sept heures et demie, la place est pleine, et chaque personne dessus est assise à une table avec un petit verre qui traîne visiblement là depuis longtemps.",
+      "suaLeitura": "Ils doivent recommander sans arrêt, alors on va me faire partir si je reste une heure avec un café.",
+      "oQueEAli": "La chaise s'achète une fois. Une commande tient la table, et l'heure qui suit est ce à quoi la commande servait — la même place se vide et se remplit trois fois entre six heures et minuit, et personne n'est compté dehors.",
+      "oQueVoceFaz": "Prendre une table, commander une chose, puis arrêter de commander. Rester assis toute l'heure.",
+      "oQueMelhora": "Vous avez la meilleure heure de la journée pour le prix d'une petite bière, et vous êtes là où le lieu est vraiment, pas là où on le vend.",
+      "ondeNaoVale": "Pas à une table dans le hall de gare ou à la porte d'embarquement, où les chaises tournent au rythme et où quelqu'un attend vraiment la vôtre.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["i09-n45", "i09-n46", "i09-n47"]
+    },
+    {
+      "sinal": "Vous faites deux rues avec une canette à la main dans une ville, et rien ne se passe ; dans la suivante, un agent change de direction et vient vers vous, un lecteur de carte à la main.",
+      "suaLeitura": "L'un de ces deux endroits est déraisonnable, puisque je n'ai rien fait d'autre dans aucun des deux.",
+      "oQueEAli": "Presque rien de tout ça n'est écrit au niveau national. Les règles de rue, c'est chaque mairie qui les fait, alors le même geste porte un montant à un endroit et passe inaperçu quarante kilomètres à l'intérieur des terres — et depuis février 2026, Barcelone le prélève au non-résident là où il se tient.",
+      "oQueVoceFaz": "Regardez ce que les gens autour de vous font de la leur : la canette va sur la table en terrasse, et la chemise revient sur le dos au bord du sable, pas seulement à la porte de l'hôtel.",
+      "oQueMelhora": "Vous passez l'après-midi exactement là où on le passe, et l'argent reste où il était.",
+      "ondeNaoVale": "Pas dans un village de l'intérieur avec un bar et sans front de mer, où personne n'a rien écrit de tout ça et où la chemise ne regarde personne.",
+      "evidencia": "FATO",
+      "audioKeys": ["i09-n20", "i09-n21", "i09-n29"]
+    },
+    {
+      "sinal": "La rue que vous avez descendue hier est barrée, un orchestre est monté sur un plateau, la foule est épaisse de quatre rangs, et personne au bout ne vend ni ne contrôle quoi que ce soit.",
+      "suaLeitura": "C'est la fête privée de quelqu'un, et je me suis retrouvé en plein milieu.",
+      "oQueEAli": "Une rue fermée pour la semaine du lieu est publique au sens le plus simple : la porte, c'est le bout de la rue, s'y tenir est toute la participation, et être regardé par des gens qui ne vous connaissent pas en fait partie. En Catalogne, la fête peut être annoncée en catalan — pour vous, ce n'est pas si étranger.",
+      "oQueVoceFaz": "Rester au bord, debout, et rester tout le temps. Demander avant de mettre un téléphone au visage de quelqu'un.",
+      "oQueMelhora": "Vous avez le seul après-midi de l'année que le lieu organise pour lui-même, de l'intérieur de la foule plutôt que d'une fenêtre.",
+      "ondeNaoVale": "Pas à une procession où la foule s'est tue et reste immobile — là, vous vous arrêtez aussi, et le téléphone reste en bas jusqu'à ce qu'elle soit passée.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["i09-n40", "i09-n41", "i09-n42"]
+    }
+  ],
+
+  "fatosDatados": [
+    {
+      "id": "regras-de-rua-sao-municipais",
+      "afirmacao": "Presque aucune des règles de rue sur lesquelles un visiteur peut buter n'est une loi nationale : ce sont des ordonnances municipales, alors la mairie fixe le montant, et il change d'une ville à l'autre.",
+      "fonte": "docs/pesquisa-espanha.md §7.7 — aviso de arquitetura: quase tudo é ordenança municipal, o valor muda de cidade para cidade",
+      "ano": 2026,
+      "revisarAte": "2027-07-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": ["i09-n20", "i09-n21"]
+    },
+    {
+      "id": "sin-camiseta-palma-barcelona",
+      "afirmacao": "Se promener ou se tenir torse nu dans un espace public coûte cent vingt à trois cents euros à Barcelone, sous l'ordonnance de civisme en vigueur depuis février 2026 ; et cent à deux cents euros dans tout Palma de Majorque, plage et front de mer exceptés, si vous poussez jusqu'aux îles.",
+      "valor": "Barcelona €120–300 · Palma €100–200",
+      "fonte": "docs/pesquisa-espanha.md §7.7(a) — ordenança de civismo de Barcelona em vigor fev/2026 (FATO); Palma via imprensa espanhola (FATO); DERIVACAO-FR.md §4.2 I09: comprador francês é CONTINENTAL (Catalunha 30%, Valência 17%), a jurisdição que LIDERA a narração é Barcelona, não Palma — Palma entra como caso das ilhas (o francês é menos balear que o alemão)",
+      "ano": 2026,
+      "revisarAte": "2027-02-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["i09-n22", "i09-n23"]
+    },
+    {
+      "id": "beber-en-la-via-publica",
+      "afirmacao": "Boire de l'alcool dans la rue est, au niveau national, une infraction légère de cent à six cents euros ; dans les zones baléares de tourisme d'excès, dont la Playa de Palma fait partie, c'est cinq cents à mille cinq cents. Sur une table en terrasse, ce n'est rien du tout.",
+      "valor": "€100–600 nacional · €500–1.500 em zonas balears (Playa de Palma)",
+      "fonte": "Ley Orgánica 4/2015, art. 37.17 (nacional, FATO); decreto balear de turismo de excessos reportado por BBC/agências (FATO) — docs/pesquisa-espanha.md §7.7(b). DERIVACAO-FR.md §4.2: as normas balears de excessos PESAM MENOS neste par; o valor nacional é o fato principal para o comprador continental",
+      "ano": 2026,
+      "revisarAte": "2027-02-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["i09-n25", "i09-n26"]
+    },
+    {
+      "id": "compra-a-vendedor-ambulante",
+      "afirmacao": "Acheter à un vendeur de rue sans licence est à Barcelone même une infraction pouvant aller jusqu'à six cents euros — et elle vise celui qui achète, pas seulement celui qui vend.",
+      "valor": "até €600 para quem compra",
+      "fonte": "Ordenança de civismo de Barcelona, em vigor fev/2026 — docs/pesquisa-espanha.md §7.7(c): venda ambulante €100–600 e quem COMPRA até €600",
+      "ano": 2026,
+      "revisarAte": "2027-02-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["i09-n27"]
+    },
+    {
+      "id": "noite-na-praia",
+      "afirmacao": "La nuit sur une plage de Barcelone coûte cinq cents euros, tente ou pas de tente — dormir sur une serviette est traité pareil. La sieste sur le sable après le déjeuner reste intouchée.",
+      "valor": "€500",
+      "fonte": "decreto municipal de Barcelona, reportagem 2026 — docs/pesquisa-espanha.md §7.7(d); ordenanças municipais preveem sanções até €1.500, rotuladas como faixa",
+      "ano": 2026,
+      "revisarAte": "2027-02-01",
+      "evidencia": "FATO",
+      "risco": "medio",
+      "audioKeys": ["i09-n28"]
+    },
+    {
+      "id": "pagamento-no-ato-barcelona",
+      "afirmacao": "Depuis février 2026, l'ordonnance de Barcelone exige que les touristes et les non-résidents paient sur-le-champ, et la Guàrdia Urbana porte des lecteurs de carte pour encaisser sur place.",
+      "fonte": "Ordenança de civismo de Barcelona, aprovada dez/2025 e em vigor fev/2026 — docs/pesquisa-espanha.md §7.7(e); teto sancionador da ordenança €3.000. DERIVACAO-FR.md §4.2: Barcelona (Catalunha, 30% do destino) é a jurisdição que LIDERA a narração deste par",
+      "ano": 2026,
+      "revisarAte": "2027-02-01",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": ["i09-n29"]
+    },
+    {
+      "id": "zbe-obrigatoria",
+      "afirmacao": "Depuis janvier 2026, toute ville espagnole de plus de cinquante mille habitants doit gérer une zone à faibles émissions. Le contrôle passe par caméra, le montant va jusqu'à deux cents euros et se réduit de moitié en cas de paiement anticipé, et la vignette de la DGT qui laisse entrer une voiture n'existe que pour les véhicules immatriculés en Espagne.",
+      "valor": "até €200 (€100 com pagamento antecipado)",
+      "fonte": "docs/pesquisa-espanha.md §8.4 — obrigatoriedade desde 01/jan/2026 para municípios >50.000 habitantes; multa até €200 reduzível a €100; distintivo da DGT emitido apenas a veículos matriculados na Espanha. DERIVACAO-FR.md §4.1/§4.2: PESA MAIS neste par — 65% dos franceses chega de carro (FATO, Turespaña), muitos com placa francesa; o procedimento por placa estrangeira varia por município e continua sem fonte conferida — tratado só como sinal visual",
+      "ano": 2026,
+      "revisarAte": "2027-01-31",
+      "evidencia": "FATO",
+      "risco": "alto",
+      "audioKeys": ["i09-n34", "i09-n35"]
+    },
+    {
+      "id": "vape-en-terraza-status",
+      "afirmacao": "En juillet 2026, fumer et vapoter sur une terrasse est encore légal en Espagne ; à l'intérieur, c'est interdit depuis 2011. Un avant-projet de loi qui interdirait les deux et traiterait une e-cigarette exactement comme une cigarette a été approuvé par le Conseil des ministres le 21 juillet 2026 et se trouve maintenant au Parlement.",
+      "fonte": "Conselho de Ministros, anteproyecto aprovado em 21/jul/2026, em tramitação no Congresso — docs/pesquisa-espanha.md §7.7(f), marcado como o item mais volátil do dossiê",
+      "ano": 2026,
+      "revisarAte": "2026-10-01",
+      "evidencia": "CONSENSO",
+      "risco": "alto",
+      "audioKeys": ["i09-n38", "i09-n39"]
+    },
+    {
+      "id": "siesta-comercial",
+      "afirmacao": "Le petit commerce ferme au milieu de la journée — environ dix heures à une heure et demie, puis de cinq à huit. Les grandes chaînes, les restaurants et les musées restent ouverts en continu.",
+      "fonte": "docs/pesquisa-espanha.md §7.1 — consenso de fontes de comércio 2025–2026, rotulado como FATO qualitativo (~10:00 → 13:30/14:00 → reabre 16:30/17:00 → 20:00/20:30)",
+      "ano": 2026,
+      "revisarAte": "2028-01-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": ["i09-n07"]
+    }
+  ],
+
+  "_notas": {
+    "_": "Parte ESCRITA em FRANCÊS (o andaime saiu). A fala espanhola continua sendo ativo de DESTINO: nenhum campo `es`, `audioKey` ou `tts` foi alterado, os 19 clipes espanhóis e os mp3 em disco estão intactos, herdados verbatim do par base pelas mesmas chaves. O que este SKU paga aqui é a narração FRANCESA (GuiaFem) e os prompts. Toda a camada `pinyin` é RE-DERIVADA para o olho francês e é INFERÊNCIA — pende revisor FR-L1 + espanhol peninsular antes do áudio.",
+    "voz_guia_renomeada": "As vozes-guia dos steps passaram de `Juli` (resíduo do scaffold alemão) para `GuiaFem`, o nome que o audio.config.json._g14.guia declara. Esta parte usa SÓ GuiaFem: o par alemão (base) narrou I09 inteiramente com uma única voz (Juli), sem batida de alertas masculina — não há `i09-t*` no andaime. Não se PLANTA um GuiaMasc aqui só porque i07/b10 o têm; naquelas partes o alemão usou Thomas, aqui não usou ninguém. O toque de falso amigo desta parte é leve e vive no `aprofundar`, não num beat GuiaMasc. Carmen e Emilio (peninsulares, alvo) intocados.",
+    "clipe_espanhol_novo": "NENHUM, e nenhuma dependência cross-part. Todos os audioKey espanhóis desta parte (i07-amable-e, i09-*, b15-esto-e, e03a-otra-c, c03a-05/06/20/22) já existem em mp3 no disco, herdados do par base pelas mesmas chaves. Nenhum clipe novo — a gag de balcão `largo`/`vaso` é de B11/B15 e NÃO toca aqui.",
+    "porque_i09_e_MEDIA": "DERIVACAO-FR.md §4.2 marca I09 como MÉDIA (não GRANDE como no alemão, onde 42% do comprador desembarcava na jurisdição balear que escreveu as normas). Aqui o comprador é CONTINENTAL: Catalunha 30% + Valência 17% (FATO, Turespaña). Por isso a narração LIDERA por Barcelona (`sem camisa` €120–300 sob a ordenança de civismo, e o pagamento no ato pela Guàrdia Urbana com maquininha é a novidade que dá o tom); Palma entra como CASO DAS ILHAS («se você poderá até as ilhas»), com o `sem camisa` €100–200 e a zona balear de excessos (Playa de Palma) rebaixados. O que SOBE é a ESTRADA e o CARRO (65% chega de carro): a ZBE pesa mais (risco alto), e o `aprofundar` do carro cresce. Reponderação com dado, não estereótipo — a regra é do município, não do turista (G6). Nenhum valor/ano mudou; mudou a ORDEM da narração e a COMPARAÇÃO com o comprador.",
+    "redisparos_cumpridos": "Os quatro que o roster promete para I09 estão cumpridos e conferidos contra a fala espanhola do andaime: PUEDO (casa B06) em `¿Puedo sentarme aquí?` (i09-sentarme-e) e `¿Puedo sacar una foto?` (i09-foto-c); APRECIACION (casa I07) em `¡Qué amable!` (i07-amable-e, no callback) e `¡Qué plaza más bonita!` (i09-plaza-c); ELECCION (casa I03) em `¿Cuál me llevo, este o aquel?` (i09-cual-c); PREFERENCIA (casa I05) em `Me gusta mucho este barrio` (i09-barrio-e) e `Prefiero andar` (i09-andar-c). Todas as casas (B06, I07, I03, I05) vêm ANTES de I09 na ordem canônica — G9d ok. Nenhum molde OPERACIONAL novo é introduzido: `Otra, por favor` (e03a-otra-c) e `Quería medio kilo de esto` (b15-esto-e) entram como RECALL sem `molde` declarado, porque OTRA e QUERIA não redisparam em I09 pelo roster.",
+    "eixo_falso_amigo": "LEVE aqui, e é honesto: nenhum clipe espanhol de I09 carrega falso amigo forte, e a DERIVACAO-FR não nomeia um para este slot. Brindes a registrar e não gastar áudio: `la plaza`=`la place` (bate certo — o elogio `¡Qué plaza más bonita!` sai de graça), `la multa`=l'amende (sem falso amigo). O ÚNICO toque aplicado, e no `aprofundar` (§se puede), não num drill: `discutir`≠`discuter` — em espanhol `discutir` é SE DISPUTER, não «discuter»; o instinto de «discuter» a multa no meio-fio é justo o que a agrava. É `candidato de apoio de A04` no roster (não é casa), então entra LEVE e uma vez, sem clipe novo e sem beat próprio — coerente com a regra de redação (um falso amigo por parte, grudado à cena, depois da produção). structuredOutput reporta este.",
+    "fonetica_desta_parte": "Toque LEVE (a casa da fonética densa é B01/B13). O aquecimento (n01/n02) porta o `r` do par alemão porque o `r` francês é TAMBÉM uvular (caro, sem âncora no tap): «pas le r français du fond de la gorge — un coup bref contre le palais». As três palavras do soco (Me-r-cado, Apa-r-car, Pe-r-dón) são as mesmas. Resquício francês onde coube, só no respelling: a JOTA como som novo `kh` em `mejor` (mé-KHOR); o `u`=[y] forçado a `ou` (POUÉ-do, MOU-tcho, OU-na, KOUAN-to); a NASAL de `pongo`/`según` (a vogal antes do `-n` não é de nariz); a TÔNICA marcada por MAIÚSCULA (a oxítona é o erro nº 1). Brindes que NÃO ganharam nota (copiá-los seria o anti-padrão 9): o `h` mudo (`hoy`→oï, `ahora`→a-O-ra), o `qu`=[k] (`quería`→ke-RI-a).",
+    "respelling_para_leitor_frances": "O campo `pinyin` é RE-DERIVADO para o OLHO FRANCÊS (o respelling alemão — `ch de Bach`, `ss` por s-intervocálico alemão [z] — não porta). Esquema fixo de b10/i07: MAIÚSCULA = tônica · ⟨u⟩→«ou» (o u francês é [y]; força o [u] espanhol) · ⟨j⟩ e ⟨g⟩+e,i→«kh» (a jota, souffle de gorge) · ⟨ch⟩→«tch» (nunca o «ch» de «chat») · ⟨ll⟩/⟨y⟩→«y» (de «yaourt») · ⟨v⟩→«b» · ⟨z⟩/⟨c⟩+e,i/⟨s⟩ intervocálico→«ss» (bloqueia o [z] francês) · ⟨h⟩ some · ⟨qu⟩→«k» · finais `-s`/`-r`/`-e` MOSTRADOS (o francês os apaga; `-e` final→`-é`). INFERÊNCIA — pende revisor FR-L1 + peninsular, em especial o glifo da jota.",
+    "tratamento": "GuiaFem trata o aluno por «vous» em todo o SKU; a assimetria editorial (a guia usa «vous» enquanto ensina que ao balcão espanhol se usa «tú») porta. A recalibragem `vous`≠`usted` NÃO é o eixo desta parte (é de B02/I02, leve e bidirecional) — aqui a fricção é com a MAIRIE (a ordenança municipal), não com o balcão. `Sí, sí, siéntate` e `¿Y qué tal el barrio? ¿Os gusta?` chegam em `tú`/informal do vizinho, e a parte não obriga o aluno a decidir tratamento: nomear/devolver uma coisa é a resposta.",
+    "previas_cumpridas": "Nenhuma. O roster não declara prévia de molde em I09.",
+    "pendencia_G14": "Roda neste SKU (audio.config.json._g14, guiaLingua `fr`). GuiaFem CITA espanhol dentro da narração francesa (é o trabalho da guia — `«¿Puedo…?»`, `«según mercado»`, o nome dos clipes) e nunca o FALA; Carmen e Emilio (peninsulares) não dizem uma palavra de francês. Conferência humana obrigatória em toda entrega (este repositório já teve o acidente do mp3 na língua errada)."
+  },
+
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n01",
+      "bloco": "aquecimento",
+      "gesto": 4,
+      "tom": "ganha",
+      "pt": "Partie vingt-sept. Échauffement, le flick : un coup, puis on lâche. Me-r-cado. Apa-r-car. Pe-r-dón."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n02",
+      "pt": "Pas le r français du fond de la gorge. Un coup bref contre le palais. Trois de plus, avec la main."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "molde": "APRECIACION",
+      "promptAudioKey": "i09-p01",
+      "promptPt": "Un inconnu vous a mené les deux dernières rues jusqu'à la porte que vous ne trouviez pas, et il se retourne déjà. Deux mots, avant qu'il parte. Parlez maintenant.",
+      "audioKey": "i07-amable-e",
+      "es": "¡Qué amable!",
+      "pinyin": "ké a-MA-blé",
+      "pt": "sur lui, pas sur la rue"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n03",
+      "bloco": "cena",
+      "pt": "Six heures dix, jeudi. Deux rues après le sable, et votre chemise est encore à la main."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n04",
+      "pt": "La place devant vous se remplit de gens qui habitent là, et aucun d'eux ne mange encore."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n05",
+      "pt": "Aujourd'hui, ce sont les six heures pour lesquelles personne ne vend de billet. Quatre d'entre elles, et comment y entrer."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n06",
+      "pt": "La première a une horloge. Le marché du quartier — un endroit où l'on passe une heure."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i09-cerramos-e",
+      "receptivo": true,
+      "acao": "Retenir : le premier service se termine. Faire le marché maintenant ou après cinq heures.",
+      "es": "Cerramos a la una y media.",
+      "pinyin": "sse-RRA-moss a la OU-na i MÉ-dia",
+      "pt": "👂 «On ferme à une heure et demie.» Deux services, pas un — et voici la fin du premier.",
+      "tts": "Cerramos a la una y media."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n07",
+      "pt": "Une heure vingt-cinq, puis huit heures moins cinq. Chaînes et restaurants restent ouverts ; le petit commerce non."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i09-cual-c",
+      "es": "¿Cuál me llevo, este o aquel?",
+      "pinyin": "koual mé YÉ-bo, ES-té o a-KEL",
+      "pt": "«Lequel je prends, celui-ci ou celui-là ?» — deux choses sur le marbre, aucune nommée.",
+      "tts": "¿Cuál me llevo, este o aquel?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n08",
+      "bloco": "molde",
+      "pt": "Vous n'avez à en nommer aucune. Un doigt sur chacune, et le moule porte le reste."
+    },
+    {
+      "consulta": ["compras/balcao", "reparo/apontar"],
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "ELECCION",
+      "encaixe": "este o aquel",
+      "encaixeGloss": "celui-ci ou celui-là",
+      "promptAudioKey": "i09-p02",
+      "promptPt": "Deux meules de fromage sur le marbre, aucune étiquette sur les deux, et la femme derrière le comptoir a tout l'après-midi. Rendez-lui la décision. Parlez maintenant.",
+      "audioKey": "i09-cual-c",
+      "es": "¿Cuál me llevo, este o aquel?",
+      "pinyin": "koual mé YÉ-bo, ES-té o a-KEL",
+      "pt": "les deux devant vous"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i09-estemejor-e",
+      "es": "Este está mejor hoy. ¿Cuánto le pongo?",
+      "pinyin": "ES-té es-TA mé-KHOR oï. KOUAN-to lé PON-go",
+      "pt": "«Celui-ci est meilleur aujourd'hui. Je vous en mets combien ?» — elle a répondu et vous l'a aussitôt renvoyé.",
+      "tts": "Este está mejor hoy. ¿Cuánto le pongo?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n09",
+      "pt": "Il lui faut un chiffre maintenant, et la phrase pour ça, vous la possédez déjà. De la partie quinze."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i09-p03",
+      "promptPt": "Elle tient le couteau au-dessus du meilleur morceau et attend de savoir quelle taille vous voulez. Donnez-lui-en une, et montrez du doigt. Parlez maintenant.",
+      "audioKey": "b15-esto-e",
+      "es": "Quería medio kilo de esto.",
+      "pinyin": "ke-RI-a MÉ-dio KI-lo dé ES-to",
+      "pt": "un poids, et la chose sous votre doigt"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n10",
+      "pt": "Rien de ce que vous avez acheté là n'avait besoin d'un nom. Voilà un marché, ici, en quatre-vingt-dix secondes."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n11",
+      "pt": "La deuxième. Un bar du coin avec le match, et chaque visage de la salle regarde dans la même direction."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n12",
+      "pt": "Pas de billet, pas de plan de salle. Vous entrez, prenez un verre et vous tenez là où il y a de la place."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i09-sentarme-e",
+      "es": "¿Puedo sentarme aquí?",
+      "pinyin": "POUÉ-do ssen-TAR-mé a-KI",
+      "pt": "«Je peux m'asseoir ici ?» — demandé aux deux hommes à la table, pas au patron.",
+      "tts": "¿Puedo sentarme aquí?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n13",
+      "pt": "Une table de quatre chaises avec deux hommes n'est pas une table pleine. Le début est celui de la partie six."
+    },
+    {
+      "consulta": ["mesa/mesa", "chegar/entrar"],
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "PUEDO",
+      "encaixe": "sentarme",
+      "encaixeGloss": "m'asseoir",
+      "promptAudioKey": "i09-p04",
+      "promptPt": "Le comptoir est plein sur trois rangs, à une table avec deux hommes devant l'écran deux chaises sont libres, et l'un d'eux a croisé votre regard. Parlez maintenant.",
+      "audioKey": "i09-sentarme-e",
+      "es": "¿Puedo sentarme aquí?",
+      "pinyin": "POUÉ-do ssen-TAR-mé a-KI",
+      "pt": "à la table où il y a de la place"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i09-sientate-c",
+      "receptivo": true,
+      "acao": "S'asseoir. La chaise n'était réservée à personne.",
+      "es": "Sí, sí, siéntate.",
+      "pinyin": "ssi, ssi, SSIÉN-ta-té",
+      "pt": "👂 «Oui, oui, assieds-toi.» La chaise n'était réservée à personne.",
+      "tts": "Sí, sí, siéntate."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n14",
+      "pt": "Un verre tient là-dedans toute la mi-temps. Personne ne compte ce qui est devant vous, et personne ne le débarrasse."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i09-p05",
+      "promptPt": "Mi-temps, votre verre est vide depuis dix minutes, et le patron vient de regarder le long du rang jusqu'à vous. Parlez maintenant.",
+      "audioKey": "e03a-otra-c",
+      "es": "Otra, por favor.",
+      "pinyin": "O-tra, por fa-BOR",
+      "pt": "encore un de ce qui a marché"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n15",
+      "tom": "ganha",
+      "pt": "La troisième, et c'est l'heure la moins chère de la journée. Sept heures, et la place commence à se remplir."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n16",
+      "pt": "Tous dehors sont assis à une table avec un petit verre qui traîne là depuis longtemps déjà."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i09-quetal-e",
+      "receptivo": true,
+      "acao": "Rendre une chose, puis arrêter. C'est une porte ouverte.",
+      "es": "¿Y qué tal el barrio? ¿Os gusta?",
+      "pinyin": "i ké tal el BA-rrio? oss GOUSS-ta",
+      "pt": "👂 «Et le quartier, ça vous plaît ?» — de la table d'à côté, et adressé à vous.",
+      "tts": "¿Y qué tal el barrio? ¿Os gusta?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n17",
+      "pt": "C'est une porte ouverte, pas du bavardage. Une chose repart, puis vous vous arrêtez."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i09-barrio-e",
+      "es": "Me gusta mucho este barrio.",
+      "pinyin": "mé GOUSS-ta MOU-tcho ES-té BA-rrio",
+      "pt": "«Ce quartier me plaît beaucoup.» Le début ne bouge jamais ; ce qui vous plaît vient à la fin.",
+      "tts": "Me gusta mucho este barrio."
+    },
+    {
+      "consulta": ["simpatia/puxar-conversa", "simpatia/elogiar-lugar"],
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "PREFERENCIA",
+      "encaixe": "este barrio",
+      "encaixeGloss": "ce quartier",
+      "promptAudioKey": "i09-p06",
+      "promptPt": "L'homme à la table d'à côté vous a demandé ce que vous pensez de l'endroit où vous êtes tous les deux, et il habite quatre portes plus loin. Donnez-lui une chose et arrêtez. Parlez maintenant.",
+      "audioKey": "i09-barrio-e",
+      "es": "Me gusta mucho este barrio.",
+      "pinyin": "mé GOUSS-ta MOU-tcho ES-té BA-rrio",
+      "pt": "une chose, puis stop"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n18",
+      "pt": "Même début, autre fin. Il prend aussi ce que vous préféreriez — ça décide la moitié de la soirée."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i09-andar-c",
+      "es": "Prefiero andar.",
+      "pinyin": "pré-FIÉ-ro an-DAR",
+      "pt": "«Je préfère marcher.» Deux mots, et rien derrière en guise de justification.",
+      "tts": "Prefiero andar."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "PREFERENCIA",
+      "encaixe": "andar",
+      "encaixeGloss": "marcher",
+      "promptAudioKey": "i09-p07",
+      "promptPt": "Vous prenez un taxi pour l'autre rive, et une place vous y attend — mais la soirée est douce et le fleuve est juste là. Parlez maintenant.",
+      "audioKey": "i09-andar-c",
+      "es": "Prefiero andar.",
+      "pinyin": "pré-FIÉ-ro an-DAR",
+      "pt": "ce que vous préféreriez"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n19",
+      "pt": "Et les deux mêmes mots que vous avez donnés à une cuisine il y a deux parties tombent tout aussi bien sur le lieu lui-même."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i09-plaza-c",
+      "es": "¡Qué plaza más bonita!",
+      "pinyin": "ké PLA-ssa mass bo-NI-ta",
+      "pt": "«Quelle belle place !» — dit à voix haute, à celui qui vous a amené ici.",
+      "tts": "¡Qué plaza más bonita!"
+    },
+    {
+      "consulta": ["simpatia/elogiar-lugar"],
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "APRECIACION",
+      "encaixe": "plaza",
+      "encaixeGloss": "la place",
+      "promptAudioKey": "i09-p08",
+      "promptPt": "Vous avez tourné le coin vers celle aux orangers et au kiosque au milieu, et ils vous regardent en face. Parlez maintenant.",
+      "audioKey": "i09-plaza-c",
+      "es": "¡Qué plaza más bonita!",
+      "pinyin": "ké PLA-ssa mass bo-NI-ta",
+      "pt": "sur le lieu qu'ils viennent de vous montrer"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n20",
+      "bloco": "capsula",
+      "tom": "protege",
+      "pt": "Une chose court sous les trois, et elle prend deux minutes, parce qu'un montant y est accroché."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n21",
+      "pt": "Presque rien de tout ça n'est une loi nationale. Les règles de rue, chaque mairie les fait, une ville après l'autre."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n22",
+      "pt": "Torse nu à travers la ville : à Barcelone, cent vingt à trois cents euros, sous l'ordonnance en vigueur depuis février."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n23",
+      "pt": "Et dans tout Palma, cent à deux cents, plage et front de mer exceptés. Quarante kilomètres à l'intérieur, personne n'a rien écrit."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n24",
+      "pt": "La chemise habite désormais dans le sac. Elle revient sur le dos au bord du sable, pas à la porte de l'hôtel."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n25",
+      "pt": "L'autre, c'est la canette à la main. Dans la rue, cent à six cents, dans toute l'Espagne."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n26",
+      "pt": "Sur la table en terrasse, deux mètres plus loin : rien. Sur la Playa de Palma, cinq cents à mille cinq cents."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "i09-nosepuede-e",
+      "receptivo": true,
+      "acao": "Poser la chose ou la porter à une table. Ne pas argumenter.",
+      "es": "Aquí no se puede.",
+      "pinyin": "a-KI no sé POUÉ-dé",
+      "pt": "👂 «Ici, ce n'est pas permis.» Quatre mots y mettent fin. La poser, ou la porter à une table.",
+      "tts": "Aquí no se puede."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n27",
+      "pt": "Deux de plus, du même règlement. Le sac acheté sur le drap va jusqu'à six cents — pour celui qui achète."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n28",
+      "pt": "Et la nuit sur la plage, c'est cinq cents, serviette ou tente. La sieste d'après le déjeuner reste tranquille."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n29",
+      "pt": "Depuis février, on encaisse le visiteur sur-le-champ. La Guàrdia Urbana porte des lecteurs de carte pour ça."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "c03a-05",
+      "receptivo": true,
+      "acao": "Remettre la chemise. C'est la chance, avant que ça devienne une amende.",
+      "es": "Aquí no se puede ir sin camiseta.",
+      "pinyin": "a-KI no sé POUÉ-dé ir ssin ka-mi-SSÉ-ta",
+      "pt": "👂 «Ici, on ne circule pas sans chemise.» — ce qu'il dit d'abord, et c'est une chance, pas une amende.",
+      "tts": "Aquí no se puede ir sin camiseta."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "c03a-06",
+      "es": "Perdón, no lo sabía. Ahora mismo me la pongo.",
+      "pinyin": "per-DON, no lo ssa-BI-a. a-O-ra MISS-mo mé la PON-go",
+      "pt": "«Pardon, je ne savais pas. Je la remets tout de suite.» Deux moitiés : l'ignorance, puis la réparation.",
+      "tts": "Perdón, no lo sabía. Ahora mismo me la pongo."
+    },
+    {
+      "consulta": ["apuro/denuncia"],
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i09-p09",
+      "promptPt": "Trois rues plus loin vous êtes toujours torse nu, et un agent a changé de direction et vient droit sur vous. Prenez les devants. Parlez maintenant.",
+      "audioKey": "c03a-06",
+      "es": "Perdón, no lo sabía. Ahora mismo me la pongo.",
+      "pinyin": "per-DON, no lo ssa-BI-a. a-O-ra MISS-mo mé la PON-go",
+      "pt": "ce qui met fin à l'affaire sur place"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n30",
+      "pt": "Dit devant lui, ça clôt la plupart d'un mot. La même voix que pour un café."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n31",
+      "pt": "Et si ça continue quand même, deux choses doivent être dans votre bouche avant de rien taper sur l'appareil."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "c03a-20",
+      "es": "¿De cuánto es la multa?",
+      "pinyin": "dé KOUAN-to ess la MOUL-ta",
+      "pt": "«C'est combien, l'amende ?» — le montant, avant que la carte sorte de la poche.",
+      "tts": "¿De cuánto es la multa?"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "i09-p10",
+      "promptPt": "L'agent tient votre passeport d'une main et attrape le lecteur de carte de l'autre. Avant de taper quoi que ce soit, demandez ce que ça coûte. Parlez maintenant.",
+      "audioKey": "c03a-22",
+      "es": "¿De cuánto es la multa?",
+      "pinyin": "dé KOUAN-to ess la MOUL-ta",
+      "pt": "de combien est le montant"
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i09-lanotificacion-c",
+      "receptivo": true,
+      "acao": "Ne pas se disputer au bord du trottoir. Demander le montant par écrit.",
+      "es": "Eso lo pone la notificación. Yo solo levanto el acta.",
+      "pinyin": "É-sso lo PO-né la no-ti-fi-ka-SSION. yo SO-lo lé-BAN-to el AK-ta",
+      "pt": "👂 «Ça, c'est dans l'avis. Moi, je ne fais que dresser le procès-verbal.» — le montant ne se décide pas au bord du trottoir, et s'y disputer n'y change rien.",
+      "tts": "Eso lo pone la notificación. Yo solo levanto el acta."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n32",
+      "pt": "La deuxième, vous la possédez depuis le comptoir de location : demandez-le par écrit. Le reçu est votre preuve."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n33",
+      "pt": "Une dernière, et elle passe par une caméra, pas par un humain. Elle décide comment vous arrivez."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n34",
+      "pt": "Depuis janvier, toute ville de plus de cinquante mille a une zone à faibles émissions. La caméra lit la plaque."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n35",
+      "pt": "Jusqu'à deux cents euros, moitié moins en payant tôt. Et la vignette n'existe que pour une voiture espagnole."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n36",
+      "tom": "ganha",
+      "pt": "Une voiture de location porte déjà plaque et vignette. Le reste est simple : se garer dehors, entrer à pied. Un vieux centre est petit de toute façon."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n37",
+      "tom": "protege",
+      "pt": "Une chose datée, parce qu'elle a pu bouger d'ici au départ. Il s'agit de la terrasse où vous êtes assis."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n38",
+      "pt": "En juillet deux mille vingt-six : fumer et vapoter en terrasse est légal. À l'intérieur, c'est fini depuis 2011."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n39",
+      "tom": "ganha",
+      "pt": "Une loi qui mettrait fin aux deux est passée au Parlement en juillet. En voyage après ? Demandez au bar. Une question."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n40",
+      "pt": "Le quatrième après-midi, celui qu'on ne peut pas prévoir. La rue d'hier est barrée."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n41",
+      "pt": "Un orchestre sur un plateau, une foule épaisse de quatre rangs, et personne au bout ne vend ni ne contrôle rien."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n42",
+      "pt": "La porte, c'est le bout de la rue. Vous vous tenez au bord, debout, et vous restez tout le temps."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "i09-foto-c",
+      "es": "¿Puedo sacar una foto?",
+      "pinyin": "POUÉ-do ssa-KAR OU-na FO-to",
+      "pt": "«Je peux prendre une photo ?» — demandé à la personne que vous allez pointer.",
+      "tts": "¿Puedo sacar una foto?"
+    },
+    {
+      "consulta": ["simpatia/puxar-conversa"],
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "molde": "PUEDO",
+      "encaixe": "sacar una foto",
+      "encaixeGloss": "prendre une photo",
+      "promptAudioKey": "i09-p11",
+      "promptPt": "L'orchestre s'est arrêté juste devant vous, et une femme en costume rit à deux mètres, les mains pleines. Votre téléphone est déjà levé. Parlez maintenant.",
+      "audioKey": "i09-foto-c",
+      "es": "¿Puedo sacar una foto?",
+      "pinyin": "POUÉ-do ssa-KAR OU-na FO-to",
+      "pt": "avant que le téléphone monte"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n43",
+      "pt": "Une fois demandé, c'est presque toujours oui. Sans demander, vous êtes le seul avec un écran en l'air."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n44",
+      "pt": "Et si la foule se tait et reste immobile, arrêtez-vous aussi. Le téléphone attend qu'elle soit passée."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n45",
+      "bloco": "capsula",
+      "tom": "ganha",
+      "pt": "Retour à la place, et ce qui rend tout l'après-midi bon marché. La chaise s'achète une fois."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n46",
+      "pt": "Une commande tient la table, et l'heure qui suit est ce à quoi elle servait. Personne ne vous compte dehors."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n47",
+      "pt": "Pas dans le hall de gare. Là, les chaises tournent, et quelqu'un attend vraiment la vôtre."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n48",
+      "bloco": "permissao",
+      "pt": "Vous avez le droit de parcourir un marché entier sans rien acheter. Un verre peut tenir toute une mi-temps."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n49",
+      "pt": "Et vous avez le droit de vous tenir au milieu de la fête de rue d'un autre. Il n'y a pas de billet qui puisse vous manquer."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n50",
+      "bloco": "espelho",
+      "pt": "Commander un deuxième toutes les vingt minutes pour mériter la chaise — c'est ça, l'étrange, là-bas."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n51",
+      "bloco": "clique",
+      "tom": "ganha",
+      "pt": "Comptez les endroits. Le marché. Le bar du coin. La place. La table en terrasse, dans la rue."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n52",
+      "pt": "Ces phrases, personne ne vous les a données. Le moule était déjà à vous ; l'après-midi n'a fait que changer la chose."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n53",
+      "bloco": "piso",
+      "pt": "Vous passez un après-midi là où on le passe, et vous payez ce qu'on paie. La plupart restent en vue de l'eau."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-s00",
+      "pt": "À répéter. Fort, avec eux, un coup sur chaque r. Les deux que vous voulez cet après-midi :"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "i09-plaza-c",
+      "molde": "APRECIACION",
+      "es": "¡Qué plaza más bonita!",
+      "pinyin": "ké PLA-ssa mass bo-NI-ta",
+      "pt": "Quelle belle place !"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "i09-foto-c",
+      "molde": "PUEDO",
+      "es": "¿Puedo sacar una foto?",
+      "pinyin": "POUÉ-do ssa-KAR OU-na FO-to",
+      "pt": "Je peux prendre une photo ?"
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "i09-rend",
+      "bloco": "recap",
+      "pt": "Encore une fois, à voix haute, quelque part où l'on ne s'est pas tenu, et cette fois personne ne vous a rien offert."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "molde": "PUEDO",
+      "encaixe": "sentarme",
+      "encaixeGloss": "m'asseoir",
+      "promptAudioKey": "i09-p12",
+      "promptPt": "L'orchestre est passé, au bar du coin un tabouret est libre, et l'homme à côté a sa veste sur le dossier. Parlez maintenant.",
+      "audioKey": "i09-sentarme-e",
+      "es": "¿Puedo sentarme aquí?",
+      "pinyin": "POUÉ-do ssen-TAR-mé a-KI",
+      "pt": "le tabouret avec la veste dessus"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "i09-n54",
+      "pt": "C'est tout. Quatre après-midis, aucun billet, et la chemise habite désormais dans le sac. Hasta luego."
+    }
+  ],
+
+  "aprofundar": {
+    "titulo": "Qui écrit la règle, et trois questions qui vous font traverser un après-midi (lecture optionnelle)",
+    "secoes": [
+      {
+        "titulo": "Cuál, et pourquoi une question à deux voies bat la question ouverte",
+        "corpo": "«¿Qué me recomienda?» est la question que tout le monde enseigne et dont presque personne ne survit à la réponse : elle est ouverte, et il revient une phrase à pleine vitesse avec quatre noms que vous n'avez jamais entendus. «¿Cuál me llevo, este o aquel?» fait le même travail social — vous rendez la décision à celui qui s'y connaît —, mais la réponse ne peut être qu'une de deux choses déjà devant vos yeux, et elle arrive en «este» avec un doigt. C'est tout le truc, et c'est le même que «¿Hay…?» de la partie huit : la réponse tient dans votre tête. «Cuál», c'est «lequel» quand vous choisissez entre des choses déjà là ; «qué», c'est «quoi» quand rien n'a encore été posé devant vous. Et vous n'avez à nommer aucun des objets : «este» et «aquel» plus un doigt suffisent à la fromagerie, à l'étal de poisson, au rayon des vins et à la boulangerie.",
+        "exemplos": [
+          {
+            "es": "¿Cuál me llevo, este o aquel?",
+            "pt": "koual mé YÉ-bo, ES-té o a-KEL — lequel je prends, celui-ci ou celui-là ?"
+          },
+          {
+            "es": "¿Cuál está mejor hoy?",
+            "pt": "koual es-TA mé-KHOR oï — lequel est meilleur aujourd'hui ? (s'il y en a plus de deux et qu'elle doit trancher)"
+          }
+        ]
+      },
+      {
+        "titulo": "Me gusta et prefiero — le début qui ne bouge jamais",
+        "corpo": "On apprend les deux comme un tout, avec la chose qui vous plaît accrochée derrière, et le début, on ne le démonte jamais. «Me gusta» plus une chose — me gusta este barrio, me gusta el vino tinto, me gusta mucho. «Prefiero» plus une chose ou une action — prefiero andar, prefiero el tinto, prefiero sentarme fuera. Pour vous, c'est le coin le plus facile de la langue, parce que cette construction, vous l'avez déjà chez vous : «ça me plaît» — la chose est le sujet, vous êtes au datif, exactement comme «plaire». Vous n'avez donc rien à retourner que vous ne retourniez déjà. Deux choses valent la peine : d'abord, «me gusta mucho» est plus chaud que «me gusta» et coûte un mot, alors dépensez-le. Ensuite, si on vous demande au pluriel — «¿os gusta?» —, on vous vise tous les deux, et «me gusta» ou «nos gusta» conviennent l'un comme l'autre. Le voisin que vous entendrez toute la soirée sans jamais avoir à le produire, c'est «¿qué te parece?» — qu'est-ce que tu en penses —, et «me gusta mucho» y répond aussi tout entier.",
+        "exemplos": [
+          {
+            "es": "Prefiero sentarme fuera.",
+            "pt": "pré-FIÉ-ro ssen-TAR-mé FOUÉ-ra — je préfère m'asseoir dehors"
+          },
+          {
+            "es": "Nos gusta mucho.",
+            "pt": "noss GOUSS-ta MOU-tcho — ça nous plaît beaucoup (si la question s'adressait à vous deux)"
+          }
+        ]
+      },
+      {
+        "titulo": "Se puede — la phrase où personne n'est visé",
+        "corpo": "«Aquí no se puede» — ici, ce n'est pas permis — vous l'entendrez sur ce voyage presque plus que tout le reste : sur une place à minuit, à une porte de musée, dans une chapelle le téléphone à la main. Il vaut la peine de le reconnaître aussitôt et de comprendre pourquoi il sonne sec sans l'être : il n'y a aucun «tu» dedans. Il ne dit pas que vous n'avez pas le droit ; il dit que la chose, ici, ne se fait pas. C'est pour ça qu'il sort à plat, et c'est pour ça que personne n'est réprimandé. La forme interrogative, «¿se puede beber aquí?», est pour la même raison la question la moins frontale de la langue — et si vous la voulez, elle est à vous. Mais nous ne l'avons pas drillée exprès, parce que «¿Puedo…?» de la partie six vous obtient la même réponse et vous l'avez déjà payée. Un faux ami à ranger, léger mais utile ici : «discutir», en espagnol, ce n'est pas «discuter» — c'est se disputer. L'instinct de «discuter» l'amende au bord du trottoir est justement ce qui l'envenime ; là, on écoute, on range la chose ou on passe, et il n'y a rien de plus à dire.",
+        "exemplos": [
+          {
+            "es": "Aquí no se puede.",
+            "pt": "a-KI no sé POUÉ-dé — 👂 ici, ce n'est pas permis. Aucun reproche ; un constat sur le lieu"
+          },
+          {
+            "es": "¿Se puede pasar?",
+            "pt": "sé POUÉ-dé pa-SSAR — 👂 peut-on passer ? Dit à une porte, à personne en particulier"
+          }
+        ]
+      },
+      {
+        "titulo": "Qui écrit vraiment ces règles, et où regarder avant le voyage",
+        "corpo": "Le plus utile de cette partie n'est pas un chiffre, c'est la forme : les règles de rue qui portent un montant sont des ordonnances municipales, écrites par chaque mairie, et il n'en existe aucune table nationale. C'est pourquoi le même geste torse nu vaut cent vingt à trois cents euros à Barcelone, sous l'ordonnance en vigueur depuis février 2026, cent à deux cents dans tout Palma de Majorque, et rien du tout dans un village quarante kilomètres à l'intérieur. Pour ce voyageur, c'est la côte continentale qui compte d'abord — la Catalogne et Valence, la frontière juste là —, alors la ville qui donne le ton est Barcelone, pas Palma ; les îles, c'est le cas d'après, si vous y poussez. Là-bas, dans les zones baléares de tourisme d'excès — la Playa de Palma en fait partie —, boire hors des lieux autorisés monte à cinq cents à mille cinq cents, la vente d'alcool en boutique est interdite de 21h30 à 8h, et le balconing est proscrit dans toutes les Baléares. Les quelques exceptions nationales valent d'être connues : boire dans la rue relève de la loi de sécurité de 2015, cent à six cents euros. Ce qui a changé en 2026 et rend caduc le vieux conseil «ils ne vous poursuivront jamais pour ça», c'est l'encaissement : l'ordonnance de Barcelone exige du non-résident le paiement sur place, et la Guàrdia Urbana porte des lecteurs de carte. Si vous voulez le texte avant de partir, la recherche marche avec le nom du lieu plus «ordenanza de civismo» ou «ordenanza de convivencia» — chaque mairie publie la sienne, entière et gratuite.",
+        "exemplos": [
+          {
+            "es": "¿De cuánto es la multa?",
+            "pt": "dé KOUAN-to ess la MOUL-ta — c'est combien ? Demander avant que rien ne soit tapé"
+          },
+          {
+            "es": "¿Me lo puede dar por escrito, por favor?",
+            "pt": "por es-KRI-to — pouvez-vous me le donner par écrit ? Le reçu est votre seule preuve d'avoir payé"
+          }
+        ]
+      },
+      {
+        "titulo": "La voiture, la vignette et la caméra",
+        "corpo": "La zone à faibles émissions est la seule règle de cette partie appliquée sans un humain à proximité, et pour ce voyageur elle pèse plus que pour tout autre : vous êtes nombreux à arriver par la route, souvent à plaque française. Elle est aussi la raison pour laquelle l'après-midi commence par où vous laissez la voiture. Depuis le 1er janvier 2026, toute ville espagnole de plus de cinquante mille habitants doit en gérer une, et elles sont exactement là où est le vieux centre. Une caméra lit la plaque ; l'amende est une infraction grave jusqu'à deux cents euros, moitié moins — cent — en payant dans les vingt jours suivant l'avis. Le piège structurel, c'est la vignette : la vignette environnementale de la DGT n'existe que pour les véhicules immatriculés en Espagne, et pour une plaque étrangère la procédure n'est pas uniforme — plusieurs villes tiennent leur propre registre, à remplir en ligne, ville par ville, et son détail reste à vérifier. Une voiture de location s'en tire bien : elle porte une plaque espagnole et une vignette, mais sachez dans quelle catégorie elle est, et si une amende tombe quand même, l'agence vous la répercute avec des frais. La règle pratique survit à tout ça sans bouger : voir les lettres, se garer dehors, entrer à pied. Les centres historiques sont petits, et les parcourir à pied, c'était le plan de toute façon.",
+        "exemplos": [
+          {
+            "es": "¿Este coche tiene etiqueta ambiental? ¿Cuál?",
+            "pt": "e-ti-KÉ-ta am-bien-TAL — cette voiture a-t-elle une vignette écolo, et laquelle ? Demandé au comptoir de location, pas à la barrière"
+          },
+          {
+            "es": "¿Dónde puedo aparcar sin entrar?",
+            "pt": "sin en-TRAR — où puis-je me garer sans entrer ?"
+          }
+        ]
+      },
+      {
+        "titulo": "Le vapotage, avec une date dessus",
+        "corpo": "C'est le plus périssable de tout le cours, et on vous le dit exprès avec la date. En juillet 2026, l'état des lieux est : fumer à l'intérieur est interdit en Espagne depuis 2011, et fumer ou vapoter en terrasse de bar ou de restaurant est encore légal. Le 21 juillet 2026, le Conseil des ministres a approuvé un avant-projet de loi qui interdirait les deux en terrasse, sur les plages, dans les piscines publiques, les installations sportives et les parcs nationaux, créerait des zones de protection de quinze mètres autour des hôpitaux, des écoles et des aires de jeux, et traiterait pour la première fois une e-cigarette, un sachet de nicotine, une chicha et le tabac chauffé exactement comme une cigarette, avec nicotine ou sans. C'est un avant-projet, dans un parlement fragmenté, et personne ne peut vous dire honnêtement aujourd'hui de quel mois il sera. La consigne honnête est donc celle de l'audio : voyagez après, demandez au bar avant d'allumer quoi que ce soit, et prenez la réponse de celui qui paierait, pas de nous. Cette entrée est sur la liste à vérifier à chaque édition du cours.",
+        "exemplos": [
+          {
+            "es": "¿Se puede fumar aquí?",
+            "pt": "sé POUÉ-dé fou-MAR — peut-on fumer ici ? La seule question qui tranche, posée au bar"
+          },
+          {
+            "es": "¿Puedo vapear en la terraza?",
+            "pt": "ba-pé-AR — puis-je vapoter en terrasse ? Même réponse, même personne"
+          }
+        ]
+      }
+    ]
+  }
+}

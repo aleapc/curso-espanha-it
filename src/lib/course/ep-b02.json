@@ -1,0 +1,551 @@
+{
+  "id": "b02",
+  "slot": "B02",
+  "nivel": "basico",
+  "numero": 2,
+  "parte": "2",
+  "titulo": "Dix mots, et le « tu » tient à une lettre",
+  "subtitulo": "Saluer en entrant comme en sortant, plus fort qu'à la maison ; et le tu qui, ici, se règle autrement — dans les deux sens",
+  "moldura": "ganha",
+
+  "cena": "Neuf heures et demie du matin, une boulangerie sur la Costa Brava. Vous poussez la porte, vous ne dites rien et vous allez vers la vitrine — et derrière le comptoir, une seconde, le silence se fait.",
+
+  "moldes": [],
+
+  "clique": {
+    "contagem": ["la boulangerie", "la boutique de l'après-midi", "le bar du soir", "le petit-déjeuner de l'hôtel"],
+    "desconto": "Aucune de ces phrases, vous n'avez eu à la construire. Elles sont prêtes — la seule nouveauté, c'est à quelles portes vous les dites.",
+    "piso": "Vous saluez en entrant et en sortant, assez fort pour que ça porte. La plupart des clients ne disent pas un mot à la porte, deux semaines durant."
+  },
+  "cliqueAudioKey": "b02-n20",
+
+  "frasePiso": "Vous saluez en entrant et en sortant, assez fort pour que ça porte. La plupart des clients ne disent pas un mot à la porte, deux semaines durant.",
+
+  "permissao": "Vous avez le droit d'être plus fort qu'il ne vous paraît poli — le salut s'adresse à la salle, pas à une personne. «Ponme una caña» n'est pas impoli, c'est la forme ordinaire, et la commande courte et directe, vous l'apportez déjà de chez vous. Vous avez le droit de ressortir sans rien acheter, et de sortir avec les trois mots que tout le monde emploie pour sortir. Et «usted» vous reste : à l'administration, à la banque, chez le médecin, c'est lui qui est juste.",
+  "permissaoAudioKey": "b02-n18",
+
+  "espelho": "Entrer sans un mot, c'est ça qui se remarque là-bas : ça n'arrive pas comme de la réserve, mais comme un oubli — la salle vous a entendu et attendait deux mots qui ne sont pas venus. Et ce silence-là se remarque autant à Lyon qu'à Barcelone.",
+
+  "fichasCulturais": [
+    {
+      "sinal": "Vous entrez dans une petite boutique, vous allez sans un mot vers le rayon, et la personne derrière le comptoir lève les yeux une seconde et les rebaisse.",
+      "suaLeitura": "Je ne dérange pas, je regarde seulement. Je saluerai si j'ai besoin de quelque chose.",
+      "oQueEAli": "Là-bas, le salut en entrant s'adresse à la salle et non à une personne, et c'est votre annonce : il dit que quelqu'un est entré. Sans lui, personne n'est entré, et le reste de la visite se déroule dans ce vide.",
+      "oQueVoceFaz": "Deux mots dans la salle avant d'aller vers la marchandise, et un cran plus fort qu'il ne vous paraît convenable. En sortant, pareil, même sans achat.",
+      "oQueMelhora": "On vous adresse la parole au lieu de vous surveiller, et la deuxième fois dans la même boutique, la conversation commence déjà à la porte.",
+      "ondeNaoVale": "Pas au supermarché, au grand magasin ni dans la chaîne de l'aéroport — là, on salue à la caisse et non à la porte. La règle est celle du petit espace, où l'on est entendu.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["b02-n03", "b02-n04", "b02-n05"]
+    },
+    {
+      "sinal": "Vous êtes face à quelqu'un que vous n'avez jamais vu, et votre tête a déjà choisi le vous ou le tu avant le premier son.",
+      "suaLeitura": "Ça, je le décide juste depuis trente ans. Poli, c'est poli, partout.",
+      "oQueEAli": "Le sélecteur est le même que chez vous, le réglage par défaut est différent — et il se trompe dans les deux sens. Au bar, à la boutique, au comptoir, le défaut espagnol est le tu ; garder le vous avec un serveur de vingt-cinq ans met de la distance sans le vouloir. Mais à la banque, chez le médecin, le tu par excès de familiarité détonne autant.",
+      "oQueVoceFaz": "Au comptoir et dans la petite boutique, tutoyez ; les terminaisons le portent : perdona et non perdone, ¿me pones? et non ¿me pone?. Au guichet institutionnel et avec une personne nettement plus âgée, vouvoyez.",
+      "oQueMelhora": "Le deuxième soir dans le même bar ne ressemble pas au premier, et vous vous apercevez que vous n'êtes pas devenu plus chaleureux, mais plus proche.",
+      "ondeNaoVale": "Pas à la Guardia Civil, à la banque, chez le médecin, à l'administration, ni avec une personne visiblement âgée en cadre formel — là, «usted» est juste, et qui vous l'enlève tout à fait vous a pris quelque chose.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["b02-n11", "b02-n12", "b02-n13", "b02-n14"]
+    },
+    {
+      "sinal": "Vous n'avez rien trouvé, vous voulez sortir, et le chemin vers la porte vous paraît soudain très long.",
+      "suaLeitura": "Je n'ai rien acheté, alors je sors plutôt discrètement. Autrement, ce serait gênant.",
+      "oQueEAli": "La sortie, là-bas, a sa propre formule, et elle ne dépend pas de l'achat. Trois mots referment la visite : l'un acquiesce, l'un remercie, l'un prend congé. La visite était la visite, pas le chiffre d'affaires.",
+      "oQueVoceFaz": "En sortant, dire «vale, gracias, hasta luego», en marchant, sans s'arrêter. Aucune explication sur le fait de ne rien avoir pris.",
+      "oQueMelhora": "Vous pouvez entrer sans pression d'achat et revenir — et vous revenez dans la même semaine, parce que rien n'a été désagréable.",
+      "ondeNaoVale": "Pas au marché, quand on a déjà pesé : là, quelque chose est engagé, et le départ demande une phrase de plus. Ni au bar où vous avez encore une consommation en cours.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["b02-n16", "b02-n17"]
+    }
+  ],
+
+  "fatosDatados": [
+    {
+      "id": "tuteo-default-espanha",
+      "afirmacao": "L'Espagne tutoie : au bar, à la boutique, au restaurant et en taxi, «tú» est le réglage par défaut, et «usted» reste réservé à trois endroits — police et administration, personnes nettement plus âgées, guichet formel.",
+      "fonte": "RAE/ASALE, Nueva gramática básica §10.6.2 «tú y usted»; Moreno Fernández (CVC); Aleza chap. 4 — synthèse dans docs/pesquisa-espanha.md §4.1",
+      "ano": 2026,
+      "revisarAte": "2028-07-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": [
+        "b02-n12",
+        "b02-n14"
+      ]
+    },
+    {
+      "id": "horario-da-saudacao",
+      "afirmacao": "«Buenos días» court jusqu'au déjeuner, et le déjeuner, là-bas, se situe vers 14h00–15h30/16h00 ; ensuite «buenas tardes», jusqu'à la tombée de la nuit.",
+      "fonte": "docs/pesquisa-espanha.md §5.A (cartes 2 et 3) et le tableau des repas — la comida 14:00–15:30/16:00",
+      "ano": 2026,
+      "revisarAte": "2028-07-01",
+      "evidencia": "CONSENSO",
+      "risco": "baixo",
+      "audioKeys": [
+        "b02-n06"
+      ]
+    },
+    {
+      "id": "saludar-al-entrar",
+      "afirmacao": "Entrer sans un mot est perçu comme impoli : boutique, bar, salle d'attente et ascenseur se saluent en entrant et se quittent en sortant.",
+      "fonte": "docs/pesquisa-espanha.md §7.2, «As 6 regras de corpo e comportamento no bar», règle 1. Consensus qualitatif de sources espagnoles, pas d'étude quantitative — ne jamais formuler comme «des études montrent».",
+      "ano": 2026,
+      "revisarAte": "2028-07-01",
+      "evidencia": "CONSENSO",
+      "risco": "baixo",
+      "audioKeys": [
+        "b02-n03",
+        "b02-n05"
+      ]
+    },
+    {
+      "id": "ustedes-canarias",
+      "afirmacao": "Aux Canaries et dans une grande partie de l'ouest de l'Andalousie, «ustedes» s'emploie aussi à l'informel ; «vosotros» est la forme continentale.",
+      "fonte": "docs/pesquisa-espanha.md §4.2 (RAE/ASALE). Pour ce couple, c'est surtout de l'écoute : le Français vise le littoral continental (Catalogne, Valence — docs/DERIVACAO-FR.md §3.1/§4.3), où «vosotros» est la forme courante ; «ustedes» reste à reconnaître, pas à produire.",
+      "ano": 2026,
+      "revisarAte": "2031-01-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": []
+    }
+  ],
+
+  "_notasDeAutoria": {
+    "_": "PARTE ESCRITA EM FRANCÊS, re-derivada da parte alemã B02 em 2026-07-28. NENHUM campo `es` nem `audioKey` de clipe REUSADO foi alterado — os oito clipes espanhóis do andaime continuam com os mesmos audioKey e os mesmos mp3 do curso base (custo de crédito espanhol ZERO, nenhum clipe novo). Vozes-guia trocadas para os placeholders franceses do audio.config: Juli→GuiaFem (educadora), Thomas→GuiaMasc (alertas), guiaLingua `fr`. Carmen/Emilio (peninsulares) intocadas. `cena` declarado por último, pondo os portões em vigor.",
+    "o_que_esta_parte_e": "PRÉVIA de ME-PONE (casa B11, nove slots à frente): B02 abre o par tú×usted da CASCA, não a peça (`moldes: []`, nenhum step declara `molde`). É RECONHECIMENTO, não instrução — o comprador francês JÁ cumprimenta ao entrar num comércio (na França, entrar sem `Bonjour` é falta codificada, DERIVACAO-FR §3.4 item 1), e reconhece isso ainda mais rápido que o alemão. O DELTA entregue é o mesmo do alemão pelo destino (o volume — o salut à SALA, não a uma pessoa; a saída sem compra) MAIS a Anrede, aqui re-derivada.",
+    "eixo_frances_desta_parte": "SEM falso amigo de assinatura (o eixo mora em B10; nenhuma palavra desta parte pende num falso amigo — conferido: `perdona/perdone`, `pones/pone`, `vale`, `caña`, `café con leche`, `gracias`, `luego` não são falsos amigos). A fonética é QUASE TODA BRINDE (o `h` mudo de `hola`/`hasta`, o `qu`=[k] de `quién`, o `ñ` de `caña`, as vogais puras, o ritmo silábico). A CARGA francesa que sobra e que esta parte cobra são os FINAIS APAGADOS (`-s`/`-e`) — e a convergência é o ponto: a mesma fonética que o francês apaga é a que carrega o REGISTRO. `pones` (tú) menos o `-s` = `pone` (usted); o `-e` de `perdone` reduzido some a distinção. Mais a NASAL de `un`/`con` (DERIVACAO-FR §1.2 linha 2, «uma linha em B02 grudada a un/con»).",
+    "bloco_alemao_morto": "O bloco Thomas ⟨v⟩=[f] do alemão (b02-t01/t02/t03: «três v são b fraco… `fale` não é nada, BA-leh») MORRE aqui. O francês DISTINGUE b/v e diz `vale` com [v], que é ENTENDIDO (DERIVACAO-FR §1.2 linha 13; o `v` espanhol soa como `b`, mas custo LEVE e receptivo). A gag `vino`×`fino` NÃO porta — copiá-la seria o anti-padrão 9. Os três clipes b02-t01/t02/t03 foram REPOSTOS na voz da GuiaMasc pela carga francesa: os finais apagados que carregam o registro (t01, t02) e a nasal (t03). Divisão de vozes: GuiaFem ensina QUAL registro em que porta (o mapa bidirecional); GuiaMasc alerta como NÃO PERDER o registro para a própria boca.",
+    "recalibragem_bidirecional": "O beat `vous`≠`usted` entra LEVE e BIDIRECIONAL, ao contrário do alemão (num sentido só, anti-`Sie` com força). O francês tem a máquina do tratamento como o alemão, mas passa a `tú` com mais facilidade E pode SUB-formalizar (cair no `tú` no banco/Guardia Civil onde o `usted` é devido). n13 diz que o erro vai nos DOIS sentidos (o `vous` de mais no balcão, o `tu` de mais na banca); n14 dá a lista institucional onde o `usted` é o certo. A ficha 2 encena os dois sentidos. Copiar o bloco anti-`Sie` alemão aqui seria o anti-padrão 9 (`moldes.json` → `_regras.recalibragem`).",
+    "respelling_para_leitor_frances": "Campo `pinyin` RE-DERIVADO para o OLHO FRANCÊS (esquema de B10, o respelling alemão não porta): MAIÚSCULA = tônica · `ou` = o `u` espanhol [u], nunca [y] francês (`una`→OU-na) · `tch` = `ch` espanhol [tʃ] (`leche`→LE-tché) · `b` = o v/b espanhol (`vale`→BA-lé) · `ss` = z, c+e/i e s intervocálico, sempre duro (`gracias`→GRA-ssiass) · `gn` = ñ (`caña`→KA-gna) · `h` mudo cai (`hola`→O-la) · `qu`=k (`quién`→KIÉN) · finais escritas = a pronunciar; `-e` final → `-é` (contra o `e caduc` mudo). NESTA PARTE a jota NÃO aparece (casa B13/`jamón`) e o `u`=[y] só vive no respelling — o peso audível são os finais e a nasal.",
+    "hasta_luego_na_boca_da_guia": "MANTIDO (b02-r02). Ao contrário do alemão — que na revisão trocou o `Hasta luego.` da guia por «Bis später» porque numa voz de-DE o ⟨h⟩ sairia audível e ensinaria o erro —, o ⟨h⟩ francês é MUDO: a GuiaFem pronuncia «asta luego» naturalmente CORRETO. É a assinatura de fecho do SKU, já usada por B01 e B10 franceses (b01-r02, b10-n32). INV-5: é citação/glosa da guia, não fala espanhola em cena.",
+    "tratamento": "GuiaFem e GuiaMasc tratam o aluno por VOUS ao longo da narração francesa, na mesma parte em que lhe mostram que ao balcão espanhol se tutoie — o mesmo bônus editorial encenado que B01 usa.",
+    "G3_e_G9": "Nove `responde`, nenhum com `molde` (B02 é prévia, não casa; nenhum molde do roster tem casa antes de B03, então B01 e B02 diluem o G9 por construção — igual à parte alemã). Não se conserta declarando ME-PONE num `responde` de prévia (seria a fraude que o `moldes.json` nomeia). Conserta-se sozinho quando B03/B06/B07/B08/B11/B12/B13 forem escritas em francês.",
+    "pendencia_G14": "GuiaFem/GuiaMasc CITAM espanhol dentro da narração francesa (`perdona`/`perdone`, `pones`/`pone`, `Ponme una caña`, os saludos) — trabalho da guia, INV-5, permitido; nenhuma linha põe FALA espanhola em cena na boca delas, salvo o `Hasta luego` de assinatura (ver nota). Carmen/Emilio não dizem uma palavra de francês. Conferência humana obrigatória (o repositório já teve o acidente do mp3 na língua errada).",
+    "pendencias": [
+      "REVISOR FR-L1 + espanhol PENINSULAR: os finais apagados e a nasal desta parte são INFERÊNCIA (DERIVACAO-FR §1.2 linhas 2, 11). Está no áudio da GuiaMasc (t01/t02/t03) e no aprofundar, e precisa de conferência ANTES da gravação. Nada NÃO CONFERIDO vira áudio.",
+      "VOZ-GUIA FRANCESA (casting): GuiaFem + GuiaMasc são placeholder no audio.config (voiceId «TODO-FR-...»); o gerador não emite job de narração-guia até os voiceId saírem.",
+      "G14 por conferência humana em toda entrega (ver pendencia_G14).",
+      "MEDIDO DEPOIS: G4 = 110 chars/clipe de narração de média (n/t/r/s, 28 clipes), 130 no pior (b02-n13, b02-t02) — abaixo do teto 120 de média e muito abaixo do cap 320. 9 `responde`. Nenhum campo `es` tocado; `valida-audio` não acusa `es` à frente do áudio."
+    ]
+  },
+
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n01",
+      "bloco": "aquecimento",
+      "gesto": 2,
+      "tom": "ganha",
+      "pt": "Échauffement. Main à plat, tenez la fin — le -s, le -e qui vous échappent : bue-nas TAR-dess, per-DO-né, LE-tché."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "bloco": "callback",
+      "consulta": ["simpatia/agradecer"],
+      "promptAudioKey": "b02-p01",
+      "promptPt": "Quelqu'un vous tient la porte alors que vous avez les deux mains prises par vos sacs. Deux mots, pas un. Parlez maintenant.",
+      "audioKey": "e01a-05",
+      "es": "Muchas gracias.",
+      "pinyin": "MOU-tchass GRA-ssiass",
+      "pt": "le grand merci"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n02",
+      "bloco": "cena",
+      "pt": "Neuf heures et demie du matin, une boulangerie sur la Costa Brava. Vous poussez la porte et vous allez vers la vitrine."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n03",
+      "pt": "Vous n'avez rien dit, et derrière le comptoir le silence se fait un instant. Ce n'est pas un rejet, c'est un vide."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n04",
+      "tom": "ganha",
+      "pt": "Saluer en entrant, vous l'apportez de chez vous. En France, entrer sans un mot dans un commerce, ça ne se fait pas."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n05",
+      "pt": "Deux choses changent. Le salut s'adresse à la salle, pas à une personne — et il monte d'un cran."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01b-03",
+      "es": "Hola, buenos días.",
+      "pinyin": "O-la, BOUÉ-noss DI-ass",
+      "pt": "Bonjour, le matin. — Le h est muet, comme chez vous ; et les -s du bout, buenos, días, sonnent en entier."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["chegar/entrar"],
+      "promptAudioKey": "b02-p02",
+      "promptPt": "Neuf heures et quart, vous entrez dans une petite boulangerie où trois personnes attendent déjà. Dites-le à la salle avant d'aller vers la vitrine. Parlez maintenant.",
+      "audioKey": "e01b-03",
+      "es": "Hola, buenos días.",
+      "pinyin": "O-la, BOUÉ-noss DI-ass",
+      "pt": "le salut à la salle, le matin"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n06",
+      "pt": "Ça vaut jusqu'au déjeuner. Après, le salut change — et l'aiguillage, c'est le repas, pas l'heure."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e01b-04",
+      "es": "Buenas tardes.",
+      "pinyin": "BOUÉ-nass TAR-dess",
+      "pt": "Bon après-midi. — Du déjeuner jusqu'à la nuit. Le -e de tardes reste plein, et le -s sonne."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b02-p03",
+      "promptPt": "Quatre heures de l'après-midi, le soleil est encore haut, et vous entrez dans une boutique de chapeaux de paille. Saluez avant que quelqu'un lève les yeux. Parlez maintenant.",
+      "audioKey": "e01b-04",
+      "es": "Buenas tardes.",
+      "pinyin": "BOUÉ-nass TAR-dess",
+      "pt": "le salut d'après le déjeuner"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n07",
+      "pt": "Et si vous ne savez plus quelle heure il fait : un mot les couvre toutes, et il sonne d'ici."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e01b-15",
+      "es": "Buenas.",
+      "pinyin": "BOUÉ-nass",
+      "pt": "Le salut pour toute heure du jour. Un mot, et il sonne du quartier, pas du guide de voyage."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b02-p04",
+      "promptPt": "Huit heures dix du soir, vous entrez dans le bar d'hier, et le soleil vient de disparaître. Vous n'avez aucune idée du salut qui convient. Un mot. Parlez maintenant.",
+      "audioKey": "e01b-15",
+      "es": "Buenas.",
+      "pinyin": "BOUÉ-nass",
+      "pt": "le mot qui marche toujours"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n08",
+      "pt": "Au comptoir, on commande, et la phrase est plus courte que vous ne l'osez."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e01b-06",
+      "es": "Ponme una caña, por favor.",
+      "pinyin": "PON-mé OU-na KA-gna, por fa-BOR",
+      "pt": "Sers-moi une pression, s'il te plaît. — Aucun élan avant, aucune excuse. Et Ponme tutoie déjà."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n09",
+      "tom": "ganha",
+      "pt": "Ce n'est pas brusque, c'est la forme ordinaire. Et la commande courte et directe, vous l'apportez de chez vous."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["chegar/balcao"],
+      "promptAudioKey": "b02-p05",
+      "promptPt": "Onze heures vingt, un bar à deux rues de l'hôtel. Le patron s'essuie les mains et vous regarde, et tout le long du comptoir on voit le même petit verre froid. Parlez maintenant.",
+      "audioKey": "e01b-06",
+      "es": "Ponme una caña, por favor.",
+      "pinyin": "PON-mé OU-na KA-gna, por fa-BOR",
+      "pt": "le petit verre que tout le monde a ici"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n10",
+      "pt": "Maintenant vouvoyé, avec un mot devant : perdona ou perdone aborde tout le monde. Écoutez la terminaison, pas la boisson."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01b-08",
+      "es": "Perdone, ¿me pone un café con leche, por favor?",
+      "pinyin": "pér-DO-né, mé PO-né oun ka-FÉ kon LE-tché, por fa-BOR",
+      "pt": "Pardon, un café au lait, s'il vous plaît. — Deux terminaisons portent le vouvoiement : perdonE, ponE."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e01a-13",
+      "es": "Perdona, ¿me pones una caña?",
+      "pinyin": "pér-DO-na, mé PO-ness OU-na KA-gna",
+      "pt": "Et tutoyé : perdonA, ponES. Un a au lieu d'un e, un s au bout — rien de plus ne les sépare."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n11",
+      "bloco": "capsula",
+      "pt": "Ce sélecteur, vous le manœuvrez vingt fois par jour chez vous, sans regarder. Ici, il est simplement réglé autrement."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n12",
+      "pt": "Chez vous, le vous est le défaut avec tout adulte inconnu. Au bar, à la boutique, au comptoir, ici, c'est le tu."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n13",
+      "tom": "protege",
+      "pt": "Et personne ne vous reprend, dans un sens ni dans l'autre : le vous de trop au comptoir, le tu de trop à la banque passent sans un mot."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n14",
+      "pt": "Guardia Civil, banque, médecin, administration, personne nettement plus âgée en cadre formel : là, le vous reste juste."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["chegar/tu-usted"],
+      "promptAudioKey": "b02-p06",
+      "promptPt": "Petit-déjeuner à l'hôtel, huit heures et demie, et le serveur en veste blanche qui vous avance la chaise a bien trente ans de plus que vous. Sur son chariot, le pot à lait. Parlez maintenant.",
+      "audioKey": "e01b-08",
+      "es": "Perdone, ¿me pone un café con leche, por favor?",
+      "pinyin": "pér-DO-né, mé PO-né oun ka-FÉ kon LE-tché, por fa-BOR",
+      "pt": "la même chose, mais vouvoyée"
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "consulta": ["chegar/tu-usted", "chegar/balcao"],
+      "promptAudioKey": "b02-p07",
+      "promptPt": "Deuxième soir dans le même rade, le même homme derrière le comptoir, à peu près votre âge. Abordez-le et commandez — comme ça se fait ici entre voisins. Parlez maintenant.",
+      "audioKey": "e01a-13",
+      "es": "Perdona, ¿me pones una caña?",
+      "pinyin": "pér-DO-na, mé PO-ness OU-na KA-gna",
+      "pt": "la même chose, mais tutoyée"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n15",
+      "pt": "Il y en a un que vous entendez chaque jour et ne dites jamais. Ça vient vite, trois mots, et ça vous vise."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e01b-10",
+      "receptivo": true,
+      "acao": "Se signaler tout de suite, en un mot. Qui se tait perd son tour au suivant.",
+      "es": "¿Quién va? Dime.",
+      "pinyin": "KIÉN ba? DI-mé",
+      "pt": "👂 « C'est à qui ? Dites-moi. » — le tour qu'on vous passe, et il n'attend pas."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b02-t01",
+      "pt": "Ici, le vous et le tu ne tiennent pas à un mot, mais à une terminaison : perdonE et ponE vouvoient, perdonA et ponES tutoient."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b02-t02",
+      "pt": "Et cette terminaison, c'est ce que votre bouche avale. Le -s de pones qui tombe, et vous voilà au vous sans le vouloir. Tenez la fin."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "b02-t03",
+      "pt": "Un mot encore : un café, con leche. Le n sonne pour de bon — la voyelle d'avant ne passe pas par le nez."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n16",
+      "pt": "Reste la sortie. C'est la moitié de l'habitude, et c'est celle que presque tout le monde laisse tomber."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01b-12",
+      "es": "Vale, gracias. Hasta luego.",
+      "pinyin": "BA-lé, GRA-ssiass. ASS-ta LOUÉ-go",
+      "pt": "D'accord, merci, à tout à l'heure. — Toute la sortie tient là, et le h se tait encore."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Carmen",
+      "promptVoz": "GuiaFem",
+      "consulta": ["chegar/sair"],
+      "promptAudioKey": "b02-p08",
+      "promptPt": "Payé, le sac à la main, et vous êtes déjà à moitié à la porte. En marchant, sans vous arrêter. Parlez maintenant.",
+      "audioKey": "e01b-12",
+      "es": "Vale, gracias. Hasta luego.",
+      "pinyin": "BA-lé, GRA-ssiass. ASS-ta LOUÉ-go",
+      "pt": "toute la sortie"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n17",
+      "tom": "ganha",
+      "pt": "Même sans acheter. Vous regardez, il n'y a rien pour vous, et vous sortez avec les trois mots de tout le monde."
+    },
+    {
+      "tipo": "responde",
+      "voz": "Emilio",
+      "promptVoz": "GuiaFem",
+      "promptAudioKey": "b02-p09",
+      "promptPt": "En terrasse, on vous tend une carte, et vous vouliez juste passer au comptoir. Deux mots, le sourire, sans vous arrêter. Parlez maintenant.",
+      "audioKey": "e01a-03",
+      "es": "No, gracias.",
+      "pinyin": "no, GRA-ssiass",
+      "pt": "le non aimable"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n18",
+      "bloco": "permissao",
+      "pt": "Vous avez le droit d'être plus fort qu'il ne vous paraît poli. Le salut s'adresse à la salle, et la salle est pleine."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n19",
+      "pt": "Et vous avez le droit de repartir sans rien acheter. Le salut à la porte n'achète rien — il ouvre juste la porte."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n20",
+      "bloco": "clique",
+      "pt": "Comptez les portes : la boulangerie, la boutique de l'après-midi, le bar du soir, le petit-déjeuner de l'hôtel."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n21",
+      "pt": "Aucune de ces phrases, vous n'avez eu à la construire. La seule nouveauté : à quelles portes vous les dites maintenant."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-n22",
+      "bloco": "piso",
+      "pt": "Vous saluez en entrant et en sortant, assez fort. La plupart des clients ne disent pas un mot à la porte, deux semaines durant."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "b02-s00",
+      "pt": "À répéter. Fort, avec eux, la dernière syllabe tenue. Les deux qui reviennent chaque jour :"
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Emilio",
+      "audioKey": "e01b-06b",
+      "es": "Ponme una caña, por favor.",
+      "pinyin": "PON-mé OU-na KA-gna, por fa-BOR",
+      "pt": "Sers-moi une pression, s'il te plaît."
+    },
+    {
+      "tipo": "shadow",
+      "voz": "Carmen",
+      "audioKey": "e01a-18",
+      "es": "Hasta luego.",
+      "pinyin": "ASS-ta LOUÉ-go",
+      "pt": "À tout à l'heure."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "b02-r01",
+      "bloco": "recap",
+      "pt": "C'était la partie deux. Entré, salué, commandé, sorti — et vous savez qui vous tutoyez au comptoir."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "b02-r02",
+      "pt": "La suite en partie trois : ce que vous dites quand on vous répond quelque chose dont vous n'avez pas saisi un mot. Hasta luego."
+    }
+  ],
+
+  "aprofundar": {
+    "titulo": "Les dix mots, et quand employer lequel (lecture facultative)",
+    "secoes": [
+      {
+        "titulo": "L'horloge des saluts",
+        "corpo": "«Buenos días» va jusqu'au déjeuner, et le déjeuner, là-bas, est plus tard que chez vous — l'aiguillage, c'est le repas et non l'heure, si bien que «buenos días» à une heure et demie passe encore, et à trois heures et quart, non. Ensuite «buenas tardes», jusqu'à la tombée de la nuit, puis «buenas noches», qui, à la différence du français, est aussi un bonjour : on la dit en entrant, pas seulement en partant. Qui ne veut rien retenir dit «buenas» — un mot, toute heure, du quartier, et c'est le meilleur placement de cette partie. Pour sortir, «hasta luego» est la forme ordinaire, bien plus courante qu'«adiós», qui sonne plus définitif que la plupart des départs. Et «vale», c'est le couteau suisse : oui, d'accord, entendu, ça marche — il commence la moitié des réponses que vous entendrez.",
+        "exemplos": [
+          {
+            "es": "Buenas.",
+            "pt": "BOUÉ-nass — un mot, toute heure, à l'entrée comme à la sortie."
+          },
+          {
+            "es": "Vale, gracias. Hasta luego.",
+            "pt": "BA-lé, GRA-ssiass. ASS-ta LOUÉ-go — toute la sortie, même sans rien acheter."
+          }
+        ]
+      },
+      {
+        "titulo": "Perdona ou perdone — où s'entend le vouvoiement",
+        "corpo": "Le vouvoiement, là-bas, se loge dans la terminaison et non dans un mot à part, et c'est pour ça qu'il file à une oreille française. Pour aborder : «perdona» tutoie, «perdone» vouvoie. Pour commander : «¿me pones?» tutoie, «¿me pone?» vouvoie. Une syllabe d'écart, la même à chaque fois. Il vaut la peine d'écouter comment on vous aborde, car la question est en général déjà réglée là : qui vous tutoie sera tutoyé de bon cœur. Au comptoir, à la boutique et au bar, le réglage par défaut est le tu ; à l'administration, à la banque, chez le médecin, à la Guardia Civil et avec une personne nettement plus âgée en cadre formel, on reste au vous — et un cours qui vous ferait perdre «usted» tout à fait vous aurait pris un outil. L'erreur va d'ailleurs dans les deux sens : le vous de trop met de la distance, le tu de trop au guichet détonne. Deux remarques pour plus tard : au pluriel, le continent a un tu de groupe, «vosotros», que vous entendrez sans jamais avoir à le former — et aux Canaries comme dans une partie de l'Andalousie, on dit à la place «ustedes», même entre amis. L'un et l'autre vont dans l'oreille, pas dans la bouche.",
+        "exemplos": [
+          {
+            "es": "Perdona, ¿me pones una caña?",
+            "pt": "pér-DO-na, mé PO-ness OU-na KA-gna — tutoyé : perdonA, ponES."
+          },
+          {
+            "es": "Perdone, ¿me pone un café con leche, por favor?",
+            "pt": "pér-DO-né, mé PO-né oun ka-FÉ kon LE-tché — vouvoyé : perdonE, ponE."
+          }
+        ]
+      },
+      {
+        "titulo": "Les fins qu'on avale — et le n qui sonne toujours",
+        "corpo": "Deux habitudes de lecture coûtent quelque chose ici, et aucune n'est celle qu'un cours allemand vous signalerait. La première, ce sont les fins de mots. Le français avale le -e final («petite» → «ptit») et fait taire le -s du bout («vous» → «vou») ; en espagnol, les deux sonnent. Le -e de «perdone», de «leche», de «vale» existe ; le -s de «gracias», de «pones», de «buenas» aussi. Et dans cette partie, ce n'est pas un détail de décor : ces fins-là portent le vouvoiement. Le -s de «pones» qui tombe, et «pones» — tu — devient «pone» — vous : vous avez changé de registre sans le vouloir. Main à plat, tenez le dernier son. La deuxième, c'est le n. En français, «un», «con», «pan» passent par le nez et le n s'efface ; en espagnol, le n est une consonne pleine, qui sonne toujours — «un café», «con leche» : la voyelle d'avant n'est pas nasale. Une consolation pour finir : le h du début, lui, ne se prononce pas, exactement comme chez vous — «hola», «hasta», sans une exception ; et le v de «vale» sonne comme un b, mais on vous comprend de toute façon. Ce piège-là, celui qui hante d'autres acheteurs, ne vous concerne pas.",
+        "exemplos": [
+          {
+            "es": "gracias / pones",
+            "pt": "GRA-ssiass, PO-ness — tenez le -s ; sans lui, «pones» (tu) glisse vers «pone» (vous)."
+          },
+          {
+            "es": "un café con leche",
+            "pt": "oun ka-FÉ kon LE-tché — le n de un, de con, sonne en entier ; pas de nez."
+          }
+        ]
+      }
+    ]
+  }
+}

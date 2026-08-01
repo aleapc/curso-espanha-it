@@ -1,0 +1,726 @@
+{
+  "id": "a01",
+  "slot": "A01",
+  "nivel": "avancado",
+  "numero": 29,
+  "parte": "29",
+  "titulo": "Comment ils parlent quand ce n'est pas à vous qu'ils parlent",
+  "subtitulo": "Deux personnes à un bar, au tempo qu'elles emploient vraiment — et douze des phrases que vous entendez, vous les avez bâties vous-même dans les dix-huit premières parties",
+  "moldura": "ganha",
+
+  "cena": "Neuf heures du soir, troisième rang au comptoir, le coude sur le zinc : l'homme à côté de vous commande, la femme derrière le bar répond, et dans aucune des deux phrases il ne reste un seul -s — et rien de tout ça n'est pour vous.",
+
+  "frasePiso": "Si vous ne retenez qu'une chose — que le -s peut disparaître —, vous suivez déjà plus d'un bar espagnol que la plupart de ceux qui y passent deux semaines.",
+
+  "permissao": "Vous avez le droit de comprendre un mot sur cinq et de continuer à écouter : prenez ce mot, servez-vous-en, laissez filer le reste. Vous ne corrigez personne — la moitié de l'Espagne dit «grasias» et pas «grathias», et là personne n'a tort. Et vous n'aurez jamais à parler comme ça vous-même. Le comprendre, c'est tout le travail.",
+  "permissaoAudioKey": "a01-n31",
+
+  "espelho": "Manger le bout des mots, vous le faites déjà en français — c'est pour ça que vous les comprenez si bien. Le piège est à l'envers : quand c'est vous qui parlez, le -s avalé emporte le pluriel, et «do cerveza» n'est plus deux. Eux le devinent au contexte ; à l'oreille étrangère, il manque. Rendez-le quand c'est votre tour.",
+
+  "fichasCulturais": [
+    {
+      "sinal": "Le serveur vous dit une phrase que vous comprenez, puis se tourne vers l'homme à côté de vous — la suivante arrive deux fois plus vite.",
+      "suaLeitura": "À l'instant je le comprenais, et là plus rien. Mon espagnol ne marche que si on est gentil avec moi.",
+      "oQueEAli": "La parole adressée à un visiteur est ralentie et pleinement prononcée ; celle adressée à l'habitué d'à côté ne l'est pas. Ce qui a changé en une seconde, c'est le public, pas la langue.",
+      "oQueVoceFaz": "Restez dedans. Comptez les temps au lieu de courir après les lettres, et gardez le seul mot que vous avez attrapé.",
+      "oQueMelhora": "Vous continuez d'écouter à travers la moitié rapide de la salle, au lieu de décrocher à la première phrase qui n'est pas pour vous — et c'est dans la moitié rapide que tombe la recommandation.",
+      "ondeNaoVale": "Pas au comptoir de l'hôtel ni au guichet, où tout l'échange tourne à longueur de journée au tempo du visiteur et où aucune version plus rapide ne se cache dessous.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["a01-n27", "a01-n28", "a01-n29", "a01-n30"]
+    },
+    {
+      "sinal": "Un mot que vous connaissez bien arrive avec un trou au milieu — pescado devient pescao — et personne ne le répète.",
+      "suaLeitura": "C'était un plat dont je n'ai jamais entendu parler, alors je montre plutôt autre chose sur la liste.",
+      "oQueEAli": "Le d entre deux voyelles tombe dans la parole ordinaire et détendue, dans toute l'Espagne, pas seulement dans un coin. Le mot n'a pas été remplacé par un autre, il a été poncé.",
+      "oQueVoceFaz": "Remettez le d dans votre tête et commandez. Redites le plat avec le d si vous voulez vérifier — on vous comprendra de toute façon.",
+      "oQueMelhora": "Vous mangez le poisson dont la maison est fière, au lieu du plat sûr que vous saviez déjà prononcer.",
+      "ondeNaoVale": "Pas sur une carte écrite, où le d reste toujours à sa place — ici c'est un problème d'oreille, et il disparaît dès que quelque chose est sur le papier.",
+      "evidencia": "CONSENSO",
+      "audioKeys": ["a01-n13", "a01-n14", "a01-n15"]
+    }
+  ],
+
+  "fatosDatados": [
+    {
+      "id": "distincion-seseo",
+      "afirmacao": "La plus grande partie de l'Espagne péninsulaire distingue le th de gracias d'un simple s ; le seseo — tout en simple s — est la norme aux Canaries, dans une partie de l'Andalousie et dans toute l'Amérique.",
+      "fonte": "RAE/ASALE, Diccionario panhispánico de dudas, verbetes «seseo» e «ceceo» — sintetizado em docs/pesquisa-espanha.md §2.9",
+      "ano": 2026,
+      "revisarAte": "2031-01-01",
+      "evidencia": "FATO",
+      "risco": "baixo",
+      "audioKeys": ["a01-n16", "a01-n17"]
+    },
+    {
+      "id": "erosao-s-e-d",
+      "afirmacao": "En fin de syllabe, le s s'aspire ou tombe, et le d entre deux voyelles disparaît dans la parole ordinaire et détendue — le second dans toute l'Espagne, pas seulement au sud.",
+      "fonte": "Descrição dialetal de consenso recolhida em docs/pesquisa-espanha.md §2 e §2.10. Fonte primária externa cobre só seseo/ceceo (RAE/ASALE), não a erosão de coda nem a queda do -d-: precisa de revisor nativo antes de virar régua de outro SKU",
+      "ano": 2026,
+      "revisarAte": "2031-01-01",
+      "evidencia": "CONSENSO",
+      "risco": "baixo",
+      "audioKeys": ["a01-n10", "a01-n13"]
+    }
+  ],
+
+  "_notas": {
+    "_": "Parte ESCRITA em FRANCÊS (o andaime saiu). É o EAR MODULE e cumpre o INV-9/G3: ZERO `responde`, ouvir É o exercício — A01 é a única parte do curso a que o G3 concede produção falada zero, e por isso fica fora da média de M3. A fala espanhola continua ativo de DESTINO: nenhum campo `es`/`tts` foi tocado, os 30 audioKey do curso base e os mp3 em disco estão intactos (Ivan/Matilda no rápido, Carmen/Emilio no limpo). O que este SKU paga aqui é a narração FRANCESA — as duas vozes-guia (fem educadora + masc de alertas) — e o respelling `pinyin` re-derivado para o olho francês. NENHUM clipe espanhol novo, zero dependência cross-part.",
+    "vozes_renomeadas": "As vozes-guia dos steps passaram dos nomes de scaffold para `GuiaFem`/`GuiaMasc`, os nomes que o audio.config.json._g14.guia declara para este SKU (guiaLingua `fr`). Sem essa renomeação a narração francesa passaria SEM ser checada pelo G14. GuiaFem carrega a educadora; GuiaMasc é o masculino de alertas (o testemunho a01-t01/t02). Carmen, Emilio, Ivan e Matilda (peninsulares, alvo) intocados.",
+    "o_que_muda_do_par_alemao": "O PROGRAMA 3 (o DESLIZE, criado no par alemão contra o golpe de glote) NÃO ENTRA aqui — o francês encadeia naturalmente (liaison), não dá golpe de glote, então o deslize não tem erro para trair (DERIVACAO-FR §1.2 linha 5, §1.3). Os steps n08/n09, que no par alemão introduziam o deslize e a «segunda mão», foram RE-DERIVADOS para o reenquadre deste par: o fim que cai — o -s, o -e — a boca francesa já o deixa cair. O metrônomo (PROGRAMA 1, `gesto`:1 em n01) FICA, mas LEVE: o francês já é silábico, e o fio «conte os temps, não as lettres» atravessa a parte. O soco (a oxítona), programa novo do francês, é de PRODUÇÃO e por isso NÃO entra num módulo de escuta.",
+    "a_virada_deste_par": "A ironia que carrega A01 no francês (interferencia_fonetica.finais + DERIVACAO-FR §1.3): o apagamento francês do -s/-r IMITA o -s aspirado andaluz/canário — o comprador vai SOAR meridional e por isso ENTENDE de graça justamente a metade que mais o assusta. O espelho é essa mesma moeda virada: come o fim como eles (vantagem), mas tem de DEVOLVER o -s quando é ele que fala (o -s carrega o plural, `do cerveza` deixa de ser dois). É reenquadre francês — NÃO o espelho alemão do golpe de glote / lacuna limpa no fim do enunciado, que aqui não existe (anti-padrão 9).",
+    "seseo_e_o_frances": "A distinción (th × s) é quase um não-problema RECEPTIVO para este ouvido — o francês também não tem [θ] e escreve os dois como `s`; no lado da escuta os dois colapsam. [s] seseo é aceito; o proibido é o [z] intervocálico francês (`casa`≠«caza»). E o francês é MENOS canário que o alemão: o destino é o litoral mediterrâneo CONTINENTAL (Catalunha 30%, Valência 17% — DERIVACAO-FR §3.1), zona de distinción — por isso n17 diz «nesta costa, o th; nas Canárias, o s», e não o inverso que o par alemão dizia.",
+    "respelling_para_leitor_frances": "O campo `pinyin` foi RE-DERIVADO para o OLHO FRANCÊS (INFERÊNCIA — exige revisor FR-L1 + espanhol peninsular antes do áudio; DERIVACAO-FR §1/§5). Esquema: MAIÚSCULA = tônica · `ou` = o `u` espanhol [u] (nunca o `u` francês [y]) · `kh` = a jota [x], souffle de gorge · `tch` = o `ch` espanhol [tʃ] (nunca o `ch` de «chat») · `y` = ll/y (de «yaourt») · `b` = o v/b espanhol · `ss` = z, c+e/i e s intervocálico, sempre duro · `gn` = ñ · `h` mudo cai · `qu` = k (brinde) · finais MOSTRADAS, porque o francês as apaga. Saíram as marcas do respelling do par alemão (o dígrafo germânico da jota via [x], o dígrafo de [tʃ], o `j` lido como [y] — que aqui vira `ya`). Nos clipes RÁPIDOS o respelling mostra a erosão (dos→do, cañas→KA-gna, pescado→pess-KAO).",
+    "fonetica_brinde_sem_falso_amigo": "Parte CULTURAL/escuta: SEM falso amigo (o eixo léxico do par não morde aqui). Os brindes do francês que A01 explora e o produto NÃO deve gastar como se fossem armadilha: o `h` mudo (`¿Hay?` natural), o `qu`=[k] (`quería` limpo), a liaison (zero golpe de glote) e o ritmo silábico — mais o apagamento de finais, que aqui vira VANTAGEM receptiva. Copiar a tabela de leitura do par alemão (o `qu` lido [kv], o `v` lido [f], a jota lida com o dígrafo germânico) seria o anti-padrão 9.",
+    "pendencia_G14": "O portão voz × língua roda neste SKU (audio.config._g14, guiaLingua `fr`). A guia FRANCESA cita espanhol dentro da narração francesa (é o trabalho dela — «grasias», «marchando», «pescao») e nunca o fala; Carmen, Emilio, Ivan e Matilda não dizem uma palavra de francês. Ivan e Matilda não estão na lista `alvo` do _g14, então o portão não os cobra — a conferência humana do INV-5 continua obrigatória enquanto o G14 não os cobrir por nome. Casting da voz-guia FR ainda placeholder (audio.config `TODO-FR-...`): o áudio-guia só grava depois do casting E da revisão nativa da fonética."
+  },
+
+  "steps": [
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n01",
+      "bloco": "aquecimento",
+      "gesto": 1,
+      "tom": "ganha",
+      "pt": "Partie vingt-neuf. Échauffement avec la première main, le métronome : quatre temps égaux, tous de la même taille."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n02",
+      "pt": "Laissez-la tourner aujourd'hui pendant que vous écoutez. La main reste régulière. Les mots, eux, perdent des morceaux."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n03",
+      "bloco": "cena",
+      "pt": "Neuf heures du soir. Troisième rang au comptoir, le coude sur le zinc, et vous attendez votre tour."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n04",
+      "pt": "L'homme à côté de vous et la femme derrière le bar parlent depuis un moment, et rien de tout ça n'est pour vous. Écoutez."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Ivan",
+      "audioKey": "a01-abre-i",
+      "receptivo": true,
+      "acao": "Ne rien faire. Juste écouter.",
+      "es": "¿Me poneh doh cañah y algo pa' picá?",
+      "tts": "¿Me poneh doh cañah y algo pa picá?",
+      "pinyin": "me PO-né do KA-gna i AL-go pa pi-KA",
+      "pt": "👂 Pas pour vous. Rien à résoudre — laissez passer."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Matilda",
+      "audioKey": "a01-abre-m",
+      "receptivo": true,
+      "acao": "Laisser passer.",
+      "es": "Marchando. ¿Loh dejo aquí?",
+      "pinyin": "mar-TCHAN-do. lo DÉ-kho a-KI",
+      "pt": "👂 Pas pour vous non plus. Rien à faire encore."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n05",
+      "pt": "Vous n'avez pas compris, et votre oreille va bien. Presque chaque mot là-dedans, vous l'avez dit à voix haute vous-même."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n06",
+      "pt": "Dix-huit parties durant, vous avez appris à lire ces phrases. Aujourd'hui les lettres manquent tout à fait — la phrase tient quand même."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n07",
+      "pt": "Alors aujourd'hui vous ne dites rien. Douze minutes durant, vos oreilles sont tout l'exercice."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n08",
+      "bloco": "capsula",
+      "pt": "Et une chose avant les quatre. Ce qui va tomber — le -s, le -e à la fin —, votre bouche française le laisse déjà tomber."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n09",
+      "pt": "«Dos» devient «do», «gracias» devient «gracia» — exactement votre pente. C'est pour ça que vous vous comprenez. Écoutez-la venir."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n10",
+      "bloco": "capsula",
+      "pt": "Le premier, et c'est le plus cher : le -s en fin de syllabe. D'abord la version où on les entend tous les trois."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e03a-doscanas-c",
+      "receptivo": true,
+      "acao": "Juste écouter — la version propre.",
+      "es": "¿Me pones dos cañas, por favor?",
+      "pinyin": "mé PO-ness doss KA-gnass, por fa-BOR",
+      "pt": "👂 De la partie onze. Trois -s, et vous les entendez tous les trois."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Ivan",
+      "audioKey": "a01-canyas-i",
+      "receptivo": true,
+      "acao": "Compter les temps, pas le -s.",
+      "es": "¿Me poneh doh cañah, por favó?",
+      "pinyin": "mé PO-né do KA-gna, por fa-BO",
+      "pt": "👂 Même commande, même bar. Le -s est devenu un souffle, puis il a disparu."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n11",
+      "pt": "Ne cherchez pas le -s. Comptez les temps — quatre ici, quatre là. Rien ne s'est ajouté, rien n'a bougé."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01c-10",
+      "receptivo": true,
+      "acao": "Juste écouter.",
+      "es": "¿Cuántas cosas más?",
+      "pinyin": "KOUAN-tass KO-ssass mass",
+      "pt": "👂 «Encore quelque chose ?» — chaque syllabe là, les trois -s audibles."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Matilda",
+      "audioKey": "a01-cosas-m",
+      "receptivo": true,
+      "acao": "Compter les temps.",
+      "es": "¿Cuánta' cosa' má'?",
+      "tts": "¿Cuánta cosa má?",
+      "pinyin": "KOUAN-ta KO-ssa ma",
+      "pt": "👂 La même question au même comptoir, toujours : encore quelque chose ?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n12",
+      "pt": "Les syllabes survivent. Ce sont les lettres qui s'en vont."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n13",
+      "bloco": "capsula",
+      "pt": "Deuxième, et ça arrive dans toute l'Espagne, pas seulement dans un coin : le d entre deux voyelles."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e01c-12",
+      "receptivo": true,
+      "acao": "Juste écouter.",
+      "es": "El pescado está muy bueno.",
+      "pinyin": "el pess-KA-do ess-TA mouï boué-no",
+      "pt": "👂 «Le poisson est très bon» — avec le d, là où la carte le met."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Ivan",
+      "audioKey": "a01-pescao-i",
+      "receptivo": true,
+      "acao": "Remettre le d dans la tête.",
+      "es": "El pescao está mu bueno.",
+      "pinyin": "el pess-KAO ess-TA mou boué-no",
+      "pt": "👂 Pescado est devenu pescao. Le d est parti. Même poisson, même prix."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n14",
+      "pt": "Pescado est devenu pescao, et le mot est resté le même : même poisson, même prix, même recommandation."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "b18-pagado-e",
+      "receptivo": true,
+      "acao": "Juste écouter.",
+      "es": "Ya está pagado.",
+      "pinyin": "ya ess-TA pa-GA-do",
+      "pt": "👂 La vôtre, du dernier matin à la réception. La version propre."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Matilda",
+      "audioKey": "a01-pagao-m",
+      "receptivo": true,
+      "acao": "Compter les temps.",
+      "es": "Ya 'tá pagao.",
+      "tts": "Ya tá pagao.",
+      "pinyin": "ya ta pa-GAO",
+      "pt": "👂 Deux trous dans quatre mots, et ça veut toujours dire : tout est payé."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n15",
+      "pt": "Cansado, tomado, pagado — chaque fois le même trou au milieu. Attendez-le, et ce n'est plus un mot nouveau."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n16",
+      "bloco": "capsula",
+      "pt": "Troisième : le th de gracias, de la première partie, ne vaut pas partout. Les deux versions sont de l'espagnol ordinaire."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04b-jamon-c",
+      "receptivo": true,
+      "acao": "Juste écouter.",
+      "es": "¿Lleva jamón o chorizo?",
+      "pinyin": "YÉ-ba kha-MON o tcho-RI-sso",
+      "pt": "👂 Chorizo avec le th dedans, tel que vous l'avez appris."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Ivan",
+      "audioKey": "a01-chorizo-i",
+      "receptivo": true,
+      "acao": "Les deux valent — pas de correction.",
+      "es": "¿Lleva jamón o chorizo?",
+      "tts": "¿Lleva jamón o choriso?",
+      "pinyin": "YÉ-ba kha-MON o tcho-RI-sso",
+      "pt": "👂 La même question avec un simple s. Pour l'œil, c'est écrit pareil."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n17",
+      "pt": "À l'oreille les deux se ressemblent presque, et aucune n'est une correction. Sur cette côte, plutôt le th ; aux Canaries, le s."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n18",
+      "bloco": "capsula",
+      "pt": "Quatrième et dernier : le r en fin de mot s'adoucit, puis il n'est plus là du tout."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e03b-parallevar-e",
+      "receptivo": true,
+      "acao": "Juste écouter.",
+      "es": "Para llevar, por favor.",
+      "pinyin": "PA-ra yé-BAR, por fa-BOR",
+      "pt": "👂 La vôtre, de la partie douze — le repas sort avec vous par la porte."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Ivan",
+      "audioKey": "a01-llevar-i",
+      "receptivo": true,
+      "acao": "Lâcher le -r à la fin.",
+      "es": "Pa' llevá, por favó.",
+      "tts": "Pa llevá, por favó.",
+      "pinyin": "pa yé-BA, por fa-BO",
+      "pt": "👂 Trois mots plus courts, et la même commande s'en va."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n19",
+      "pt": "Ce sont les quatre : le -s, le d, le th et le -r final. Il n'y a pas plus de trous que ça."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n20",
+      "tom": "ganha",
+      "pt": "Maintenant la partie qui vaut les douze minutes. Tout ce qui vous appartient, au tempo de la salle."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n21",
+      "pt": "La version propre d'abord, puis la même par quelqu'un qui n'a aucune raison de ralentir pour vous."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b10-picar-c",
+      "receptivo": true,
+      "acao": "Juste écouter.",
+      "es": "¿Hay algo para picar?",
+      "pinyin": "aï AL-go PA-ra pi-KAR",
+      "pt": "👂 La vôtre : quelque chose de froid, sur une assiette."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Ivan",
+      "audioKey": "a01-pica-i",
+      "receptivo": true,
+      "acao": "Compter les temps.",
+      "es": "¿Hay algo pa' picá?",
+      "tts": "¿Hay algo pa picá?",
+      "pinyin": "aï AL-go pa pi-KA",
+      "pt": "👂 Deux syllabes plus légères, et la même assiette arrive."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b08-donde-aseos-c",
+      "receptivo": true,
+      "acao": "Juste écouter.",
+      "es": "¿Dónde están los aseos?",
+      "pinyin": "DON-dé ess-TAN loss a-SSÉ-oss",
+      "pt": "👂 La vôtre : où sont les toilettes, dans la version travaillée."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Matilda",
+      "audioKey": "a01-aseos-m",
+      "receptivo": true,
+      "acao": "Compter les temps, pas les lettres.",
+      "es": "¿Dónde 'tán loh aseo'?",
+      "tts": "¿Dónde tán loh aseo?",
+      "pinyin": "DON-dé tan lo a-SSÉ-o",
+      "pt": "👂 Le es- est tombé devant, le -s derrière. Même question, même couloir."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n22",
+      "pt": "Deux sur deux. Vous les avez dites à voix haute — l'une au comptoir, l'autre à un inconnu au coin de la rue."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e03b-queriuno-e",
+      "receptivo": true,
+      "acao": "Juste écouter.",
+      "es": "Quería uno de esos, por favor.",
+      "pinyin": "ké-RI-a OU-no dé É-ssoss, por fa-BOR",
+      "pt": "👂 La vôtre : celui-là, dans la vitrine."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Ivan",
+      "audioKey": "a01-uno-i",
+      "receptivo": true,
+      "acao": "Compter les temps.",
+      "es": "Quería uno de eso', por favó.",
+      "tts": "Quería uno de eso, por favó.",
+      "pinyin": "ké-RI-a OU-no dé É-sso, por fa-BO",
+      "pt": "👂 Les mêmes cinq mots, deux fins limées, le doigt pointe encore."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Emilio",
+      "audioKey": "e01c-despacio-e",
+      "receptivo": true,
+      "acao": "Juste écouter.",
+      "es": "¿Me puede hablar más despacio, por favor?",
+      "pinyin": "mé POUÉ-dé a-BLAR mass dess-PA-ssyo, por fa-BOR",
+      "pt": "👂 La vôtre, de la partie trois — le tempo de toute la conversation."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Matilda",
+      "audioKey": "a01-despacio-m",
+      "receptivo": true,
+      "acao": "Reconnaître.",
+      "es": "¿Me puede hablá máh dehpacio, por favó?",
+      "pinyin": "mé POUÉ-dé a-BLA ma déh-PA-ssyo, por fa-BO",
+      "pt": "👂 La demande de ralentir, dite vite. Vous la reconnaissez — c'est tout l'intérêt."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n23",
+      "pt": "Oui. Même la demande de ralentir revient vite. C'est une blague, et une vraie."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e04a-marisco-c",
+      "receptivo": true,
+      "acao": "Juste écouter.",
+      "es": "Soy alérgica al marisco.",
+      "pinyin": "ssoï a-LÉR-khi-ka al ma-RISS-ko",
+      "pt": "👂 La vôtre, et la phrase la plus sérieuse du cours."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Matilda",
+      "audioKey": "a01-marisco-m",
+      "receptivo": true,
+      "acao": "Reconnaître — c'est ça, le oui.",
+      "es": "Soy alérgica al marihco.",
+      "pinyin": "ssoï a-LÉR-khi-ka al ma-RIH-ko",
+      "pt": "👂 La même phrase, d'une serveuse vers la cuisine. L'accord sonne comme ça."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n24",
+      "pt": "Celle-ci pèse plus que les autres. Quand une cuisine vous la renvoie, l'accord sonne exactement comme ça."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b07-dejado-c",
+      "receptivo": true,
+      "acao": "Juste écouter.",
+      "es": "Me he dejado el móvil en el taxi.",
+      "pinyin": "mé é dé-KHA-do el MO-bil en el TAK-ssi",
+      "pt": "👂 La vôtre, de la première nuit : oublié, jamais volé."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Ivan",
+      "audioKey": "a01-movil-i",
+      "receptivo": true,
+      "acao": "Remettre le d.",
+      "es": "Me he dejao el móvil en el taxi.",
+      "pinyin": "mé é dé-KHAO el MO-bil en el TAK-ssi",
+      "pt": "👂 Dejado, dejao. Troisième fois ce trou aujourd'hui — le même d."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "b06-tarjeta-c",
+      "receptivo": true,
+      "acao": "Juste écouter.",
+      "es": "¿Puedo pagar con tarjeta?",
+      "pinyin": "POUÉ-do pa-GAR kon tar-KHÉ-ta",
+      "pt": "👂 La vôtre, de la toute première leçon."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Ivan",
+      "audioKey": "a01-paga-i",
+      "receptivo": true,
+      "acao": "Lâcher le -r.",
+      "es": "¿Puedo pagá con tarjeta?",
+      "pinyin": "POUÉ-do pa-GA kon tar-KHÉ-ta",
+      "pt": "👂 Le -r final a disparu, et la carte passe quand même."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Carmen",
+      "audioKey": "e03a-otra-c",
+      "receptivo": true,
+      "acao": "Juste écouter.",
+      "es": "Otra, por favor.",
+      "pinyin": "O-tra, por fa-BOR",
+      "pt": "👂 La vôtre, et la plus courte de tout le cours."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Matilda",
+      "audioKey": "a01-otra-m",
+      "receptivo": true,
+      "acao": "Compter les temps.",
+      "es": "Otra, por favó.",
+      "pinyin": "O-tra, por fa-BO",
+      "pt": "👂 Même trois mots perdent quelque chose. Ça veut toujours dire : encore un, pareil."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n25",
+      "pt": "Douze. Chaque moule des dix-huit premières parties, entendu tel qu'il arrive vraiment."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n26",
+      "pt": "Rien de neuf n'est arrivé aujourd'hui. Ce qui a changé : vous les retrouvez maintenant, même quand des morceaux manquent."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n27",
+      "bloco": "capsula",
+      "pt": "Une chose encore, et c'est pour elle que cette partie existe. Remarquez comme le tempo bascule."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n28",
+      "pt": "Une phrase pour vous, la suivante pour l'homme à côté — deux fois plus vite. Même personne, même comptoir."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n29",
+      "pt": "À votre espagnol, rien n'a changé dans la seconde. Le public a changé, rien de plus."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n30",
+      "pt": "Alors quand la moitié rapide de la salle défile, restez dedans. C'est là que tombe la recommandation."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "a01-t01",
+      "pt": "Un aveu. Pendant une semaine, j'ai été sûr que l'homme à mon coin de comptoir disait un mot que je n'avais jamais entendu."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaMasc",
+      "audioKey": "a01-t02",
+      "pt": "Do-euro-cuarenta. Je l'ai cherché. Deux fois. C'était dos euros cuarenta — et compter jusqu'à deux, je sais faire."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n31",
+      "bloco": "permissao",
+      "pt": "Vous ne corrigez personne. La moitié de l'Espagne dit «grasias» et pas «grathias», et là personne n'a tort."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n32",
+      "pt": "Et vous avez le droit de comprendre un mot sur cinq. Prenez le mot, servez-vous-en, laissez filer le reste."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n33",
+      "bloco": "espelho",
+      "pt": "Le miroir : manger le bout des mots, vous le faites déjà — c'est pour ça que vous les comprenez si bien."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n34",
+      "pt": "Le piège est à l'envers : quand c'est vous qui parlez, le -s avalé emporte le pluriel. «Do cerveza» n'est plus deux. Rendez-le."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n35",
+      "bloco": "piso",
+      "tom": "ganha",
+      "pt": "Si vous ne retenez qu'une chose — que le -s peut disparaître —, vous suivez plus d'un bar que la plupart des clients."
+    },
+    {
+      "tipo": "recap",
+      "voz": "GuiaFem",
+      "audioKey": "a01-rend",
+      "bloco": "recap",
+      "pt": "Une dernière fois, et de nouveau rien à dire. Les deux mêmes personnes, les deux mêmes phrases. Les temps, pas les lettres."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Ivan",
+      "audioKey": "a01-abre-i",
+      "receptivo": true,
+      "acao": "Juste écouter.",
+      "es": "¿Me poneh doh cañah y algo pa' picá?",
+      "tts": "¿Me poneh doh cañah y algo pa picá?",
+      "pinyin": "me PO-né do KA-gna i AL-go pa pi-KA",
+      "pt": "👂 Deux bières, et quelque chose à grignoter."
+    },
+    {
+      "tipo": "ouvir",
+      "voz": "Matilda",
+      "audioKey": "a01-abre-m",
+      "receptivo": true,
+      "acao": "Juste écouter.",
+      "es": "Marchando. ¿Loh dejo aquí?",
+      "pinyin": "mar-TCHAN-do. lo DÉ-kho a-KI",
+      "pt": "👂 Ça arrive. Je les pose ici ?"
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n36",
+      "pt": "Vous l'avez. Un seul mot était neuf — marchando, «ça arrive». Tout le reste vous appartenait déjà."
+    },
+    {
+      "tipo": "intro",
+      "voz": "GuiaFem",
+      "audioKey": "a01-n37",
+      "pt": "Ne dites rien, et gardez la main en marche. Quatre temps égaux, quoi qu'il tombe. Hasta luego."
+    }
+  ],
+
+  "aprofundar": {
+    "titulo": "Ce que le module d'oreille entraîne, et pourquoi personne ne parle ici (lecture optionnelle)",
+    "secoes": [
+      {
+        "titulo": "Pourquoi on ne parle pas dans cette partie",
+        "corpo": "Votre tête reconnaît bien plus qu'elle ne produit, et l'écart entre les deux est ce qu'il y a de moins cher à combler dans tout le cours. Ces phrases vous appartiennent déjà ; ce qui ne vous appartient pas encore, c'est de les reconnaître quand un tiers des sons a disparu. Alors cette partie passe ses douze minutes entièrement du côté de l'oreille, et c'est la seule du cours où vous ne devez rien dire. C'est voulu, et ce n'est pas un jour de congé : reconnaître une phrase poncée est une autre compétence que d'en produire une propre, et le seul chemin passe par la version poncée de choses que vous savez déjà. C'est pourquoi chaque phrase ici vient d'une partie antérieure. Une phrase neuve en aurait fait une leçon de vocabulaire avec un accent lourd par-dessus, et vous n'auriez appris ni l'un ni l'autre. Un mot sur l'ambition : parler ainsi, vous n'aurez jamais à le faire. Le comprendre, c'est indispensable — c'est là que ça commence, là où l'anglais d'hôtel s'arrête, et deux semaines au même endroit vous en donnent largement.",
+        "exemplos": [
+          {
+            "es": "¿Me pones dos cañas, por favor? → ¿Me poneh doh cañah, por favó?",
+            "pt": "mé PO-né do KA-gna, por fa-BO — la même commande deux fois ; la seconde est celle près de laquelle vous serez vraiment"
+          },
+          {
+            "es": "El pescado está muy bueno. → El pescao está mu bueno.",
+            "pt": "el pess-KAO ess-TA mou boué-no — le poisson est très bon ; même poisson, même prix, une lettre en moins"
+          }
+        ]
+      },
+      {
+        "titulo": "Les quatre choses qui arrivent à la parole rapide — et la lecture à vue qui vous lâche",
+        "corpo": "Premièrement : le -s en fin de syllabe devient un souffle léger, puis rien, si bien que dos cervezas sort plus près de «doh therbetha». Deuxièmement : le th de gracias et de cerveza est, par endroits, un simple s — c'est le seseo, décrit par la RAE et l'ASALE comme la norme aux Canaries, dans une partie de l'Andalousie et dans toute l'Amérique, tandis que la distinction en th tient dans la plus grande partie du reste de l'Espagne péninsulaire, celle où vous arriverez le plus. Troisièmement : le d entre deux voyelles tombe, si bien que pescado devient pescao, cansado cansao, pagado pagao — et c'est la parole ordinaire et détendue dans toute l'Espagne, pas une affaire du sud. Quatrièmement : le r et le l en fin de mot s'adoucissent, si bien que pagar devient pagá et para llevar devient pa' llevá. Le point deux a une source primaire externe ; les points un, trois et quatre sont la description établie qu'on lit dans toute dialectologie, mais nous n'avons pas mis une seule source primaire à côté, et nous préférons le dire plutôt que l'enjoliver. Et voici ce qui vous est propre : vous lisez l'espagnol presque à vue, parce qu'il ressemble au français — et ici, où la moitié des sons s'en va, cette lecture à vue vous lâche. Deux de ces quatre trous, pourtant, vous les creusez déjà dans votre propre langue : le -s final et le -r final, votre bouche les avale en français. Qui ne savait que lire la phrase cale ; qui la reconnaît, non.",
+        "exemplos": [
+          {
+            "es": "Ya está pagado. → Ya 'tá pagao.",
+            "pt": "ya ta pa-GAO — c'est déjà payé ; deux trous dans quatre mots, et l'addition est réglée quand même"
+          },
+          {
+            "es": "Para llevar, por favor. → Pa' llevá, por favó.",
+            "pt": "pa yé-BA, por fa-BO — à emporter, s'il vous plaît ; le -r final tombe, deux fois dans un souffle"
+          }
+        ]
+      },
+      {
+        "titulo": "Deux personnes différentes, pas deux accents — et pourquoi nous restons prudents",
+        "corpo": "Les enregistrements propres de cette partie sont les mêmes voix dont vous apprenez depuis la première partie. Les enregistrements rapides sont deux autres personnes, et c'est la description honnête de ce qui change : une autre personne, un autre rythme, un autre tempo, le même espagnol. Nous ne vous disons pas, exprès, que la seconde voix vient de Séville ou d'ailleurs, parce que nous ne l'avons pas vérifié, et un cours qui, sur la foi d'un enregistrement non vérifié, vous raconte comment sonne une région vous apprend un accent qui n'existe peut-être pas. La distinction compte aussi en pratique. Si vous classez ça comme «du sud», vous éteignez la compétence au moment même où vous êtes dans le nord — alors que la version rapide est ce que vous obtenez à un comptoir bondé dans n'importe quelle ville du pays, à neuf heures du soir, de quelqu'un qui a quatre commandes en tête. La règle qui survit à tout, c'est celle que la main vous apprend depuis la première partie : le nombre de temps ne change pas. Comptez-les, et vous retrouvez la phrase, même quand la moitié des consonnes a disparu. Et il y a une ironie qui joue pour vous : ce -s que l'Andalou aspire, votre français l'avale déjà — vous partez de plain-pied avec la moitié qui vous fait le plus peur.",
+        "exemplos": [
+          {
+            "es": "¿Cuántas cosas más? → ¿Cuánta' cosa' má'?",
+            "pt": "KOUAN-ta KO-ssa ma — encore quelque chose ? ; cinq temps quoi qu'il arrive, trois lettres en moins"
+          },
+          {
+            "es": "¿Dónde están los aseos? → ¿Dónde 'tán loh aseo'?",
+            "pt": "DON-dé tan lo a-SSÉ-o — où sont les toilettes ? ; même le début de están tombe, pas seulement les fins"
+          }
+        ]
+      },
+      {
+        "titulo": "La seule chose à ne jamais faire avec ça",
+        "corpo": "Ne corrigez personne. Si quelqu'un dit «grasias» là où vous avez appris «grathias», il parle sa propre langue à sa façon, et il n'y a rien à réparer. Même chose pour le -s avalé et le d absent : ce n'est ni du laisser-aller ni une faute — pas plus qu'un Marseillais qui mange ses fins de mots ne s'est trompé. Corriger la prononciation d'un natif est le moyen le plus rapide de refroidir un comptoir accueillant, et c'est une erreur presque réservée à ceux qui viennent de finir un cours de langue. Le réflexe utile va dans l'autre sens, et il vient de la partie trois : si vous n'avez vraiment pas suivi, ne demandez pas qu'on répète — ça revient au même tempo, un cran plus fort — mais qu'on ralentisse, avec les mots qu'il faut. Et si même ça ne suffit pas, prenez le seul mot que vous avez attrapé, servez-vous-en, et laissez filer le reste. Comprendre quatre mots sur cinq, à un bar, n'est pas un demi-résultat. C'est comme ça que tout le monde écoute là-bas, eux compris.",
+        "exemplos": [
+          {
+            "es": "¿Me puede hablar más despacio, por favor?",
+            "pt": "mé POUÉ-dé a-BLAR mass dess-PA-ssyo — pourriez-vous parler plus lentement ; on demande le rythme, pas la répétition"
+          },
+          {
+            "es": "¿Cómo?",
+            "pt": "KO-mo — 👂 comment ? ; ce qu'ils utilisent entre eux, et ça renvoie la phrase au même tempo"
+          }
+        ]
+      }
+    ]
+  }
+}
