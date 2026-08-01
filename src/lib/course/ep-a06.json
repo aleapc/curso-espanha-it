@@ -4,74 +4,73 @@
   "nivel": "avancado",
   "numero": 34,
   "parte": "34",
-  "titulo": "Août, le saint et la semaine qui est à la rue",
-  "subtitulo": "Le mois où le quartier se vide ; le samedi qui nourrit votre dimanche ; les deux jours qui n'appartiennent qu'à une ville ; et l'après-midi où une fanfare prend la rue que vous suiviez.",
+  "titulo": "Agosto, il santo e la settimana che è della strada",
+  "subtitulo": "Il mese in cui il quartiere si svuota; il sabato che nutre la domenica; i due giorni che appartengono a una sola città; e il pomeriggio in cui una banda prende la strada che stavi seguendo.",
   "moldura": "ganha",
 
-  "cena": "Quatre heures et quart, un mardi d'août, vingt-cinq minutes de marche derrière vous, un rideau de fer baissé, et la femme du bar d'à côté vous regarde lire le mot collé sur la vitre.",
+  "cena": "Le quattro e un quarto, un martedì d'agosto, venticinque minuti di cammino alle spalle, una saracinesca abbassata, e la donna del bar accanto ti guarda leggere il cartello attaccato al vetro.",
 
-  "decisao": "si la semaine se planifie autour de leur calendrier ou du vôtre — les courses du samedi contre un dimanche que vous rejoignez devant une grille fermée, et les vingt-cinq minutes d'août qu'un coup de fil de vingt secondes réduit à rien.",
+  "decisao": "se la settimana si organizza sul loro calendario o sul tuo — la spesa del sabato contro una domenica che raggiungi davanti a una saracinesca chiusa, e i venticinque minuti d'agosto che una telefonata di venti secondi riduce a nulla.",
   "emJogo": "tempo",
 
   "moldes": [],
 
-  "frasePiso": "Vous planifiez une semaine espagnole autour de leur calendrier — les courses du samedi, le mardi fermé, la rue qui est à un saint. La plupart le découvrent porte par porte, une fermée après l'autre.",
+  "frasePiso": "Organizzi una settimana spagnola sul loro calendario — la spesa del sabato, il martedì chiuso, la strada che è di un santo. I più lo scoprono porta dopo porta, una chiusa dopo l'altra.",
 
-  "permissao": "Août n'est pas un mauvais mois pour l'Espagne. C'est un mauvais mois pour miser sur une seule adresse, et appeler avant de partir est toute la solution. Et vous avez le droit d'entrer en plein milieu d'une fête qui n'est pas la vôtre et de rester là : la rue est la salle, personne n'a pris de billet, et les gens autour de vous sont des voisins, pas un public. Et vous avez le droit de passer un dimanche à un long déjeuner et un musée, car les deux sont ouverts toute la journée.",
+  "permissao": "Agosto non è un brutto mese per la Spagna. È un brutto mese per puntare su un solo indirizzo, e telefonare prima di uscire è tutta la soluzione. E hai il diritto di entrare nel bel mezzo di una festa che non è la tua e restare lì: la strada è la sala, nessuno ha fatto il biglietto, e la gente intorno a te sono vicini di casa, non un pubblico. E hai il diritto di passare una domenica tra un lungo pranzo e un museo, perché sono aperti tutti e due tutto il giorno.",
   "permissaoAudioKey": "a06-n28",
 
-  "espelho": "Demander pourquoi une boutique ferme tout le mois d'août, c'est ça qui détonne là-bas. Ça sonne comme demander pourquoi Paris se vide en août — la réponse n'est pas une raison, c'est le calendrier.",
+  "espelho": "Chiedere perché un negozio chiude tutto agosto, è questo che stona laggiù. Suona come chiedere perché Milano si svuota a Ferragosto — la risposta non è un motivo, è il calendario.",
 
   "_autoria": {
-    "_": "PARTE ESCRITA EM FRANCÊS (o andaime saiu). LEIO A SALA, dono destino: A06 não ensina molde nenhum (moldes: []), a relação com o roster é auditiva. A fala espanhola é a do andaime — mesmos `es`, mesmos `audioKey`, mesmos `tts`, mesmos mp3 do curso base, todos herdados verbatim. Nenhum `es` foi tocado e nenhum clipe espanhol NOVO foi criado: o custo de crédito espanhol desta parte é ZERO. Tudo que é voz-guia é FRANCÊS, escrito aqui, e é a única coisa que este SKU paga.",
-    "o_que_muda_do_par_FR": "A06 é MÉDIA (DERIVACAO-FR §4.2). O que entra e o par EN/DE não tem, re-enquadrado pelo MAPA do francês, nunca traduzindo o alemão: (1) O comprador É o turista de agosto — as `grandes vacances` francesas são julho–agosto com o clivê juillettistes/aoûtiens, e o aoûtien atravessa a fronteira PILE no mês em que a boutique de quartier fecha (narração a06-n05b + aprofundar §1). ISTO É CALENDÁRIO FRANCÊS, corrente e sem fonte primária datada — entra na narração, NÃO como fatoDatado (mesma decisão de B10). (2) O calor de agosto entra como razão de a rua fechar às quatro e de o jantar começar às nove (n08b) — compartilhado. (3) O fechamento dominical é RECONHECIMENTO, não instrução (n14b): a França também tem repos dominical em casa; o que é novo é a SORTIMENTO por tipo de loja, e o ângulo é o do morador (65% chega de carro, muitos com segunda casa/repetem — DERIVACAO §3.1), não o do resort. (4) O 15 de agosto (Asunción) é RECONHECIDO: é a Assomption, feriado dos DOIS lados da fronteira, pico das grandes vacances (fatoDatado + aprofundar §1). (5) Os arquipélagos de estação invertida são re-enquadrados pelo MAPA DELE: o francês mira a COSTA CONTINENTAL de carro (Cataluña 30%, C. Valenciana 17% — DERIVACAO §3.1), então Canárias/Baleares são as ilhas de AVIÃO que ele NÃO pega; a estação invertida é curiosidade, não plano (n27, fatoDatado reescrito). (6) O `pont`/feriado de maio como janela de travessia curta entra no aprofundar §3 (o francês cruza a fronteira num long week-end). (7) O GUIRI ALERT do par EN/DE porta como confissão da GuiaMasc (o equivalente do George/Thomas), SEM nome próprio inventado — a voz FR é placeholder de casting (audio.config). (8) O ESPELHO (trava C / G6) foi re-enquadrado: `Paris se vide en août` — o francês faz EXATAMENTE o mesmo (o próprio aoûtien é o fenômeno), o que é um espelho muito mais forte que o `zwischen den Jahren` alemão.",
-    "respelling": "O campo `pinyin` é RE-DERIVADO para o OLHO FRANCÊS e nunca vai ao TTS (INV-6). Convenção do par (b10/i07): MAIÚSCULA = tônica (a oxítona é o erro nº1 do francês) · ⟨u⟩→«ou» (o `u` francês é [y]; força o [u]: `algún`→al-GOUN, `supermercado`→sou-per-...) · ⟨s⟩ intervocálico, ⟨z⟩, ⟨c⟩+e,i→«ss» (bloqueia o [z] francês: `pasar`→pa-SSAR, `cocina`→ko-SSI-na, `celebra`→sse-LÉ-bra) · ⟨ll⟩/⟨y⟩→«y» · ⟨v⟩→«b» · ⟨h⟩ muet cai (`hoy`→oï, `hora`→O-ra, `hasta`→ASS-ta) · ⟨qu⟩→«k» (brinde no francês) · ⟨ñ⟩→«gn» (`mañana`→ma-GNA-na, `años`→A-gnoss) · ⟨ch⟩→«tch» (nenhum nesta parte) · a JOTA [x]→«kh» (nenhuma nesta parte: A06 não tem `j`/`g`+e,i) · finais `-s`/`-r`/`-d`/`-e` MOSTRADOS, porque o francês os apaga (`abiertos`→a-BIÉR-toss, `detrás`→dé-TRASS, `tarde`→TAR-dé, `-e`→«-é»). INFERÊNCIA — exige revisor FR-L1 + espanhol peninsular antes do áudio (DERIVACAO-FR §1, §5).",
-    "falso_amigo": "NENHUM aplicado ao ÁUDIO — A06 é cultural e o peso está no reenquadre, não no falso amigo (que aqui é leve). DOIS candidatos NÃO CONFERIDOS, nomeados para que ninguém os escreva sem fonte: (a) `patrona` — bare «la patrona» o francês pode ler «la patronne» (a chefe/patroa), mas aqui é a SANTA PADROEIRA; glossei CORRETO como «la sainte patronne» (steering, sem afirmar o falso amigo), porque o francês TEM «sainte patronne» no sentido religioso — logo NÃO é falso amigo limpo, e não vira lição. (b) `Sale` de «Sale todos los años» ecoa o eixo `salir/salida` de B10 (o francês lê «sale»=sujo); glossei «Elle sort» — RECONHECIMENTO, não re-ensinado aqui, porque B10 é o dono do eixo. Nenhum clipe espanhol NOVO; nenhuma gag fabricada.",
-    "fonetica": "Toque LEVE e de resíduo, porque A06 não é casa de fonética. O que a parte carrega e o respelling desarma: a TÔNICA (aquecimento n01, o soco que VOLTA ao centro em B01 — `a-GOS-to`, `do-MIN-go`, `a-BIÉR-to`, jamais oxítona), os FINAIS apagados (`-s` de `abiertos`/`todos los años`, `-e` de `tarde`/`media`) e o `u`=[y] (`algún`→al-GOUN, `supermercado`→sou-per-...). BRINDES que NÃO ganham nota (copiá-los é o anti-padrão 9): o ⟨h⟩ muet (`hoy`/`hora`/`hasta` naturais), o ⟨qu⟩=[k] (`qué`/`aquí` limpos) e as vogais puras. Sem jota nesta parte.",
-    "sem_regra_de_leitura_propria": "A06 NÃO planta regra de leitura nem falso amigo como lição: é parte cultural, dona-destino, sem casa de molde. As armadilhas que a fala carrega (a tônica de `agosto`, o `-s` de `abiertos`, o `c`+e,i de `cerramos`/`celebra`/`cocina`, o `s` de `pasar`/`pase`) são desarmadas só pelo respelling, sem clipe de aviso — regra de leitura em parte avançada e sem casa seria a palestra que o G4 mede.",
-    "G6_espelho": "Nenhum gentílico + cópula (G6 = 0 ocorrências). O comportamento é o do aoûtien que atravessa sem se preparar, com FONTE (viagem curta de carro 65% + o próprio calendário escolar francês) e com GANHO (a rua-como-salão, o retorno da tentativa). O espelho (trava C) é obrigatório e é forte neste par: `Paris se vide en août` — o comprador é ele mesmo o fenômeno que estranha.",
-    "vozes": "Juli → GuiaFem (educadora), Thomas → GuiaMasc (masculino de alertas, dono do GUIRI ALERT). guiaLingua `fr` (audio.config). Zero resíduo alemão: nenhum `Sie`/`Ihr`, nenhuma palavra alemã, nenhum nome próprio de scaffold (o GUIRI ALERT não se auto-nomeia porque a voz FR é placeholder de casting `TODO-FR-...`).",
-    "pendencia_G14": "GuiaFem e GuiaMasc CITAM espanhol dentro da narração francesa (é o trabalho da guia — `Cerrado por vacaciones`, `¿Están abiertos hoy?`, `la sainte patronne`) e nunca o FALAM; Carmen e Emilio não dizem uma palavra de francês. Os nomes de voz já batem com `_g14.guia` (GuiaFem/GuiaMasc); o casting FR continua PLACEHOLDER (`TODO-FR-...`), então nada vira áudio antes do casting + revisão nativa da fonética. INV-5 exige conferência humana."
+    "_": "PARTE RE-DERIVADA AO ITALIANO a partir do NÚCLEO (moldes.json IT + DERIVACAO-IT.md), NÃO traduzida do francês. O scaffold saiu do par FRANCÊS (narração-guia em francês); aqui a narração-guia, a `cena`, o `pinyin` (olho italiano), a moldura, as fichas, os `fatosDatados.afirmacao` e o `aprofundar` foram reescritos em ITALIANO. LEIO A SALA, dono destino: A06 não ensina molde nenhum (moldes: []), a relação com o roster é auditiva. A fala espanhola é ativo de DESTINO — NENHUM campo `es`, `audioKey` ou `tts` foi tocado; os audioKey e mp3 herdados do par base estão intactos, ZERO crédito espanhol novo. Tudo que é voz-guia é ITALIANO, escrito aqui.",
+    "o_que_muda_do_par_FR": "A06 é MÉDIA. FERRAGOSTO é a ponte cultural DIRETA — o que muda vs o par FR, re-enquadrado pelo MAPA do comprador italiano (quase de dentro: primo do espanhol, gestos e festas partilhados), nunca traduzindo o francês: (1) O comprador É o turista de agosto — as ferie italianas são julho–agosto com pico em FERRAGOSTO; ele NÃO atravessa fronteira (a Itália não faz fronteira com a Espanha — chega de AVIÃO/ferry, DERIVACAO-IT §3.1) e desembarca no mês em que o negócio de bairro fecha, o MESMO mês em que ele fecha o dele em casa (n05b + aprofundar §1). Calendário italiano corrente, sem fonte primária datada — entra na narração, NÃO como fatoDatado. (2) O calor de agosto entra como razão de a rua fechar às quatro e de o jantar começar às nove (n08b) — compartilhado. (3) O fechamento dominical é RECONHECIMENTO, não instrução (n14b): a Itália também fecha domingo em casa; o novo é o SORTIMENTO por tipo de loja. (4) O 15 de agosto (Asunción) é o PRÓPRIO Ferragosto/Assunzione — MESMO dia, MESMA festa religiosa (Assunção de Maria) dos DOIS lados; a ponte mais forte do SKU (fatoDatado asuncion + aprofundar §1 + recap a06-rend `vigilia di Ferragosto`). (5) Os arquipélagos de estação invertida re-enquadrados pelo MAPA DELE: o italiano CHEGA DE AVIÃO (INFERÊNCIA — ficha Turespaña-Itália pendente), então as ilhas ESTÃO ao alcance dele; a estação invertida vira PONTO DE PLANEJAMENTO, não a `ilha que ele não pega` do francês (n27, fatoDatado reescrito). (6) O `pont`/feriado de maio: `fare il ponte` é idioma ITALIANO — entra no aprofundar §3 SEM a travessia de carro do francês (o voo se reserva, a data local se confere). (7) O GUIRI ALERT porta como confissão da GuiaMasc, SEM nome próprio inventado — a voz IT é placeholder de casting. (8) O ESPELHO (trava C / G6) foi re-enquadrado: `Milano si svuota a Ferragosto` no lugar de `Paris se vide en août` — o italiano é ELE MESMO o fenômeno (o próprio Ferragosto esvazia as cidades), espelho ainda mais forte que o francês.",
+    "falso_amigo": "NENHUM aplicado ao ÁUDIO — A06 é cultural e o peso está no reenquadre, não no falso amigo (que aqui é leve). DOIS candidatos NÃO CONFERIDOS, nomeados para que ninguém os escreva sem fonte, glosados CORRETO (steering, sem virar lição): (a) `patrona` — bare «la patrona» o italiano pode ler «la padrona» (a chefe/dona da casa), mas aqui é a SANTA PADROEIRA; glossei «la santa patrona», porque o italiano TEM `patrona` no sentido religioso (`santa patrona`) — logo NÃO é falso amigo limpo, e não vira lição. (b) `Sale` de «Sale todos los años» ecoa o eixo `salir/salida` de B10/DONDE (o italiano lê «sale»=SAL, ou «sobe» via `salire`); glossei «Esce» (sai em procissão) — RECONHECIMENTO, não re-ensinado aqui, porque B10 é o dono do eixo. Nenhum clipe espanhol NOVO; nenhuma gag fabricada.",
+    "fonetica": "Toque LEVE e de resíduo, porque A06 não é casa de fonética. Quase tudo BRINDE no italiano: a TÔNICA paroxítona BATE (`a-GOS-to`, `do-MIN-go`, `pa-TRO-na` caem certo — SEM o «soco»/oxítona francês, cuja cópia é o anti-padrão 9), os FINAIS são PLENOS (o italiano não come `-s`/`-e`/`-r`), o `u`=[u] (SAIU o «ou» francês), o `h` MUDO (`hoy`/`hora`/`hasta` naturais), o `qu`=[k], o `r` tap/vibrante NATIVO, sem nasalização. O que SOBRA e o respelling desarma: o `ce_ci_z` (`cerramos`→sse-RRA-mos, `celebra`→sse-LE-bra, `cocina`→ko-SSI-na, `cinco`→SSIN-ko, `vacaciones`→ba-ka-SSIO-nes) e o `s` intervocálico do Norte (`pasar`→pa-SSAR, `pase`→PA-sse). SEM jota e SEM `ch` nesta parte. Sem clipe de aviso — regra de leitura em parte avançada e sem casa seria a palestra que o G4 mede.",
+    "respelling_para_olho_italiano": "O `pinyin` foi RE-DERIVADO para o OLHO ITALIANO e nunca vai ao TTS (INV-6). INFERÊNCIA — exige revisor IT-L1 + espanhol peninsular antes do áudio (DERIVACAO-IT §1). Esquema do par (i07): MAIÚSCULA = tônica · ⟨u⟩→«u» (SAIU o «ou» francês; `algún`→al-GUN, `supermercado`→su-per-...) · ⟨z⟩,⟨c+e,i⟩→«ss» (bloqueia o [ts]/[tʃ] italiano: `cerramos`→sse-RRA-mos, `cocina`→ko-SSI-na, `cinco`→SSIN-ko, `celebra`→sse-LE-bra) · ⟨s⟩ intervocálico→«ss» (bloqueia o [z] do Norte: `pasar`→pa-SSAR, `pase`→PA-sse) · ⟨ll⟩/⟨y⟩→«y» · ⟨ñ⟩→«gn» (âncora `bagno`: `mañana`→ma-GNA-na, `años`→A-gnos) · ⟨v⟩→«b» (`favor`→fa-BOR, `verano`→be-RA-no) · ⟨h⟩ muet some (`hoy`→oi, `hora`→O-ra, `hasta`→AS-ta, `hay`→ai) · ⟨qu⟩→«k» · finais `-s`/`-r`/`-d`/`-e` MOSTRADOS com valor PLENO (o italiano os pronuncia: `abiertos`→a-BIER-tos, `detrás`→de-TRAS, `tarde`→TAR-de — SEM o «-é» francês e SEM o «-ss» de reforço francês). SEM jota (`j`/`g`+e,i: zero nesta parte) e SEM ⟨ch⟩ (zero nesta parte).",
+    "sem_regra_de_leitura_propria": "A06 NÃO planta regra de leitura nem falso amigo como lição: é parte cultural, dona-destino, sem casa de molde. As armadilhas que a fala carrega (o `ce_ci_z` de `cerramos`/`celebra`/`cocina`/`cinco`, o `s` de `pasar`/`pase`) são desarmadas só pelo respelling, sem clipe de aviso.",
+    "G6_espelho": "Nenhum gentílico + cópula (G6 = 0 ocorrências). O comportamento é o do turista de Ferragosto que chega no mês em que a loja de bairro fecha, com FONTE (as próprias ferie italianas de julho–agosto + o calendário laboral espanhol) e com GANHO (a rua-como-salão, o retorno da tentativa). O espelho (trava C) é obrigatório e é forte neste par: `Milano si svuota a Ferragosto` — o comprador é ele mesmo o fenômeno que estranha, o próprio Ferragosto esvazia as cidades italianas.",
+    "vozes": "GuiaFem (educadora) + GuiaMasc (masculino de alertas, dono do GUIRI ALERT). guiaLingua «it» (audio.config; casting da voz italiana PENDENTE — placeholder). Carmen e Emilio (peninsulares) intactos e nunca falam italiano; a guia italiana CITA espanhol dentro da narração (`Cerrado por vacaciones`, `¿Están abiertos hoy?`, `la santa patrona`) e nunca o FALA. G14 (integridade voz × língua) PENDENTE — conferência humana obrigatória (o repositório já teve o acidente do mp3 na língua errada). INV-5 exige conferência humana da fonética antes do áudio."
   },
 
   "fichasCulturais": [
     {
-      "sinal": "Une demi-rue a les rideaux baissés un mardi d'août, un mot écrit à la main collé sur chacun, et les bars de la même rue sont pleins.",
-      "suaLeitura": "Ce coin est en faillite, ou j'ai choisi pour habiter le seul quartier mort de la ville.",
-      "oQueEAli": "Une boutique qui appartient à une famille ferme le mois, et tout le monde dedans part à la côte ou au village. « Cerrado por vacaciones » vise le mois entier, pas l'après-midi — et les horaires sur la carte l'ignorent souvent.",
-      "oQueVoceFaz": "Appelez avant de partir. Une question — êtes-vous ouverts aujourd'hui — et le reste vient tout seul.",
-      "oQueMelhora": "Vous avez l'août des gens qui habitent ici : des rues plus vides, une table à neuf heures, et chaque bar, chaque restaurant et musée en service.",
-      "ondeNaoVale": "Pas les chaînes, les grands magasins, les restaurants ni les musées, et aucune boutique d'une rue qui vit du passage — celles-là ne ferment pas, et une rangée entière de rideaux baissés est elle-même le signe du genre de rue où vous êtes.",
+      "sinal": "Mezza strada ha le saracinesche abbassate un martedì d'agosto, un cartello scritto a mano attaccato su ognuna, e i bar della stessa strada sono pieni.",
+      "suaLeitura": "Questa zona è fallita, o ho scelto di stare nell'unico quartiere morto della città.",
+      "oQueEAli": "Un negozio a conduzione familiare chiude per il mese, e tutti quelli che ci lavorano vanno al mare o al paese. «Cerrado por vacaciones» vale il mese intero, non il pomeriggio — e gli orari online spesso lo ignorano.",
+      "oQueVoceFaz": "Telefona prima di uscire. Una domanda — siete aperti oggi — e il resto viene da sé.",
+      "oQueMelhora": "Ottieni l'agosto di chi ci abita: strade più vuote, un tavolo alle nove, e ogni bar, ogni ristorante e museo in servizio.",
+      "ondeNaoVale": "Non le catene, i grandi magazzini, i ristoranti né i musei, e nessun negozio di una via che vive di passaggio — quelli non chiudono, e un'intera fila di saracinesche abbassate è essa stessa il segno del tipo di via in cui ti trovi.",
       "evidencia": "CONSENSO",
       "audioKeys": ["a06-n06", "a06-n07", "a06-n07b", "a06-n08", "b10-horario-e"]
     },
     {
-      "sinal": "Dimanche midi : les restaurants sont pleins, devant la boulangerie une queue jusque sur la rue, et le supermarché quatre portes plus loin a la grille baissée.",
-      "suaLeitura": "C'est un jour férié dont personne ne m'a parlé, et toute la ville est fermée pour ça.",
-      "oQueEAli": "Le dimanche trie selon ce que la boutique vend, pas selon l'heure. Ce que vous mangez dehors est ouvert ; ce que vous rapportez chez vous, non. Les zones touristiques déclarées ouvrent le dimanche, votre rue résidentielle non.",
-      "oQueVoceFaz": "Faites les grosses courses le samedi. Alors le dimanche, c'est un déjeuner, une promenade et tout ce qui a une porte ouverte, c'est-à-dire presque tout.",
-      "oQueMelhora": "Vous passez le dimanche comme les voisins, au lieu de porter une cuisine pleine de courses par une rue qui n'ouvrira pas.",
-      "ondeNaoVale": "Pas au centre de Madrid ou de Barcelone, où la zone déclarée ouvre sept jours — quatre rues plus loin, dans la rue de votre logement, la règle revient.",
+      "sinal": "Domenica a mezzogiorno: i ristoranti sono pieni, davanti al panificio una fila fin sulla strada, e il supermercato quattro porte più in là ha la saracinesca abbassata.",
+      "suaLeitura": "È un giorno di festa di cui nessuno mi ha parlato, e tutta la città è chiusa per questo.",
+      "oQueEAli": "La domenica smista secondo quello che il negozio vende, non secondo l'ora. Quello che mangi fuori è aperto; quello che porti a casa, no. Le zone turistiche dichiarate aprono la domenica, la tua via residenziale no.",
+      "oQueVoceFaz": "Fai la spesa grossa il sabato. Così la domenica è un pranzo, una passeggiata e tutto ciò che ha una porta aperta, cioè quasi tutto.",
+      "oQueMelhora": "Passi la domenica come i vicini, invece di girare una via che non apre in cerca della spesa.",
+      "ondeNaoVale": "Non nel centro di Madrid o di Barcellona, dove la zona dichiarata apre sette giorni su sette — quattro vie più in là, nella via del tuo alloggio, la regola torna.",
       "evidencia": "CONSENSO",
       "audioKeys": ["a06-n13", "a06-n14", "a06-n14b", "a06-domingo-c", "a06-n16"]
     },
     {
-      "sinal": "La banque, la mairie et la poste sont fermées un mercredi ordinaire, et la ville à vingt minutes travaille tout à fait normalement.",
-      "suaLeitura": "Il s'est passé quelque chose, ou c'est une grève dont je devrais être au courant.",
-      "oQueEAli": "Les jours fériés payés sont plafonnés à quatorze par an : douze au pays et à la région, deux choisis par la mairie — le plus souvent le saint patron de la ville. Ces deux-là valent pour cette commune et nulle part ailleurs.",
-      "oQueVoceFaz": "Demandez à la réception en arrivant quels jours de la semaine sont locaux, et calez banque et démarches autour.",
-      "oQueMelhora": "Vous l'apprenez la veille au lieu de devant la porte, et le jour devient un endroit où l'on va, au lieu d'un truc qui a fermé la banque.",
-      "ondeNaoVale": "Pas pour les bars, les restaurants et les terrasses. Un jour férié local est leur meilleur jour de l'année, et chacun est ouvert, souvent dès le petit-déjeuner.",
+      "sinal": "La banca, il comune e la posta sono chiusi un mercoledì qualsiasi, e la città a venti minuti lavora del tutto normalmente.",
+      "suaLeitura": "È successo qualcosa, o è uno sciopero di cui dovrei essere al corrente.",
+      "oQueEAli": "I giorni festivi retribuiti sono al massimo quattordici all'anno: dodici tra Stato e regione, due scelti dal comune — quasi sempre il santo patrono della città. Quei due valgono per quel comune e da nessun'altra parte.",
+      "oQueVoceFaz": "Chiedi alla reception, appena arrivi, quali giorni della settimana sono locali, e sistema banca e pratiche intorno a quelli.",
+      "oQueMelhora": "Lo scopri la sera prima invece che davanti alla porta, e il giorno diventa un posto dove andare, invece di una cosa che ha chiuso la banca.",
+      "ondeNaoVale": "Non per i bar, i ristoranti e le terrazze. Una festa locale è il loro giorno migliore dell'anno, e sono tutti aperti, spesso già dalla colazione.",
       "evidencia": "FATO",
       "audioKeys": ["a06-n17", "a06-n18", "a06-n19", "a06-patrona-c"]
     },
     {
-      "sinal": "Une fanfare et quelques centaines de personnes remontent la rue que vous vouliez, pas de barrière, pas de billet, pas de scène, et tout le monde autour de vous s'est arrêté.",
-      "suaLeitura": "Je suis tombé dans quelque chose de privé qui n'est pas à moi, et je devrais m'écarter.",
-      "oQueEAli": "La rue est la salle. Le parcours est fixé d'avance, elle se ferme le temps que le cortège passe, et les spectateurs sont les voisins — il n'y a pas de dedans dont vous seriez du mauvais côté.",
-      "oQueVoceFaz": "Rester là, laisser passer, demander à la personne à côté de vous ce qu'on fête, et traverser par-derrière plutôt qu'au travers.",
-      "oQueMelhora": "Vous avez l'après-midi pour lequel personne ne vous a vendu de billet, et la question fait parler quelqu'un qui défile ici depuis ses six ans.",
-      "ondeNaoVale": "Pas sur le chemin de la gare ou de l'aéroport. Un parcours qui bloque le centre trois heures bloque votre taxi avec, et c'est le matin où il faut partir tôt ou prendre le métro.",
+      "sinal": "Una banda e qualche centinaio di persone risalgono la via che volevi prendere, niente transenne, niente biglietto, niente palco, e tutti intorno a te si sono fermati.",
+      "suaLeitura": "Sono capitato in qualcosa di privato che non mi riguarda, e dovrei farmi da parte.",
+      "oQueEAli": "La strada è la sala. Il percorso è fissato in anticipo, si chiude il tempo che il corteo passi, e gli spettatori sono i vicini — non c'è un dentro di cui saresti dalla parte sbagliata.",
+      "oQueVoceFaz": "Restare lì, lasciar passare, chiedere alla persona accanto a te che cosa si festeggia, e attraversare da dietro anziché in mezzo.",
+      "oQueMelhora": "Ottieni il pomeriggio per cui nessuno ti ha venduto un biglietto, e la domanda fa parlare qualcuno che sfila qui da quando aveva sei anni.",
+      "ondeNaoVale": "Non sulla strada per la stazione o l'aeroporto. Un percorso che blocca il centro per tre ore blocca anche il tuo taxi, ed è la mattina in cui conviene partire presto o prendere la metro.",
       "evidencia": "CONSENSO",
       "audioKeys": ["a06-n21", "a06-n22", "a06-patron-e", "a06-n24"]
     }
@@ -80,7 +79,7 @@
   "fatosDatados": [
     {
       "id": "agosto-cierre-familiar",
-      "afirmacao": "Une boutique qui appartient à une famille ferme tout le mois d'août ; sur le rideau, « Cerrado por vacaciones », et les horaires listés en ligne l'ignorent souvent.",
+      "afirmacao": "Un negozio a conduzione familiare chiude tutto il mese d'agosto; sulla saracinesca, «Cerrado por vacaciones», e gli orari indicati online spesso lo ignorano.",
       "fonte": "docs/pesquisa-espanha.md §7.1 (consenso de fontes de comércio 2025–2026) e §6.3 (a placa). Sem fonte primária estatística — o INE não publica fechamento por mês.",
       "ano": 2026,
       "revisarAte": "2027-07-01",
@@ -90,8 +89,8 @@
     },
     {
       "id": "asuncion-15-agosto",
-      "afirmacao": "Le quinze août est férié dans tout le pays et tombe au milieu du mois pour lequel beaucoup est déjà fermé — et c'est aussi l'Assomption, férié chez le visiteur français, des deux côtés de la frontière.",
-      "fonte": "docs/pesquisa-espanha.md §7.1 (Asunción, 15/ago, feriado nacional); calendário laboral nacional publicado anualmente no BOE. O 15/ago = Assomption é feriado nacional na França (calendário corrente) — reconhecimento do comprador, não fato datado espanhol.",
+      "afirmacao": "Il quindici agosto è festa in tutto il paese e cade nel bel mezzo del mese per cui molto è già chiuso — ed è lo stesso giorno del tuo Ferragosto, l'Assunzione, festa anche a casa tua.",
+      "fonte": "docs/pesquisa-espanha.md §7.1 (Asunción, 15/ago, feriado nacional); calendário laboral nacional publicado anualmente no BOE. O 15/ago = Ferragosto/Assunzione é feriado nacional na Itália (calendário corrente) — reconhecimento do comprador, não fato datado espanhol.",
       "ano": 2026,
       "revisarAte": "2027-01-31",
       "evidencia": "FATO",
@@ -100,7 +99,7 @@
     },
     {
       "id": "domingo-comercio",
-      "afirmacao": "Les supermarchés et la plupart des commerces sont fermés le dimanche, tandis que bars, restaurants et attractions ouvrent ; les zones touristiques déclarées ouvrent le dimanche, un quartier résidentiel non.",
+      "afirmacao": "I supermercati e la maggior parte dei negozi sono chiusi la domenica, mentre bar, ristoranti e attrazioni aprono; le zone turistiche dichiarate aprono la domenica, un quartiere residenziale no.",
       "fonte": "docs/pesquisa-espanha.md §7.1 — abertura dominical em zonas turísticas declaradas, comércio de bairro fechado. Consenso de fontes de comércio 2025–2026; regime de horários é competência autonômica e varia por comunidade.",
       "ano": 2026,
       "revisarAte": "2027-06-01",
@@ -110,7 +109,7 @@
     },
     {
       "id": "siesta-comercial",
-      "afirmacao": "La petite boutique ferme à la mi-journée, environ de treize heures trente à cinq heures, et rouvre jusqu'à huit heures ou huit heures et demie — tandis que grands magasins, grandes chaînes de supermarchés, restaurants et musées ne ferment pas.",
+      "afirmacao": "Il piccolo negozio chiude a metà giornata, più o meno dall'una e mezza alle cinque, e riapre fino alle otto o alle otto e mezza — mentre grandi magazzini, grandi catene di supermercati, ristoranti e musei non chiudono.",
       "fonte": "docs/pesquisa-espanha.md §7.1 — 'siesta comercial ≠ siesta', FATO qualitativo por consenso de fontes de comércio 2025–2026.",
       "ano": 2026,
       "revisarAte": "2027-06-01",
@@ -120,7 +119,7 @@
     },
     {
       "id": "dos-fiestas-locales",
-      "afirmacao": "Les jours fériés payés sont plafonnés à quatorze par an, et deux d'entre eux sont fixés par la mairie — un mercredi fermé dans une ville est, vingt minutes plus loin, un mercredi ordinaire.",
+      "afirmacao": "I giorni festivi retribuiti sono al massimo quattordici all'anno, e due di questi sono fissati dal comune — un mercoledì chiuso in una città è, venti minuti più in là, un mercoledì qualsiasi.",
       "fonte": "Estatuto de los Trabajadores, Real Decreto Legislativo 2/2015, art. 37.2 — máximo de catorze festas laborais por ano, das quais duas serão locais. Fonte primária; NÃO consta de docs/pesquisa-espanha.md, que não cobre o calendário laboral.",
       "ano": 2026,
       "revisarAte": "2028-01-01",
@@ -130,7 +129,7 @@
     },
     {
       "id": "procesion-calle-cortada",
-      "afirmacao": "Une procession pour le saint patron de la ville ou un parcours de la Semaine sainte prend la rue elle-même : l'itinéraire est fixé d'avance, la rue se ferme le temps du cortège, et le centre peut être bloqué à la circulation des heures durant.",
+      "afirmacao": "Una processione per il santo patrono della città o un percorso della Settimana santa prende la strada stessa: l'itinerario è fissato in anticipo, la strada si chiude il tempo del corteo, e il centro può restare bloccato al traffico per ore.",
       "fonte": "Consenso de fontes secundárias locais (itinerários publicados pelos ayuntamientos e pela imprensa local a cada ano). NÃO consta de docs/pesquisa-espanha.md. Sem fonte primária única: o itinerário é municipal e muda todo ano.",
       "ano": 2026,
       "revisarAte": "2027-03-01",
@@ -140,8 +139,8 @@
     },
     {
       "id": "archipelagos-temporada-invertida",
-      "afirmacao": "Les Canaries font l'année à l'envers — de novembre à février, c'est leur saison —, tandis que les Baléares sont pleines de mai à octobre ; mais ce sont des îles où l'on va en avion, alors que ce visiteur vise d'abord la côte continentale, au volant.",
-      "fonte": "docs/pesquisa-espanha.md §8.6 (INE/Frontur, sazonalidade dos arquipélagos) e docs/DERIVACAO-FR.md §3.1 (destino do comprador francês: costa continental — Cataluña 30%, C. Valenciana 17%; 65% chega por carretera, fonte Turespaña, ficha executiva Francia).",
+      "afirmacao": "Le Canarie fanno l'anno al contrario — da novembre a febbraio è la loro stagione —, mentre le Baleari tengono da maggio a ottobre; sono isole dove si va in aereo, e se il tuo viaggio le tocca, la stagione corre al rovescio di come te la immagini.",
+      "fonte": "docs/pesquisa-espanha.md §8.6 (INE/Frontur, sazonalidade dos arquipélagos) e docs/DERIVACAO-IT.md §3.1 (meio de chegada do comprador italiano = avião/ferry, INFERÊNCIA; ficha executiva Turespaña-Itália pendente — a Itália não faz fronteira com a Espanha, o «65% de carro» francês NÃO porta).",
       "ano": 2026,
       "revisarAte": "2027-04-01",
       "evidencia": "FATO",
@@ -158,7 +157,7 @@
       "bloco": "aquecimento",
       "gesto": 1,
       "tom": "ganha",
-      "pt": "Échauffement : mêmes coups, le fort au milieu, jamais au bout — a-GOS-to, do-MIN-go, a-BIÉR-to. La main sur la cuisse, deux fois, fort."
+      "pt": "Riscaldamento, dieci secondi. Tre parole di oggi, il colpo dove viene da sé: a-GOS-to, do-MIN-go, la pa-TRO-na. La mano sulla gamba, due volte, forte."
     },
     {
       "tipo": "responde",
@@ -166,11 +165,11 @@
       "promptVoz": "GuiaFem",
       "bloco": "callback",
       "promptAudioKey": "a06-p00",
-      "promptPt": "La femme du bar d'à côté vous dit à toute vitesse quand la boutique rouvre, et ça vous file entre les doigts. Parlez maintenant.",
+      "promptPt": "La donna del bar accanto ti dice a raffica quando riapre il negozio, e ti sfugge tra le dita. Parla adesso.",
       "audioKey": "e01c-08",
       "es": "¿Me lo escribe, por favor?",
-      "pinyin": "mé lo ess-KRI-bé, por fa-BOR",
-      "pt": "mettez-le sur le papier",
+      "pinyin": "me lo es-KRI-be, por fa-BOR",
+      "pt": "fattelo scrivere",
       "tts": "¿Me lo escribe, por favor?"
     },
     {
@@ -178,11 +177,11 @@
       "voz": "Emilio",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "a06-p01",
-      "promptPt": "Une porte à huit heures, que des boissons, et un seul chiffre décide toute la soirée. Demandez-le-lui. Parlez maintenant.",
+      "promptPt": "Una porta alle otto, solo da bere, e un solo numero decide tutta la serata. Chiediglielo. Parla adesso.",
       "audioKey": "c01a-15",
       "es": "¿A qué hora abre la cocina?",
-      "pinyin": "a ké O-ra A-bré la ko-SSI-na",
-      "pt": "un chiffre, et la soirée se planifie toute seule",
+      "pinyin": "a ke O-ra A-bre la ko-SSI-na",
+      "pt": "un numero, e la serata si organizza da sé",
       "tts": "¿A qué hora abre la cocina?"
     },
     {
@@ -190,93 +189,93 @@
       "voz": "GuiaFem",
       "audioKey": "a06-n03",
       "bloco": "cena",
-      "pt": "Ça, c'était leur horloge sur une journée. Maintenant l'autre — leur horloge sur une année entière."
+      "pt": "Quello era il loro orologio su una giornata. Adesso l'altro — il loro orologio su un anno intero."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n04",
-      "pt": "Quatre heures et quart, un mardi d'août. Vingt-cinq minutes de marche derrière vous, et un rideau de fer est baissé."
+      "pt": "Le quattro e un quarto, un martedì d'agosto. Venticinque minuti di cammino alle spalle, e una saracinesca è abbassata."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n05",
-      "pt": "Un mot écrit à la main est collé sur la vitre, et la femme du bar d'à côté vous regarde le lire."
+      "pt": "Un cartello scritto a mano è attaccato al vetro, e la donna del bar accanto ti guarda leggerlo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n05b",
       "tom": "ganha",
-      "pt": "Qui vient l'été vient souvent en août — vos grandes vacances tombent pile sur le mois où la boutique de quartier ferme."
+      "pt": "Chi viene d'estate viene spesso ad agosto — le tue ferie cadono proprio nel mese in cui il negozio di quartiere chiude. Lo stesso mese in cui chiude il tuo, a casa."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "b10-horario-e",
       "receptivo": true,
-      "acao": "Lire le troisième mot et passer son chemin — c'est le mois, pas l'après-midi.",
+      "acao": "Leggere la terza parola e tirare dritto — è il mese, non il pomeriggio.",
       "es": "HORARIO · HORARIO DE VERANO · CERRADO POR VACACIONES",
-      "pinyin": "o-RA-rio · o-RA-rio dé bé-RA-no · sse-RRA-do por ba-ka-SSIO-ness",
-      "pt": "👂 Horaires · horaires d'été · fermé pour congés — les trois mots que vous lirez deux semaines durant.",
+      "pinyin": "o-RA-rio · o-RA-rio de be-RA-no · sse-RRA-do por ba-ka-SSIO-nes",
+      "pt": "👂 Orari · orario estivo · chiuso per ferie — le tre parole che leggerai per due settimane.",
       "tts": "Horario. Horario de verano. Cerrado por vacaciones."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n06",
-      "pt": "Cerrado por vacaciones. Pas en faillite, pas pour l'après-midi — pour le mois, et le mois, c'est août."
+      "pt": "Cerrado por vacaciones. Non è un fallimento, non è per il pomeriggio — è per il mese, e il mese è agosto."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n07",
-      "pt": "Une boutique de famille ferme le tout et file à la côte. La rue derrière se vide."
+      "pt": "Un negozio di famiglia chiude tutto e va al mare. La via dietro si svuota."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n07b",
-      "pt": "Chaînes, grands magasins, restaurants et musées ne le font jamais. Ce sont les petites boutiques."
+      "pt": "Catene, grandi magazzini, ristoranti e musei non lo fanno mai. Sono i piccoli negozi."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n08",
       "tom": "protege",
-      "pt": "Et les horaires sur la carte l'ignorent souvent. Ce qui coûte les vingt-cinq minutes, c'est ça, pas le rideau."
+      "pt": "E gli orari online spesso lo ignorano. Quello che ti costa i venticinque minuti è questo, non la saracinesca."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n08b",
       "tom": "protege",
-      "pt": "Et quatre heures de l'après-midi en août, ce n'est pas une heure de marche — la chaleur ferme la rue aussi. Le soir commence donc à neuf heures."
+      "pt": "E le quattro del pomeriggio ad agosto non sono un'ora da camminata — il caldo chiude la strada anche lui. La sera comincia quindi alle nove."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n09",
       "tom": "ganha",
-      "pt": "Toute la solution tient en vingt secondes et un coup de fil. Quatre mots là-dedans sont de l'espagnol."
+      "pt": "Tutta la soluzione sta in venti secondi e una telefonata. Quattro parole, lì dentro, sono spagnolo."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "a06-abiertos-c",
       "receptivo": true,
-      "acao": "Dire ces quatre mots, et le reste vient.",
+      "acao": "Dire queste quattro parole, e il resto viene.",
       "es": "¿Están abiertos hoy?",
-      "pinyin": "ess-TAN a-BIÉR-toss oï",
-      "pt": "👂 « Vous êtes ouverts aujourd'hui ? » — quatre mots, et le mois entier cesse d'être un pari.",
+      "pinyin": "es-TAN a-BIER-tos oi",
+      "pt": "👂 «Siete aperti oggi?» — quattro parole, e il mese intero smette di essere una scommessa.",
       "tts": "¿Están abiertos hoy?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n10",
-      "pt": "Vous les dites, et quelqu'un décroche pour de bon. Elles sont là juste pour ça."
+      "pt": "Le dici, e qualcuno risponde davvero. Sono lì proprio per questo."
     },
     {
       "tipo": "responde",
@@ -284,45 +283,45 @@
       "promptVoz": "GuiaFem",
       "promptAudioKey": "a06-p02",
       "consulta": ["chegar/entrar", "compras/balcao"],
-      "promptPt": "Mardi matin, le numéro de la petite boutique à l'écran, et une traversée de la ville à pied si personne ne dit la vérité avant. Parlez maintenant.",
+      "promptPt": "Martedì mattina, il numero del negozietto sullo schermo, e una traversata della città a piedi se nessuno dice la verità prima. Parla adesso.",
       "audioKey": "a06-abiertos-c",
       "es": "¿Están abiertos hoy?",
-      "pinyin": "ess-TAN a-BIÉR-toss oï",
-      "pt": "avant de partir, jamais après"
+      "pinyin": "es-TAN a-BIER-tos oi",
+      "pt": "prima di uscire, mai dopo"
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "a06-hoysi-e",
       "receptivo": true,
-      "acao": "Écouter : la réponse vient en mois, pas en heure.",
+      "acao": "Ascoltare: la risposta viene in mesi, non in ore.",
       "es": "Hoy sí, pero cerramos todo agosto.",
-      "pinyin": "oï ssi, PÉ-ro sse-RRA-moss TO-do a-GOS-to",
-      "pt": "👂 « Aujourd'hui oui — mais on ferme tout le mois d'août. » — la réponse vient en mois.",
+      "pinyin": "oi si, PE-ro sse-RRA-mos TO-do a-GOS-to",
+      "pt": "👂 «Oggi sì — ma chiudiamo tutto agosto.» — la risposta viene in mesi.",
       "tts": "Hoy sí, pero cerramos todo agosto."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n11",
-      "pt": "Maintenant l'autre rideau — celui qui descend chaque après-midi et remonte vers cinq heures."
+      "pt": "Adesso l'altra saracinesca — quella che scende ogni pomeriggio e risale verso le cinque."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "a06-tarde-c",
       "receptivo": true,
-      "acao": "Prendre le deuxième chiffre sur le mot.",
+      "acao": "Prendere il secondo numero sul cartello.",
       "es": "¿A qué hora abren por la tarde?",
-      "pinyin": "a ké O-ra A-bren por la TAR-dé",
-      "pt": "👂 « Vous ouvrez à quelle heure l'après-midi ? » — la seconde moitié de la journée d'une petite boutique.",
+      "pinyin": "a ke O-ra A-bren por la TAR-de",
+      "pt": "👂 «A che ora aprite il pomeriggio?» — la seconda metà della giornata di un negozietto.",
       "tts": "¿A qué hora abren por la tarde?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n12",
-      "pt": "La petite boutique, la pharmacie, le cordonnier. Le grand magasin et le musée, eux, ne ferment pas."
+      "pt": "Il negozietto, la farmacia, il calzolaio. Il grande magazzino e il museo, quelli, non chiudono."
     },
     {
       "tipo": "responde",
@@ -330,58 +329,58 @@
       "promptVoz": "GuiaFem",
       "promptAudioKey": "a06-p03",
       "consulta": ["compras/balcao"],
-      "promptPt": "Une heure vingt, l'homme derrière le comptoir cherche déjà ses clés, et vous aurez encore besoin de lui plus tard. Parlez maintenant.",
+      "promptPt": "L'una e venti, l'uomo dietro il bancone cerca già le chiavi, e ti servirà ancora più tardi. Parla adesso.",
       "audioKey": "a06-tarde-c",
       "es": "¿A qué hora abren por la tarde?",
-      "pinyin": "a ké O-ra A-bren por la TAR-dé",
-      "pt": "la seconde moitié de sa journée"
+      "pinyin": "a ke O-ra A-bren por la TAR-de",
+      "pt": "la seconda metà della sua giornata"
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "a06-cincoymedia-e",
       "receptivo": true,
-      "acao": "Retenir : voilà pourquoi le mot porte deux plages, pas une.",
+      "acao": "Tenere a mente: ecco perché il cartello porta due fasce, non una.",
       "es": "A las cinco y media.",
-      "pinyin": "a lass SSIN-ko i MÉ-dia",
-      "pt": "👂 « À cinq heures et demie. » — voilà pourquoi le mot sur la porte a deux plages, pas une.",
+      "pinyin": "a las SSIN-ko i ME-dia",
+      "pt": "👂 «Alle cinque e mezza.» — ecco perché il cartello sulla porta ha due fasce, non una.",
       "tts": "A las cinco y media."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n13",
-      "pt": "Le dimanche trie autrement encore, et il trie selon ce que la boutique vend, pas selon l'heure."
+      "pt": "La domenica smista in un altro modo ancora, e smista secondo quello che il negozio vende, non secondo l'ora."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n14",
-      "pt": "Ce que vous mangez dehors est ouvert. Ce que vous rapportez chez vous, non. Le supermarché a le rideau baissé."
+      "pt": "Quello che mangi fuori è aperto. Quello che porti a casa, no. Il supermercato ha la saracinesca abbassata."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n14b",
       "tom": "ganha",
-      "pt": "Les boutiques fermées le dimanche, vous connaissez ça chez vous. Neuf, seulement le tri : on mange, on n'emporte pas."
+      "pt": "I negozi chiusi la domenica li conosci già da casa. Di nuovo c'è solo lo smistamento: si mangia, non si porta via."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "a06-super-e",
       "receptivo": true,
-      "acao": "Demander — le début est à vous depuis la partie huit, seuls les derniers mots sont d'aujourd'hui.",
+      "acao": "Chiedere — l'inizio è tuo dalla parte otto, solo le ultime parole sono di oggi.",
       "es": "¿Hay algún supermercado abierto por aquí?",
-      "pinyin": "aï al-GOUN sou-per-mer-KA-do a-BIÉR-to por a-KI",
-      "pt": "👂 « Y a-t-il un supermarché ouvert par ici ? » — le début est à vous depuis la partie huit.",
+      "pinyin": "ai al-GUN su-per-mer-KA-do a-BIER-to por a-KI",
+      "pt": "👂 «C'è un supermercato aperto qui vicino?» — l'inizio è tuo dalla parte otto.",
       "tts": "¿Hay algún supermercado abierto por aquí?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n15",
-      "pt": "Seuls les derniers mots sont d'aujourd'hui. Le début, vous le dites depuis la première semaine."
+      "pt": "Solo le ultime parole sono di oggi. L'inizio lo dici dalla prima settimana."
     },
     {
       "tipo": "responde",
@@ -389,88 +388,88 @@
       "promptVoz": "GuiaFem",
       "promptAudioKey": "a06-p04",
       "consulta": ["compras/balcao"],
-      "promptPt": "Dimanche, une cuisine louée avec rien dedans, et un homme avec son chien qui vit dans cette rue depuis quarante ans. Parlez maintenant.",
+      "promptPt": "Domenica, una cucina in affitto senza niente dentro, e un uomo con il cane che vive in questa via da quarant'anni. Parla adesso.",
       "audioKey": "a06-super-e",
       "es": "¿Hay algún supermercado abierto por aquí?",
-      "pinyin": "aï al-GOUN sou-per-mer-KA-do a-BIÉR-to por a-KI",
-      "pt": "quelque part, et il sait où"
+      "pinyin": "ai al-GUN su-per-mer-KA-do a-BIER-to por a-KI",
+      "pt": "da qualche parte, e lui sa dove"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "a06-domingo-c",
       "receptivo": true,
-      "acao": "Écouter : voilà pourquoi les grosses courses, c'est le samedi.",
+      "acao": "Ascoltare: ecco perché la spesa grossa è il sabato.",
       "es": "Hoy es domingo. Hasta mañana, nada.",
-      "pinyin": "oï ess do-MIN-go. ASS-ta ma-GNA-na, NA-da",
-      "pt": "👂 « Aujourd'hui c'est dimanche. Jusqu'à demain, rien. » — voilà pourquoi les grosses courses, c'est le samedi.",
+      "pinyin": "oi es do-MIN-go. AS-ta ma-GNA-na, NA-da",
+      "pt": "👂 «Oggi è domenica. Fino a domani, niente.» — ecco perché la spesa grossa è il sabato.",
       "tts": "Hoy es domingo. Hasta mañana, nada."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "a06-g01",
-      "pt": "GUIRI ALERT. À moi de confesser. Premier dimanche, location, quatre personnes, et j'avais mis les grosses courses au dimanche."
+      "pt": "GUIRI ALERT. Tocca a me confessare. Prima domenica, casa in affitto, quattro persone, e avevo lasciato la spesa grossa alla domenica."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "a06-g02",
-      "pt": "Quarante minutes à pied devant trois supermarchés fermés. Rentré avec des chips et une bouteille prise à la station-service."
+      "pt": "Quaranta minuti a piedi davanti a tre supermercati chiusi. Tornato con le patatine e una bottiglia presa al distributore."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "a06-g03",
-      "pt": "La boulangerie de mon propre coin de rue avait tout du long une queue jusque sur le trottoir. Le samedi, les amis. Le samedi."
+      "pt": "Il panificio proprio sotto casa mia aveva per tutto il tempo una fila fin sul marciapiede. Il sabato, amici. Il sabato."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n16",
       "tom": "ganha",
-      "pt": "Les grosses courses, donc, c'est le samedi ; le dimanche, un long déjeuner, une promenade, un musée. Les trois sont ouverts."
+      "pt": "La spesa grossa, quindi, è il sabato; la domenica, un lungo pranzo, una passeggiata, un museo. Tutti e tre sono aperti."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n16b",
-      "pt": "Au centre de Madrid ou de Barcelone, les boutiques ouvrent sept jours. Quatre rues plus loin, la règle revient."
+      "pt": "Nel centro di Madrid o di Barcellona i negozi aprono sette giorni su sette. Quattro vie più in là, la regola torna."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n17",
-      "pt": "Maintenant le jour qui est fermé dans une ville et, vingt minutes plus loin, tout à fait ordinaire dans la suivante."
+      "pt": "Adesso il giorno che è chiuso in una città e, venti minuti più in là, del tutto qualsiasi in quella dopo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n18",
-      "pt": "Quatorze jours fériés payés par an, au plus. Douze sont au pays et à la région. Deux sont à la ville."
+      "pt": "Quattordici giorni festivi retribuiti all'anno, al massimo. Dodici sono dello Stato e della regione. Due sono della città."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n19",
-      "pt": "Les deux, c'est la mairie qui les choisit, le plus souvent le saint patron de la ville. La banque ferme. Les bars, non."
+      "pt": "Quei due li sceglie il comune, quasi sempre il santo patrono della città. La banca chiude. I bar, no."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "a06-fiesta-e",
       "receptivo": true,
-      "acao": "Demander la veille, pas en plein milieu.",
+      "acao": "Chiedere la sera prima, non nel bel mezzo.",
       "es": "¿Mañana es fiesta?",
-      "pinyin": "ma-GNA-na ess FIÉS-ta",
-      "pt": "👂 « Demain, c'est férié ? » — trois mots, posés la veille au soir.",
+      "pinyin": "ma-GNA-na es FIES-ta",
+      "pt": "👂 «Domani è festa?» — tre parole, poste la sera prima.",
       "tts": "¿Mañana es fiesta?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n20",
-      "pt": "Posez la question à la réception en arrivant, et vous l'apprenez la veille au lieu de devant la porte close."
+      "pt": "Fai la domanda alla reception appena arrivi, e lo scopri la sera prima invece che davanti alla porta chiusa."
     },
     {
       "tipo": "responde",
@@ -478,21 +477,21 @@
       "promptVoz": "GuiaFem",
       "promptAudioKey": "a06-p05",
       "consulta": ["quarto/pedir"],
-      "promptPt": "Réception, neuf heures et demie du soir, et la banque et la poste sont toutes deux sur votre liste pour demain matin. Parlez maintenant.",
+      "promptPt": "Reception, nove e mezza di sera, e la banca e la posta sono tutte e due sulla tua lista per domani mattina. Parla adesso.",
       "audioKey": "a06-fiesta-e",
       "es": "¿Mañana es fiesta?",
-      "pinyin": "ma-GNA-na ess FIÉS-ta",
-      "pt": "la veille au soir, pas en plein milieu"
+      "pinyin": "ma-GNA-na es FIES-ta",
+      "pt": "la sera prima, non nel bel mezzo"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "a06-patrona-c",
       "receptivo": true,
-      "acao": "Écouter : tout est fermé, sauf la rue elle-même.",
+      "acao": "Ascoltare: è tutto chiuso, tranne la strada stessa.",
       "es": "Sí, es la patrona. Está todo cerrado.",
-      "pinyin": "ssi, ess la pa-TRO-na. ess-TA TO-do sse-RRA-do",
-      "pt": "👂 « Oui, c'est la sainte patronne. Tout est fermé. » — tout sauf la rue elle-même.",
+      "pinyin": "si, es la pa-TRO-na. es-TA TO-do sse-RRA-do",
+      "pt": "👂 «Sì, è la santa patrona. È tutto chiuso.» — tutto tranne la strada stessa.",
       "tts": "Sí, es la patrona. Está todo cerrado."
     },
     {
@@ -501,30 +500,30 @@
       "audioKey": "a06-n21",
       "bloco": "capsula",
       "tom": "ganha",
-      "pt": "Et voilà la bonne moitié. La ville qui ferme la banque est celle qui remplit la rue."
+      "pt": "Ed ecco la metà buona. La città che chiude la banca è quella che riempie la strada."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n22",
-      "pt": "Une fanfare, quelques centaines de personnes, pas de barrière, pas de billet, pas de scène. Les voisins sont tout le spectacle."
+      "pt": "Una banda, qualche centinaio di persone, niente transenne, niente biglietto, niente palco. I vicini sono tutto lo spettacolo."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "a06-celebra-c",
       "receptivo": true,
-      "acao": "Demander à la personne à côté de vous — c'est la meilleure entrée en conversation du module.",
+      "acao": "Chiedere alla persona accanto a te — è il modo migliore per attaccare bottone di tutto il modulo.",
       "es": "¿Qué se celebra hoy?",
-      "pinyin": "ké sé sse-LÉ-bra oï",
-      "pt": "👂 « Qu'est-ce qu'on fête aujourd'hui ? » — quatre mots à la personne à côté de vous.",
+      "pinyin": "ke se sse-LE-bra oi",
+      "pt": "👂 «Che cosa si festeggia oggi?» — quattro parole alla persona accanto a te.",
       "tts": "¿Qué se celebra hoy?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n23",
-      "pt": "Demandez à quelqu'un qui défile ici depuis ses six ans, et on vous raconte tout."
+      "pt": "Chiedi a qualcuno che sfila qui da quando aveva sei anni, e ti raccontano tutto."
     },
     {
       "tipo": "responde",
@@ -532,21 +531,21 @@
       "promptVoz": "GuiaFem",
       "promptAudioKey": "a06-p06",
       "consulta": ["simpatia/puxar-conversa"],
-      "promptPt": "La fanfare est passée, la femme à côté de vous n'a pas bougé, et elle est là depuis bien avant votre naissance. Demandez-lui ce qu'on fête. Parlez maintenant.",
+      "promptPt": "La banda è passata, la donna accanto a te non si è mossa, ed è lì da molto prima che tu nascessi. Chiedile che cosa si festeggia. Parla adesso.",
       "audioKey": "a06-celebra-c",
       "es": "¿Qué se celebra hoy?",
-      "pinyin": "ké sé sse-LÉ-bra oï",
-      "pt": "et elle vous raconte tout"
+      "pinyin": "ke se sse-LE-bra oi",
+      "pt": "e lei ti racconta tutto"
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "a06-patron-e",
       "receptivo": true,
-      "acao": "Écouter : chaque année, et toujours cette rue.",
+      "acao": "Ascoltare: ogni anno, e sempre questa strada.",
       "es": "Es la patrona del barrio. Sale todos los años.",
-      "pinyin": "ess la pa-TRO-na del BA-rrio. SA-lé TO-doss loss A-gnoss",
-      "pt": "👂 « C'est la sainte patronne du quartier. Elle sort chaque année. » — chaque année, et toujours cette rue.",
+      "pinyin": "es la pa-TRO-na del BA-rrio. SA-le TO-dos los A-gnos",
+      "pt": "👂 «È la santa patrona del quartiere. Esce ogni anno.» — ogni anno, e sempre questa strada.",
       "tts": "Es la patrona del barrio. Sale todos los años."
     },
     {
@@ -554,17 +553,17 @@
       "voz": "GuiaFem",
       "audioKey": "a06-n24",
       "tom": "protege",
-      "pt": "Un point pratique, le seul. Un parcours qui bloque le centre trois heures bloque votre taxi avec."
+      "pt": "Un punto pratico, l'unico. Un percorso che blocca il centro per tre ore blocca anche il tuo taxi."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "a06-pasar-e",
       "receptivo": true,
-      "acao": "Demander à la première personne en uniforme.",
+      "acao": "Chiedere alla prima persona in divisa.",
       "es": "¿Por dónde puedo pasar?",
-      "pinyin": "por DON-dé POUÉ-do pa-SSAR",
-      "pt": "👂 « Par où puis-je passer ? » — demandé à la première personne en uniforme.",
+      "pinyin": "por DON-de PUE-do pa-SSAR",
+      "pt": "👂 «Da dove posso passare?» — chiesto alla prima persona in divisa.",
       "tts": "¿Por dónde puedo pasar?"
     },
     {
@@ -573,21 +572,21 @@
       "promptVoz": "GuiaFem",
       "promptAudioKey": "a06-p07",
       "consulta": ["taxi/destino"],
-      "promptPt": "Sept heures et demie, un train à neuf heures, et dans la rue qu'il vous faut, deux mille personnes. Demandez à l'agent au coin. Parlez maintenant.",
+      "promptPt": "Le sette e mezza, un treno alle nove, e nella via che ti serve, duemila persone. Chiedi all'agente all'angolo. Parla adesso.",
       "audioKey": "a06-pasar-e",
       "es": "¿Por dónde puedo pasar?",
-      "pinyin": "por DON-dé POUÉ-do pa-SSAR",
-      "pt": "par-derrière, jamais au travers"
+      "pinyin": "por DON-de PUE-do pa-SSAR",
+      "pt": "da dietro, mai in mezzo"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "a06-detras-c",
       "receptivo": true,
-      "acao": "Traverser par-derrière, jamais entre la fanfare et la tête.",
+      "acao": "Attraversare da dietro, mai tra la banda e la testa del corteo.",
       "es": "Por detrás, cuando pase la banda.",
-      "pinyin": "por dé-TRASS, KOUAN-do PA-ssé la BAN-da",
-      "pt": "👂 « Par-derrière, quand la fanfare est passée. » — derrière, jamais entre la fanfare et la tête.",
+      "pinyin": "por de-TRAS, KUAN-do PA-sse la BAN-da",
+      "pt": "👂 «Da dietro, quando la banda è passata.» — da dietro, mai tra la banda e la testa.",
       "tts": "Por detrás, cuando pase la banda."
     },
     {
@@ -595,19 +594,19 @@
       "voz": "GuiaFem",
       "audioKey": "a06-n25",
       "tom": "ganha",
-      "pt": "Voilà toutes les petites lignes. Le reste de l'après-midi est le meilleur que vous aurez ici."
+      "pt": "Ecco tutte le clausole in piccolo. Il resto del pomeriggio è il migliore che avrai qui."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n26",
-      "pt": "Encore un tour de leur année, et il tourne à l'envers. Les Canaries sont au mieux à partir de novembre."
+      "pt": "Ancora un giro del loro anno, e gira al contrario. Le Canarie danno il meglio da novembre in poi."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n27",
-      "pt": "Les îles au large de l'Afrique sont celles de l'hiver ; les Baléares, de mai à octobre. On y va en avion — vous, vous visez la côte, au volant."
+      "pt": "Le isole al largo dell'Africa sono quelle dell'inverno; le Baleari, da maggio a ottobre. Ci si va in aereo — se le metti in programma, la stagione corre al rovescio di come te la immagini."
     },
     {
       "tipo": "intro",
@@ -615,26 +614,26 @@
       "audioKey": "a06-n28",
       "bloco": "permissao",
       "tom": "ganha",
-      "pt": "Août n'est pas un mauvais mois pour l'Espagne. C'est un mauvais mois pour miser sur une seule adresse."
+      "pt": "Agosto non è un brutto mese per la Spagna. È un brutto mese per puntare su un solo indirizzo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n29",
-      "pt": "Et vous avez le droit d'entrer en plein milieu d'une fête qui n'est pas la vôtre et de rester là. La rue est la salle, personne n'a pris de billet."
+      "pt": "E hai il diritto di entrare nel bel mezzo di una festa che non è la tua e restare lì. La strada è la sala, nessuno ha fatto il biglietto."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n30",
       "bloco": "espelho",
-      "pt": "Demander pourquoi une boutique ferme tout le mois d'août, c'est ça qui détonne là-bas."
+      "pt": "Chiedere perché un negozio chiude tutto il mese d'agosto, è questo che stona laggiù."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n31",
-      "pt": "Ça sonne comme demander pourquoi Paris se vide en août — chez vous. La réponse n'est pas une raison, c'est le calendrier."
+      "pt": "Suona come chiedere perché Milano si svuota a Ferragosto — a casa tua. La risposta non è un motivo, è il calendario."
     },
     {
       "tipo": "intro",
@@ -642,112 +641,112 @@
       "audioKey": "a06-n32",
       "bloco": "piso",
       "tom": "ganha",
-      "pt": "Vous planifiez une semaine espagnole autour de leur calendrier. La plupart le découvrent porte par porte, une fermée après l'autre."
+      "pt": "Organizzi una settimana spagnola sul loro calendario. I più lo scoprono porta dopo porta, una chiusa dopo l'altra."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-s00",
-      "pt": "À répéter. Fort, avec eux, un coup par mot. Les deux qui vous épargnent le trajet :"
+      "pt": "Da ripetere. Forte, con loro, un colpo per parola. Le due che ti risparmiano il tragitto:"
     },
     {
       "tipo": "shadow",
       "voz": "Carmen",
       "audioKey": "a06-abiertos-c",
       "es": "¿Están abiertos hoy?",
-      "pinyin": "ess-TAN a-BIÉR-toss oï",
-      "pt": "Vous êtes ouverts aujourd'hui ?"
+      "pinyin": "es-TAN a-BIER-tos oi",
+      "pt": "Siete aperti oggi?"
     },
     {
       "tipo": "shadow",
       "voz": "Emilio",
       "audioKey": "a06-fiesta-e",
       "es": "¿Mañana es fiesta?",
-      "pinyin": "ma-GNA-na ess FIÉS-ta",
-      "pt": "Demain, c'est férié ?"
+      "pinyin": "ma-GNA-na es FIES-ta",
+      "pt": "Domani è festa?"
     },
     {
       "tipo": "recap",
       "voz": "GuiaFem",
       "audioKey": "a06-rend",
       "bloco": "recap",
-      "pt": "Encore une fois, à voix haute. On est le quatorze août, la veille du grand jour, et vous avez une boutique en tête."
+      "pt": "Ancora una volta, ad alta voce. È il quattordici agosto, la vigilia di Ferragosto, e hai un negozio in mente."
     },
     {
       "tipo": "responde",
       "voz": "Carmen",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "a06-p08",
-      "promptPt": "Le numéro sonne, demain c'est le quinze et la moitié du pays est en congé, et vous êtes à une demi-heure de marche de là. Parlez maintenant.",
+      "promptPt": "Il numero squilla, domani è il quindici e metà paese è in ferie, e sei a mezz'ora di cammino da lì. Parla adesso.",
       "audioKey": "a06-abiertos-c",
       "es": "¿Están abiertos hoy?",
-      "pinyin": "ess-TAN a-BIÉR-toss oï",
-      "pt": "vingt secondes, pas vingt-cinq minutes"
+      "pinyin": "es-TAN a-BIER-tos oi",
+      "pt": "venti secondi, non venticinque minuti"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a06-n33",
-      "pt": "Voilà leur année. Le mois, le dimanche, les deux jours à eux, et la rue qui est à un saint. Hasta luego."
+      "pt": "Ecco il loro anno. Il mese, la domenica, i due giorni loro, e la strada che è di un santo. Hasta luego."
     }
   ],
 
   "aprofundar": {
-    "titulo": "Le mois, le dimanche et les deux jours qui n'appartiennent qu'à eux (lecture optionnelle)",
+    "titulo": "Il mese, la domenica e i due giorni che sono soltanto loro (lettura facoltativa)",
     "secoes": [
       {
-        "titulo": "Août, et le mot sur le rideau",
-        "corpo": "La première chose à comprendre sur août : ce n'est pas un mois lent, c'est un mois absent, et seulement pour un certain type de commerce — la boutique avec une famille dedans. Ils ferment, collent un mot écrit à la main sur la vitre — CERRADO POR VACACIONES — et sont de retour en septembre. Rien là-dedans n'est un signe d'ennui, et les voisins savent exactement qui est parti et où. Ce que ça vous coûte, ce n'est pas la fermeture, c'est la liste : les horaires en ligne sont très souvent ceux de mars, et un congé sur un mois entier ne s'inscrit presque nulle part. D'où la règle qui vaut plus que n'importe quelle phrase de cette partie — en août, appeler avant de partir. Ce qui ne ferme pas, et c'est la moitié qu'on ne dit jamais : les grands magasins, les grandes chaînes de supermarchés, les restaurants, les bars, les musées et tout ce qui se trouve dans une rue qui vit du passage. Au milieu du mois se tient le quinze, la Asunción, férié dans tout le pays : mettez les grosses courses au quatorze, et le quinze cesse d'être un problème. Et ce mois a une arête bien française. Vos grandes vacances tombent en juillet-août, et l'aoûtien qui traverse la frontière arrive pile quand le rideau est baissé ; le quinze août, l'Assomption, est férié des deux côtés de la frontière. Dans le Sud et à l'intérieur, le début d'après-midi en août n'est de toute façon pas une heure de marche : deux heures à Séville en août, c'est un taxi, pas une promenade, et le rideau baissé à quatre heures explique en partie pourquoi le soir ne commence qu'à neuf.",
+        "titulo": "Agosto, e la scritta sulla saracinesca",
+        "corpo": "La prima cosa da capire su agosto: non è un mese lento, è un mese assente, e solo per un certo tipo di negozio — quello con una famiglia dentro. Chiudono, attaccano un cartello scritto a mano sul vetro — CERRADO POR VACACIONES — e tornano a settembre. Niente in tutto questo è segno di guai, e i vicini sanno esattamente chi è partito e per dove. Quello che ti costa non è la chiusura, è la lista: gli orari online sono spessissimo quelli di marzo, e una chiusura di un mese intero non è quasi scritta da nessuna parte. Da qui la regola che vale più di qualsiasi frase di questa parte — ad agosto, telefonare prima di uscire. Quello che non chiude, ed è la metà che non si dice mai: i grandi magazzini, le grandi catene di supermercati, i ristoranti, i bar, i musei e tutto ciò che sta in una via che vive di passaggio. A metà mese c'è il quindici, la Asunción, festa in tutto il paese: fai la spesa grossa il quattordici, e il quindici smette di essere un problema. E questo mese ti suona di casa: è il tuo Ferragosto. Le tue ferie cadono a luglio-agosto, e arrivi in Spagna proprio quando la saracinesca è abbassata — lo stesso mese in cui il tuo negozio, a casa, mette la stessa scritta; il quindici agosto, l'Assunzione, è Ferragosto anche da te. Al Sud e nell'interno, il primo pomeriggio d'agosto non è comunque un'ora da camminata: le due del pomeriggio a Siviglia ad agosto sono un taxi, non una passeggiata, e la saracinesca giù alle quattro spiega in parte perché la sera comincia solo alle nove.",
         "exemplos": [
           {
             "es": "CERRADO POR VACACIONES",
-            "pt": "sse-RRA-do por ba-ka-SSIO-ness — 👂 fermé pour congés. Ça vise le mois, pas l'après-midi"
+            "pt": "sse-RRA-do por ba-ka-SSIO-nes — 👂 chiuso per ferie. Vale il mese, non il pomeriggio"
           },
           {
             "es": "¿Están abiertos hoy?",
-            "pt": "ess-TAN a-BIÉR-toss oï — Vous êtes ouverts aujourd'hui ? Les quatre mots qui devancent les vingt-cinq minutes de marche"
+            "pt": "es-TAN a-BIER-tos oi — Siete aperti oggi? Le quattro parole che battono i venticinque minuti di cammino"
           }
         ]
       },
       {
-        "titulo": "Deux plages sur le mot, pas une",
-        "corpo": "La journée d'une petite boutique a un trou au milieu. En gros : ouverture vers dix heures, baissé à une heure et demie ou deux, remonté vers quatre heures et demie ou cinq, puis service jusqu'à huit ou huit heures et demie — voilà pourquoi le mot horario sur la porte porte deux plages et non une, et voilà pourquoi on se retrouve à trois heures devant une pharmacie fermée si l'on ne lit que la première. C'est commercial, pas biologique : presque personne ne dort. Le pays est à table, et c'est le grand repas, qui prend une bonne heure et demie. Ce qui ignore le trou complètement : El Corte Inglés et les autres grands magasins, Mercadona, Lidl, Carrefour, Zara et les chaînes en général, chaque restaurant (c'est leur coup de feu) et les musées. La forme pratique d'un après-midi, c'est donc que la démarche passe avant une heure et demie ou après cinq, et que le milieu est au repas et à tout ce qui a un toit et une climatisation. Un autre mot à reconnaître d'un coup d'œil : HORARIO DE VERANO, horaires d'été, un autre calendrier, plus court en général, collé par-dessus le normal. Si deux mots sont sur la vitre, c'est le saisonnier qui vaut.",
+        "titulo": "Due fasce sul cartello, non una",
+        "corpo": "La giornata di un negozietto ha un buco in mezzo. Grosso modo: apertura verso le dieci, giù all'una e mezza o alle due, su di nuovo verso le quattro e mezza o le cinque, poi servizio fino alle otto o alle otto e mezza — ecco perché la parola horario sulla porta porta due fasce e non una, ed ecco perché ti ritrovi alle tre davanti a una farmacia chiusa se leggi solo la prima. È commerciale, non biologico: non dorme quasi nessuno. Il paese è a tavola, ed è il pasto grande, quello che si prende un'ora e mezza buona. Quello che ignora del tutto il buco: El Corte Inglés e gli altri grandi magazzini, Mercadona, Lidl, Carrefour, Zara e le catene in genere, ogni ristorante (è la loro ora di punta) e i musei. La forma pratica di un pomeriggio è dunque questa: la commissione va fatta prima dell'una e mezza o dopo le cinque, e il mezzo è per il pasto e per tutto ciò che ha un tetto e l'aria condizionata. Un'altra parola da riconoscere a colpo d'occhio: HORARIO DE VERANO, orario estivo, un altro calendario, di solito più corto, attaccato sopra quello normale. Se ci sono due cartelli sul vetro, vale quello stagionale.",
         "exemplos": [
           {
             "es": "¿A qué hora abren por la tarde?",
-            "pt": "a ké O-ra A-bren por la TAR-dé — Vous ouvrez à quelle heure l'après-midi ?"
+            "pt": "a ke O-ra A-bren por la TAR-de — A che ora aprite il pomeriggio?"
           },
           {
             "es": "HORARIO DE VERANO",
-            "pt": "o-RA-rio dé bé-RA-no — 👂 horaires d'été. Un deuxième mot par-dessus le premier"
+            "pt": "o-RA-rio de be-RA-no — 👂 orario estivo. Una seconda scritta sopra la prima"
           }
         ]
       },
       {
-        "titulo": "Quatorze jours, et les deux qui sont à une ville",
-        "corpo": "Le droit du travail espagnol plafonne les jours fériés payés à quatorze par an et dit expressément que deux d'entre eux sont locaux. Cette seule phrase explique presque tout ce qui vous paraîtra étrange dans un calendrier d'ici. Neuf environ sont nationaux, quelques-uns de plus sont fixés par la région, et puis la mairie de l'endroit où vous vous tenez en choisit deux — presque toujours le saint patron de la ville ou celui du quartier. La conséquence pour un visiteur est celle dont personne ne prévient : un mercredi peut être totalement fermé dans une ville et un jour de travail ordinaire dans la ville à vingt minutes, et aucun calendrier national que vous consultez ne le montre. Ce qui ferme vraiment, c'est l'équipe officielle — banques, mairies, bureaux de poste, beaucoup de pharmacies, la plupart des petites boutiques, certains musées. Ce qui ne ferme pas, c'est la restauration : un jour férié local est l'un des meilleurs jours de l'année pour les bars et les restaurants, et ils ouvrent tôt pour ça. La manœuvre est triviale et c'est tout le sens de cette partie : demandez à la réception, à l'arrivée, quels jours de la semaine sont locaux, et calez banque et paperasse de part et d'autre. Et pour qui traverse la frontière en voiture le temps d'un pont — un long week-end de mai, par exemple —, ces deux jours locaux sont exactement le genre de date à vérifier avant de partir : le pont qui vide les routes chez vous peut tomber sur une fête qui ferme la ville d'en face. La Semaine sainte suit la même logique avec une date mobile, parce qu'elle est accrochée à Pâques et se déplace chaque année.",
+        "titulo": "Quattordici giorni, e i due che sono di una città",
+        "corpo": "Il diritto del lavoro spagnolo mette un tetto di quattordici giorni festivi retribuiti all'anno e dice espressamente che due sono locali. Questa sola frase spiega quasi tutto quello che ti sembrerà strano in un calendario di qui. Una decina sono nazionali, qualcuno in più è fissato dalla regione, e poi il comune del posto in cui ti trovi ne sceglie due — quasi sempre il santo patrono della città o quello del quartiere. La conseguenza per chi è in visita è quella di cui nessuno avverte: un mercoledì può essere del tutto chiuso in una città e un normale giorno lavorativo nella città a venti minuti, e nessun calendario nazionale che consulti lo mostra. Quello che chiude davvero è la squadra ufficiale — banche, comuni, uffici postali, molte farmacie, la maggior parte dei negozietti, certi musei. Quello che non chiude è la ristorazione: una festa locale è uno dei giorni migliori dell'anno per i bar e i ristoranti, e aprono presto apposta. La mossa è banale ed è tutto il senso di questa parte: chiedi alla reception, appena arrivi, quali giorni della settimana sono locali, e sistema banca e pratiche ai due lati. E per chi fa il ponte — un lungo fine settimana di maggio, mettiamo —, questi due giorni locali sono proprio il tipo di data da verificare prima di partire: il ponte che svuota le strade a casa tua può cadere su una festa che chiude la città dall'altra parte. La Settimana santa segue la stessa logica con una data mobile, perché è agganciata alla Pasqua e si sposta ogni anno.",
         "exemplos": [
           {
             "es": "¿Mañana es fiesta?",
-            "pt": "ma-GNA-na ess FIÉS-ta — Demain, c'est férié ? Trois mots, posés la veille au soir"
+            "pt": "ma-GNA-na es FIES-ta — Domani è festa? Tre parole, poste la sera prima"
           },
           {
             "es": "Es fiesta local.",
-            "pt": "ess FIÉS-ta lo-KAL — 👂 c'est un jour férié local. Ici, et pas dans la ville voisine"
+            "pt": "es FIES-ta lo-KAL — 👂 è festa locale. Qui, e non nella città accanto"
           }
         ]
       },
       {
-        "titulo": "Se tenir dans une rue qui n'est pas la sienne",
-        "corpo": "Une procession — un saint patron qui sort, une confrérie de la Semaine sainte, une fête de quartier avec fanfare — prend la rue comme salle. Il n'y a pas de porte, pas de billet, pas de sièges et pas de dedans : le parcours est publié à l'avance par la mairie et la presse locale, la rue se ferme le temps que le cortège passe, et la foule est faite des gens qui habitent là. Trois petites règles vous couvrent entièrement. Rester là pendant qu'il passe, au lieu de traverser devant. Passer par-derrière, pas au travers. Et si vous voulez savoir ce que c'est, demandez à la personne à côté de vous, car être interrogé est un petit plaisir pour quelqu'un qui défile depuis l'enfance. Comme votre côte, ce sont surtout la Catalogne et Valence, la fête que vous croiserez sera souvent annoncée en catalan — une langue qu'on parle aussi de votre côté de la frontière, en Roussillon : pas tout à fait étrangère. Le seul point pratique à planifier : un parcours à travers le centre peut le bloquer à la circulation des heures durant, taxis compris, donc un trajet vers la gare ou l'aéroport un après-midi de fête se fait tôt ou sous terre. Et enfin l'autre bout de l'année, qui se présente à l'envers de ce que la plupart ont en tête : les Canaries font une saison inversée, novembre à février est leur meilleure et leur plus pleine, tandis que les Baléares se tiennent de mai à octobre. Mais ce sont des îles où l'on va en avion — vous, vous visez d'abord la côte continentale, au volant ; réserver les Canaries en août et les Baléares en janvier reste la façon la plus courante d'attraper la mauvaise île au mauvais moment.",
+        "titulo": "Stare in una strada che non è la tua",
+        "corpo": "Una processione — un santo patrono che esce, una confraternita della Settimana santa, una festa di quartiere con la banda — prende la strada come sala. Non c'è porta, non c'è biglietto, non ci sono posti a sedere e non c'è un dentro: il percorso è pubblicato in anticipo dal comune e dalla stampa locale, la strada si chiude il tempo che il corteo passi, e la folla è fatta di chi ci abita. Tre piccole regole ti coprono per intero. Restare lì mentre passa, invece di attraversare davanti. Passare da dietro, non in mezzo. E se vuoi sapere di che si tratta, chiedi alla persona accanto a te, perché farsi domandare è un piccolo piacere per chi sfila da quando era bambino. Sulla costa catalana e valenciana la festa che incroci sarà spesso annunciata in catalano — un'altra lingua romanza, che seguirai a metà come segui lo spagnolo: non è un dialetto dello spagnolo, è la lingua di casa lì, e chiedere in castigliano va benissimo lo stesso. L'unico punto pratico da programmare: un percorso che taglia il centro può bloccarlo al traffico per ore, taxi compresi, quindi un tragitto verso la stazione o l'aeroporto in un pomeriggio di festa si fa presto o sottoterra. E infine l'altro capo dell'anno, che si presenta al rovescio di come la maggior parte se lo immagina: le Canarie fanno una stagione invertita, da novembre a febbraio è la migliore e la più piena, mentre le Baleari tengono da maggio a ottobre. Sono isole dove si va in aereo — se le metti in programma, prenotare le Canarie ad agosto e le Baleari a gennaio resta il modo più comune di beccare l'isola sbagliata nel momento sbagliato.",
         "exemplos": [
           {
             "es": "¿Qué se celebra hoy?",
-            "pt": "ké sé sse-LÉ-bra oï — Qu'est-ce qu'on fête aujourd'hui ? La meilleure entrée en conversation du module"
+            "pt": "ke se sse-LE-bra oi — Che cosa si festeggia oggi? Il modo migliore per attaccare bottone di tutto il modulo"
           },
           {
             "es": "¿Por dónde puedo pasar?",
-            "pt": "por DON-dé POUÉ-do pa-SSAR — Par où puis-je passer ?"
+            "pt": "por DON-de PUE-do pa-SSAR — Da dove posso passare?"
           }
         ]
       }

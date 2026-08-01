@@ -4,51 +4,51 @@
   "nivel": "basico",
   "numero": 13,
   "parte": "13",
-  "titulo": "Ce qu'il y a dans les haricots verts",
-  "subtitulo": "Les trois paliers qui arrivent jusqu'à la cuisine — et le papier qu'on montre quand le bar est trop bruyant",
+  "titulo": "Cosa c'è nei fagiolini",
+  "subtitulo": "I tre gradini che arrivano fino alla cucina — e il foglio che mostri quando il bar è troppo rumoroso",
   "moldura": "protege",
 
-  "cena": "Neuf heures et demie, une table en terrasse. Vous venez de dire qu'il y a quelque chose que vous ne pouvez pas manger — et le serveur sourit, hoche la tête et dit une phrase qui sonne comme un oui et n'en est pas un.",
+  "cena": "Le nove e mezza di sera, un tavolo in terrazza. Hai appena detto che c'è qualcosa che non puoi mangiare — e il cameriere sorride, annuisce e dice una frase che suona come un sì e non lo è.",
 
   "moldes": ["SOY-ESTOY", "LLEVA"],
 
   "clique": {
     "contagem": [
-      "la boulangerie",
-      "l'étal du marché",
-      "le bar",
-      "la table du restaurant"
+      "la panetteria",
+      "il banco del mercato",
+      "il bar",
+      "il tavolo del ristorante"
     ],
-    "desconto": "Aucune de ces phrases ne vous a été soufflée. Vous venez de les monter à partir de deux petits débuts.",
-    "piso": "Dans un endroit inconnu, vous commandez comme tout le monde. La plupart des gens allergiques passent deux semaines à manger à l'hôtel."
+    "desconto": "Nessuna di queste frasi ti è stata suggerita. Le hai appena montate a partire da due piccoli inizi.",
+    "piso": "In un posto sconosciuto, ordini come tutti gli altri. La maggior parte delle persone allergiche passa due settimane a mangiare in hotel."
   },
   "cliqueAudioKey": "b13-n31",
 
-  "frasePiso": "Dans un endroit inconnu, vous commandez comme tout le monde. La plupart des gens allergiques passent deux semaines à manger à l'hôtel.",
+  "frasePiso": "In un posto sconosciuto, ordini come tutti gli altri. La maggior parte delle persone allergiche passa due settimane a mangiare in hotel.",
 
-  "permissao": "Vous n'expliquez rien. Pas de raison, pas d'histoire, pas d'excuse — la phrase seule suffit. Vous avez le droit de dire deux fois la même chose sans vous radoucir. Vous avez le droit de montrer le papier au lieu de parler, et ce n'est pas un recul. Et à cette table, vous pouvez rester au vous : au comptoir il marque la distance, ici il porte le sérieux.",
+  "permissao": "Non spieghi niente. Nessun motivo, nessuna storia, nessuna scusa — la frase da sola basta. Hai il diritto di dire due volte la stessa cosa senza addolcirti. Hai il diritto di mostrare il foglio invece di parlare, e non è un passo indietro. E a questo tavolo puoi restare al lei: al banco segna la distanza, qui porta la serietà.",
   "permissaoAudioKey": "b13-n28",
 
-  "espelho": "Répéter deux fois la même phrase ne se remarque pas là-bas — ce qui se remarque, c'est la justification avant. Qui explique pourquoi il ne peut pas manger quelque chose transforme une annonce en opinion, et une opinion, à table, ça se discute.",
+  "espelho": "Ripetere due volte la stessa frase non si nota, lì — quello che si nota è la giustificazione prima. Chi spiega perché non può mangiare qualcosa trasforma un annuncio in un'opinione, e un'opinione, a tavola, si discute.",
 
   "fichasCulturais": [
     {
-      "sinal": "Vous dites que vous êtes allergique, et on vous répond par un sourire et «un petit peu, ça ne fait rien, non ?».",
-      "suaLeitura": "Il ne me croit pas. Je viens de devenir l'étranger difficile, et si j'insiste, ça va empirer.",
-      "oQueEAli": "Ce n'est pas de la méfiance : au même comptoir, «sans oignon» et «sans fruits à coque» arrivent par le même canal, et la phrase peut vouloir dire les deux. Le «un petit peu» est une tentative de vous arranger — elle ne sépare simplement pas les deux choses. Ce qui les sépare, c'est une phrase ferme et un papier que la loi oblige à fournir.",
-      "oQueVoceFaz": "Ne pas discuter, ne pas expliquer. Répéter la même phrase ferme, plus calme et plus lentement ; puis demander que ça arrive en cuisine ; puis demander la carte des allergènes.",
-      "oQueMelhora": "La conversation passe de l'opinion au document, et à partir de là le serveur cherche avec vous et non contre vous — vous mangez là où mangent tous les autres.",
-      "ondeNaoVale": "Pas pour une intolérance : là, «un petit peu» est vraiment votre propre décision, et les trois paliers sont trop lourds pour l'occasion. Et pas à un comptoir bondé sur trois rangs à minuit — là personne ne lit une liste ; là vous prenez quelque chose dont vous voyez le contenu.",
+      "sinal": "Dici che sei allergico, e ti rispondono con un sorriso e «un pochino non fa niente, no?».",
+      "suaLeitura": "Non mi crede. Sono appena diventato lo straniero difficile, e se insisto peggiora.",
+      "oQueEAli": "Non è diffidenza: allo stesso banco «senza cipolla» e «senza frutta a guscio» arrivano dallo stesso canale, e la frase può voler dire entrambe le cose. Il «un pochino» è un tentativo di accontentarti — semplicemente non separa le due cose. A separarle sono una frase ferma e un foglio che la legge obbliga a fornire.",
+      "oQueVoceFaz": "Non discutere, non spiegare. Ripetere la stessa frase ferma, più calma e più lenta; poi chiedere che arrivi in cucina; poi chiedere la lista degli allergeni.",
+      "oQueMelhora": "La conversazione passa dall'opinione al documento, e da lì il cameriere cerca con te e non contro di te — mangi dove mangiano tutti gli altri.",
+      "ondeNaoVale": "Non per un'intolleranza: lì «un pochino» è davvero una tua decisione, e i tre gradini sono troppo pesanti per l'occasione. E non a un banco affollato su tre file a mezzanotte — lì nessuno legge una lista; lì prendi qualcosa di cui vedi il contenuto.",
       "evidencia": "CONSENSO",
       "audioKeys": ["b13-n08", "b13-n09", "b13-n10", "b13-n11", "b13-n13"]
     },
     {
-      "sinal": "Sur la carte il y a «judías verdes» ou «arroz de verduras», et dedans il y a du jambon ou du bouillon de poisson.",
-      "suaLeitura": "On m'a menti, ou alors on ne prend pas le végétarien au sérieux ici.",
-      "oQueEAli": "Dans beaucoup de cuisines, le jambon est la base des plats de légumes et le bouillon de poisson la base du riz — ils comptent comme assaisonnement, pas comme ingrédient. «Verduras» nomme ce qu'on voit. Rien n'est caché ; la frontière est juste tracée ailleurs que chez vous, et c'est pareil pour l'unique friteuse où tout est frit.",
-      "oQueVoceFaz": "Demander l'assiette, pas la catégorie — «¿Lleva jamón o chorizo?», avant de commander, pas après.",
-      "oQueMelhora": "Vous commandez les plats de légumes du pays au lieu de manger de la salade douze jours de suite — et la question prend deux secondes.",
-      "ondeNaoVale": "Pas là où une carte des allergènes est affichée ou une carte à part pour les plats végétariens : la question est déjà répondue, et insister une deuxième fois se lit comme de la méfiance.",
+      "sinal": "Sul menù c'è «judías verdes» o «arroz de verduras», e dentro c'è prosciutto o brodo di pesce.",
+      "suaLeitura": "Mi hanno mentito, oppure qui il vegetariano non lo prendono sul serio.",
+      "oQueEAli": "In molte cucine il prosciutto è la base dei piatti di verdure e il brodo di pesce la base del riso — contano come condimento, non come ingrediente. «Verduras» nomina ciò che si vede. Niente è nascosto; il confine è solo tracciato altrove che da te, ed è lo stesso per l'unica friggitrice dove si frigge tutto. E attenzione a una parola che sembra la tua: sul tavolo l'`aceite` è olio (l'olio d'oliva è ovunque), non l'`aceto` che credi di leggere.",
+      "oQueVoceFaz": "Chiedere del piatto, non della categoria — «¿Lleva jamón o chorizo?», prima di ordinare, non dopo.",
+      "oQueMelhora": "Ordini i piatti di verdure del posto invece di mangiare insalata per dodici giorni di fila — e la domanda prende due secondi.",
+      "ondeNaoVale": "Non dove è esposta una lista degli allergeni o c'è un menù a parte per i piatti vegetariani: la domanda ha già risposta, e insistere una seconda volta si legge come diffidenza.",
       "evidencia": "CONSENSO",
       "audioKeys": ["b13-n20", "b13-n22", "b13-n23", "b13-n24"]
     }
@@ -57,7 +57,7 @@
   "fatosDatados": [
     {
       "id": "carta-alergenos-obrigatoria",
-      "afirmacao": "En Espagne, la restauration doit informer sur les quatorze allergènes à déclaration obligatoire, y compris pour les plats servis non emballés — c'est le même règlement européen qu'en France.",
+      "afirmacao": "In Spagna la ristorazione deve informare sui quattordici allergeni a dichiarazione obbligatoria, anche per i piatti serviti non confezionati — è lo stesso regolamento europeo che vale in Italia.",
       "fonte": "Reg. (UE) 1169/2011 e RD 126/2015 (AESAN) — citado em docs/pesquisa-espanha.md §5.C e §fontes",
       "ano": 2015,
       "revisarAte": "2027-07-01",
@@ -68,17 +68,17 @@
   ],
 
   "_autoria": {
-    "_": "PARTE ESCRITA em FRANCÊS (o andaime saiu). A fala espanhola continua ativo de DESTINO: nenhum campo `es`/`tts` foi tocado, os audioKey e mp3 herdados do curso base estão intactos e NENHUM clipe espanhol novo foi criado — o custo de crédito espanhol desta parte é ZERO. O que este SKU paga aqui é a narração-guia FRANCESA, e as duas vozes-guia ainda são PLACEHOLDER no audio.config (GuiaFem educadora + GuiaMasc de alertas, voiceId «TODO-FR-...»): o áudio-guia não se gera até o casting fechar. Voz-guia: Juli→GuiaFem, Thomas→GuiaMasc; Carmen/Emilio (peninsulares) reusadas verbatim. MEDIDO no arquivo: 85 steps, 29 `ouvir`, 14 `responde`, 2 `shadow`, 42 clipes de narração (GuiaFem 36 + GuiaMasc 6).",
-    "eixo_falso_amigo": "O eixo do SKU (o falso amigo, a língua-irmã que engana) entra aqui em SOY-ESTOY, e por três sinais distintos, na ordem da DERIVACAO §4.0. (1) BRINDE — a transparência que ACERTA: o francês diz `allergique À`, cuja preposição COINCIDE com o espanhol `alérgico A`. Onde o alemão errava com `gegen` (produzindo `alérgico contra`), o francês já traz a peça certa; então o GuiaMasc de t01 INVERTE o clipe alemão: era advertência, virou reforço («o à que você diria já é o bom»). (2) FALSO AMIGO de saúde, o único lexical da parte: `constipado`=RESFRIADO, não `constipé`=prisão de ventre — GuiaMasc t05, grudado à lista fechada de SOY-ESTOY (que carrega o rótulo), mas apontado PARA A FRENTE, à farmácia (B17), porque a cena que morde é lá; o aluno NÃO o produz aqui (não há clipe espanhol de `constipado` em B13 — está em ep-b17) e a guia apenas o CITA na narração francesa. (3) BRINDE-ESPELHO do artigo: `Soy vegetariano` sem artigo, como `Je suis végétarien` — vira UMA linha de reconhecimento (b13-n06), não bloco.",
-    "jota_som_novo": "A armadilha FONÉTICA da parte, re-derivada do alemão e PIOR que ele. O alemão tinha o par de leitura ⟨ll⟩ vs ⟨j⟩ na MESMA letra alemã (⟨ll⟩ = o seu j de `ja`; ⟨j⟩ = nunca o seu j, mas o [x] de `Bach` que ele JÁ TEM). Para o francês nada disso porta: o ⟨ll⟩ soa como o `y` de `yaourt`/`paille` (GuiaMasc t02, e é REDISPARO — o ⟨ll⟩ já foi ensinado em B01, não é novidade), e o ⟨j⟩ é um SOM NOVO que o francês não tem — nem o seu `j` [ʒ] («zhamón») nem o seu `ch` [ʃ] («shamón»): é o raclement de gorge, ancorado no `r` uvular deles, mesmo ponto (GuiaMasc t03/t04). Numa frase de ALERGIA (`jamón`, `ajo`), errar não é constrangimento, é risco — por isso o GuiaMasc entra imediatamente depois do primeiro `responde` de LLEVA, cena → produção → regra, intervalo encolhido. A NASAL de `jamón` (o `-n` pleno, não vogal de nariz) fica no gloss, não em bloco próprio.",
-    "recalibragem": "Uma linha só (b13-n30, permissao), e ela é o contrapeso honesto de B11 e a direção CERTA da recalibragem francesa (bidirecional): as vozes nativas usam `usted` na escada inteira (`¿Me lo puede hacer…?`, `¿Puede avisar en cocina?`), e a mesa da alergia é o `usted` DEVIDO (contexto sério), o `onde não vale` de «no balcão o tú é o default». Não é o bloco anti-`Sie` alemão num sentido só (anti-padrão 9) — é permissão: a forma que o francês traz de casa (`vous`→`usted`) está certa AQUI.",
-    "gag_morta": "A gag alemã `vino`×`fino` NÃO existe neste par (o francês distingue b/v e diz `[vino]` certo) e não aparece em lugar nenhum desta parte. A gag deste SKU é `embarazada` (I07) + `largo` (balcão, B11); nenhuma das duas cai em B13.",
+    "_": "PARTE RE-DERIVADA ao ITALIANO a partir do NÚCLEO (moldes.json IT + DERIVACAO-IT.md), NÃO traduzida do francês. A fala espanhola continua ativo de DESTINO: nenhum campo `es`/`tts` foi tocado, os audioKey e mp3 herdados do curso base estão intactos e NENHUM clipe espanhol novo foi criado — o custo de crédito espanhol desta parte é ZERO. O que este SKU paga aqui é a NARRAÇÃO-guia ITALIANA, e as duas vozes-guia são PLACEHOLDER no audio.config (GuiaFem educadora + GuiaMasc de alertas, voiceId «TODO-IT-...», guiaLingua «it»): o áudio-guia não se gera até o casting fechar. Carmen/Emilio (peninsulares) reusadas verbatim. Só a narração-guia, a `cena`, o `pinyin` (respelling pro olho ITALIANO) e os campos de moldura se re-derivaram.",
+    "eixo_falso_amigo": "O eixo do SKU (o falso amigo, a língua-irmã que engana AO MÁXIMO — italiano ~82% cognato) entra aqui pela mesa, e por três apoios na ordem da DERIVACAO §4.0. FOCO da parte: (1) `caldo` — o italiano vê `caldo` e pensa QUENTE (temperatura), mas `¿Lleva caldo de pescado?` é CALDO/brodo (ES caliente=quente). É GRAVADO (e04b-caldo-e) e ancora o calque de SOY-ESTOY: `ho caldo`=«tenho calor» → risco `tengo caldo`=«tenho caldo». A advertência vem GRUDADA à produção do caldo (b13-p11) e ecoa na cápsula (d4), DEPOIS de o aluno já ter dito a frase. (2) `aceite` — quase-homófono do italiano `aceto`=VINAGRE, mas em espanhol é ÓLEO/azeite: PERIGOSO à mesa por INVERSÃO (o italiano recusa o azeite achando que é vinagre). NÃO gravado — vive como citação da guia na ficha cultural e no aprofundar, nunca como fala espanhola nova. (3) BRINDE de SOY-ESTOY que o alemão NÃO tinha (errava com `gegen`): o italiano diz `allergico **a**`, cuja preposição COINCIDE com `alérgico **a**` — o GuiaMasc t01 vira REFORÇO («o `a` que você diria já é o bom»). O falso amigo lexical da lista fechada, `constipado`=RESFRIADO (não o italiano `costipato`=prisão de ventre), é apenas CITADO (GuiaMasc t05) apontado à FRENTE (B17, farmácia), porque a cena que morde é lá; o aluno NÃO o produz aqui.",
+    "jota_som_novo": "A armadilha FONÉTICA da parte, re-derivada ao italiano e PIOR que no francês num aspecto. O espanhol `j` e `g`+e/i = [x]; o italiano NÃO TEM [x] — lê ⟨j⟩ como [j] («iamón») ou puxa ⟨g+e,i⟩ para [dʒ] («djamón»). O francês ao menos ancorava pelo `r` uvular (mesmo ponto); o italiano NÃO tem uvular nenhum — a única âncora é regional, a `gorgia toscana` (o [h]/[x] de `la casa`→«la hasa»). Numa frase de ALERGIA (`jamón`, `ajo`), errar não é constrangimento, é risco — por isso o GuiaMasc (t02/t03/t04) entra imediatamente depois do primeiro `responde` de LLEVA, cena → produção → regra, intervalo encolhido. Junto vem o `ch`=[k] (a leitura-armadilha ITALIANÍSSIMA: `chorizo`/`leche`→«korizo»/«leke»; o som [tʃ] o italiano JÁ TEM, é o `ci` de `ciao` — o problema é só a LETRA) e o `ll` (âncora `figlio`, não geminada [ll]). Todos brindes que o italiano ganha (tônica, finais plenos, `u`=[u], sem nasal, `r` tap NATIVO, `qu`=[k], `h` mudo) ficam FORA do gasto de áudio — anti-padrão 9 escrevê-los.",
+    "recalibragem": "Uma linha só (b13-n30, permissao), e ela é a direção CERTA da recalibragem italiana (bidirecional, como a francesa): as vozes nativas usam `usted` na escada inteira (`¿Me lo puede hacer…?`, `¿Puede avisar en cocina?`), e a mesa da alergia é o `usted` DEVIDO (contexto sério). O italiano roda `tu`/`Lei` desde criança e sub-formaliza com facilidade; aqui o `Lei`→`usted` está CERTO, e a permissão diz isso. NÃO é o bloco anti-`Sie` alemão num sentido só (anti-padrão 9).",
+    "gag_morta": "A gag alemã `vino`×`fino` NÃO existe neste par (o italiano distingue b/v e diz `[vino]` certo) e não aparece. A GAG-ÂNCORA do SKU é `burro` (manteiga→jumento, ME-PONE/QUERIA) e a secundária de balcão `largo` (B11); nenhuma cai em B13. O falso amigo desta mesa é o par `caldo`/`aceite`, não uma gag de balcão.",
     "intocavel": "B13 é INTOCÁVEL por lei (PRODUTO §3.2 regra 7 e slots.json → nota): nunca cortada, nunca atrás de paywall. Consequência de redação: as três frases da escada, o cartão e as duas perguntas de ingrediente têm de funcionar para quem só ouviu B01 até aqui.",
     "lista_fechada": "SOY-ESTOY é FECHADO e a lista curta é a feature. B13 ensina quatro dos seis encaixes (frutos secos, marisco, vegetariano/a, celíaco/a) porque são os que têm cena à mesa; `constipado/a` (só citado, sem clipe, aponta a B17) e `perdido/a` (B08) não se produzem aqui. A narração diz que a lista é curta e fechada sem recitá-la inteira — recitar seis rótulos é a palestra que o G4 mede.",
-    "respelling_FR": "INFERÊNCIA — revisor FR-L1 + espanhol peninsular PENDENTE (DERIVACAO §1/§5); nada disto vira áudio antes. O campo `pinyin` é respelling para OLHO FRANCÊS (INV-6, nunca ao TTS) e foi RE-DERIVADO do alemão para a leitura francesa, aplicando a camada fonética do roster: ⟨j⟩ e ⟨g⟩+e,i (a jota [x])→«kh» (evita o `j`=[ʒ] e o `ch`=[ʃ] do olho francês; aproxima pelo `r` uvular) · ⟨ll⟩ e ⟨y⟩→«y» (o y de `yaourt`) · ⟨ch⟩→«tch» (o francês lê ⟨ch⟩=[ʃ]) · ⟨u⟩→«ou» (o francês lê ⟨u⟩=[y]) · ⟨v⟩→«b» · ⟨qu⟩→«k» · ⟨h⟩ some · ⟨s⟩/⟨z⟩/⟨c⟩+e,i→«ss» (o s intervocálico francês é [z]) · ⟨ñ⟩→«gn» · -e final pronunciado→«-é» (contra o apagamento francês do -e) · MAIÚSCULA marca a TÔNICA (o erro nº 1 do francês). A NASALIZAÇÃO (`sin`/`con`/`jamón`) NÃO é codificada no respelling — fica no gloss, é revisor-território. O [θ] da distinción sai «ss» (aceito; o proibido é [z]).",
+    "respelling_IT": "INFERÊNCIA — revisor IT-L1 + espanhol peninsular PENDENTE (DERIVACAO §1/§5); nada disto vira áudio antes. O campo `pinyin` é respelling para OLHO ITALIANO (INV-6, nunca ao TTS) e foi RE-DERIVADO com a camada fonética do par: ⟨j⟩ e ⟨g⟩+e,i (a jota [x])→«kh» (léa-se como o RASCHIO da gorgia toscana `la casa`→«la hasa», NUNCA [k] nem o [dʒ] de «gi») · ⟨ll⟩ e ⟨y⟩→«gli/gl» (o [ʎ] de `figlio`, nunca a geminada [ll] de `bello`) · ⟨ch⟩→«ci/c» (o [tʃ] de `ciao`, nunca [k]) · ⟨c⟩+e,i e ⟨z⟩→«s/ss» (seseo [s] ACEITO; o [θ] é o alvo; PROIBIDOS o [tʃ]/[ts] italianos e o [z]; «ss» intervocálico trava o [z] do Norte) · ⟨v⟩→«b» · ⟨qu⟩→«k» (trava o [kw] italiano de `questo`/`qui` — `quería`→«ke-RI-a», não «kweria») · ⟨u⟩→«u» (já é [u], sem o «ou» francês) · ⟨h⟩ some (mudo) · ⟨ñ⟩→«gn» (`bagno`) · toda vogal final pronunciada (sem o «-é» francês) · MAIÚSCULA marca a TÔNICA (auxílio de leitura, NÃO erro — a tônica italiana já bate). As `doppie`, o `s`=[z] e a nasalização NÃO são codificados no respelling — ficam no gloss, é revisor-território.",
     "consulta": "SEIS `responde` levam marcação, cobrindo SEIS folhas: `dieta/sem` (duas cartas: p01 `sin leche`, p13 `sin jamón`), `dieta/dizer` + `saude/minha-alergia` (p02), `dieta/nao-levam-a-serio` (p06), `dieta/o-que-tem` + `dieta/cartao` (p08), `mesa/comida` (p09). FICA ABERTO: `dieta/cartao` (mostrar o papel não é fala — candidato a card de ação sem frase-alvo) e `dieta/acontecendo` (reativo puro, mora em B17). O G8 acusa as folhas vazias até lá — dívida nomeada.",
-    "cena_e_narracao": "Declarado `cena` (a parte entra EM VIGOR: valida-tom passa a cobrar erro, não aviso) e removido `aguardaNarracao`. A narração-guia estava vazia (era alemã, foi limpa); os glosses de exibição (`pt`/`acao` de `ouvir`/`responde`/`shadow`, top-level e `aprofundar`) foram reescritos do alemão para o FRANCÊS.",
-    "pendencia_G14": "O portão voz × língua roda neste SKU mas o script ainda não tem marcas de `fr` (scripts/lib/g14-voz-lingua.mjs MARCAS sem `fr`): a metade que confere a guia falando francês fica DESLIGADA — conferência humana OBRIGATÓRIA. GuiaFem e GuiaMasc CITAM espanhol dentro da narração francesa (`Soy`, `Lleva`, `alérgico a`, `jamón`, `constipado`, `Puede ser grave`) e isso é o trabalho da guia; nenhum step de voz-guia carrega uma frase espanhola como fala. Carmen e Emilio não dizem uma palavra de francês. INV-5."
+    "cena_e_narracao": "Declarado `cena` (a parte entra EM VIGOR: valida-tom passa a cobrar erro, não aviso) e removido `aguardaNarracao`. A narração-guia estava vazia (era francesa, foi limpa); os glosses de exibição (`pt`/`acao` de `ouvir`/`responde`/`shadow`, top-level e `aprofundar`) foram RE-DERIVADOS ao ITALIANO a partir do núcleo, não traduzidos do francês.",
+    "pendencia_G14": "O portão voz × língua roda neste SKU mas o script ainda não tem marcas de `it` (scripts/lib/g14-voz-lingua.mjs sem `it`): a metade que confere a guia falando italiano fica DESLIGADA — conferência humana OBRIGATÓRIA. GuiaFem e GuiaMasc CITAM espanhol dentro da narração italiana (`Soy`, `Lleva`, `alérgico a`, `jamón`, `caldo`, `constipado`, `Puede ser grave`) e isso é o trabalho da guia; nenhum step de voz-guia carrega uma frase espanhola como fala. Carmen e Emilio não dizem uma palavra de italiano. INV-5."
   },
 
   "steps": [
@@ -89,7 +89,7 @@
       "bloco": "aquecimento",
       "gesto": 4,
       "tom": "ganha",
-      "pt": "Échauffement, dix secondes. Un petit coup pour chaque r : a-LÈR-khi-ko, ma-RISS-ko, a-RI-na. Et le même point, au fond de la bouche, pour le j. On tape, on ne frotte pas."
+      "pt": "Riscaldamento, dieci secondi. La mano in fondo alla gola, per la jota: kha-MON, A-kho, a-LÉR-khi-ko. Non è la tua «gi» morbida — è un raschio, come la «c» toscana di «la hasa». Raschia, non pronunciare."
     },
     {
       "tipo": "responde",
@@ -98,13 +98,13 @@
       "bloco": "callback",
       "molde": "SIN-CON-PARA",
       "encaixe": "leche",
-      "encaixeGloss": "lait",
+      "encaixeGloss": "il latte",
       "promptAudioKey": "b13-p01",
-      "promptPt": "Petit-déjeuner à l'hôtel, huit heures et demie, et ici le café arrive blanc d'office. Deux mots avant qu'il ne verse. Parlez.",
+      "promptPt": "Colazione in hotel, le otto e mezza, e qui il caffè arriva bianco d'ufficio. Due parole prima che versi. Parla.",
       "audioKey": "e04a-sinleche-c",
       "es": "Sin leche, por favor.",
-      "pinyin": "sin LÉ-tché, por fa-BOR",
-      "pt": "sans ce qui vient sinon d'office",
+      "pinyin": "sin LÉ-cie, por fa-BOR",
+      "pt": "senza ciò che, altrimenti, arriva da solo",
       "consulta": ["dieta/sem"]
     },
     {
@@ -112,39 +112,39 @@
       "voz": "GuiaFem",
       "audioKey": "b13-n02",
       "bloco": "cena",
-      "pt": "Neuf heures et demie, une table en terrasse, et vous venez de dire qu'il y a quelque chose que vous ne pouvez pas manger."
+      "pt": "Le nove e mezza di sera, un tavolo in terrazza, e hai appena detto che c'è qualcosa che non puoi mangiare."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e04a-d1-c",
       "receptivo": true,
-      "acao": "D'abord la phrase qui protège. On commande après.",
+      "acao": "Prima la frase che protegge. Si ordina dopo.",
       "es": "¿Qué van a tomar?",
-      "pinyin": "ké ban a to-MAR",
-      "pt": "👂 «Qu'est-ce que vous prenez ?» — la question devant laquelle vient votre phrase la plus importante.",
+      "pinyin": "ke ban a to-MAR",
+      "pt": "👂 «Cosa prendete?» — la domanda davanti a cui viene la tua frase più importante.",
       "tts": "¿Qué van a tomar?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n03",
-      "pt": "Cette phrase-là vient avant la commande, jamais après. Elle est courte, et elle ne change jamais."
+      "pt": "Quella frase viene prima dell'ordine, mai dopo. È corta, e non cambia mai."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n04",
       "bloco": "molde",
-      "pt": "Le premier moule, c'est Soy. Un mot, puis l'étiquette. La liste derrière est courte, et elle est fermée."
+      "pt": "Il primo stampo è Soy. Una parola, poi l'etichetta. La lista dietro è corta, ed è chiusa."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e04a-frutossecos-e",
       "es": "Soy alérgico a los frutos secos.",
-      "pinyin": "soi a-LÈR-khi-ko a loss FROU-toss SSÉ-koss",
-      "pt": "Je suis allergique aux fruits à coque. («frutos secos» couvre noix et graines.)",
+      "pinyin": "soi a-LÉR-khi-ko a los FRU-tos SÉ-kos",
+      "pt": "Sono allergico alla frutta a guscio. («frutos secos» copre noci e semi.)",
       "tts": "Soy alérgico a los frutos secos."
     },
     {
@@ -152,15 +152,15 @@
       "voz": "Carmen",
       "audioKey": "e04a-marisco-c",
       "es": "Soy alérgica al marisco.",
-      "pinyin": "soi a-LÈR-khi-ka al ma-RISS-ko",
-      "pt": "Je suis allergique aux fruits de mer. («marisco» : crustacés, coquillages et crevettes.)",
+      "pinyin": "soi a-LÉR-khi-ka al ma-RIS-ko",
+      "pt": "Sono allergica ai frutti di mare. («marisco»: crostacei, molluschi e gamberi.)",
       "tts": "Soy alérgica al marisco."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b13-t01",
-      "pt": "Bonne nouvelle : votre à de «allergique à» est déjà le bon ici. Alérgico a — et le a reste collé à la phrase, ne le lâchez pas."
+      "pt": "Buona notizia: la tua «a» di «allergico a» è già quella giusta qui. Alérgico a — e la a resta incollata alla frase, non lasciarla."
     },
     {
       "tipo": "responde",
@@ -168,13 +168,13 @@
       "promptVoz": "GuiaFem",
       "molde": "SOY-ESTOY",
       "encaixe": "alérgico a los frutos secos",
-      "encaixeGloss": "les fruits à coque",
+      "encaixeGloss": "la frutta a guscio",
       "promptAudioKey": "b13-p02",
-      "promptPt": "Une petite tapa sur le comptoir, quelque chose de brun et haché dessus — et depuis l'enfance vous savez ce qu'une seule bouchée déclenche. Avant d'y toucher. Parlez.",
+      "promptPt": "Una piccola tapa sul banco, sopra qualcosa di scuro e tritato — e da bambino sai cosa scatena un solo boccone. Prima di toccarla. Parla.",
       "audioKey": "e04a-frutossecos-e",
       "es": "Soy alérgico a los frutos secos.",
-      "pinyin": "soi a-LÈR-khi-ko a loss FROU-toss SSÉ-koss",
-      "pt": "l'étiquette, avant tout le reste",
+      "pinyin": "soi a-LÉR-khi-ko a los FRU-tos SÉ-kos",
+      "pt": "l'etichetta, prima di tutto il resto",
       "consulta": ["dieta/dizer", "saude/minha-alergia"]
     },
     {
@@ -183,27 +183,27 @@
       "promptVoz": "GuiaFem",
       "molde": "SOY-ESTOY",
       "encaixe": "alérgica al marisco",
-      "encaixeGloss": "les fruits de mer",
+      "encaixeGloss": "i frutti di mare",
       "promptAudioKey": "b13-p03",
-      "promptPt": "Un restaurant de plage, et le serveur pose au centre la grande poêle où repose tout ce qui est sorti de l'eau ce matin. Parlez.",
+      "promptPt": "Un ristorante sulla spiaggia, e il cameriere posa al centro la grande padella con tutto ciò che è uscito dall'acqua stamattina. Parla.",
       "audioKey": "e04a-marisco-c",
       "es": "Soy alérgica al marisco.",
-      "pinyin": "soi a-LÈR-khi-ka al ma-RISS-ko",
-      "pt": "la même étiquette, un autre contenu"
+      "pinyin": "soi a-LÉR-khi-ka al ma-RIS-ko",
+      "pt": "la stessa etichetta, un altro contenuto"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n05",
-      "pt": "Seule l'étiquette au bout change. Devant, rien ne bouge — et le petit a reste collé, comme votre à."
+      "pt": "Cambia solo l'etichetta alla fine. Davanti, niente si muove — e la piccola a resta incollata, come la tua «a»."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e04b-celiaco-e",
       "es": "Soy celíaco. Sin gluten, por favor.",
-      "pinyin": "soi ssé-LI-a-ko. sin GLOU-ten, por fa-BOR",
-      "pt": "Je suis cœliaque. Sans gluten, s'il vous plaît. (deux phrases, toujours ensemble)",
+      "pinyin": "soi se-LI-a-ko. sin GLU-ten, por fa-BOR",
+      "pt": "Sono celiaco. Senza glutine, per favore. (due frasi, sempre insieme)",
       "tts": "Soy celíaco. Sin gluten, por favor."
     },
     {
@@ -212,34 +212,34 @@
       "promptVoz": "GuiaFem",
       "molde": "SOY-ESTOY",
       "encaixe": "celíaco",
-      "encaixeGloss": "cœliaque",
+      "encaixeGloss": "celiaco",
       "promptAudioKey": "b13-p04",
-      "promptPt": "La boulangerie du coin, huit heures du matin, et derrière la vitre tout est fait de la seule céréale que votre ventre ne voit plus depuis douze ans. Parlez.",
+      "promptPt": "La panetteria all'angolo, le otto del mattino, e dietro il vetro tutto è fatto con l'unico cereale che il tuo stomaco non vede da dodici anni. Parla.",
       "audioKey": "e04b-celiaco-e",
       "es": "Soy celíaco. Sin gluten, por favor.",
-      "pinyin": "soi ssé-LI-a-ko. sin GLOU-ten, por fa-BOR",
-      "pt": "l'étiquette, et juste derrière la condition"
+      "pinyin": "soi se-LI-a-ko. sin GLU-ten, por fa-BOR",
+      "pt": "l'etichetta, e subito dietro la condizione"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e04b-vegetariana-c",
       "es": "Soy vegetariana: no como carne ni pescado.",
-      "pinyin": "soi bé-khé-ta-RIA-na: no KO-mo KAR-né ni péss-KA-do",
-      "pt": "Je suis végétarienne : je ne mange ni viande ni poisson.",
+      "pinyin": "soi be-khe-ta-RIA-na: no KO-mo KAR-ne ni pes-KA-do",
+      "pt": "Sono vegetariana: non mangio né carne né pesce.",
       "tts": "Soy vegetariana: no como carne ni pescado."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n06",
-      "pt": "Pas d'article devant le mot, comme chez vous : Soy vegetariano, je suis végétarien. Pour une fois, ça tombe juste."
+      "pt": "Niente articolo davanti alla parola, come da te: Soy vegetariano, sono vegetariano. Per una volta, cade giusto."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n07",
-      "pt": "Et ni pescado doit suivre. Le poisson ne compte pas partout comme viande, et l'assiette arrive quand même."
+      "pt": "E deve seguire ni pescado. Il pesce non conta ovunque come carne, e il piatto arriva lo stesso."
     },
     {
       "tipo": "responde",
@@ -247,23 +247,23 @@
       "promptVoz": "GuiaFem",
       "molde": "SOY-ESTOY",
       "encaixe": "vegetariano",
-      "encaixeGloss": "végétarien",
+      "encaixeGloss": "vegetariano",
       "promptAudioKey": "b13-p05",
-      "promptPt": "On vous a invité à manger, la marmite est déjà au centre, tout le monde attend votre signe de tête. Dites-le — et dites-le en entier. Parlez.",
+      "promptPt": "Ti hanno invitato a mangiare, la pentola è già al centro, tutti aspettano il tuo cenno. Dillo — e dillo per intero. Parla.",
       "audioKey": "e04b-vegetariana-c",
       "es": "Soy vegetariana: no como carne ni pescado.",
-      "pinyin": "soi bé-khé-ta-RIA-na: no KO-mo KAR-né ni péss-KA-do",
-      "pt": "l'étiquette, et la moitié qu'on voudrait laisser tomber"
+      "pinyin": "soi be-khe-ta-RIA-na: no KO-mo KAR-ne ni pes-KA-do",
+      "pt": "l'etichetta, e la metà che verrebbe voglia di lasciar cadere"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e04a-yhuevo-c",
       "receptivo": true,
-      "acao": "Répondre d'un mot : sí ou no. Elle n'en demande pas plus.",
+      "acao": "Rispondere con una parola: sí o no. Non chiede altro.",
       "es": "Vale. ¿Y huevo sí come?",
-      "pinyin": "BA-lé. i OUÉ-bo si KO-mé",
-      "pt": "👂 «Et l'œuf, vous en mangez ?» — la question à laquelle un mot suffit.",
+      "pinyin": "BA-le. i UÉ-bo si KO-me",
+      "pt": "👂 «E l'uovo, lo mangia?» — la domanda a cui basta una parola.",
       "tts": "Vale. ¿Y huevo sí come?"
     },
     {
@@ -271,8 +271,8 @@
       "voz": "Emilio",
       "audioKey": "e04b-vegano-e",
       "es": "Soy vegano: sin carne, sin pescado, sin huevo y sin leche.",
-      "pinyin": "soi bé-GA-no: sin KAR-né, sin péss-KA-do, sin OUÉ-bo i sin LÉ-tché",
-      "pt": "Je suis végétalien : sans viande, sans poisson, sans œuf et sans lait. La liste toujours entière.",
+      "pinyin": "soi be-GA-no: sin KAR-ne, sin pes-KA-do, sin UÉ-bo i sin LÉ-cie",
+      "pt": "Sono vegano: senza carne, senza pesce, senza uovo e senza latte. La lista sempre intera.",
       "tts": "Soy vegano: sin carne, sin pescado, sin huevo y sin leche."
     },
     {
@@ -281,17 +281,17 @@
       "audioKey": "e04a-sinatun-c",
       "receptivo": true,
       "tom": "ganha",
-      "acao": "Dire oui. Elle a compris et réfléchit déjà à la suite.",
+      "acao": "Dire di sì. Ha capito e sta già pensando al seguito.",
       "es": "Pues le hago una ensalada. Sin atún, claro.",
-      "pinyin": "pouess lé A-go OU-na én-ssa-LA-da. sin a-TOUN, KLA-ro",
-      "pt": "👂 «Alors je vous fais une salade. Sans thon, bien sûr.» — voilà comment ça sonne quand c'est passé.",
+      "pinyin": "pues le A-go U-na en-sa-LA-da. sin a-TUN, KLA-ro",
+      "pt": "👂 «Allora le faccio un'insalata. Senza tonno, certo.» — ecco come suona quando è passato.",
       "tts": "Pues le hago una ensalada. Sin atún, claro."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b13-t05",
-      "pt": "Un mot de cette liste fermée qui vous piège plus tard : constipado ne veut pas dire constipé, mais enrhumé. À la pharmacie, ça vous enverrait au mauvais médicament."
+      "pt": "Una parola di questa lista chiusa che ti frega più avanti: constipado non vuol dire costipato, ma raffreddato. In farmacia ti manderebbe alla medicina sbagliata."
     },
     {
       "tipo": "intro",
@@ -299,39 +299,39 @@
       "audioKey": "b13-n08",
       "bloco": "corpo",
       "tom": "protege",
-      "pt": "C'était le premier palier, et le plus souvent il suffit. Parfois non — alors vient cette phrase, et elle a l'air aimable."
+      "pt": "Era il primo gradino, e il più delle volte basta. A volte no — allora arriva questa frase, e sembra gentile."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e04a-d2-c",
       "receptivo": true,
-      "acao": "Ne pas discuter, ne pas expliquer. La même phrase encore une fois, plus calme.",
+      "acao": "Non discutere, non spiegare. La stessa frase ancora una volta, più calma.",
       "es": "Vale, un poquito no pasa nada, ¿no?",
-      "pinyin": "BA-lé, oun po-KI-to no PA-ssa NA-da, no",
-      "pt": "👂 «Un petit peu, ça ne fait rien, non ?» — c'est là que ça bascule, et c'est là que vous intervenez.",
+      "pinyin": "BA-le, un po-KI-to no PA-sa NA-da, no",
+      "pt": "👂 «Un pochino non fa niente, no?» — è qui che tutto vacilla, ed è qui che intervieni.",
       "tts": "Vale, un poquito no pasa nada, ¿no?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n09",
-      "pt": "Ce n'est pas de la méfiance. Au même comptoir, «sans oignon» et «sans fruits à coque» arrivent par le même canal."
+      "pt": "Non è diffidenza. Allo stesso banco, «senza cipolla» e «senza frutta a guscio» arrivano dallo stesso canale."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n10",
       "tom": "protege",
-      "pt": "Alors vous séparez les deux. Une phrase ferme, pas de dispute, pas de justification. C'est le deuxième palier."
+      "pt": "Allora separi le due cose. Una frase ferma, nessuna lite, nessuna giustificazione. È il secondo gradino."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e04a-mania-c",
       "es": "Es alergia, no es manía.",
-      "pinyin": "éss a-LÈR-khia, no éss ma-NI-a",
-      "pt": "C'est une allergie, pas un caprice.",
+      "pinyin": "es a-LÉR-khia, no es ma-NI-a",
+      "pt": "È un'allergia, non un capriccio.",
       "tts": "Es alergia, no es manía."
     },
     {
@@ -339,8 +339,8 @@
       "voz": "Emilio",
       "audioKey": "e04a-grave-e",
       "es": "Es una alergia grave. Puedo acabar en el hospital.",
-      "pinyin": "éss OU-na a-LÈR-khia GRA-bé. POUÉ-do a-ka-BAR én él oss-pi-TAL",
-      "pt": "C'est une allergie grave. Je peux finir à l'hôpital.",
+      "pinyin": "es U-na a-LÉR-khia GRA-be. PUÉ-do a-ka-BAR en el os-pi-TAL",
+      "pt": "È un'allergia grave. Posso finire all'ospedale.",
       "tts": "Es una alergia grave. Puedo acabar en el hospital."
     },
     {
@@ -348,10 +348,10 @@
       "voz": "Carmen",
       "audioKey": "e04a-poquitoseguro-c",
       "receptivo": true,
-      "acao": "Deuxième tentative de sa part. Vous gardez exactement les mêmes mots.",
+      "acao": "Secondo tentativo da parte sua. Tu tieni esattamente le stesse parole.",
       "es": "Bueno, un poquito seguro que no pasa nada.",
-      "pinyin": "BOUÉ-no, oun po-KI-to ssé-GOU-ro ké no PA-ssa NA-da",
-      "pt": "👂 «Un tout petit peu, ça ne fait sûrement rien.» — ça revient souvent deux fois.",
+      "pinyin": "BUÉ-no, un po-KI-to se-GU-ro ke no PA-sa NA-da",
+      "pt": "👂 «Un pochino di sicuro non fa niente.» — spesso torna due volte.",
       "tts": "Bueno, un poquito seguro que no pasa nada."
     },
     {
@@ -360,26 +360,26 @@
       "promptVoz": "GuiaFem",
       "tom": "protege",
       "promptAudioKey": "b13-p06",
-      "promptPt": "On vous assure une deuxième fois qu'un tout petit peu, ce n'est rien. Vous ne souriez plus avec eux, vous tenez le regard et vous dites les deux phrases fermes. Parlez.",
+      "promptPt": "Ti assicurano una seconda volta che un pochino non è niente. Non sorridi più con loro, tieni lo sguardo e dici le due frasi ferme. Parla.",
       "audioKey": "e04a-mania-e",
       "es": "No. Es alergia, no es manía. Es una alergia grave.",
-      "pinyin": "no. éss a-LÈR-khia, no éss ma-NI-a. éss OU-na a-LÈR-khia GRA-bé",
-      "pt": "les deux phrases qui font bouger la cuisine",
+      "pinyin": "no. es a-LÉR-khia, no es ma-NI-a. es U-na a-LÉR-khia GRA-be",
+      "pt": "le due frasi che fanno muovere la cucina",
       "consulta": ["dieta/nao-levam-a-serio"]
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n11",
-      "pt": "Puis le troisième palier, le plus important : le serveur ne cuisine pas. Faites passer le message."
+      "pt": "Poi il terzo gradino, il più importante: il cameriere non cucina. Fai arrivare il messaggio."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e04a-cocina-e",
       "es": "¿Puede avisar en cocina, por favor?",
-      "pinyin": "POUÉ-dé a-bi-SSAR én ko-SSI-na, por fa-BOR",
-      "pt": "Pouvez-vous prévenir en cuisine, s'il vous plaît ?",
+      "pinyin": "PUÉ-de a-bi-SAR en ko-SI-na, por fa-BOR",
+      "pt": "Può avvisare in cucina, per favore?",
       "tts": "¿Puede avisar en cocina, por favor?"
     },
     {
@@ -388,13 +388,13 @@
       "promptVoz": "GuiaFem",
       "molde": "ME-PUEDE",
       "encaixe": "avisar en cocina",
-      "encaixeGloss": "prévenir en cuisine",
+      "encaixeGloss": "avvisare in cucina",
       "promptAudioKey": "b13-p07",
-      "promptPt": "Il a compris, hoche la tête et se retourne — et entre lui et la marmite il reste trois personnes qui n'en savent rien. Retenez-le. Parlez.",
+      "promptPt": "Ha capito, annuisce e si gira — e tra lui e la pentola restano tre persone che non ne sanno niente. Fermalo. Parla.",
       "audioKey": "e04a-cocina-e",
       "es": "¿Puede avisar en cocina, por favor?",
-      "pinyin": "POUÉ-dé a-bi-SSAR én ko-SSI-na, por fa-BOR",
-      "pt": "faire passer, là où l'on cuisine"
+      "pinyin": "PUÉ-de a-bi-SAR en ko-SI-na, por fa-BOR",
+      "pt": "far passare il messaggio, lì dove si cucina"
     },
     {
       "tipo": "ouvir",
@@ -402,10 +402,10 @@
       "audioKey": "e04a-valeperdone-c",
       "receptivo": true,
       "tom": "ganha",
-      "acao": "Ne rien ajouter. C'était le basculement.",
+      "acao": "Non aggiungere niente. Era il momento della svolta.",
       "es": "Vale, vale. Perdone.",
-      "pinyin": "BA-lé, BA-lé. per-DO-né",
-      "pt": "👂 «Oui, oui. Pardon.» — c'est là que ça s'arrête presque toujours.",
+      "pinyin": "BA-le, BA-le. per-DO-ne",
+      "pt": "👂 «Sì, sì. Mi scusi.» — è qui che quasi sempre si ferma.",
       "tts": "Vale, vale. Perdone."
     },
     {
@@ -413,22 +413,22 @@
       "voz": "GuiaFem",
       "audioKey": "b13-n12",
       "tom": "ganha",
-      "pt": "Le plus souvent, ça s'arrête là. Et il y a plus fort que n'importe quelle phrase : le papier."
+      "pt": "Il più delle volte, si ferma lì. E c'è qualcosa di più forte di qualsiasi frase: il foglio."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e04a-alergenos-c",
       "es": "¿Tienen la carta de alérgenos?",
-      "pinyin": "TIÉ-nen la KAR-ta de a-LÈR-khé-noss",
-      "pt": "Avez-vous la carte des allergènes ?",
+      "pinyin": "TIÉ-nen la KAR-ta de a-LÉR-khe-nos",
+      "pt": "Avete la lista degli allergeni?",
       "tts": "¿Tienen la carta de alérgenos?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n13",
-      "pt": "L'information est obligatoire — même règlement européen que chez vous, mêmes quatorze substances, même pour un plat servi à table."
+      "pt": "L'informazione è obbligatoria — lo stesso regolamento europeo che da te, le stesse quattordici sostanze, anche per un piatto servito a tavola."
     },
     {
       "tipo": "responde",
@@ -436,11 +436,11 @@
       "promptVoz": "GuiaFem",
       "tom": "ganha",
       "promptAudioKey": "b13-p08",
-      "promptPt": "Plus un mot sur votre corps. Réclamez le papier où la cuisine elle-même a écrit ce qu'il y a dans chaque plat. Parlez.",
+      "promptPt": "Non una parola in più sul tuo corpo. Chiedi il foglio dove la cucina stessa ha scritto cosa c'è in ogni piatto. Parla.",
       "audioKey": "e04a-alergenos-c",
       "es": "¿Tienen la carta de alérgenos?",
-      "pinyin": "TIÉ-nen la KAR-ta de a-LÈR-khé-noss",
-      "pt": "le papier au lieu de l'avis",
+      "pinyin": "TIÉ-nen la KAR-ta de a-LÉR-khe-nos",
+      "pt": "il foglio al posto del parere",
       "consulta": ["dieta/o-que-tem", "dieta/cartao"]
     },
     {
@@ -449,10 +449,10 @@
       "audioKey": "e04a-d3-c",
       "receptivo": true,
       "tom": "ganha",
-      "acao": "Rester assis et lire. À partir d'ici c'est son papier, pas votre prononciation.",
+      "acao": "Restare seduto e leggere. Da qui in poi è il suo foglio, non la tua pronuncia.",
       "es": "Por supuesto. Le traigo la carta de alérgenos.",
-      "pinyin": "por sou-POUÉSS-to. lé TRAI-go la KAR-ta de a-LÈR-khé-noss",
-      "pt": "👂 «Bien sûr, je vous apporte la carte des allergènes.» — la conversation a changé de terrain.",
+      "pinyin": "por su-PUÉS-to. le TRAI-go la KAR-ta de a-LÉR-khe-nos",
+      "pt": "👂 «Certo, le porto la lista degli allergeni.» — la conversazione ha cambiato terreno.",
       "tts": "Por supuesto. Le traigo la carta de alérgenos."
     },
     {
@@ -460,30 +460,30 @@
       "voz": "GuiaFem",
       "audioKey": "b13-n14",
       "bloco": "molde",
-      "pt": "Le deuxième moule tient en un mot, et il interroge l'assiette au lieu de vous."
+      "pt": "Ecco il secondo stampo, e come il primo sta in una parola. Lo stampo interroga il piatto invece di te."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e04b-jamon-c",
       "es": "¿Lleva jamón o chorizo?",
-      "pinyin": "YÉ-ba kha-MON o tcho-RI-sso",
-      "pt": "Il y a du jambon ou du chorizo dedans ?",
+      "pinyin": "GLIÉ-ba kha-MON o cio-RI-so",
+      "pt": "C'è dentro prosciutto o chorizo?",
       "tts": "¿Lleva jamón o chorizo?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n15",
-      "pt": "Lleva veut dire : il y a dedans. Devant, rien d'autre ; au bout, le seul ingrédient qui vous importe."
+      "pt": "Lleva vuol dire: c'è dentro. Davanti, nient'altro; alla fine, l'unico ingrediente che ti riguarda."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e04b-caldo-e",
       "es": "¿Lleva caldo de pescado o de carne?",
-      "pinyin": "YÉ-ba KAL-do de péss-KA-do o de KAR-né",
-      "pt": "Il y a du bouillon de poisson ou de viande dedans ? — devant le même mot, au bout tout autre chose.",
+      "pinyin": "GLIÉ-ba KAL-do de pes-KA-do o de KAR-ne",
+      "pt": "C'è dentro brodo di pesce o di carne? — davanti la stessa parola, alla fine tutt'altra cosa.",
       "tts": "¿Lleva caldo de pescado o de carne?"
     },
     {
@@ -492,32 +492,32 @@
       "promptVoz": "GuiaFem",
       "molde": "LLEVA",
       "encaixe": "ajo",
-      "encaixeGloss": "l'ail",
+      "encaixeGloss": "l'aglio",
       "promptAudioKey": "b13-p09",
-      "promptPt": "L'étal du marché, un gobelet de quelque chose de crémeux qui ne ressemble à rien — et dans presque toutes les poêles du pays il y a une gousse râpée que vous ne digérez pas. Demandez précisément celle-là. Parlez.",
+      "promptPt": "Il banco del mercato, un bicchiere di qualcosa di cremoso che non somiglia a niente — e in quasi tutte le padelle del paese c'è uno spicchio grattugiato che non digerisci. Chiedi proprio di quello. Parla.",
       "audioKey": "e04b-ajo-c",
       "es": "¿Lleva ajo?",
-      "pinyin": "YÉ-ba A-kho",
-      "pt": "est-ce qu'il y a celui-là dedans ?",
+      "pinyin": "GLIÉ-ba A-kho",
+      "pt": "c'è dentro proprio quello?",
       "consulta": ["mesa/comida"]
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b13-t02",
-      "pt": "Attention. Le double l, vous le connaissez déjà : il sonne comme le y de «yaourt», de «paille». Et il est dans le moule lui-même : YÉ-ba."
+      "pt": "Attenzione. La doppia elle non si legge «l-l»: suona come il gl di «figlio», di «aglio». Ed è nello stampo stesso: GLIÉ-ba."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b13-t03",
-      "pt": "Et dans le même mot, l'inverse : le j espagnol n'est ni votre j ni votre ch. C'est un raclement de gorge — visez votre r, au même endroit. kha-MON, jamais «jamon»."
+      "pt": "E nella stessa frase, l'opposto: la j spagnola non è la tua «gi» né la tua «i». È un raschio in fondo alla gola — la «c» toscana di «la hasa». kha-MON, mai «giamon» né «iamon»."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b13-t04",
-      "pt": "Un mot, deux lettres, deux consignes opposées : le ll qui glisse, le j qui racle. YÉ-ba kha-MON."
+      "pt": "Una frase, due lettere, due istruzioni opposte: la ll che scivola come «figlio», la j che raschia come «la hasa». GLIÉ-ba kha-MON."
     },
     {
       "tipo": "responde",
@@ -525,13 +525,13 @@
       "promptVoz": "GuiaFem",
       "molde": "LLEVA",
       "encaixe": "harina",
-      "encaixeGloss": "la farine",
+      "encaixeGloss": "la farina",
       "promptAudioKey": "b13-p10",
-      "promptPt": "Le bar du coin, une assiette de six beignets dorés que tout le monde adore ici — et ça ne va presque jamais sans ce que vous évitez. Parlez.",
+      "promptPt": "Il bar all'angolo, un piatto di sei frittelle dorate che qui tutti adorano — e quasi mai vanno senza ciò che eviti. Parla.",
       "audioKey": "e04b-harina-c",
       "es": "¿Lleva harina o gluten?",
-      "pinyin": "YÉ-ba a-RI-na o GLOU-ten",
-      "pt": "le blanc fin, et son cousin"
+      "pinyin": "GLIÉ-ba a-RI-na o GLU-ten",
+      "pt": "il bianco fine, e suo cugino"
     },
     {
       "tipo": "responde",
@@ -539,13 +539,13 @@
       "promptVoz": "GuiaFem",
       "molde": "LLEVA",
       "encaixe": "caldo de pescado",
-      "encaixeGloss": "le bouillon de poisson",
+      "encaixeGloss": "il brodo di pesce",
       "promptAudioKey": "b13-p11",
-      "promptPt": "Sur l'ardoise, une grande poêle de riz, et à côté le mot pour légumes. Le riz, lui, a cuit dans quelque chose que personne n'a écrit. Parlez.",
+      "promptPt": "Sulla lavagna, una grande padella di riso, e accanto la parola per verdure. Il riso, però, ha cotto in qualcosa che nessuno ha scritto. Parla.",
       "audioKey": "e04b-caldo-e",
       "es": "¿Lleva caldo de pescado o de carne?",
-      "pinyin": "YÉ-ba KAL-do de péss-KA-do o de KAR-né",
-      "pt": "ce dans quoi il a cuit"
+      "pinyin": "GLIÉ-ba KAL-do de pes-KA-do o de KAR-ne",
+      "pt": "ciò in cui ha cotto — «caldo» non è «caldo», è brodo"
     },
     {
       "tipo": "responde",
@@ -553,42 +553,42 @@
       "promptVoz": "GuiaFem",
       "molde": "LLEVA",
       "encaixe": "frutos secos",
-      "encaixeGloss": "les fruits à coque",
+      "encaixeGloss": "la frutta a guscio",
       "promptAudioKey": "b13-p12",
-      "promptPt": "Avec le café, la maison pose sans le demander un petit gâteau. Il a l'air inoffensif, et vous avez une seconde avant de le prendre. Parlez.",
+      "promptPt": "Col caffè, la casa posa senza chiedere un dolcetto. Sembra innocuo, e hai un secondo prima di prenderlo. Parla.",
       "audioKey": "e04a-frutos-lleva-e",
       "es": "¿Lleva frutos secos?",
-      "pinyin": "YÉ-ba FROU-toss SSÉ-koss",
-      "pt": "ce que vous ne pouvez pas voir"
+      "pinyin": "GLIÉ-ba FRU-tos SÉ-kos",
+      "pt": "ciò che non puoi vedere"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n16",
-      "pt": "La liste derrière Lleva est ouverte. Personne ne peut vous la dicter, parce que personne ne connaît votre assiette."
+      "pt": "La lista dietro Lleva è aperta. Nessuno può dettartela, perché nessuno conosce il tuo piatto."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e04a-conservantes-e",
       "es": "¿Lleva conservantes?",
-      "pinyin": "YÉ-ba kon-sser-BAN-tess",
-      "pt": "Il y a des conservateurs dedans ? — le même mot, une étiquette plus loin.",
+      "pinyin": "GLIÉ-ba kon-ser-BAN-tes",
+      "pt": "Ci sono conservanti? — la stessa parola, un'etichetta più in là.",
       "tts": "¿Lleva conservantes?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n17",
-      "pt": "Et si la réponse est oui, il y a deux voies. La première : la cuisine le retire."
+      "pt": "E se la risposta è sì, ci sono due strade. La prima: la cucina lo toglie."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e03b-sincebolla-e",
       "es": "¿Me lo puede hacer sin cebolla?",
-      "pinyin": "mé lo POUÉ-dé a-SSER sin ssé-BO-ya",
-      "pt": "Pouvez-vous me le faire sans oignon ? — la phrase d'hier, aujourd'hui avec un autre poids.",
+      "pinyin": "me lo PUÉ-de a-SER sin se-BO-glia",
+      "pt": "Me lo può fare senza cipolla? — la frase di ieri, oggi con un altro peso.",
       "tts": "¿Me lo puede hacer sin cebolla?"
     },
     {
@@ -596,8 +596,8 @@
       "voz": "Emilio",
       "audioKey": "e04b-sinajo-e",
       "es": "¿Me lo puede hacer sin ajo?",
-      "pinyin": "mé lo POUÉ-dé a-SSER sin A-kho",
-      "pt": "Pouvez-vous me le faire sans ail ? (ajo = A-kho, un raclement de gorge, pas votre j)",
+      "pinyin": "me lo PUÉ-de a-SER sin A-kho",
+      "pt": "Me lo può fare senza aglio? (ajo = A-kho, un raschio in gola, non la tua «i»)",
       "tts": "¿Me lo puede hacer sin ajo?"
     },
     {
@@ -606,13 +606,13 @@
       "promptVoz": "GuiaFem",
       "molde": "ME-PUEDE",
       "encaixe": "hacer sin jamón",
-      "encaixeGloss": "le faire sans jambon",
+      "encaixeGloss": "farlo senza prosciutto",
       "promptAudioKey": "b13-p13",
-      "promptPt": "Un pincho sur le comptoir, sous le fromage quelque chose de rose que vous ne mangez plus depuis vingt ans. Le reste a l'air très bien. Parlez.",
+      "promptPt": "Un pincho sul banco, sotto il formaggio qualcosa di rosa che non mangi da vent'anni. Il resto sembra ottimo. Parla.",
       "audioKey": "e04b-sinjamon-c",
       "es": "¿Me lo puede hacer sin jamón?",
-      "pinyin": "mé lo POUÉ-dé a-SSER sin kha-MON",
-      "pt": "comme ça, mais sans celui-là",
+      "pinyin": "me lo PUÉ-de a-SER sin kha-MON",
+      "pt": "così, ma senza quello",
       "consulta": ["dieta/sem"]
     },
     {
@@ -620,33 +620,33 @@
       "voz": "GuiaFem",
       "audioKey": "b13-n18",
       "tom": "protege",
-      "pt": "La deuxième voie est un non, et c'est un non honnête. Certaines choses sont cuites avec, depuis le début."
+      "pt": "La seconda strada è un no, ed è un no onesto. Certe cose sono cotte con quello, fin dall'inizio."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e04a-jamondentro-c",
       "receptivo": true,
-      "acao": "Prendre autre chose. C'était la vérité, pas une excuse.",
+      "acao": "Prendere altro. Era la verità, non una scusa.",
       "es": "Es que ya viene con el jamón dentro, cocinado.",
-      "pinyin": "éss ké ya BIÉ-né kon él kha-MON DEN-tro, ko-ssi-NA-do",
-      "pt": "👂 «C'est déjà cuit avec le jambon dedans.» — la réponse la plus honnête qui soit.",
+      "pinyin": "es ke glia BIÉ-ne kon el kha-MON DEN-tro, ko-si-NA-do",
+      "pt": "👂 «È che arriva già col prosciutto dentro, cotto.» — la risposta più onesta che ci sia.",
       "tts": "Es que ya viene con el jamón dentro, cocinado."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n19",
-      "pt": "Et une question qu'aucun guide de conversation ne donne et qui compte ici tous les jours : il y a une friteuse."
+      "pt": "E una domanda che nessun frasario ti dà e che qui conta ogni giorno: c'è una friggitrice."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e04b-freidora-e",
-      "acao": "Demander une fois, avant de commander des légumes frits.",
+      "acao": "Chiedere una volta, prima di ordinare verdure fritte.",
       "es": "¿Lo fríen en la misma freidora que el pescado?",
-      "pinyin": "lo FRI-en én la MISS-ma frei-DO-ra ké él péss-KA-do",
-      "pt": "Vous les faites frire dans la même friteuse que le poisson ?",
+      "pinyin": "lo FRI-en en la MIS-ma frei-DO-ra ke el pes-KA-do",
+      "pt": "Lo friggete nella stessa friggitrice del pesce?",
       "tts": "¿Lo fríen en la misma freidora que el pescado?"
     },
     {
@@ -654,16 +654,16 @@
       "voz": "GuiaFem",
       "audioKey": "b13-n20",
       "bloco": "capsula",
-      "pt": "Maintenant tout l'échange d'un seul tenant, à la table du restaurant. Elle vient de recommander le légume du jour."
+      "pt": "Ora tutto lo scambio di seguito, al tavolo del ristorante. Ha appena consigliato la verdura del giorno."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e04b-d1-c",
-      "acao": "Ne pas encore commander. D'abord demander ce qu'il y a dedans.",
+      "acao": "Non ordinare ancora. Prima chiedere cosa c'è dentro.",
       "es": "Las judías verdes están muy buenas hoy.",
-      "pinyin": "lass khou-DI-ass BÈR-dess éss-TAN moui BOUÉ-nass oi",
-      "pt": "👂 «Les haricots verts sont très bons aujourd'hui.» — la recommandation qui appelle une question.",
+      "pinyin": "las khu-DI-as BER-des es-TAN mui BUÉ-nas oi",
+      "pt": "👂 «I fagiolini sono molto buoni oggi.» — il consiglio che chiama una domanda.",
       "tts": "Las judías verdes están muy buenas hoy."
     },
     {
@@ -672,18 +672,18 @@
       "audioKey": "e04b-jamon-e",
       "molde": "LLEVA",
       "es": "¿Lleva jamón o chorizo?",
-      "pinyin": "YÉ-ba kha-MON o tcho-RI-sso",
-      "pt": "— Il y a du jambon ou du chorizo dedans ?",
+      "pinyin": "GLIÉ-ba kha-MON o cio-RI-so",
+      "pt": "— C'è dentro prosciutto o chorizo?",
       "tts": "¿Lleva jamón o chorizo?"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e04b-d2-c",
-      "acao": "Ne pas accepter le «un peu» : dire l'étiquette et demander la version sans.",
+      "acao": "Non accettare il «un po'»: dire l'etichetta e chiedere la versione senza.",
       "es": "Sí, lleva un poco de jamón. Pero muy poquito.",
-      "pinyin": "si, YÉ-ba oun PO-ko de kha-MON. PÉ-ro moui po-KI-to",
-      "pt": "👂 «Oui, un peu de jambon. Mais vraiment très peu.» — «peu» n'est pas une quantité, c'est une manière de vous rassurer.",
+      "pinyin": "si, GLIÉ-ba un PO-ko de kha-MON. PÉ-ro mui po-KI-to",
+      "pt": "👂 «Sì, un po' di prosciutto. Ma pochissimo.» — «poco» non è una quantità, è un modo di rassicurarti.",
       "tts": "Sí, lleva un poco de jamón. Pero muy poquito."
     },
     {
@@ -691,8 +691,8 @@
       "voz": "Emilio",
       "audioKey": "e04b-d3-e",
       "es": "Soy vegetariano: no como carne ni pescado. ¿Me lo puede hacer sin jamón?",
-      "pinyin": "soi bé-khé-ta-RIA-no: no KO-mo KAR-né ni péss-KA-do. mé lo POUÉ-dé a-SSER sin kha-MON",
-      "pt": "— Je suis végétarien, ni viande ni poisson. Pouvez-vous le faire sans jambon ?",
+      "pinyin": "soi be-khe-ta-RIA-no: no KO-mo KAR-ne ni pes-KA-do. me lo PUÉ-de a-SER sin kha-MON",
+      "pt": "— Sono vegetariano, né carne né pesce. Me lo può fare senza prosciutto?",
       "tts": "Soy vegetariano: no como carne ni pescado. ¿Me lo puede hacer sin jamón?"
     },
     {
@@ -700,10 +700,10 @@
       "voz": "Carmen",
       "audioKey": "e04b-d4-c",
       "tom": "ganha",
-      "acao": "Accepter l'indice : laisser le riz et lui demander ce qu'elle recommande à la place.",
+      "acao": "Cogliere l'indizio: lasciare il riso e chiederle cosa consiglia al suo posto.",
       "es": "Claro que sí. ¿Y el arroz? Ese lleva caldo de pescado.",
-      "pinyin": "KLA-ro ké si. i él a-RROSS? É-ssé YÉ-ba KAL-do de péss-KA-do",
-      "pt": "👂 «Bien sûr. Et le riz ? Lui, il est au bouillon de poisson.» — à partir d'ici, elle cherche avec vous.",
+      "pinyin": "KLA-ro ke si. i el a-RROS? É-se GLIÉ-ba KAL-do de pes-KA-do",
+      "pt": "👂 «Certo. E il riso? Quello ha il brodo di pesce.» — da qui in poi cerca insieme a te. (caldo = brodo, non «caldo»)",
       "tts": "Claro que sí. ¿Y el arroz? Ese lleva caldo de pescado."
     },
     {
@@ -711,8 +711,8 @@
       "voz": "Emilio",
       "audioKey": "e04b-d5-e",
       "es": "Entonces no, gracias. ¿Qué me recomienda?",
-      "pinyin": "én-TON-ssess no, GRA-ssiass. ké mé rré-ko-MIÉN-da",
-      "pt": "— Alors non, merci. Qu'est-ce que vous me recommandez ?",
+      "pinyin": "en-TON-ses no, GRA-sias. ke me rre-ko-MIÉN-da",
+      "pt": "— Allora no, grazie. Cosa mi consiglia?",
       "tts": "Entonces no, gracias. ¿Qué me recomienda?"
     },
     {
@@ -720,44 +720,44 @@
       "voz": "GuiaFem",
       "audioKey": "b13-n21",
       "tom": "ganha",
-      "pt": "Écoutez ce qui a changé à mi-chemin : elle cherche avec vous. L'obstacle est devenu un allié."
+      "pt": "Ascolta cosa è cambiato a metà strada: cerca insieme a te. L'ostacolo è diventato un alleato."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n22",
-      "pt": "Haricots verts, épinards, lentilles, soupe de légumes : bien souvent le jambon est la base, pas la garniture."
+      "pt": "Fagiolini, spinaci, lenticchie, zuppa di verdure: spesso il prosciutto è la base, non il contorno."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n23",
-      "pt": "Rien n'est caché — verduras nomme ce qu'on voit. Demandez l'assiette, pas la catégorie."
+      "pt": "Niente è nascosto — verduras nomina ciò che si vede. Chiedi del piatto, non della categoria."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n24",
-      "pt": "Là où une carte des allergènes est affichée, ou une carte à part, la question est déjà réglée. Alors on n'insiste pas."
+      "pt": "Dove c'è una lista degli allergeni esposta, o un menù a parte, la domanda è già risolta. Allora non si insiste."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n25",
       "bloco": "capsula",
-      "pt": "Et le papier. Demandez-le à la réception, ou apportez-le imprimé de chez vous."
+      "pt": "E il foglio. Chiedilo alla reception, o portalo stampato da casa."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n26",
-      "pt": "Deux lignes, pas plus : Soy alérgico a — et ensuite votre affaire. En dessous : Puede ser grave."
+      "pt": "Due righe, non di più: Soy alérgico a — e poi la cosa tua. Sotto: Puede ser grave."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n27",
-      "pt": "Dans un bar bruyant, le papier est plus fort que n'importe quelle prononciation. Le montrer n'est pas un recul."
+      "pt": "In un bar rumoroso, il foglio è più forte di qualsiasi pronuncia. Mostrarlo non è un passo indietro."
     },
     {
       "tipo": "intro",
@@ -765,46 +765,46 @@
       "audioKey": "b13-n28",
       "bloco": "permissao",
       "tom": "ganha",
-      "pt": "Et vous n'expliquez rien. Pas de raison, pas d'histoire, pas d'excuse — la phrase seule suffit."
+      "pt": "E non spieghi niente. Nessun motivo, nessuna storia, nessuna scusa — la frase da sola basta."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n29",
-      "pt": "Vous avez le droit de dire deux fois la même chose sans vous radoucir. Ici, personne ne le remarque."
+      "pt": "Hai il diritto di dire due volte la stessa cosa senza addolcirti. Qui, nessuno lo nota."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n30",
       "tom": "ganha",
-      "pt": "À cette table, vous pouvez rester au vous — usted. Au comptoir il marque la distance ; ici il porte le sérieux."
+      "pt": "A questo tavolo puoi restare al lei — usted. Al banco segna la distanza; qui porta la serietà."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n31",
       "bloco": "clique",
-      "pt": "Comptez avec moi. La boulangerie. L'étal du marché. Le bar. La table du restaurant. Deux moules, quatre endroits."
+      "pt": "Conta con me. La panetteria. Il banco del mercato. Il bar. Il tavolo del ristorante. Due stampi, quattro posti."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n32",
-      "pt": "Aucune de ces phrases ne vous a été soufflée. Vous venez de les monter à partir de deux petits débuts."
+      "pt": "Nessuna di queste frasi ti è stata suggerita. Le hai appena montate a partire da due piccoli inizi."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n33",
       "bloco": "piso",
-      "pt": "Dans un endroit inconnu, vous commandez comme tout le monde. La plupart des gens allergiques mangent à l'hôtel."
+      "pt": "In un posto sconosciuto, ordini come tutti gli altri. La maggior parte delle persone allergiche mangia in hotel."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-s00",
-      "pt": "Répétez. Fort, avec eux. Les deux qui, à table, viennent en premier :"
+      "pt": "Ripeti. Forte, con loro. Le due che, a tavola, vengono per prime:"
     },
     {
       "tipo": "shadow",
@@ -812,8 +812,8 @@
       "audioKey": "e04a-frutossecos-e",
       "molde": "SOY-ESTOY",
       "es": "Soy alérgico a los frutos secos.",
-      "pinyin": "soi a-LÈR-khi-ko a loss FROU-toss SSÉ-koss",
-      "pt": "Je suis allergique aux fruits à coque."
+      "pinyin": "soi a-LÉR-khi-ko a los FRU-tos SÉ-kos",
+      "pt": "Sono allergico alla frutta a guscio."
     },
     {
       "tipo": "shadow",
@@ -821,15 +821,15 @@
       "audioKey": "e04b-jamon-c",
       "molde": "LLEVA",
       "es": "¿Lleva jamón o chorizo?",
-      "pinyin": "YÉ-ba kha-MON o tcho-RI-sso",
-      "pt": "Il y a du jambon ou du chorizo dedans ?"
+      "pinyin": "GLIÉ-ba kha-MON o cio-RI-so",
+      "pt": "C'è dentro prosciutto o chorizo?"
     },
     {
       "tipo": "recap",
       "voz": "GuiaFem",
       "audioKey": "b13-r01",
       "bloco": "recap",
-      "pt": "Encore une fois, à voix haute, à un comptoir où nous n'étions pas aujourd'hui."
+      "pt": "Ancora una volta, ad alta voce, a un banco dove oggi non siamo stati."
     },
     {
       "tipo": "responde",
@@ -837,78 +837,78 @@
       "promptVoz": "GuiaFem",
       "molde": "ME-PUEDE",
       "encaixe": "hacer sin ajo",
-      "encaixeGloss": "le faire sans ail",
+      "encaixeGloss": "farlo senza aglio",
       "promptAudioKey": "b13-p14",
-      "promptPt": "Un comptoir de gare, la tartine à la tomate est presque prête, et l'homme attrape déjà la gousse qu'il va râper dessus. Retenez-le. Parlez.",
+      "promptPt": "Un banco di stazione, la fetta di pane col pomodoro è quasi pronta, e l'uomo afferra già lo spicchio che grattugerà sopra. Fermalo. Parla.",
       "audioKey": "e04b-sinajo-e",
       "es": "¿Me lo puede hacer sin ajo?",
-      "pinyin": "mé lo POUÉ-dé a-SSER sin A-kho",
-      "pt": "sans ce qu'il va râper dessus"
+      "pinyin": "me lo PUÉ-de a-SER sin A-kho",
+      "pt": "senza ciò che sta per grattugiarci sopra"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b13-n34",
-      "pt": "C'est tout. Une phrase pour vous, une phrase pour l'assiette, un papier pour l'urgence. Hasta luego."
+      "pt": "È tutto. Una frase per te, una frase per il piatto, un foglio per l'emergenza. Hasta luego."
     }
   ],
 
   "aprofundar": {
-    "titulo": "Le jambon qui n'est pas un ingrédient — et les quatorze substances (lecture facultative)",
+    "titulo": "Il prosciutto che non è un ingrediente — e le quattordici sostanze (lettura facoltativa)",
     "secoes": [
       {
-        "titulo": "Les trois paliers, et pourquoi celui du milieu est le plus important",
-        "corpo": "L'ordre n'est pas de la politesse, c'est de la technique. Le premier palier, c'est l'étiquette : Soy alérgico a … Ainsi ce dont il s'agit est dit, et dans la plupart des maisons cela suffit. Le deuxième palier, c'est la phrase que vous n'aurez, on l'espère, jamais à utiliser et que vous devriez pourtant savoir par cœur : Es alergia, no es manía. Elle existe parce qu'à un comptoir espagnol «sans oignon» et «sans fruits à coque» arrivent par le même canal — les deux sont une demande, les deux sonnent pareil, et le rappel amical «un petit peu, ça ne fait rien» est une tentative de vous arranger, pas de passer outre. La phrase sépare les deux choses en quatre mots, sans accuser personne. Le troisième palier sort de la responsabilité celui qui, de toute façon, ne cuisine pas : ¿Puede avisar en cocina, por favor? Qui ne dit que le premier palier espère ensuite que l'information trouvera, à travers trois personnes, un chemin que personne ne lui a ouvert. Et si le bar est bruyant ou la soirée longue : le papier imprimé bat n'importe quelle prononciation. Deux lignes, en espagnol, en grand — SOY ALÉRGICO/A A: … PUEDE SER GRAVE. À la réception de l'hôtel, on vous l'écrit en trente secondes.",
+        "titulo": "I tre gradini, e perché quello di mezzo è il più importante",
+        "corpo": "L'ordine non è cortesia, è tecnica. Il primo gradino è l'etichetta: Soy alérgico a … Così si dice di cosa si tratta, e nella maggior parte dei posti basta. Il secondo gradino è la frase che, si spera, non dovrai mai usare e che dovresti però sapere a memoria: Es alergia, no es manía. Esiste perché a un banco spagnolo «senza cipolla» e «senza frutta a guscio» arrivano dallo stesso canale — le due sono una richiesta, le due suonano uguali, e il richiamo gentile «un pochino non fa niente» è un tentativo di accontentarti, non di passarci sopra. La frase separa le due cose in quattro parole, senza accusare nessuno. Il terzo gradino toglie la responsabilità a chi, comunque, non cucina: ¿Puede avisar en cocina, por favor? Chi dice solo il primo gradino spera poi che l'informazione trovi, attraverso tre persone, una strada che nessuno le ha aperto. E se il bar è rumoroso o la serata lunga: il foglio stampato batte qualsiasi pronuncia. Due righe, in spagnolo, in grande — SOY ALÉRGICO/A A: … PUEDE SER GRAVE. Alla reception dell'hotel te lo scrivono in trenta secondi.",
         "exemplos": [
           {
             "es": "¿Me lo puede hacer sin ajo?",
-            "pt": "mé lo POUÉ-dé a-SSER sin A-kho — Pouvez-vous me le faire sans ail ? (la première voie : retirer)"
+            "pt": "me lo PUÉ-de a-SER sin A-kho — Me lo può fare senza aglio? (la prima strada: togliere)"
           },
           {
             "es": "Es que ya viene con el jamón dentro, cocinado.",
-            "pt": "éss ké ya BIÉ-né kon él kha-MON DEN-tro — 👂 «C'est déjà cuit avec.» — la deuxième voie : prendre autre chose, et c'est bon signe."
+            "pt": "es ke glia BIÉ-ne kon el kha-MON DEN-tro — 👂 «È già cotto con dentro.» — la seconda strada: prendere altro, ed è buon segno."
           }
         ]
       },
       {
-        "titulo": "Où se cache le jambon, et pourquoi personne ne le cache",
-        "corpo": "La liste des endroits où se trouve quelque chose d'animal sans que ce soit sur la carte est courte et toujours la même : judías verdes, espinacas, lentejas et sopa de verduras sont souvent préparés avec du jambon ou du chorizo ; le riz et la paella «de verduras» sont souvent cuits avec du caldo de pescado ; l'ensaladilla contient du thon ; la salsa marinera et beaucoup de bouillons contiennent des fruits de mer. Derrière cela, aucune négligence, mais une frontière tracée ailleurs : le jambon et le bouillon de poisson comptent comme assaisonnement, et verduras nomme ce qu'on voit dans l'assiette. C'est pourquoi la question par catégorie ne marche pas et la question par l'assiette, oui — ¿Lleva jamón o chorizo? est concret, court, et n'est jamais entendu comme un reproche. Pour le gluten, c'est parallèle : croquetas, sauces liées à la farine, tout ce qui est rebozado, et la bière. Plus l'unique friteuse où poisson, croquettes et pommes de terre passent l'un après l'autre — c'est le point où une cuisine doit dire non honnêtement, et la plupart le font. Et un mot pour la carte elle-même : S.M. ou según mercado à côté des fruits de mer ne dit rien que sur le prix, rien sur le contenu.",
+        "titulo": "Dove si nasconde il prosciutto, e perché nessuno lo nasconde",
+        "corpo": "La lista dei posti dove c'è qualcosa di animale senza che sia sul menù è corta e sempre la stessa: judías verdes, espinacas, lentejas e sopa de verduras spesso sono preparate col prosciutto o col chorizo; il riso e la paella «de verduras» spesso cuociono nel caldo de pescado; l'ensaladilla contiene tonno; la salsa marinera e molti brodi contengono frutti di mare. Dietro tutto questo, nessuna negligenza, ma un confine tracciato altrove: il prosciutto e il brodo di pesce contano come condimento, e verduras nomina ciò che si vede nel piatto. Per questo la domanda per categoria non funziona e quella per il piatto sì — ¿Lleva jamón o chorizo? è concreta, corta, e non è mai sentita come un rimprovero. Due parole della tavola che sembrano le tue e non lo sono: caldo, che tu leggi «caldo» (temperatura), è brodo (e da lì il calco: dici ho caldo per «ho la sensazione di caldo» e ti esce tengo caldo, «ho una zuppa» — il giusto è tengo calor); e aceite, che assomiglia ad aceto, è olio — l'olio d'oliva, ovunque in Spagna, non l'aceto che credi. Per il glutine è parallelo: croquetas, salse legate con farina, tutto ciò che è rebozado, e la birra. Più l'unica friggitrice dove pesce, croquetas e patate passano uno dopo l'altro — è il punto in cui una cucina deve dire no onestamente, e la maggior parte lo fa. E una parola sul menù stesso: S.M. o según mercado accanto ai frutti di mare dice solo del prezzo, niente sul contenuto.",
         "exemplos": [
           {
             "es": "¿Lleva caldo de pescado o de carne?",
-            "pt": "YÉ-ba KAL-do de péss-KA-do o de KAR-né — Il y a du bouillon de poisson ou de viande dedans ? (la question pour tout riz)"
+            "pt": "GLIÉ-ba KAL-do de pes-KA-do o de KAR-ne — C'è dentro brodo di pesce o di carne? (caldo = brodo, non «caldo»)"
           },
           {
             "es": "¿Lo fríen en la misma freidora que el pescado?",
-            "pt": "lo FRI-en én la MISS-ma frei-DO-ra — Vous les faites frire dans la même friteuse que le poisson ?"
+            "pt": "lo FRI-en en la MIS-ma frei-DO-ra — Lo friggete nella stessa friggitrice del pesce?"
           }
         ]
       },
       {
-        "titulo": "Deux lettres que cette phrase vous apprend en même temps",
-        "corpo": "¿Lleva jamón? fait trois mots et contient votre plus grand piège de lecture et son contraire. Le double l est votre y : ll et y se lisent comme le y de yaourt, de paille, de fille — llave, botella, tortilla, calle, allí, et justement lleva, YÉ-ba. C'est la seule règle de lecture de l'espagnol qui travaille pour vous et non contre vous, parce que vous avez déjà le son et n'échangez que la lettre. La lettre espagnole j, elle, n'est jamais votre j : ce n'est ni le j de «jour» ni le ch de «chat» — c'est un raclement au fond de la gorge, le son que vous n'avez pas. Le plus simple : visez votre r, il se fait au même endroit. jamón, c'est kha-MON, ajo c'est A-kho, jarra c'est KHA-rra. Même chose pour g devant e et i, et c'est là que logent deux mots de cette leçon : alérgico, c'est a-LÈR-khi-ko, et vegetariano, c'est bé-khé-ta-RIA-no, jamais avec un g dur. Deux mots encore, fréquents ici, qui demandent le même traitement : celíaco, c'est ssé-LI-a-ko, et alérgenos, c'est a-LÈR-khé-noss.",
+        "titulo": "Due lettere che questa frase ti insegna insieme",
+        "corpo": "¿Lleva jamón? fa tre parole e contiene la tua trappola di lettura più grande e il suo contrario. La doppia elle è il tuo gl di figlio: ll e y si leggono come il gl di figlio, di aglio, di famiglia — llave, botella, tortilla, calle, allí, e proprio lleva, GLIÉ-ba. Il suono ce l'hai già, cambi solo la lettera — e attento a non leggerla come la geminata di bello. La lettera spagnola j, invece, non è mai la tua «gi» morbida né la tua «i»: è un raschio in fondo alla gola, il suono che non hai. L'unica àncora è regionale, la gorgia toscana: la c di la casa che diventa «la hasa». jamón è kha-MON, ajo è A-kho, jarra è KHA-rra. Lo stesso vale per g davanti a e e i, e lì stanno due parole di questa lezione: alérgico è a-LÉR-khi-ko, e vegetariano è be-khe-ta-RIA-no, mai con la «gi» dolce. Due parole ancora, frequenti qui, che chiedono lo stesso trattamento: celíaco è se-LI-a-ko, e alérgenos è a-LÉR-khe-nos. E, di striscio, una terza lettera: la ch spagnola è il ci di ciao — noche è «no-cie», leche «LÉ-cie», chorizo «cio-RI-so» — mai la ch di chiesa, che tu leggeresti [k].",
         "exemplos": [
           {
             "es": "¿Lleva ajo?",
-            "pt": "YÉ-ba A-kho — Il y a de l'ail dedans ? (deux mots, deux lettres, deux directions)"
+            "pt": "GLIÉ-ba A-kho — C'è dentro l'aglio? (due parole, due lettere, due direzioni)"
           },
           {
             "es": "Soy vegetariano: no como carne ni pescado.",
-            "pt": "soi bé-khé-ta-RIA-no — Je suis végétarien : ni viande ni poisson. (le v est un b, le g est un raclement de gorge)"
+            "pt": "soi be-khe-ta-RIA-no — Sono vegetariano: né carne né pesce. (la v è una b, la g è un raschio in gola)"
           }
         ]
       },
       {
-        "titulo": "La carte des allergènes n'est pas une faveur — et vous la connaissez déjà",
-        "corpo": "Ce que vous demandez en Espagne avec la carta de alérgenos est la même chose que vous connaissez en France : l'information sur les quatorze allergènes à déclaration obligatoire, encadrée par le règlement européen 1169/2011 et, en Espagne, en plus par le Real Decreto 126/2015 ; elle vaut expressément aussi pour les plats servis non emballés — donc pour l'assiette au restaurant, pas seulement pour le paquet au supermarché. Concrètement : il doit y avoir une information, sous une forme vérifiable, et dans la plupart des maisons c'est un classeur ou une feuille derrière le comptoir. L'utilité pour vous est moins juridique que sociale : la question déplace la conversation de votre prononciation et de son appréciation vers un papier que la cuisine a elle-même écrit. C'est pourquoi elle vient en troisième position dans le cours et non en première — c'est le levier, pas l'ouverture. Là où la feuille n'existe pas, c'est un signal sur la maison, et vous décidez avec vos pieds, pas avec une discussion.",
+        "titulo": "La lista degli allergeni non è un favore — e la conosci già",
+        "corpo": "Quello che chiedi in Spagna con la carta de alérgenos è la stessa cosa che conosci in Italia: l'informazione sui quattordici allergeni a dichiarazione obbligatoria, fissata dal regolamento europeo 1169/2011 e, in Spagna, in più dal Real Decreto 126/2015; vale espressamente anche per i piatti serviti non confezionati — quindi per il piatto al ristorante, non solo per la confezione al supermercato. In concreto: ci deve essere un'informazione, in forma verificabile, e nella maggior parte dei posti è un raccoglitore o un foglio dietro il banco. L'utilità per te è meno giuridica che sociale: la domanda sposta la conversazione dalla tua pronuncia e dal suo giudizio a un foglio che la cucina ha scritto lei stessa. Per questo viene in terza posizione nel corso e non in prima — è la leva, non l'apertura. Dove il foglio non esiste, è un segnale sul posto, e decidi con i piedi, non con una discussione.",
         "exemplos": [
           {
             "es": "¿Tienen la carta de alérgenos?",
-            "pt": "TIÉ-nen la KAR-ta de a-LÈR-khé-noss — Avez-vous la carte des allergènes ? (elle doit exister)"
+            "pt": "TIÉ-nen la KAR-ta de a-LÉR-khe-nos — Avete la lista degli allergeni? (deve esistere)"
           },
           {
             "es": "¿Puede avisar en cocina, por favor?",
-            "pt": "POUÉ-dé a-bi-SSAR én ko-SSI-na — Pouvez-vous prévenir en cuisine, s'il vous plaît ?"
+            "pt": "PUÉ-de a-bi-SAR en ko-SI-na — Può avvisare in cucina, per favore?"
           }
         ]
       }

@@ -4,52 +4,52 @@
   "nivel": "intermediario",
   "numero": 19,
   "parte": "19",
-  "titulo": "L'horloge d'ici",
-  "subtitulo": "À quelle heure on mange en Espagne — et pourquoi arriver tôt vous jette dans la seule cuisine qui vit du touriste",
+  "titulo": "L'orologio di qui",
+  "subtitulo": "A che ora si mangia in Spagna — e perché arrivare presto la butta nell'unica cucina che vive del turista",
   "moldura": "ganha",
 
-  "decisao": "À quelle heure je dîne — et pourquoi dîner à sept heures me jette dans la cuisine qui vit du touriste.",
+  "decisao": "A che ora ceno — e perché cenare alle sette mi butta nella cucina che vive del turista.",
 
-  "cena": "Sept heures du soir, un mardi : vous êtes là, l'estomac vide, dans une salle claire et vide, et la cuisine n'ouvre que dans deux heures.",
+  "cena": "Le sette di sera, un martedì: eccola lì, lo stomaco vuoto, in una sala illuminata e deserta, e la cucina apre solo tra due ore.",
 
-  "permissao": "Vous avez le droit de dîner à sept heures — ce n'est pas un dîner raté, c'est des tapas au comptoir, un plan entier, pas un plan au rabais. Et l'heure du soir est élastique : neuf heures et demie ou dix heures, les deux passent. Seuls le train, le musée à créneau et le rendez-vous médical ne le sont pas.",
+  "permissao": "Ha il diritto di cenare alle sette — non è una cena mancata, sono tapas al bancone, un piano intero, non un ripiego. E l'ora della sera è elastica: le nove e mezza o le dieci, vanno bene entrambe. Solo il treno, il museo con orario fisso e l'appuntamento dal medico non lo sono.",
 
-  "frasePiso": "Vous mangez à l'heure où l'on mange ici. La plupart des visiteurs sont assis seuls à sept heures dans la salle claire et vide.",
+  "frasePiso": "Mangia all'ora in cui si mangia qui. Quasi tutti i visitatori siedono da soli alle sette nella sala illuminata e deserta.",
 
-  "espelho": "Qui campe sur son heure à lui et prend la salle vide pour un mauvais service ne voit pas qu'il lui suffit d'attendre un cran — il est simplement un peu trop tôt.",
+  "espelho": "Chi si aggrappa al proprio orario e scambia la sala vuota per un cattivo servizio non vede che gli basta aspettare un po' — è semplicemente arrivato un filo troppo presto.",
 
   "fichasCulturais": [
     {
-      "sinal": "Vous arrivez à sept heures, affamé, dans un restaurant éclairé, les tables vides, et on vous dit «juste des boissons».",
-      "suaLeitura": "Ils sont fermés, ou ils ne veulent pas de moi — c'est pourtant l'heure de manger.",
-      "oQueEAli": "C'est l'horloge : le repas principal court de deux à quatre, le dîner commence à neuf heures, et le soir la cuisine ne rouvre que vers huit heures et demie.",
-      "oQueVoceFaz": "Ne pas repartir. Boire un verre au comptoir et demander à partir de quand on cuisine — ou réserver tout de suite pour neuf heures et demie.",
-      "oQueMelhora": "Vous avez la même cuisine que les clients d'à côté, à l'heure où elle cuisine frais au lieu de réchauffer.",
-      "ondeNaoVale": "Dans les zones touristiques et beaucoup de restaurants d'hôtel, on cuisine en continu — l'horloge n'y vaut pas, et souvent le prix non plus.",
+      "sinal": "Arriva alle sette, affamato, in un ristorante illuminato, i tavoli vuoti, e le dicono «solo bevande».",
+      "suaLeitura": "Sono chiusi, o non mi vogliono — eppure è ora di mangiare.",
+      "oQueEAli": "È l'orologio: il pasto principale va dalle due alle quattro, la cena comincia alle nove, e di sera la cucina riapre solo verso le otto e mezza.",
+      "oQueVoceFaz": "Non andarsene. Bere qualcosa al bancone e chiedere da che ora si cucina — o prenotare subito per le nove e mezza.",
+      "oQueMelhora": "Ha la stessa cucina dei clienti accanto, nell'ora in cui cucina fresco invece di riscaldare.",
+      "ondeNaoVale": "Nelle zone turistiche e in molti ristoranti d'albergo si cucina in continuo — lì l'orologio non vale, e spesso nemmeno il prezzo.",
       "evidencia": "CONSENSO",
       "audioKeys": ["i01-n02", "i01-n03", "i01-n05"]
     },
     {
-      "sinal": "À sept heures, un seul établissement est ouvert et plein — carte en quatre langues et photos des plats sur la porte.",
-      "suaLeitura": "Pratique, au moins c'est ouvert, et tout le monde y entre.",
-      "oQueEAli": "C'est la cuisine qui vit du touriste pressé : ouverte en continu, «menú turístico» sans prix affichés, l'addition plus haute qu'à côté.",
-      "oQueVoceFaz": "Manger deux heures plus tard, là où les voisins s'assoient à neuf heures et demie — ou, tout de suite, prendre juste des tapas au comptoir.",
-      "oQueMelhora": "Au fil du séjour, l'écart n'est plus un pourboire, c'est une dernière soirée entière de voyage.",
-      "ondeNaoVale": "Tout établissement ouvert tôt n'est pas un piège — un comptoir plein de voisins à sept heures est un bar de petit-déjeuner ou de goûter, et il est vrai.",
+      "sinal": "Alle sette un solo locale è aperto e pieno — carta in quattro lingue e foto dei piatti sulla porta.",
+      "suaLeitura": "Comodo, almeno è aperto, e ci entrano tutti.",
+      "oQueEAli": "È la cucina che vive del turista di fretta: aperta in continuo, «menú turístico» senza prezzi esposti, il conto più alto che accanto.",
+      "oQueVoceFaz": "Mangiare due ore più tardi, dove i vicini si siedono alle nove e mezza — o, subito, prendere solo tapas al bancone.",
+      "oQueMelhora": "Nel corso del soggiorno la differenza non è più una mancia, è un'ultima serata intera di viaggio.",
+      "ondeNaoVale": "Non ogni locale aperto presto è una trappola — un bancone pieno di vicini alle sette è un bar da colazione o da merenda, ed è vero.",
       "evidencia": "CONSENSO",
       "audioKeys": ["i01-n04", "i01-n09"]
     }
   ],
 
   "_notas": {
-    "_": "Parte ESCRITA em FRANCÊS (andaime removido; `cena` reescrita em francês). I01 é `dono: destino`: NÃO nasce molde nenhum aqui — sem `moldes` na raiz, sem `clique`, sem batismo. Só se redisparam três moldes com encaixe novo. NENHUM campo `es`, `audioKey` ou `tts` foi tocado: os 15 audioKey e os mp3 herdados do par base estão intactos; o único custo deste SKU aqui é a narração-guia FRANCESA (GuiaFem 12 + GuiaMasc 2) e os 8 prompts.",
-    "clipe_espanhol_novo": "NENHUM, zero crédito espanhol. Todos os audioKey espanhóis já existem em mp3 no disco, herdados verbatim do par base pelas mesmas chaves. `b11-otrocafe-c` é reuso de B11 tocado como fala ambiente (o habitué), receptivo, sem `molde` — OTRA não é redisparo declarado de I01.",
-    "a_inversao_deste_par": "O eixo alemão desta parte — a armadilha de contar a meia hora 'para a frente' e reservar uma hora inteira errada — NÃO PORTA: o francês conta a meia hora como o espanhol (`neuf heures et demie` = `las nueve y media` = 9h30), é BRINDE (DERIVACAO-FR §3.3 item 3). Os dois clipes do GuiaMasc (i01-t01/t02), que no par anterior CARREGAVAM a correção dessa armadilha, INVERTEM: de aviso viram TRANQUILIZAÇÃO — a voz de alertas confirma que o cálculo da hora é de graça; o momento mais caro do comprador anterior é o mais fácil do francês. A defasagem do jantar também é MENOR (o francês janta ~20h, perto do espanhol, e a mesa longa não o estranha — §3.3 item 4): a parte fica MAIS LEVE, e o choque real migra para a siesta / o horário partido e o almoço às 14h-15h (dito no `aprofundar`, sem clipe próprio).",
-    "sem_falso_amigo": "Parte CULTURAL + fonética brinde: nenhum falso amigo declarado do roster (embarazada, largo, en absoluto, rico…) aparece na fala espanhola fixa de I01. A fonética é brinde onde o par anterior penava — `qu`=[k] (`quería`→ke-RI-a), `h` mudo (`hay`→aï, `hora`→O-ra), vogais puras — com o resquício francês onde cabe: a TÔNICA oxítona (aquecimento no soco, `cocina`→ko-SSI-na, não koci-NA), os FINAIS apagados (`-s` de `las`/`comidas` mostrado) e o `u`=[y] bloqueado (`una`→OU-na, `nueve`→NOUÉ-bé, `cuántas`→KOUAN-tass). Sem jota nesta parte (não há palavra com j/g+e,i).",
+    "_": "Parte RE-DERIVADA ao ITALIANO a partir do NÚCLEO (moldes.json IT), NÃO traduzida do francês. I01 é `dono: destino`: NÃO nasce molde nenhum aqui — sem `moldes` na raiz, sem `clique`, sem batismo; só se redisparam três moldes com encaixe novo. NENHUM campo `es`, `audioKey` ou `tts` foi tocado: os 15 audioKey e os mp3 herdados do par base seguem intactos e verbatim. O único custo deste SKU aqui é a narração-guia ITALIANA (GuiaFem 12 + GuiaMasc 2) e os 8 prompts; `cena`, `pinyin` (olho italiano) e a moldura re-derivam em italiano.",
+    "clipe_espanhol_novo": "NENHUM, zero crédito espanhol. Todos os audioKey espanhóis já existem em mp3 no disco, herdados verbatim do par base pelas mesmas chaves. `b11-otrocafe-c` é reuso de B11 tocado como fala ambiente (o habitué), receptivo, sem `molde`.",
+    "a_defasagem_deste_par": "A defasagem do jantar é a MENOR de todos os compradores: o italiano janta ~20h-21h, quase colado ao espanhol, e a mesa que se alonga não o estranha — a parte fica AINDA MAIS LEVE que no francês. O choque real migra para a SIESTA / o horário partido e o almoço às 14h-15h (dito no `aprofundar`, sem clipe próprio). O eixo da meia-hora ('para a frente' → reservar uma hora errada) NÃO PORTA: o italiano conta como o espanhol (`le nove e mezza` = `las nueve y media` = 9h30), é BRINDE. Por isso os dois clipes do GuiaMasc (i01-t01/t02) são TRANQUILIZAÇÃO, não aviso: a voz de alertas confirma que o cálculo da hora é de graça.",
+    "sem_falso_amigo": "Parte CULTURAL + fonética brinde: nenhum falso amigo do roster IT↔ES (`burro`, `caldo`, `aceite`, `en absoluto`, `rico`…) aparece na fala espanhola fixa de I01. A boca italiana faz quase tudo de graça aqui — tônica paroxítona, finais plenos, `u`=[u], `r` tap nativo, `qu`=[k], `h` mudo, `ñ`=`gn`, sem nasal. O que sobra de fonética são só dois itens, e SEM JOTA (não há j/g+e,i nesta parte): (1) `ce_ci_z` — o espanhol ⟨c⟩+e/i e ⟨z⟩ = [θ]/[s], que o italiano lê [tʃ]/[ts] (`cocina`→«kochina», `cena`→«chena», `cerrada`, `diez`); modelado em distinción, seseo [s] aceito, [tʃ]/[ts] proibidos; (2) o `ch`=[tʃ] espanhol que o italiano lê [k] (`ocho`→«oko»), com âncora limpa «⟨ch⟩ = o `ci` de `ciao`, nunca o `ch` de `chiesa`».",
+    "respelling_para_leitor_italiano": "O `pinyin` foi RE-DERIVADO para o OLHO ITALIANO (INFERÊNCIA — exige revisor IT-L1 + espanhol peninsular antes do áudio; DERIVACAO-IT §1). Convenção, curta porque a boca italiana já acerta o resto: MAIÚSCULA = tônica (apoio leve, a tônica já bate) · `ss` = ⟨z⟩/⟨c⟩+e,i/⟨s⟩ intervocálico → força [s] e bloqueia o [tʃ]/[ts] e o [z] do Norte (`cocina`→ko-SSI-na, `cena`→SSE-na, `mesa`→ME-ssa) · `ci`/`c` à italiana = ⟨ch⟩ espanhol [tʃ] (`ocho`→O-cio) · `h` some (`hay`→ai, `hora`→O-ra) · `qu`=k, `u`=u, `ñ`=gn, `r` tap, `v`/`b` mantidos (brindes). Saíram as marcas francesas (o `OU`=[u], os finais apagados, o `b` por `v` sistemático, a tônica-soco).",
+    "voz_guia": "GuiaFem/GuiaMasc são os placeholders ITALIANOS declarados no audio.config.json._g14.guia; guiaLingua `it`, voz IT PLACEHOLDER até o casting (o áudio só grava depois). Carmen e Emilio (peninsulares, alvo) intocados.",
     "redisparos_cumpridos": "Os três do roster, cada um com ENCAIXE NOVO e casa em slot anterior: QUERIA (casa B12) em `una mesa para las nueve y media` (i01-mesanueve-c) e `una mesa para las diez` (i01-mesadiez-c); HAY (casa B08) em `mesa a las diez` (i01-haymesa-e); ME-PONE (casa B11) em `un cortado` (i01-cortado-c). `moldes` não entra na raiz — I01 não é casa; o G16 não cobra `clique`, o G15 não cobra batismo.",
-    "respelling_para_leitor_frances": "O `pinyin` foi RE-DERIVADO para o OLHO FRANCÊS (INFERÊNCIA — exige revisor FR-L1 + espanhol peninsular antes do áudio; DERIVACAO-FR §1). MAIÚSCULA = tônica (a oxítona é o erro nº1 do francês) · `ou` = `u` espanhol [u], nunca [y] (`una`→OU-na) · `ss` = z/c+e,i/s intervocálico, bloqueia o [z] francês (`cocina`→ko-SSI-na, `mesa`→ME-ssa) · `tch` = `ch` (`ocho`→O-tcho) · `b` = v (`nueve`→NOUÉ-bé) · `h` some (`hay`→aï) · `qu`=k (brinde) · `gn`=ñ (`apañáis`→a-pa-GNAISS) · finais `-s`/`-e` mostrados porque o francês os apaga. Saíram as marcas de leitura do par alemão.",
-    "voz_guia_renomeada": "Steps passaram de `Juli`/`Thomas` (resíduo do scaffold do par anterior) para `GuiaFem`/`GuiaMasc`, os nomes que o audio.config.json._g14.guia declara. Não é cosmético: o G14 só confere clipe cuja `voz` está no conjunto `guia`. Carmen e Emilio (peninsulares, alvo) intocados.",
-    "pendencia_G14": "A guia FRANCESA cita espanhol dentro da narração francesa (é o trabalho dela — `«nueve y media»`, `«ocho y media»`) e nunca o fala; Carmen e Emilio não dizem uma palavra de francês. INV-5 exige conferência humana enquanto o G14 roda só por audio.config (guiaLingua `fr`, voz FR placeholder até o casting)."
+    "pendencia_G14": "A guia ITALIANA cita espanhol dentro da narração italiana (é o trabalho dela — `«nueve y media»`, `«ocho y media»`) e nunca o fala; Carmen e Emilio não dizem uma palavra de italiano. INV-5 exige conferência humana enquanto o G14 roda só por audio.config (guiaLingua `it`, voz IT placeholder até o casting)."
   },
 
   "steps": [
@@ -60,14 +60,14 @@
       "bloco": "aquecimento",
       "gesto": 3,
       "tom": "ganha",
-      "pt": "Échauffement, dix secondes. En espagnol, le coup ne tombe pas au bout : ko-SSI-na, SSÉ-na, ME-dya. Frappez le milieu."
+      "pt": "Riscaldamento, dieci secondi. In spagnolo la c di cocina e cena non è la 'ci' di ciao: è una esse netta — ko-SSI-na, SSE-na. E ocho non fa 'oko': la ch è il 'ci' di ciao, O-cio."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i01-n02",
       "bloco": "cena",
-      "pt": "Sept heures du soir, mardi. Vous avez faim, la salle est claire et vide, et un serveur se tient sur le pas de la porte."
+      "pt": "Le sette di sera, un martedì. Ha fame, la sala è illuminata e vuota, e un cameriere sta sulla soglia."
     },
     {
       "tipo": "responde",
@@ -75,21 +75,21 @@
       "promptVoz": "GuiaFem",
       "consulta": ["mesa/comida"],
       "promptAudioKey": "i01-p01",
-      "promptPt": "Sept heures dix, une salle claire et vide, le serveur sur le pas de la porte. Demandez depuis le trottoir, avant de vous asseoir. Parlez maintenant.",
+      "promptPt": "Le sette e dieci, sala illuminata e vuota, il cameriere sulla soglia. Chieda dal marciapiede, prima di sedersi. Parli adesso.",
       "audioKey": "e03a-comidas-e",
       "es": "¿Están sirviendo comidas?",
-      "pinyin": "es-TAN sir-BYEN-do ko-MI-dass",
-      "pt": "est-ce qu'on sert à manger, là ?"
+      "pinyin": "es-TAN sir-VIEN-do ko-MI-das",
+      "pt": "si serve da mangiare, adesso?"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "c01a-09",
       "receptivo": true,
-      "acao": "Ne pas partir — le bar reste. Ensuite, demander l'heure de la cuisine.",
+      "acao": "Non andare via — il bar resta. Poi chiedere a che ora apre la cucina.",
       "es": "Ahora solo bebidas.",
-      "pinyin": "a-O-ra SO-lo bé-BI-dass",
-      "pt": "👂 «Là, juste des boissons.» — la cuisine est encore fermée.",
+      "pinyin": "a-O-ra SO-lo be-BI-das",
+      "pt": "👂 «Adesso solo bevande.» — la cucina è ancora chiusa.",
       "tts": "Ahora solo bebidas."
     },
     {
@@ -97,10 +97,10 @@
       "voz": "Carmen",
       "audioKey": "c01a-06",
       "receptivo": true,
-      "acao": "Retenir l'heure : huit heures et demie, c'est quand la cuisine rouvre.",
+      "acao": "Fissare l'ora: le otto e mezza, è quando la cucina riapre.",
       "es": "La cocina abre a las ocho y media.",
-      "pinyin": "la ko-SSI-na A-bré a lass O-tcho i ME-dya",
-      "pt": "👂 «La cuisine ouvre à huit heures et demie.» — ocho y media, le soir.",
+      "pinyin": "la ko-SSI-na A-bre a lass O-cio i ME-dia",
+      "pt": "👂 «La cucina apre alle otto e mezza.» — ocho y media, di sera.",
       "tts": "La cocina abre a las ocho y media."
     },
     {
@@ -108,17 +108,17 @@
       "voz": "GuiaFem",
       "audioKey": "i01-n03",
       "tom": "ganha",
-      "pt": "Pas un refus. C'est l'horloge : déjeuner de deux à quatre, dîner à partir de neuf, et la cuisine vient de rouvrir."
+      "pt": "Non è un rifiuto. È l'orologio: pranzo dalle due alle quattro, cena dalle nove, e la cucina ha appena riaperto."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "c01a-13",
       "receptivo": true,
-      "acao": "Écouter et retenir la réponse — le couple devant vous demande le premier.",
+      "acao": "Ascoltare e fissare la risposta — la coppia davanti chiede per prima.",
       "es": "¿A qué hora abre la cocina?",
-      "pinyin": "a ké O-ra A-bré la ko-SSI-na",
-      "pt": "👂 «À quelle heure ouvre la cuisine ?» — les deux devant vous la posent d'abord.",
+      "pinyin": "a ke O-ra A-bre la ko-SSI-na",
+      "pt": "👂 «A che ora apre la cucina?» — i due davanti la fanno prima di Lei.",
       "tts": "¿A qué hora abre la cocina?"
     },
     {
@@ -127,21 +127,21 @@
       "promptVoz": "GuiaFem",
       "consulta": ["mesa/comida"],
       "promptAudioKey": "i01-p02",
-      "promptPt": "Le serveur a dit «juste des boissons» et veut déjà filer. Vous voulez savoir à partir de quand on cuisine. Retenez-le. Parlez maintenant.",
+      "promptPt": "Il cameriere ha detto «solo bevande» e vuole già scappare. Vuole sapere da che ora si cucina. Lo fermi. Parli adesso.",
       "audioKey": "c01a-15",
       "es": "¿A qué hora abre la cocina?",
-      "pinyin": "a ké O-ra A-bré la ko-SSI-na",
-      "pt": "à partir de quand on cuisine"
+      "pinyin": "a ke O-ra A-bre la ko-SSI-na",
+      "pt": "da che ora si cucina"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "c01a-16",
       "receptivo": true,
-      "acao": "Aller vers la cuisine qui rouvre, fraîche, à neuf heures.",
+      "acao": "Andare dove la cucina riapre, fresca, alle nove.",
       "es": "COCINA CERRADA",
       "pinyin": "ko-SSI-na sse-RRA-da",
-      "pt": "👂 CUISINE FERMÉE — l'écriteau d'à côté, pour qui tente sa chance à sept heures.",
+      "pt": "👂 CUCINA CHIUSA — il cartello accanto, per chi tenta alle sette.",
       "tts": "Cocina cerrada."
     },
     {
@@ -149,31 +149,31 @@
       "voz": "GuiaFem",
       "audioKey": "i01-n04",
       "tom": "protege",
-      "pt": "Qui dîne à sept heures ne trouve que la cuisine qui vit du touriste pressé — celle à quatre langues et sans prix."
+      "pt": "Chi cena alle sette trova solo la cucina che vive del turista di fretta — quella con la carta in quattro lingue e senza prezzi."
     },
     {
       "tipo": "responde",
       "voz": "Emilio",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "i01-p03",
-      "promptPt": "Il est tard, presque onze heures, et vous n'avez pas encore dîné. Sachez jusqu'à quand la cuisine tient. Parlez maintenant.",
+      "promptPt": "È tardi, quasi le undici, e non ha ancora cenato. Sappia fino a che ora regge la cucina. Parli adesso.",
       "audioKey": "i01-hastaque-e",
       "es": "¿Hasta qué hora sirven?",
-      "pinyin": "ASS-ta ké O-ra SIR-ben",
-      "pt": "jusqu'à quand on sert"
+      "pinyin": "AS-ta ke O-ra SIR-ven",
+      "pt": "fino a che ora si serve"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i01-n05",
       "tom": "ganha",
-      "pt": "Le plan est simple : réservez pour l'heure d'ici. La cuisine ouvre à neuf heures, le premier service juste après."
+      "pt": "Il piano è semplice: prenoti per l'ora di qui. La cucina apre alle nove, il primo turno subito dopo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "i01-t01",
-      "pt": "Et l'heure du dîner, maintenant. Dites-la tout de suite — vous allez voir, elle ne vous réserve aucun piège."
+      "pt": "E adesso l'ora della cena. La dica subito — vedrà, non le riserva nessuna trappola."
     },
     {
       "tipo": "responde",
@@ -181,30 +181,30 @@
       "promptVoz": "GuiaFem",
       "molde": "QUERIA",
       "encaixe": "una mesa para las nueve y media",
-      "encaixeGloss": "une table pour neuf heures et demie",
+      "encaixeGloss": "un tavolo per le nove e mezza",
       "consulta": ["mesa/mesa"],
       "promptAudioKey": "i01-p04",
-      "promptPt": "Vous avez décidé de dîner à l'heure d'ici — juste après l'ouverture de la cuisine. Réservez la table pour ce moment-là. Parlez maintenant.",
+      "promptPt": "Ha deciso di cenare all'ora di qui — appena dopo l'apertura della cucina. Prenoti il tavolo per quel momento. Parli adesso.",
       "audioKey": "i01-mesanueve-c",
       "es": "Quería una mesa para las nueve y media.",
-      "pinyin": "ke-RI-a OU-na ME-ssa PA-ra lass NOUÉ-bé i ME-dya",
-      "pt": "une table, à l'heure d'ici"
+      "pinyin": "ke-RI-a U-na ME-ssa PA-ra lass NUE-ve i ME-dia",
+      "pt": "un tavolo, all'ora di qui"
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "i01-t02",
-      "pt": "«Nueve y media» : neuf heures et demie, même compte. Le piège qui coûte une heure ailleurs, vous ne l'avez pas."
+      "pt": "«Nueve y media»: le nove e mezza, stesso conto. La trappola che altrove costa un'ora intera, Lei non ce l'ha."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "i01-cuantos-c",
       "receptivo": true,
-      "acao": "Répondre : combien vous êtes.",
+      "acao": "Rispondere: in quanti siete.",
       "es": "¿Para cuántas personas?",
-      "pinyin": "PA-ra KOUAN-tass per-SO-nass",
-      "pt": "👂 «Pour combien de personnes ?» — il demande avant de chercher la table.",
+      "pinyin": "PA-ra KUAN-tas per-SO-nas",
+      "pt": "👂 «Per quante persone?» — chiede prima di cercare il tavolo.",
       "tts": "¿Para cuántas personas?"
     },
     {
@@ -212,21 +212,21 @@
       "voz": "Emilio",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "i01-p05",
-      "promptPt": "Il a demandé combien vous êtes. Vous êtes deux. Dites-le en deux mots. Parlez maintenant.",
+      "promptPt": "Ha chiesto in quanti siete. Siete in due. Lo dica in due parole. Parli adesso.",
       "audioKey": "i01-somosdos-e",
       "es": "Somos dos.",
-      "pinyin": "SO-moss doss",
-      "pt": "combien vous êtes"
+      "pinyin": "SO-mos dos",
+      "pt": "in quanti siete"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "c01a-enlabarra-c",
       "receptivo": true,
-      "acao": "Accepter — le comptoir est une place, pas un lot de consolation.",
+      "acao": "Accettare — il bancone è un posto, non un premio di consolazione.",
       "es": "Mesa ahora mismo no hay. En la barra sí, si os apañáis.",
-      "pinyin": "ME-ssa a-O-ra MISS-mo no aï. en la BA-rra si, si oss a-pa-GNAISS",
-      "pt": "👂 «Pas de table tout de suite. Au comptoir oui, si vous vous serrez.»",
+      "pinyin": "ME-ssa a-O-ra MIS-mo no ai. en la BA-rra si, si os a-pa-GNAIS",
+      "pt": "👂 «Tavolo subito non c'è. Al bancone sì, se vi stringete.»",
       "tts": "Mesa ahora mismo no hay. En la barra sí, si os apañáis."
     },
     {
@@ -234,7 +234,7 @@
       "voz": "GuiaFem",
       "audioKey": "i01-n06",
       "tom": "ganha",
-      "pt": "Le premier service plein, l'horloge a de la place : le suivant est une heure plus tard. Demandez-le, tout simplement."
+      "pt": "Primo turno pieno, ma l'orologio ha spazio: il successivo è un'ora più tardi. Basta chiederlo."
     },
     {
       "tipo": "responde",
@@ -242,14 +242,14 @@
       "promptVoz": "GuiaFem",
       "molde": "HAY",
       "encaixe": "mesa a las diez",
-      "encaixeGloss": "une table à dix heures",
+      "encaixeGloss": "un tavolo alle dieci",
       "consulta": ["mesa/mesa"],
       "promptAudioKey": "i01-p06",
-      "promptPt": "La table tôt est partie, dit-il. Vous prenez la plus tardive et demandez s'il reste seulement de la place. Parlez maintenant.",
+      "promptPt": "Il tavolo presto è andato, dice lui. Prende quello più tardi e chiede solo se c'è posto. Parli adesso.",
       "audioKey": "i01-haymesa-e",
       "es": "¿Hay mesa a las diez?",
-      "pinyin": "aï ME-ssa a lass dyess",
-      "pt": "en reste-t-il une plus tard ?"
+      "pinyin": "ai ME-ssa a lass diess",
+      "pt": "ce n'è uno più tardi?"
     },
     {
       "tipo": "responde",
@@ -257,21 +257,21 @@
       "promptVoz": "GuiaFem",
       "molde": "QUERIA",
       "encaixe": "una mesa para las diez",
-      "encaixeGloss": "une table pour dix heures",
+      "encaixeGloss": "un tavolo per le dieci",
       "consulta": ["mesa/mesa"],
       "promptAudioKey": "i01-p07",
-      "promptPt": "Il reste de la place à l'heure tardive. Dites clairement laquelle vous voulez — cette fois comme un souhait, pas une question. Parlez maintenant.",
+      "promptPt": "C'è posto all'ora tarda. Dica chiaro quale vuole — stavolta come un desiderio, non una domanda. Parli adesso.",
       "audioKey": "i01-mesadiez-c",
       "es": "Quería una mesa para las diez.",
-      "pinyin": "ke-RI-a OU-na ME-ssa PA-ra lass dyess",
-      "pt": "la table tardive, comme un souhait"
+      "pinyin": "ke-RI-a U-na ME-ssa PA-ra lass diess",
+      "pt": "il tavolo tardi, come un desiderio"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i01-n07",
       "tom": "ganha",
-      "pt": "Jusqu'à neuf heures, attendre est le plan, pas le pis-aller. Un petit café au comptoir, et l'heure passe."
+      "pt": "Fino alle nove, aspettare è il piano, non il ripiego. Un caffè al bancone, e l'ora passa."
     },
     {
       "tipo": "responde",
@@ -282,21 +282,21 @@
       "encaixeGloss": "un cortado",
       "consulta": ["chegar/balcao", "mesa/bebida"],
       "promptAudioKey": "i01-p08",
-      "promptPt": "En attendant la table, vous êtes au comptoir. Vous voulez le petit, serré, avec juste un nuage de lait. Parlez maintenant.",
+      "promptPt": "Aspettando il tavolo, è al bancone. Vuole quello piccolo, corto, con solo una nuvola di latte. Parli adesso.",
       "audioKey": "i01-cortado-c",
       "es": "¿Me pones un cortado?",
-      "pinyin": "mé PO-ness oun kor-TA-do",
-      "pt": "le petit, pendant que vous attendez"
+      "pinyin": "me PO-nes un kor-TA-do",
+      "pt": "il piccolo, mentre aspetta"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "b11-otrocafe-c",
       "receptivo": true,
-      "acao": "Prendre le tempo : lentement, rester assis, tenir l'heure.",
+      "acao": "Prendere il tempo: con calma, restare seduti, tenere l'ora.",
       "es": "Otro café, por favor.",
-      "pinyin": "O-tro ka-FÉ, por fa-BOR",
-      "pt": "👂 «Un autre café, s'il vous plaît.» — l'habitué tient l'heure au comptoir.",
+      "pinyin": "O-tro ka-FE, por fa-VOR",
+      "pt": "👂 «Un altro caffè, per favore.» — l'habitué tiene l'ora al bancone.",
       "tts": "Otro café, por favor."
     },
     {
@@ -304,7 +304,7 @@
       "voz": "GuiaFem",
       "audioKey": "i01-n08",
       "tom": "protege",
-      "pt": "Une chose n'est pas élastique comme le dîner : le train, le musée à créneau et le rendez-vous médical n'attendent pas."
+      "pt": "Una cosa non è elastica come la cena: il treno, il museo con orario fisso e l'appuntamento dal medico non aspettano."
     },
     {
       "tipo": "intro",
@@ -312,7 +312,7 @@
       "audioKey": "i01-n09",
       "bloco": "permissao",
       "tom": "ganha",
-      "pt": "Et vous avez le droit de manger à sept heures. Ce n'est pas un dîner, c'est des tapas au comptoir — un plan entier."
+      "pt": "E ha il diritto di mangiare alle sette. Non è una cena, sono tapas al bancone — un piano intero."
     },
     {
       "tipo": "intro",
@@ -320,13 +320,13 @@
       "audioKey": "i01-n10",
       "bloco": "piso",
       "tom": "ganha",
-      "pt": "Vous mangez à l'heure où l'on mange ici. La plupart des visiteurs sont assis seuls à sept heures dans la salle vide."
+      "pt": "Mangia all'ora in cui si mangia qui. Quasi tutti i visitatori siedono da soli alle sette nella sala vuota."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i01-s00",
-      "pt": "À répéter. Fort, avec eux, la dernière syllabe tenue. Les deux qui sauvent la soirée :"
+      "pt": "Da ripetere. Forte, con loro, l'ultima sillaba tenuta. Le due che salvano la serata:"
     },
     {
       "tipo": "shadow",
@@ -334,8 +334,8 @@
       "audioKey": "i01-mesanueve-c",
       "molde": "QUERIA",
       "es": "Quería una mesa para las nueve y media.",
-      "pinyin": "ke-RI-a OU-na ME-ssa PA-ra lass NOUÉ-bé i ME-dya",
-      "pt": "J'aimerais une table pour neuf heures et demie."
+      "pinyin": "ke-RI-a U-na ME-ssa PA-ra lass NUE-ve i ME-dia",
+      "pt": "Vorrei un tavolo per le nove e mezza."
     },
     {
       "tipo": "shadow",
@@ -343,8 +343,8 @@
       "audioKey": "i01-cortado-c",
       "molde": "ME-PONE",
       "es": "¿Me pones un cortado?",
-      "pinyin": "mé PO-ness oun kor-TA-do",
-      "pt": "Tu me fais un cortado ?"
+      "pinyin": "me PO-nes un kor-TA-do",
+      "pt": "Mi fai un cortado?"
     },
     {
       "tipo": "recap",
@@ -352,38 +352,38 @@
       "audioKey": "i01-rend",
       "bloco": "recap",
       "tom": "ganha",
-      "pt": "Encore une fois. Manger plus tard, manger mieux — et vous savez maintenant quand. Hasta luego."
+      "pt": "Ancora una volta. Mangiare più tardi, mangiare meglio — e adesso sa quando. Hasta luego."
     }
   ],
 
   "aprofundar": {
-    "titulo": "L'horloge espagnole — et pourquoi «et demie» ne vous piège pas (lecture optionnelle)",
+    "titulo": "L'orologio spagnolo — e perché «e mezza» non la inganna (lettura facoltativa)",
     "secoes": [
       {
-        "titulo": "Quand on mange ici, et pourquoi arriver tôt coûte cher",
-        "corpo": "L'horloge est le premier faux pas du voyage, et aucun mot de vocabulaire n'y est pour rien. Le repas principal, «la comida», court d'environ deux heures à trois heures et demie ; le dîner, «la cena», commence vers neuf heures, et le soir la cuisine ne rouvre qu'entre huit heures et huit heures et demie. Qui veut dîner à sept heures ne trouve souvent qu'une chose : la salle ouverte en continu, celle qui vit du touriste pressé — «menú turístico» sans prix affichés, addition au-dessus de ce que la même assiette coûte deux rues plus loin. Ce n'est pas une lubie, c'est de l'argent : au fil du séjour, l'écart fait une soirée entière. La sortie est une permission, pas une interdiction. Vous voulez manger comme les voisins ? Réservez pour neuf heures et demie. Vous voulez manger à sept heures ? Alors ne dînez pas — faites des tapas au comptoir, et c'est un plan complet. Et un mot pour vous, qui joue en votre faveur : l'écart est plus petit que vous ne le craignez. Vous dînez déjà tard chez vous, plus près de l'heure espagnole que n'importe quel autre visiteur, et la table qui s'étire n'a rien d'étrange pour vous. Le vrai décalage n'est pas le soir : c'est le milieu du jour — le déjeuner à deux ou trois heures et la coupure de l'après-midi. Ce calcul ne vaut pas partout : dans les zones touristiques et les restaurants d'hôtel on cuisine en continu, et un comptoir plein de voisins à sept heures est un bar de petit-déjeuner ou de goûter, donc vrai.",
+        "titulo": "Quando si mangia qui, e perché arrivare presto costa caro",
+        "corpo": "L'orologio è il primo passo falso del viaggio, e nessuna parola di vocabolario c'entra. Il pasto principale, «la comida», va più o meno dalle due alle tre e mezza; la cena, «la cena», comincia verso le nove, e di sera la cucina riapre solo tra le otto e le otto e mezza. Chi vuole cenare alle sette trova spesso una cosa sola: la sala aperta in continuo, quella che vive del turista di fretta — «menú turístico» senza prezzi esposti, conto sopra a quello che lo stesso piatto costa due strade più in là. Non è un capriccio, sono soldi: nel corso del soggiorno la differenza fa una serata intera. La via d'uscita è un permesso, non un divieto. Vuole mangiare come i vicini? Prenoti per le nove e mezza. Vuole mangiare alle sette? Allora non ceni — faccia tapas al bancone, ed è un piano completo. E una parola per Lei, che gioca a suo favore: la distanza è più piccola di quanto tema, più che per qualsiasi altro visitatore. Lei cena già tardi a casa, alle otto o alle nove, più vicino all'ora spagnola di chiunque, e il tavolo che si allunga non ha nulla di strano per Lei. Il vero scarto non è la sera: è il centro della giornata — il pranzo alle due o alle tre e la pausa del pomeriggio, la siesta. Questo conto non vale ovunque: nelle zone turistiche e nei ristoranti d'albergo si cucina in continuo, e un bancone pieno di vicini alle sette è un bar da colazione o da merenda, quindi vero.",
         "exemplos": [
           {
             "es": "¿Están sirviendo comidas?",
-            "pt": "es-TAN sir-BYEN-do ko-MI-dass — On sert à manger, là ? (la question qui évite la marche de sept heures)"
+            "pt": "es-TAN sir-VIEN-do ko-MI-das — Si serve da mangiare, adesso? (la domanda che evita il passo falso delle sette)"
           },
           {
             "es": "¿Hasta qué hora sirven?",
-            "pt": "ASS-ta ké O-ra SIR-ben — Jusqu'à quand sert-on ? (tard n'est pas un problème ici, la cuisine tient presque jusqu'à minuit)"
+            "pt": "AS-ta ke O-ra SIR-ven — Fino a che ora si serve? (tardi non è un problema qui, la cucina regge quasi fino a mezzanotte)"
           }
         ]
       },
       {
-        "titulo": "«Neuf heures et demie» se dit comme chez vous — l'heure qui ne vous piège pas",
-        "corpo": "Une autre langue trébuche pile ici ; le français, non. Dans certaines langues, la demi-heure se compte vers l'avant, et ce qui devrait être neuf heures et demie se réserve à dix — une heure trop tard. Le français compte comme l'espagnol : «neuf heures et demie», «las nueve y media», mot à mot «neuf et demie», neuf heures trente des deux côtés. La règle tient en un geste que vous faites déjà : le chiffre de l'heure, puis «y media». Huit et demie, «ocho y media» ; neuf et demie, «nueve y media» ; dix et demie, «diez y media». À l'oreille, rien à calculer non plus : si le serveur dit «a las nueve y media», c'est neuf heures et demie, sans piège. Vous portez déjà la machine ; ici, elle pointe la même heure que chez vous. Un seul mot de vocabulaire mérite un coup d'œil, parce qu'il déplace le rendez-vous de plusieurs heures : «la comida», c'est le grand repas du milieu du jour, pas «le repas» en général ; «la cena», c'est le dîner.",
+        "titulo": "«Le nove e mezza» si dice come da Lei — l'ora che non la inganna",
+        "corpo": "Un'altra lingua inciampa proprio qui; l'italiano no. In certe lingue la mezz'ora si conta in avanti, e quello che dovrebbe essere le nove e mezza si prenota per le dieci — un'ora troppo tardi. L'italiano conta come lo spagnolo: «le nove e mezza», «las nueve y media», parola per parola «nove e mezza», nove e trenta da entrambe le parti. La regola sta in un gesto che Lei fa già: il numero dell'ora, poi «y media». Otto e mezza, «ocho y media»; nove e mezza, «nueve y media»; dieci e mezza, «diez y media». Anche all'orecchio non c'è nulla da calcolare: se il cameriere dice «a las nueve y media», sono le nove e mezza, senza trappola. La macchina Lei ce l'ha già; qui punta la stessa ora che da Lei. Una sola parola di vocabolario merita un'occhiata, perché sposta l'appuntamento di diverse ore: «la comida» è il grande pasto del centro della giornata, non «il pasto» in generale; «la cena» è la cena.",
         "exemplos": [
           {
             "es": "Quería una mesa para las nueve y media.",
-            "pt": "ke-RI-a OU-na ME-ssa PA-ra lass NOUÉ-bé i ME-dya — J'aimerais une table pour neuf heures et demie."
+            "pt": "ke-RI-a U-na ME-ssa PA-ra lass NUE-ve i ME-dia — Vorrei un tavolo per le nove e mezza."
           },
           {
             "es": "Quería una mesa para las diez.",
-            "pt": "ke-RI-a OU-na ME-ssa PA-ra lass dyess — J'aimerais une table pour dix heures. (si neuf heures et demie est déjà plein)"
+            "pt": "ke-RI-a U-na ME-ssa PA-ra lass diess — Vorrei un tavolo per le dieci. (se le nove e mezza sono già piene)"
           }
         ]
       }

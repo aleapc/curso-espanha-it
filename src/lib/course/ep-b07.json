@@ -4,36 +4,36 @@
   "nivel": "basico",
   "numero": 7,
   "parte": "7",
-  "titulo": "Trente-trois euros jusqu'à votre porte",
-  "subtitulo": "La file au taxi, le montant déjà fixé, le reçu — et le comptoir où la clé reste posée tant que vous ne demandez pas d'écrit",
+  "titulo": "Trentatré euro fino alla tua porta",
+  "subtitulo": "La fila dei taxi, l'importo già fissato, la ricevuta — e il banco dove la chiave resta lì finché non chiedi tutto per iscritto",
   "moldura": "ganha",
-  "cena": "Minuit et demi dans le hall d'arrivée : quelqu'un sans panneau vous demande très aimablement « ¿Taxi? », et trente mètres plus loin s'allonge la file où le montant est déjà fixé.",
+  "cena": "Mezzanotte e mezza nell'atrio degli arrivi: qualcuno senza cartello ti chiede con molto garbo « ¿Taxi? », e trenta metri più in là si allunga la fila dove l'importo è già fissato.",
   "moldes": [
     "ME-HE-DEJADO"
   ],
   "clique": {
     "contagem": [
-      "la file de taxis",
-      "la banquette arrière",
-      "la réception",
-      "le comptoir de location"
+      "la fila dei taxi",
+      "il sedile posteriore",
+      "la reception",
+      "il banco dell'autonoleggio"
     ],
-    "desconto": "Cette phrase, personne ne vous l'a donnée. Vous l'avez bâtie trois fois vous-même, à partir d'un seul début.",
-    "piso": "À Madrid, vous descendez pour trente-trois euros, et vous le saviez avant même de partir. La plupart des voyageurs découvrent le montant à l'arrivée."
+    "desconto": "Questa frase non te l'ha data nessuno. L'hai costruita tu, tre volte, a partire da un solo inizio.",
+    "piso": "A Madrid scendi per trentatré euro, e lo sapevi già prima di partire. La maggior parte dei viaggiatori scopre l'importo all'arrivo."
   },
   "cliqueAudioKey": "b07-n35",
-  "frasePiso": "À Madrid, vous descendez pour trente-trois euros, et vous le saviez avant même de partir. La plupart des voyageurs découvrent le montant à l'arrivée.",
-  "permissao": "Vous avez le droit de vous mettre au bout de la file et de monter sans dire un mot — montrer l'adresse suffit. Vous avez le droit de refuser au comptoir de location en restant aimable ; rien là n'est impoli. Et vous avez le droit de filmer tranquillement la voiture avant de partir — personne ne le prend mal.",
+  "frasePiso": "A Madrid scendi per trentatré euro, e lo sapevi già prima di partire. La maggior parte dei viaggiatori scopre l'importo all'arrivo.",
+  "permissao": "Hai il diritto di metterti in fondo alla fila e di salire senza dire una parola — mostrare l'indirizzo basta. Hai il diritto di rifiutare al banco dell'autonoleggio restando gentile; lì non c'è niente di scortese. E hai il diritto di filmare con calma la macchina prima di partire — nessuno se la prende.",
   "permissaoAudioKey": "b07-n32",
-  "espelho": "Ce qui se remarque là-bas, c'est la longue négociation au comptoir : qui plaide de vive voix perd du temps et ne gagne rien — la phrase qui déplace les choses, c'est celle qui demande de l'écrit.",
+  "espelho": "Quello che si nota là è la lunga trattativa al banco: chi tratta a voce perde tempo e non ottiene niente — la frase che sposta le cose è quella che chiede tutto per iscritto.",
   "fichasCulturais": [
     {
-      "sinal": "Entre le tapis à bagages et la sortie, quelqu'un sans panneau vous aborde, très aimable, dit « ¿Taxi? » et se dirige déjà vers une porte latérale.",
-      "suaLeitura": "Il attend des clients comme partout dans un aéroport. Je m'épargne la file et je suis au lit dans dix minutes.",
-      "oQueEAli": "Un taxi se prend là où est la file, ou se commande par appli. Celui qui vient vers vous dans le hall n'est ni l'un ni l'autre — et monter dans une voiture non autorisée peut vous coûter, comme passager, jusqu'à six cents euros.",
-      "oQueVoceFaz": "Répondre en marchant, deux phrases courtes, ne pas s'arrêter et ne pas demander le prix. La file de taxis est signalée et se trouve devant la porte.",
-      "oQueMelhora": "Vous roulez à un montant fixé d'avance, et la nuit se termine sans une seule négociation.",
-      "ondeNaoVale": "Pas à la sortie de l'hôtel ni devant le restaurant : là, la maison appelle la voiture pour vous, et c'est justement la bonne façon. Et les applis de VTC elles-mêmes ne sont pas visées — elles sont autorisées, seulement pas ce qui vient vers vous dans le hall.",
+      "sinal": "Tra il nastro dei bagagli e l'uscita, qualcuno senza cartello ti avvicina, gentilissimo, dice « ¿Taxi? » e va già verso una porta laterale.",
+      "suaLeitura": "Aspetta clienti come in ogni aeroporto. Mi risparmio la fila e sono a letto in dieci minuti.",
+      "oQueEAli": "Un taxi si prende dov'è la fila, o si chiama con l'app. Chi ti viene incontro nell'atrio non è né l'uno né l'altro — e salire su una macchina non autorizzata può costarti, da passeggero, fino a seicento euro.",
+      "oQueVoceFaz": "Rispondere camminando, due frasi corte, non fermarsi e non chiedere il prezzo. La fila dei taxi è segnalata ed è davanti alla porta.",
+      "oQueMelhora": "Viaggi a un importo fissato prima, e la notte finisce senza una sola trattativa.",
+      "ondeNaoVale": "Non all'uscita dell'hotel né davanti al ristorante: lì è la casa a chiamarti la macchina, ed è proprio il modo giusto. E le app di NCC non sono in causa — sono autorizzate, solo non ciò che ti viene incontro nell'atrio.",
       "evidencia": "FATO",
       "audioKeys": [
         "b07-n05",
@@ -42,12 +42,12 @@
       ]
     },
     {
-      "sinal": "La voiture démarre, et le petit boîtier au tableau de bord reste éteint.",
-      "suaLeitura": "Il a oublié le compteur — ou il va m'annoncer au bout un chiffre qui lui passe par la tête.",
-      "oQueEAli": "Deux systèmes, et les deux sont normaux. Depuis Madrid-Barajas, vers toute adresse dans la M-30, il y a un forfait de trente-trois euros, jour et nuit, sans supplément autorisé — là, le compteur ne tourne même pas. En ville, sans forfait, il tourne toujours.",
-      "oQueVoceFaz": "Avant de démarrer, tirer au clair lequel des deux s'applique — comme une question, pas un reproche. En descendant, prendre le reçu.",
-      "oQueMelhora": "Vous connaissez le montant avant que la voiture roule, et ensuite le trajet n'est plus qu'un trajet.",
-      "ondeNaoVale": "Hors de la M-30, pas de forfait, et à Barcelone il n'y en a aucun — là, depuis l'aéroport, un minimum de vingt et un euros, supplément compris. Et là où le reçu s'imprime déjà, le demander ne fait que retarder.",
+      "sinal": "La macchina parte, e la scatoletta sul cruscotto resta spenta.",
+      "suaLeitura": "Ha dimenticato il tassametro — o alla fine mi spara una cifra a caso.",
+      "oQueEAli": "Due sistemi, ed entrambi normali. Da Madrid-Barajas, verso qualsiasi indirizzo dentro la M-30, c'è una tariffa fissa di trentatré euro, giorno e notte, senza supplementi autorizzati — lì il tassametro non gira nemmeno. In città, senza tariffa fissa, gira sempre.",
+      "oQueVoceFaz": "Prima di partire, chiarire quale dei due vale — come una domanda, non un rimprovero. Scendendo, prendere la ricevuta.",
+      "oQueMelhora": "Conosci l'importo prima che la macchina parta, e poi la corsa è solo una corsa.",
+      "ondeNaoVale": "Fuori dalla M-30 niente tariffa fissa, e a Barcellona non ce n'è nessuna — lì, dall'aeroporto, un minimo di ventuno euro, supplemento incluso. E dove la ricevuta si stampa già da sola, chiederla non fa che rallentare.",
       "evidencia": "FATO",
       "audioKeys": [
         "b07-n09",
@@ -57,12 +57,12 @@
       ]
     },
     {
-      "sinal": "Vous posez la police imprimée, il continue de taper, lève les yeux et dit que ça ne suffit pas — et la clé reste posée sur le comptoir.",
-      "suaLeitura": "Il connaît les conditions mieux que moi. S'il dit que ma couverture ne suffit pas, c'est sans doute qu'elle ne suffit pas.",
-      "oQueEAli": "Le comptoir d'aéroport est fait pour ce moment : cadence élevée, contact court, arrivants fatigués. Qui refuse la police de la maison se voit, chez certains loueurs, bloquer entre cinq cents et mille cinq cents euros sur la carte — et la pression reste orale, parce qu'à l'écrit elle se répète rarement.",
-      "oQueVoceFaz": "Refuser une fois, aimablement. À la deuxième tentative, demander la même affirmation par écrit. Avant de signer, tirer au clair deux chiffres : combien est bloqué et quand ça revient.",
-      "oQueMelhora": "Vous partez avec la couverture que vous avez payée dix à vingt euros chez vous, et le montant sur la carte est un montant que vous connaissiez d'avance.",
-      "ondeNaoVale": "Pas si vous n'avez aucune couverture à vous — alors l'offre au comptoir est une offre normale, pas un abus. Et pas pour un dommage qui existe vraiment : celui-là se règle à la voiture, pas au comptoir.",
+      "sinal": "Posi la polizza stampata, lui continua a battere sui tasti, alza gli occhi e dice che non basta — e la chiave resta lì sul banco.",
+      "suaLeitura": "Conosce le condizioni meglio di me. Se dice che la mia copertura non basta, forse non basta davvero.",
+      "oQueEAli": "Il banco in aeroporto è fatto per questo momento: ritmo alto, contatto breve, gente stanca appena arrivata. Chi rifiuta la polizza della casa si vede, da certi noleggiatori, bloccare tra cinquecento e millecinquecento euro sulla carta — e la pressione resta a voce, perché per iscritto si ripete di rado.",
+      "oQueVoceFaz": "Rifiutare una volta, con gentilezza. Al secondo tentativo, chiedere la stessa cosa per iscritto. Prima di firmare, chiarire due cifre: quanto viene bloccato e quando torna.",
+      "oQueMelhora": "Parti con la copertura che hai pagato dieci o venti euro a casa tua, e la somma sulla carta è una somma che conoscevi già.",
+      "ondeNaoVale": "Non se non hai nessuna copertura tua — allora l'offerta al banco è un'offerta normale, non un abuso. E non per un danno che c'è davvero: quello si risolve alla macchina, non al banco.",
       "evidencia": "FATO",
       "audioKeys": [
         "b07-n23",
@@ -76,7 +76,7 @@
   "fatosDatados": [
     {
       "id": "madrid-tarifa-fija-33",
-      "afirmacao": "Entre Madrid-Barajas et toute adresse à l'intérieur de la M-30, un forfait de 33 euros s'applique, 24 heures sur 24, tous les jours, sans supplément autorisé. Hors de la M-30 et à moins de 9 km, c'est le tarif 3 qui s'applique à la place, avec un montant de base de 22 euros.",
+      "afirmacao": "Tra Madrid-Barajas e qualsiasi indirizzo dentro la M-30 si applica una tariffa fissa di 33 euro, 24 ore su 24, tutti i giorni, senza supplementi autorizzati. Fuori dalla M-30 ed entro 9 km si applica invece la tariffa 3, con un importo base di 22 euro.",
       "fonte": "Ayuntamiento de Madrid, atualização de tarifas do táxi para 2026 (+2,36%); a tarifa fixa passou de €30 a €33 em 01/jan/2024 — síntese em docs/pesquisa-espanha.md §8.4",
       "ano": 2026,
       "revisarAte": "2027-02-01",
@@ -90,7 +90,7 @@
     },
     {
       "id": "barcelona-minimo-21-recargo-460",
-      "afirmacao": "À Barcelone, il n'y a pas de forfait depuis l'aéroport, mais un montant minimum de 21 euros pour toute course au départ de l'aéroport, dans lequel le supplément aéroport de 4,60 euros est déjà compris.",
+      "afirmacao": "A Barcellona non c'è una tariffa fissa dall'aeroporto, ma un importo minimo di 21 euro per ogni corsa in partenza dall'aeroporto, in cui il supplemento aeroporto di 4,60 euro è già compreso.",
       "fonte": "Tarifas do táxi de Barcelona 2026 (+2,3%; recargo de aeroporto €4,50 → €4,60) — docs/pesquisa-espanha.md §8.4. ⚠️ O quadro tarifário da área metropolitana é revisto anualmente: reconferir a cada edição.",
       "ano": 2026,
       "revisarAte": "2027-02-01",
@@ -103,7 +103,7 @@
     },
     {
       "id": "vtc-nao-e-plano-de-aeroporto",
-      "afirmacao": "Les applis de VTC sont autorisées en Espagne, mais Barcelone est en train de les écarter de la circulation urbaine — c'est pourquoi le trajet depuis l'aéroport ne se planifie pas par appli. La file de taxis fonctionne toujours.",
+      "afirmacao": "Le app di NCC (le VTC spagnole) sono autorizzate in Spagna, ma Barcellona le sta escludendo dalla circolazione urbana — per questo la corsa dall'aeroporto non si pianifica con l'app. La fila dei taxi funziona sempre.",
       "fonte": "Proposição de lei do Parlament de Catalunya (emenda à totalidade rejeitada, tramitação em curso em jul/2026): proibição de VTC em transporte urbano, reserva com 2 h de antecedência, corrida mínima de 1 h, corte de 600 das 990 licenças — docs/pesquisa-espanha.md §8.4, com a regra editorial explícita de NÃO afirmar que o serviço «não funciona».",
       "ano": 2026,
       "revisarAte": "2027-01-01",
@@ -116,8 +116,8 @@
     },
     {
       "id": "passageiro-de-taxi-sem-licenca",
-      "afirmacao": "Qui monte dans une voiture non autorisée peut être sanctionné en tant que passager — jusqu'à 600 euros.",
-      "fonte": "UK FCDO, travel advice Spain (fonte governamental estrangeira sobre norma espanhola; é a única citada no dossiê) — docs/pesquisa-espanha.md §7.8(g). ⚠️ Não localizada a norma espanhola de origem: reconferir contra a legislação de transporte antes da próxima edição. RESSALVA DO PAR FR: a justificativa «fonte oficial do país do comprador» de §7.8(g) NÃO porta para o comprador francês (a FCDO é britânica) — o equivalente a procurar é o Conseils aux voyageurs do Quai d'Orsay ou a norma espanhola de transporte.",
+      "afirmacao": "Chi sale su una macchina non autorizzata può essere sanzionato come passeggero — fino a 600 euro.",
+      "fonte": "UK FCDO, travel advice Spain (fonte governamental estrangeira sobre norma espanhola; é a única citada no dossiê) — docs/pesquisa-espanha.md §7.8(g). ⚠️ Não localizada a norma espanhola de origem: reconferir contra a legislação de transporte antes da próxima edição. RESSALVA DO PAR IT: a justificativa «fonte oficial do país do comprador» de §7.8(g) NÃO porta para o comprador italiano (a FCDO é britânica) — o equivalente a procurar é o «Viaggiare Sicuri» da Farnesina (viaggiaresicuri.it) ou a norma espanhola de transporte.",
       "ano": 2026,
       "revisarAte": "2027-06-01",
       "evidencia": "FATO",
@@ -128,7 +128,7 @@
     },
     {
       "id": "locadora-caucao-500-1500",
-      "afirmacao": "Qui refuse au comptoir l'assurance de la maison se voit, chez certains loueurs, bloquer entre 500 et 1 500 euros sur la carte — bloqués, pas débités — et la pression pour la prendre quand même se construit à l'oral, pas à l'écrit.",
+      "afirmacao": "Chi al banco rifiuta l'assicurazione della casa si vede, da certi noleggiatori, bloccare tra 500 e 1.500 euro sulla carta — bloccati, non addebitati — e la pressione per prenderla comunque si costruisce a voce, non per iscritto.",
       "fonte": "OCU e imprensa especializada 2025–2026: pressão por seguro «Premium» no balcão, com recusa de entrega do veículo em casos nomeados — docs/pesquisa-espanha.md §8.4. Os nomes das empresas ficam FORA do áudio de propósito. A estimativa jornalística de prejuízo médio (~€2.000) NÃO é usada: o próprio dossiê a marca como não pública em fonte primária.",
       "ano": 2026,
       "revisarAte": "2027-06-01",
@@ -143,8 +143,8 @@
     },
     {
       "id": "zbe-2026-e-a-plaqueta",
-      "afirmacao": "Depuis le 1er janvier 2026, toute commune espagnole de plus de 50 000 habitants doit exploiter une zone à faibles émissions ; la surveillance se fait par caméra. L'infraction est classée comme grave et coûte jusqu'à 200 euros, réduite à 100 en cas de paiement immédiat — et le loueur la transmet des semaines plus tard, frais de dossier en plus.",
-      "fonte": "Regime de ZBE vigente em 2026 (municípios >50.000 hab., ilhas e municípios >20.000 fora dos limites de poluição); multa até €200, grave, reduzível a €100, sem perda de pontos; distintivo da DGT emitido só a veículo matriculado na Espanha — docs/pesquisa-espanha.md §8.4. Um carro ALUGADO tem placa espanhola e distintivo, e é por isso que a pergunta no balcão resolve; o caso do veículo de placa estrangeira é outro e está marcado como PENDÊNCIA DE PESQUISA em docs/DERIVACAO-FR.md §4.1 — não entra aqui.",
+      "afirmacao": "Dal 1º gennaio 2026 ogni comune spagnolo con più di 50.000 abitanti deve avere una zona a basse emissioni; il controllo è con telecamera. L'infrazione è classificata come grave e costa fino a 200 euro, ridotta a 100 pagando subito — e il noleggiatore te la gira settimane dopo, con spese di pratica in più.",
+      "fonte": "Regime de ZBE vigente em 2026 (municípios >50.000 hab., ilhas e municípios >20.000 fora dos limites de poluição); multa até €200, grave, reduzível a €100, sem perda de pontos; distintivo da DGT emitido só a veículo matriculado na Espanha — docs/pesquisa-espanha.md §8.4. Um carro ALUGADO tem placa espanhola e distintivo, e é por isso que a pergunta no balcão resolve; o caso do veículo de placa estrangeira é outro e está marcado como PENDÊNCIA DE PESQUISA em docs/DERIVACAO-IT.md §4.1 — e PESA MENOS neste par (o comprador italiano chega de avião e aluga, não desce de carro de placa italiana como o francês); não entra aqui.",
       "ano": 2026,
       "revisarAte": "2027-01-01",
       "evidencia": "FATO",
@@ -157,24 +157,26 @@
     }
   ],
   "_notasDeAutoria": {
-    "_": "Narração FRANCESA de B07 escrita em 2026-07-28, re-derivada do zero contra a DERIVACAO-FR.md e o moldes.json FR. NENHUMA linha alemã sobreviveu. Fala espanhola: nenhum `es`/`tts`/`audioKey` de clipe reusado foi alterado (conferido verbatim contra a parte alemã — os 19 clipes do andaime batem). Vozes-guia trocadas para os placeholders franceses do audio.config: Juli→GuiaFem (educadora), Thomas→GuiaMasc (alertas). Carmen/Emilio intactas. Custo de crédito espanhol: ZERO, nenhum clipe novo.",
-    "eixo_desta_parte": "O eixo francês é o FALSO AMIGO (a proximidade que engana), mas o molde desta parte — ME-HE-DEJADO — tem `falsos_amigos: []` no roster FR. Logo B07 NÃO tem falso amigo de assinatura e é, por decisão do roster, uma parte MAIS LEVE: fonética + estrutura. Não se fabrica um falso amigo aqui só para ter um; antecipar `largo`/`embarazada`/etc. roubaria a casa deles (B11/I07).",
-    "regra_de_leitura_alema_que_MORRE": "O beat do Thomas alemão era o ⟨v⟩ de `móvil` («MO-bil, nie MO-fil», v=[f]). Isso MORRE no francês: o francês distingue b/v e diz [movil] com [v], entendido (DERIVACAO §1.2 linha 13; a gag `vino`×`fino` também morre por aqui). O beat do GuiaMasc (b07-t01/t02) MIGRA para a JOTA de `dejado` — som NOVO para o francês [ʒ]→alvo [x], que ele não tem —, grudada à casca `me he dejado` DEPOIS de o aluno já ter produzido a frase três vezes. É redisparo leve do que B01 planta (jamón) e do que B10 toca de leve; a CASA DE TREINO da jota é B13/LLEVA, não roubada aqui.",
-    "brindes_nao_gastos_em_audio": "Anti-padrão 9 em ato seria escrevê-los. `he`/`hombre`/`hay`/`hasta` → ⟨h⟩ MUDO (o alemão dizia «Hai»/«Harina»); `chaqueta`/`etiqueta`/`quiero`/`aquí` → ⟨qu⟩=[k] (o alemão lia «kv»); `en el taxi`→«é-nel» → encadeamento natural, sem golpe de glote (o Knacklaut alemão não existe); `móvil`→ ⟨v⟩=[b]. Só o `pt` de fecho da seção 5 do `aprofundar` menciona h/v como «vous vient tout seul» (registrar o brinde, não treiná-lo).",
-    "gesto_e_r": "Programa 4 (le petit coup sec / flick) no aquecimento (b07-n01): é a parte mais densa de ⟨r⟩ de ME VIRO — `maletero`, `libre`, `recibo`, `abrir`, `dirección`, `tarifa`, `seguro`, `cobertura` — e a DERIVACAO §1.2 linha 7 manda o `r` SUBIR de peso (uvular no francês, sem âncora no tap). Arco: o aquecimento puxa o `r` PRA FRENTE (tap, «la langue frappe, pas au fond»); o beat da jota depois mantém a jota NO FUNDO. O flick faz trabalho duplo (r + jota, mesmo fundo de gorge).",
-    "respelling_frances": "O campo `pinyin` foi RE-DERIVADO para o olho francês, mesma convenção de ep-b10 (o respelling alemão não porta): MAIÚSCULA = tônica · `ou`=[u] espanhol (nunca o `u`=[y] francês) · `kh`=jota [x], souffle de gorge (dejado→dé-KHA-do, fija→FI-kha, tarjeta→tar-KHÉ-ta) · `tch`=ch [tʃ] (chaqueta→tcha-KÉ-ta, coche→KO-tché) · `b`=v/b (móvil→MO-bil, verdad→ber-DAD) · `ss`=z/c+e,i/s intervocálico, sempre duro (gasolina→ga-sso-LI-na, recibo→rré-SSI-bo) · `y`=ll/y (lleno→YÉ-no, llamar→ya-MAR, llaves→YA-bess) · `gn`=ñ · ⟨h⟩ mudo cai · `qu`=k · finais escritas = a pronunciar. INFERÊNCIA — pendência de revisor FR-L1 + peninsular; o glifo `kh` da jota é o mais frágil.",
-    "carro_pesa_mais_que_taxi": "65% deste comprador chega de CARRO (FATO, Turespaña), não de avião — então a metade da LOCADORA e a plaqueta ZBE pesam MAIS que o táxi neste par, e o táxi é o caminho de quem voa ou pega o trem. A categoria de improviso `isso aqui pode?` (ZBE/estacionar/bagagem) é onde PUEDO paga e ela CRESCE com o carro (moldes.json PUEDO.nota). A plaqueta ZBE do áudio é do carro ALUGADO (placa espanhola + distintivo da DGT, e é por isso que a pergunta no balcão resolve); o `taxi/estacionar` produtivo fica com B10.",
-    "redisparos_e_previas": "Iguais ao andaime — conferidos contra as strings espanholas (intactas). PUEDO callback (`¿Puedo pagar con tarjeta?`, casa B06, recall na porta do táxi). ME-PUEDE: encaixe NOVO `abrir el maletero` (`b07-maletero-e`), mais recall de `dar por escrito` e `llamar un taxi` (já produzidos em B04/B03 — a narração os trata como recall, não novidade). ME-PONE prévia: `¿Me pone el taxímetro?` (`e06a-taximetro`) entra como `ouvir` e depois `responde`, casa em B11. ME-HE-DEJADO é a CASA: três substituições na frente do aluno (`el móvil` → `la chaqueta` → `en el bar`, esta mostrando o SEGUNDO buraco, o lugar). O bloco de gramática é UMA linha (b07-n19): o `passé composé` com `avoir` já é a forma falada do francês (brinde grande).",
+    "_": "Narração ITALIANA de B07 re-derivada do zero em 2026-08-01 contra a DERIVACAO-IT.md e o moldes.json ITALIANO, a partir do ANDAIME que estava em FRANCÊS. NENHUMA linha francesa sobreviveu (grep vous/l'/moule/appli = 0). Fala espanhola: nenhum `es`/`tts`/`audioKey` de clipe reusado foi alterado (conferido verbatim contra o andaime — os 20 clipes batem). Vozes-guia trocadas para os placeholders ITALIANOS do audio.config: GuiaFem (educadora, `TODO-IT-guia-feminina`), GuiaMasc (alertas, `TODO-IT-guia-alertas`). Carmen/Emilio (peninsulares) intactas. Custo de crédito espanhol: ZERO, nenhum clipe novo. Registro da guia: `tu` (direto, informal), coerente com curso de viagem do casal.",
+    "eixo_desta_parte": "O eixo italiano é o FALSO AMIGO, a proximidade que engana AO MÁXIMO. O molde da parte — ME-HE-DEJADO — tem `falsos_amigos: []` no roster, MAS o italiano B07 CARREGA UM falso amigo, e isso é a diferença de derivação vs o francês (que deixou B07 sem falso amigo, mais leve): `subir`/`subire`. Não é fabricado — é LICENCIADO por dois portões: (1) PUEDO redispara em B07 (`moldes.json` PUEDO.redisparos inclui B07) e o falso amigo de assinatura de PUEDO é `subir_subire` (`subir con esta maleta` = «sofrer com esta mala» para o italiano, `subire`=SOFRER, `salire`=subir); (2) a cena da parte é literalmente «do aeroporto ATÉ A CAMA» — a última subida com a mala na mão é a imagem de fecho. Entra como CITAÇÃO receptiva na voz da guia (b07-t02), grudada à cena de subir ao quarto, DEPOIS de o aluno já ter produzido `me he dejado` — NÃO como clipe espanhol novo (`subir con la maleta`=0 no andaime). A gag `burro` e os traps de balcão (`largo`/`vaso`) NÃO entram: a casa deles é ME-PONE/B11 e QUERIA/B12; antecipá-los roubaria o slot.",
+    "beat_que_migra": "O andaime francês tinha b07-t01 E b07-t02 como DOIS beats de jota (GuiaMasc): o [ʒ]→[x] de `dejado`. No italiano a jota também é o problema — o italiano NÃO tem [x], lê ⟨j⟩=[j] e ⟨g+e,i⟩=[dʒ] («djorno»), pior que o francês porque não tem âncora uvular (o mais perto é a gorgia toscana). Mas UM beat de jota basta (a jota ganha muita produção pelos clipes `dejado`), então: b07-t01 FICA a jota (grudada a `dejado`, já produzido); b07-t02 é RE-APROVEITADO para o alerta `subir`/`subire` (o eixo vertical escramblado — a voz de alertas cabe bem no aviso). O beat francês do `v` de `móvil` (v=[b]) MORRE como treino: o italiano distingue b/v e diz [v], entendido — brinde leve, registrado só no `aprofundar`, não treinado (anti-padrão 9).",
+    "brindes_nao_gastos_em_audio": "A lista de brindes é a MAIS LONGA do catálogo — escrevê-los é o anti-padrão 9. `he`/`hombre`/`hay`/`hace`/`hasta` → ⟨h⟩ MUDO (o italiano não soa o ⟨h⟩: `ho`, `hotel`); o `r` de `recibo`/`libre`/`abrir`/`maletero` é TAP/VIBRANTE NATIVO (o maior brinde — o francês e o alemão penavam com o uvular; aqui custa zero, e por isso o aquecimento SAIU do `r`); a TÔNICA de `quería`/`caña`/`recibo` é paroxítona e BATE (o «soco» francês não tem erro a trair); os FINAIS plenos (`gracias`, `verdad`, `taxi` inteiros — o italiano não come final); `u`=[u] (`seguro`, `tú` limpos); ZERO nasal (`con`, `sin` sem nariz); `b`≠`v` entendido. NÃO É BRINDE (ressalva do par, contra o francês): o `qu`=[kw] italiano (`quería`→«kweria», `etiqueta`, `chaqueta`) — trap MENOR, tratado no respelling escrevendo `k` (KIE-ro, e-ti-KE-ta), sem beat próprio porque B07 o toca de leve.",
+    "gesto_e_a_jota": "O aquecimento (b07-n01, gesto 4) foi RE-DIRECIONADO. No francês/alemão gesto 4 era o flick — o `r` puxado pra frente, porque aqueles compradores tinham o `r` uvular a corrigir. Para o italiano o `r` é NATIVO (brinde), então um aquecimento de `r` ensinaria um brinde. O único gesto que trai um erro real é o da JOTA (DERIVACAO-IT §1.3), o som novo no fundo da garganta. O texto do aquecimento agora sopra a jota, grudado às palavras de jota que a PRÓPRIA B07 diz: `dejado`, `tarjeta`, `fija`. O NÚMERO `gesto: 4` foi MANTIDO como estrutura (a renumeração do inventário de gesto italiano é decisão de B01-IT, onde o flick cai e a jota entra — reconciliar lá; pendência declarada).",
+    "respelling_italiano": "O campo `pinyin` foi RE-DERIVADO para o olho ITALIANO (o respelling francês não porta — nada de `ou`, nada de `tch`): MAIÚSCULA = tônica · `u`=[u] (o italiano já lê `u`=[u], sem `ou`) · `kh`=jota [x], sopro de garganta (dejado→de-KHA-do, tarjeta→tar-KHE-ta, fija→FI-kha) · `cia/ce`=⟨ch⟩ espanhol [tʃ], o `ci` de `ciao`, PORQUE o italiano lê ⟨ch⟩=[k] (chaqueta→cia-KE-ta, coche→KO-ce) · `ss`=⟨z⟩/⟨c⟩+e,i/`s` intervocálico, sempre surdo [s], seseo aceito e evita o [z] do Norte (gracias→GRA-ssias, recibo→rre-SSI-bo, gasolina→ga-sso-LI-na, hace→A-sse) · `y`=⟨ll⟩/⟨y⟩ [ʝ], NÃO geminada, âncora o `gl` de `figlio` (lleno→YE-no, llamar→ya-MAR) · `gn`=ñ · `b`=⟨v⟩/⟨b⟩ (fusão nativa peninsular: móvil→MO-bil, verdad→ber-DAD) · `k`=⟨qu⟩, escrito assim de propósito para BARRAR o `qu`=[kw] italiano (quiero→KIE-ro, etiqueta→e-ti-KE-ta) · ⟨h⟩ mudo cai · finais escritas = a pronunciar. INFERÊNCIA — pendência de revisor IT-L1 + peninsular; o glifo `kh` da jota e o `cia`=[tʃ] são as escolhas mais frágeis.",
+    "taxi_pesa_mais_que_carro": "INVERSÃO do francês, e é a consequência dura da geografia. A Itália NÃO faz fronteira com a Espanha (a França está no meio): o comprador chega majoritariamente de AVIÃO/ferry (INFERÊNCIA geográfica — falta a ficha Turespaña-Italia, pendência). Então neste par o TÁXI é o caminho principal e a metade da LOCADORA + a plaqueta ZBE pesam MENOS que no francês (são o caminho de quem aluga, não o default). O argumento do CARRO que sustentava PUEDO no nº 4 francês (65% de carro, FATO Turespaña-França) NÃO PORTA; PUEDO fica em 4º por `potere` cobrir poder+licença e pelo improviso, agora com o falso amigo `subir`/`subire` dentro. A plaqueta ZBE do áudio é do carro ALUGADO (placa espanhola + distintivo da DGT, e é por isso que a pergunta no balcão resolve); o caso de placa ESTRANGEIRA é a EXCEÇÃO deste comprador (só se descer de carro pela França), o oposto do francês — nomeado no `aprofundar` §4 sem afirmar procedimento.",
+    "redisparos_e_previas": "Conferidos contra as strings espanholas (intactas). PUEDO callback (`¿Puedo pagar con tarjeta?`, casa B06, recall na porta do táxi) — e PUEDO traz o falso amigo `subir`/`subire`, citado em b07-t02. ME-PUEDE: encaixe NOVO `abrir el maletero` (`b07-maletero-e`), mais recall de `dar por escrito` e `llamar un taxi` (já produzidos em B03/B04 — a narração os trata como recall). ME-PONE prévia: `¿Me pone el taxímetro?` (`e06a-taximetro`) entra como `ouvir` e depois `responde`, casa em B11. ME-HE-DEJADO é a CASA: três substituições na frente do aluno (`el móvil` → `la chaqueta` → `en el bar`, esta mostrando o SEGUNDO buraco, o lugar). O bloco de gramática é UMA linha (b07-n19): o `passato prossimo` com `avere` (`ho lasciato…`) é a forma falada do italiano — brinde AINDA maior que a nota francesa do `passé composé`, porque o uso é idêntico.",
     "receptivo": "Dois pares ouvir→agir marcados 👂 + `acao`, os dois no balcão da locadora: `No hace falta, hombre, si está en el contrato.` (o afago que não é concessão — a ação é pedir por escrito, R-D da parte) e `Lleva la C. Con esa hay centros donde no puedes entrar.` (a resposta que dá a letra da plaqueta — a ação é olhar a zona antes de dirigir).",
-    "golpe_como_beat": "G1 `ganha`; o homem do saguão ocupa três clipes e a moldura é a solução (a file funciona sempre), não a ameaça. O título nomeia um preço, não um perigo. Saldo de `tom`: 6 `ganha` × 4 `protege`.",
+    "golpe_como_beat": "G1 `ganha`; o homem do saguão ocupa três clipes e a moldura é a solução (a fila funciona sempre), não a ameaça. O título nomeia um preço, não um perigo. Saldo de `tom`: 6 `ganha` × 4 `protege`.",
     "pendencias": [
-      "REVISOR FR-L1 + espanhol PENINSULAR: toda a fonética/respelling desta parte é INFERÊNCIA (a jota como som novo, o `r` uvular×tap, os finais, o `ou`=[u]). O glifo `kh` da jota precisa de decisão do revisor. Nada NÃO CONFERIDO vira áudio.",
-      "VOZ-GUIA FRANCESA (casting): GuiaFem/GuiaMasc são placeholder no audio.config («TODO-FR-...»); o gerador não emite job de narração-guia até os voiceId saírem do placeholder.",
-      "G14 (voz × língua) por conferência HUMANA: a guia francesa CITA espanhol (b07-n18) e a jota em b07-t01/t02, mas nunca FALA espanhol; Carmen/Emilio nunca falam francês. Este repositório já teve o acidente do mp3 na língua errada.",
-      "Os 43 clipes de narração alemã→FRANCESA (40 `intro`/`recap` + 3 recap) e os 16 prompts não existem em disco: `npm run audio:check` acusa até a geração e o casting.",
-      "`passageiro-de-taxi-sem-licenca`: a fonte é aviso de terceiro país (UK FCDO) sobre norma espanhola, e a justificativa «fonte oficial do país do comprador» NÃO porta para o francês. Reconferir contra o Conseils aux voyageurs (Quai d'Orsay) ou a norma espanhola de transporte; primeiro item a cair se o revisor não a encontrar.",
-      "ZBE de PLACA ESTRANGEIRA continua PENDÊNCIA (DERIVACAO-FR §4.1) e PESA MAIS neste par (muitos franceses entram no próprio carro de placa francesa). O áudio trata só o carro ALUGADO (placa espanhola + distintivo DGT); o `aprofundar` §4 nomeia o caso da placa francesa sem afirmar procedimento — reabrir com fonte.",
-      "CONCENTRAÇÃO DO COMPRADOR × ÂNCORA DA PARTE: os dois números de tarifa do dossiê são de Madri e Barcelona; o destino francês é litoral continental (Cataluña 30%, Valencia 17%). O PROTOCOLO é agnóstico de cidade (`¿Es tarifa fija, verdad?` × `¿Me pone el taxímetro?`) e nenhuma linha afirma que o preço fixo vale fora de Madri — mas quem tiver tarifa de Barcelona/Levante em fonte primária deve reabrir este slot."
+      "REVISOR IT-L1 + espanhol PENINSULAR: toda a fonética/respelling desta parte é INFERÊNCIA (a jota como som novo sem âncora uvular, o `ch`=[k] de `chaqueta`, o `qu`=[kw] menor, o seseo `ss`, o `cia`=[tʃ]). Os glifos `kh` e `cia` precisam de decisão do revisor. Nada NÃO CONFERIDO vira áudio.",
+      "`subir`/`subire` NÃO CONFERIDO: o falso amigo aplicado em b07-t02 é INFERÊNCIA (`subire`=sofrer, `salire`=subir; o eixo vertical escramblado). Precisa de revisor IT-L1. É CITAÇÃO receptiva (sem clipe espanhol novo), licenciada por PUEDO.redisparos e pela cena de subir ao quarto.",
+      "VOZ-GUIA ITALIANA (casting): GuiaFem/GuiaMasc são placeholder no audio.config («TODO-IT-...»); o gerador não emite job de narração-guia até os voiceId saírem do placeholder.",
+      "G14 (voz × língua) por conferência HUMANA: a guia italiana CITA espanhol (b07-n18, a jota em b07-t01, e cita `subir` em b07-t02) mas nunca FALA espanhol; Carmen/Emilio nunca falam italiano. Este repositório já teve o acidente do mp3 na língua errada.",
+      "Os clipes de narração italiana (40 `intro`/`recap` + 3 recap + 2 `t`) e os 16 prompts não existem em disco: `npm run audio:check` acusa até a geração e o casting.",
+      "gesto 4 do aquecimento (b07-n01): mantido como estrutura, mas a re-derivação de B01-IT DERRUBA o flick do `r` (brinde) e ADICIONA o gesto da jota — reconciliar a numeração de gesto com B01-IT (o texto do aquecimento já foi re-direcionado à jota).",
+      "`passageiro-de-taxi-sem-licenca`: a fonte é aviso de terceiro país (UK FCDO) sobre norma espanhola, e a justificativa «fonte oficial do país do comprador» NÃO porta para o italiano. Reconferir contra o «Viaggiare Sicuri» (Farnesina) ou a norma espanhola de transporte; primeiro item a cair se o revisor não a encontrar.",
+      "MEIO DE CHEGADA: «avião/ferry, não carro» é INFERÊNCIA geográfica — falta a ficha Turespaña-Italia (afeta PUEDO/B07). A metade da locadora fica como caminho de quem aluga, não como default.",
+      "CONCENTRAÇÃO DO COMPRADOR × ÂNCORA DA PARTE: os dois números de tarifa do dossiê são de Madri e Barcelona; a distribuição do destino italiano é desconhecida sem a ficha. O PROTOCOLO é agnóstico de cidade (`¿Es tarifa fija, verdad?` × `¿Me pone el taxímetro?`) e nenhuma linha afirma que o preço fixo vale fora de Madri."
     ]
   },
   "steps": [
@@ -184,7 +186,7 @@
       "audioKey": "b07-n01",
       "bloco": "aquecimento",
       "gesto": 4,
-      "pt": "Échauffement. Un petit coup sec, vers l'avant : ma-le-TÉ-ro, LI-bré, rré-SSI-bo. La langue frappe, elle ne gratte pas au fond."
+      "pt": "Riscaldamento. Un soffio in fondo alla gola: de-KHA-do, tar-KHE-ta, FI-kha. Non la gi di « giorno » — più indietro, più roco."
     },
     {
       "tipo": "responde",
@@ -193,81 +195,81 @@
       "bloco": "callback",
       "molde": "PUEDO",
       "encaixe": "pagar con tarjeta",
-      "encaixeGloss": "payer par carte",
+      "encaixeGloss": "pagare con la carta",
       "promptAudioKey": "b07-p01",
-      "promptPt": "La portière arrière est ouverte, le chauffeur attend, et il y a onze euros en billets dans votre porte-monnaie. Réglez-le avant de monter. Parlez maintenant.",
+      "promptPt": "La portiera dietro è aperta, l'autista aspetta, e nel portafogli hai undici euro in contanti. Sistemalo prima di salire. Parla adesso.",
       "audioKey": "b06-tarjeta-c",
       "es": "¿Puedo pagar con tarjeta?",
-      "pinyin": "POUÉ-do pa-GAR kon tar-KHÉ-ta",
-      "pt": "on peut aussi sans espèces ?"
+      "pinyin": "PUE-do pa-GAR kon tar-KHE-ta",
+      "pt": "si può anche senza contanti?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n02",
       "bloco": "cena",
-      "pt": "Minuit et demi, hall d'arrivée. La valise est là, et jusqu'au lit il reste deux décisions."
+      "pt": "Mezzanotte e mezza, atrio degli arrivi. La valigia è qui, e da qui fino al letto restano due decisioni."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n03",
-      "pt": "La première est droit devant vous : quelqu'un sans panneau, très aimable, et il ne dit qu'un mot."
+      "pt": "La prima è dritta davanti a te: qualcuno senza cartello, gentilissimo, e dice una parola sola."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "c02b-08",
       "es": "No, gracias. No me interesa.",
-      "pinyin": "no, GRA-ssiass. no mé in-té-RÉ-ssa",
-      "pt": "Non merci. Pas intéressé. — Deux phrases courtes, et les deux se disent en marchant.",
+      "pinyin": "no, GRA-ssias. no me in-te-RE-ssa",
+      "pt": "No, grazie. Non mi interessa. — Due frasi corte, e tutt'e due si dicono camminando.",
       "tts": "No, gracias. No me interesa."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n04",
-      "pt": "Marcher fait partie de la phrase. Ne pas s'arrêter, ne pas expliquer, ne pas demander le prix."
+      "pt": "Camminare fa parte della frase. Non fermarti, non spiegare, non chiedere il prezzo."
     },
     {
       "tipo": "responde",
       "voz": "Carmen",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b07-p02",
-      "promptPt": "Quelqu'un sans panneau marche à côté de vous, très aimable, et montre une porte latérale près de la sortie. Vous continuez et vous dites une phrase. Parlez maintenant.",
+      "promptPt": "Qualcuno senza cartello ti cammina accanto, gentilissimo, e indica una porta laterale vicino all'uscita. Vai avanti e dì una frase. Parla adesso.",
       "audioKey": "c02b-08",
       "es": "No, gracias. No me interesa.",
-      "pinyin": "no, GRA-ssiass. no mé in-té-RÉ-ssa",
-      "pt": "poli, court, en marchant"
+      "pinyin": "no, GRA-ssias. no me in-te-RE-ssa",
+      "pt": "gentile, corta, camminando"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n05",
       "bloco": "capsula",
-      "pt": "Un taxi se prend là où est la file, ou par appli. Celui qui vous aborde dans le hall n'est ni l'un ni l'autre."
+      "pt": "Un taxi si prende dov'è la fila, o con l'app. Chi ti avvicina nell'atrio non è né l'uno né l'altro."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n06",
       "tom": "protege",
-      "pt": "Monter dans une voiture non autorisée peut vous coûter, comme passager, jusqu'à six cents euros."
+      "pt": "Salire su una macchina non autorizzata può costarti, da passeggero, fino a seicento euro."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n07",
       "tom": "ganha",
-      "pt": "La file, c'est le plus simple de toute l'arrivée : se mettre au bout, ne rien dire, monter."
+      "pt": "La fila è la cosa più semplice di tutto l'arrivo: mettersi in fondo, non dire niente, salire."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e06a-estalibre",
       "es": "¿Está libre?",
-      "pinyin": "es-TA LI-bré",
-      "pt": "Vous êtes libre ? — Pour la voiture au bord du trottoir. Sur le toit, LIBRE ou OCUPADO.",
+      "pinyin": "es-TA LI-bre",
+      "pt": "È libera? — Per la macchina al bordo del marciapiede. Sul tetto, LIBRE o OCUPADO.",
       "tts": "¿Está libre?"
     },
     {
@@ -278,19 +280,19 @@
         "taxi/destino"
       ],
       "promptAudioKey": "b07-p03",
-      "promptPt": "Pas de station à l'horizon, mais au bord du trottoir il y en a un, moteur tournant, lumière verte sur le toit. Deux mots par la fenêtre. Parlez maintenant.",
+      "promptPt": "Nessuna fila in vista, ma al bordo del marciapiede ce n'è uno, motore acceso, luce verde sul tetto. Due parole dal finestrino. Parla adesso.",
       "audioKey": "e06a-estalibre",
       "es": "¿Está libre?",
-      "pinyin": "es-TA LI-bré",
-      "pt": "deux mots avant de toucher la portière"
+      "pinyin": "es-TA LI-bre",
+      "pt": "due parole prima di toccare la portiera"
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "b07-maletero-e",
       "es": "¿Me puede abrir el maletero?",
-      "pinyin": "mé POUÉ-dé a-BRIR el ma-le-TÉ-ro",
-      "pt": "Pouvez-vous ouvrir le coffre ?",
+      "pinyin": "me PUE-de a-BRIR el ma-le-TE-ro",
+      "pt": "Mi può aprire il bagagliaio?",
       "tts": "¿Me puede abrir el maletero?"
     },
     {
@@ -299,13 +301,13 @@
       "promptVoz": "GuiaFem",
       "molde": "ME-PUEDE",
       "encaixe": "abrir el maletero",
-      "encaixeGloss": "ouvrir le coffre",
+      "encaixeGloss": "aprire il bagagliaio",
       "promptAudioKey": "b07-p04",
-      "promptPt": "Il reste assis et regarde dans le rétroviseur, et vous êtes là avec deux bagages sous la bruine. Demandez-lui ce seul geste. Parlez maintenant.",
+      "promptPt": "Resta seduto e guarda nello specchietto, e tu sei lì con due valigie sotto la pioggerella. Chiedigli quel solo gesto. Parla adesso.",
       "audioKey": "b07-maletero-e",
       "es": "¿Me puede abrir el maletero?",
-      "pinyin": "mé POUÉ-dé a-BRIR el ma-le-TÉ-ro",
-      "pt": "le geste qui ouvre l'arrière"
+      "pinyin": "me PUE-de a-BRIR el ma-le-TE-ro",
+      "pt": "il gesto che apre il retro"
     },
     {
       "tipo": "ouvir",
@@ -313,7 +315,7 @@
       "audioKey": "b07-direccion-c",
       "es": "A esta dirección, por favor.",
       "pinyin": "a ES-ta di-rek-SSION, por fa-BOR",
-      "pt": "À cette adresse, s'il vous plaît. — En tendant l'écran ; le nom de la rue n'a pas à passer vos lèvres.",
+      "pt": "A questo indirizzo, per favore. — Porgendo lo schermo; il nome della via non deve passare dalle tue labbra.",
       "tts": "A esta dirección, por favor."
     },
     {
@@ -325,31 +327,31 @@
         "reparo/apontar"
       ],
       "promptAudioKey": "b07-p05",
-      "promptPt": "Vous êtes à l'arrière, il se retourne et attend. Le nom de la rue a trois double-L et un J. Tendez-lui l'écran et dites la phrase qui va avec. Parlez maintenant.",
+      "promptPt": "Sei dietro, lui si gira e aspetta. Il nome della via ha tre elle doppie e una jota. Porgigli lo schermo e dì la frase che va con quello. Parla adesso.",
       "audioKey": "b07-direccion-c",
       "es": "A esta dirección, por favor.",
       "pinyin": "a ES-ta di-rek-SSION, por fa-BOR",
-      "pt": "ceci — et l'écran avec"
+      "pt": "questo — e lo schermo con"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n08",
       "tom": "ganha",
-      "pt": "L'écran fait le travail. Lire un nom de rue à voix haute est le plus long détour du voyage."
+      "pt": "Lo schermo fa il lavoro. Leggere il nome di una via ad alta voce è il giro più lungo del viaggio."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n09",
       "bloco": "capsula",
-      "pt": "Depuis Madrid-Barajas, le montant est déjà fixé : trente-trois euros, jour et nuit, dans la M-30."
+      "pt": "Da Madrid-Barajas l'importo è già fissato: trentatré euro, giorno e notte, dentro la M-30."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n10",
-      "pt": "Pas de supplément pour les bagages, ni pour la nuit. Là, le compteur au tableau de bord ne tourne même pas."
+      "pt": "Nessun supplemento per i bagagli, né per la notte. Lì il tassametro sul cruscotto non gira nemmeno."
     },
     {
       "tipo": "ouvir",
@@ -357,7 +359,7 @@
       "audioKey": "e06a-tarifafija",
       "es": "¿Es tarifa fija, verdad?",
       "pinyin": "es ta-RI-fa FI-kha, ber-DAD",
-      "pt": "C'est le forfait, non ? — Posé comme une question, avec le « non ? » au bout.",
+      "pt": "È tariffa fissa, vero? — Messa come una domanda, col « vero? » in fondo.",
       "tts": "¿Es tarifa fija, verdad?"
     },
     {
@@ -365,49 +367,49 @@
       "voz": "Carmen",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b07-p06",
-      "promptPt": "Barajas, vous êtes à l'arrière, la voiture ne roule pas encore. Assurez-vous que le montant est déjà fixé — aimablement, comme une question. Parlez maintenant.",
+      "promptPt": "Barajas, sei dietro, la macchina non parte ancora. Assicurati che l'importo sia già fissato — con gentilezza, come una domanda. Parla adesso.",
       "audioKey": "e06a-tarifafija",
       "es": "¿Es tarifa fija, verdad?",
       "pinyin": "es ta-RI-fa FI-kha, ber-DAD",
-      "pt": "le chiffre est-il déjà fixé ?"
+      "pt": "la cifra è già fissata?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n11",
-      "pt": "Hors de la M-30, il ne vaut pas. Jusqu'à neuf kilomètres au-delà, le compteur part de vingt-deux euros."
+      "pt": "Fuori dalla M-30 non vale. Fino a nove chilometri oltre, il tassametro parte da ventidue euro."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n12",
-      "pt": "À Barcelone, pas de forfait du tout, mais un plancher : vingt et un euros au départ de l'aéroport."
+      "pt": "A Barcellona nessuna tariffa fissa, ma un minimo: ventuno euro in partenza dall'aeroporto."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n13",
-      "pt": "Le supplément aéroport de quatre euros soixante y est déjà. Un plancher n'est pas le montant final."
+      "pt": "Il supplemento aeroporto di quattro euro e sessanta è già dentro. Un minimo non è l'importo finale."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n14",
       "tom": "protege",
-      "pt": "Ne planifiez pas le trajet depuis l'aéroport par appli : Barcelone écarte les VTC de la ville en ce moment."
+      "pt": "Non pianificare la corsa dall'aeroporto con l'app: Barcellona sta escludendo le NCC dalla città adesso."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n15",
       "tom": "ganha",
-      "pt": "La file de taxis marche toujours. C'est la réponse qui ne change pas pendant que vous volez."
+      "pt": "La fila dei taxi funziona sempre. È la risposta che non cambia mentre sei in volo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n16",
-      "pt": "En ville, sans forfait, cette phrase est à vous. En tête, un début que vous entendrez souvent."
+      "pt": "In città, senza tariffa fissa, questa frase è tua. In testa, un inizio che sentirai spesso."
     },
     {
       "tipo": "ouvir",
@@ -415,8 +417,8 @@
       "audioKey": "e06a-taximetro",
       "molde": "ME-PONE",
       "es": "¿Me pone el taxímetro, por favor?",
-      "pinyin": "mé PO-né el tak-SSI-mé-tro, por fa-BOR",
-      "pt": "Mettez le compteur, s'il vous plaît.",
+      "pinyin": "me PO-ne el tak-SI-me-tro, por fa-BOR",
+      "pt": "Mi mette il tassametro, per favore?",
       "tts": "¿Me pone el taxímetro, por favor?"
     },
     {
@@ -425,24 +427,24 @@
       "promptVoz": "GuiaFem",
       "molde": "ME-PONE",
       "encaixe": "el taxímetro",
-      "encaixeGloss": "le compteur",
+      "encaixeGloss": "il tassametro",
       "consulta": [
         "taxi/taximetro"
       ],
       "promptAudioKey": "b07-p07",
-      "promptPt": "En pleine ville, pas de forfait, la voiture roule déjà — et le boîtier au tableau de bord reste éteint. Dites-le-lui, aimablement. Parlez maintenant.",
+      "promptPt": "In pieno centro, niente tariffa fissa, la macchina già va — e la scatoletta sul cruscotto resta spenta. Diglielo, con gentilezza. Parla adesso.",
       "audioKey": "e06a-taximetro",
       "es": "¿Me pone el taxímetro, por favor?",
-      "pinyin": "mé PO-né el tak-SSI-mé-tro, por fa-BOR",
-      "pt": "le boîtier éteint, à allumer"
+      "pinyin": "me PO-ne el tak-SI-me-tro, por fa-BOR",
+      "pt": "la scatoletta spenta, da accendere"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e06a-pararecibo",
       "es": "Pare aquí, por favor. ¿Me da un recibo?",
-      "pinyin": "PA-ré a-KI, por fa-BOR. mé da oun rré-SSI-bo",
-      "pt": "Arrêtez-vous ici, s'il vous plaît. J'ai un reçu ? — Sur le papier, le numéro de la voiture.",
+      "pinyin": "PA-re a-KI, por fa-BOR. me da un rre-SSI-bo",
+      "pt": "Si fermi qui, per favore. Mi dà una ricevuta? — Sul foglio, il numero della macchina.",
       "tts": "Pare aquí, por favor. ¿Me da un recibo?"
     },
     {
@@ -453,33 +455,33 @@
         "taxi/parar"
       ],
       "promptAudioKey": "b07-p08",
-      "promptPt": "Votre porte est de l'autre côté de la rue et il dépasse déjà le pâté de maisons. Deux phrases : l'une l'arrête, l'autre obtient le papier. Parlez maintenant.",
+      "promptPt": "La tua porta è dall'altra parte della strada e lui ha già passato l'isolato. Due frasi: una lo ferma, l'altra ottiene il foglio. Parla adesso.",
       "audioKey": "e06a-pararecibo",
       "es": "Pare aquí, por favor. ¿Me da un recibo?",
-      "pinyin": "PA-ré a-KI, por fa-BOR. mé da oun rré-SSI-bo",
-      "pt": "arrêter — puis le papier"
+      "pinyin": "PA-re a-KI, por fa-BOR. me da un rre-SSI-bo",
+      "pt": "fermare — poi il foglio"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n17",
       "tom": "ganha",
-      "pt": "Le reçu est plus qu'une écriture : le numéro de la voiture y est. Avec lui, on retrouve ce qui est resté."
+      "pt": "La ricevuta è più di uno scritto: c'è il numero della macchina. Con quello si ritrova ciò che è rimasto."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n18",
       "bloco": "molde",
-      "pt": "Et voici le moule de cet épisode. Il commence par « Me he dejado » — et ensuite vient la chose."
+      "pt": "Ed ecco lo stampo di questa puntata. Comincia con « Me he dejado » — e poi viene la cosa."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "b07-dejado-c",
       "es": "Me he dejado el móvil en el taxi.",
-      "pinyin": "mé é dé-KHA-do el MO-bil é-nel TAK-ssi",
-      "pt": "J'ai laissé mon portable dans le taxi. — Le h se tait : « mé é », d'un seul trait.",
+      "pinyin": "me e de-KHA-do el MO-bil e-nel TAK-si",
+      "pt": "Ho lasciato il cellulare nel taxi. — La h è muta: « me e », tutto d'un fiato.",
       "tts": "Me he dejado el móvil en el taxi."
     },
     {
@@ -488,31 +490,31 @@
       "promptVoz": "GuiaFem",
       "molde": "ME-HE-DEJADO",
       "encaixe": "el móvil",
-      "encaixeGloss": "le portable",
+      "encaixeGloss": "il cellulare",
       "consulta": [
         "apuro/perdi",
         "taxi/errado"
       ],
       "promptAudioKey": "b07-p09",
-      "promptPt": "Vous êtes à la réception, les feux arrière ont déjà tourné le coin, et une poche de votre veste est trop légère. Dites ce qui manque et où. Parlez maintenant.",
+      "promptPt": "Sei alla reception, i fari posteriori hanno già girato l'angolo, e una tasca della giacca è troppo leggera. Dì cosa manca e dove. Parla adesso.",
       "audioKey": "b07-dejado-c",
       "es": "Me he dejado el móvil en el taxi.",
-      "pinyin": "mé é dé-KHA-do el MO-bil é-nel TAK-ssi",
-      "pt": "ce qui manque, et où c'est resté"
+      "pinyin": "me e de-KHA-do el MO-bil e-nel TAK-si",
+      "pt": "cosa manca, e dov'è rimasto"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n19",
-      "pt": "Ce début se construit comme « j'ai laissé la veste dans le taxi ». Même ordre, rien à déplacer."
+      "pt": "Questo inizio si costruisce come « ho lasciato la giacca nel taxi ». Stesso ordine, niente da spostare."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "b18-chaqueta-e",
       "es": "Me he dejado la chaqueta en el taxi.",
-      "pinyin": "mé é dé-KHA-do la tcha-KÉ-ta é-nel TAK-ssi",
-      "pt": "J'ai laissé la veste dans le taxi.",
+      "pinyin": "me e de-KHA-do la cia-KE-ta e-nel TAK-si",
+      "pt": "Ho lasciato la giacca nel taxi.",
       "tts": "Me he dejado la chaqueta en el taxi."
     },
     {
@@ -521,27 +523,27 @@
       "promptVoz": "GuiaFem",
       "molde": "ME-HE-DEJADO",
       "encaixe": "la chaqueta",
-      "encaixeGloss": "la veste",
+      "encaixeGloss": "la giacca",
       "promptAudioKey": "b07-p10",
-      "promptPt": "Deux heures plus tard, il fait frais sur la terrasse, et le crochet derrière la porte est vide. Vous savez très bien sur quelle banquette c'est resté. Parlez maintenant.",
+      "promptPt": "Due ore dopo, sulla terrazza fa fresco, e il gancio dietro la porta è vuoto. Sai benissimo su quale sedile è rimasta. Parla adesso.",
       "audioKey": "b18-chaqueta-e",
       "es": "Me he dejado la chaqueta en el taxi.",
-      "pinyin": "mé é dé-KHA-do la tcha-KÉ-ta é-nel TAK-ssi",
-      "pt": "cette fois, plus grand"
+      "pinyin": "me e de-KHA-do la cia-KE-ta e-nel TAK-si",
+      "pt": "stavolta, più grande"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n20",
-      "pt": "Derrière, un deuxième champ : le lieu. Lui aussi bouge, et le début, lui, tient bon."
+      "pt": "Dietro, un secondo campo: il luogo. Anche quello si muove, e l'inizio, lui, resta fermo."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "b18-dejado-c",
       "es": "Me he dejado el móvil en el bar.",
-      "pinyin": "mé é dé-KHA-do el MO-bil é-nel bar",
-      "pt": "J'ai laissé mon portable au bar.",
+      "pinyin": "me e de-KHA-do el MO-bil e-nel bar",
+      "pt": "Ho lasciato il cellulare al bar.",
       "tts": "Me he dejado el móvil en el bar."
     },
     {
@@ -550,59 +552,59 @@
       "promptVoz": "GuiaFem",
       "molde": "ME-HE-DEJADO",
       "encaixe": "en el bar",
-      "encaixeGloss": "au bar",
+      "encaixeGloss": "al bar",
       "promptAudioKey": "b07-p11",
-      "promptPt": "Vous êtes déjà dans l'ascenseur quand ça vous revient : le comptoir, le deuxième verre, le petit objet noir près du sous-bock. Redescendez. Parlez maintenant.",
+      "promptPt": "Sei già in ascensore quando ti torna in mente: il bancone, il secondo bicchiere, l'oggetto nero vicino al sottobicchiere. Riscendi. Parla adesso.",
       "audioKey": "b18-dejado-c",
       "es": "Me he dejado el móvil en el bar.",
-      "pinyin": "mé é dé-KHA-do el MO-bil é-nel bar",
-      "pt": "la même chose, un autre lieu"
+      "pinyin": "me e de-KHA-do el MO-bil e-nel bar",
+      "pt": "la stessa cosa, un altro luogo"
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b07-t01",
-      "pt": "Un son que le français n'a pas, dans ce début : le j de « dejado » se racle au fond de la gorge, pas le j de « jour »."
+      "pt": "Un suono che noi non abbiamo, in questo inizio: la j di « dejado » si raschia in fondo alla gola, non la gi di « giorno »."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b07-t02",
-      "pt": "« dé-KHA-do », le même souffle que la jota de « jamón ». Ici, un mot sur deux le porte — à la réception aussi."
+      "pt": "E l'ultima salita, con la valigia in mano. In spagnolo « subir » è salire, andare su — non « subire », che è patire. La valigia pesa, ma non stai subendo niente."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n21",
       "tom": "protege",
-      "pt": "Un mot sur le choix de la phrase : « Me he dejado » veut dire « laissé ». C'est presque toujours ça, aussi."
+      "pt": "Una parola sulla scelta della frase: « Me he dejado » vuol dire « lasciato ». Ed è quasi sempre così, anche."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n22",
-      "pt": "L'autre phrase déclenche une plainte. Celle-ci envoie quelqu'un aux objets trouvés de la centrale de taxis."
+      "pt": "L'altra frase fa partire una denuncia. Questa manda qualcuno agli oggetti smarriti della centrale dei taxi."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n23",
       "bloco": "capsula",
-      "pt": "Deuxième décision du soir, derrière un autre comptoir : la voiture que vous avez réservée."
+      "pt": "Seconda decisione della sera, dietro un altro banco: la macchina che hai prenotato."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n24",
-      "pt": "La police, vous l'avez décidée et imprimée chez vous. Au comptoir, elle revient sur la table."
+      "pt": "La polizza l'hai decisa e stampata a casa. Al banco torna sul tavolo."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e07b-seguro-e",
       "es": "No quiero seguro adicional, gracias. Ya tengo cobertura.",
-      "pinyin": "no KIÉ-ro sé-GOU-ro a-di-ssio-NAL, GRA-ssiass. ya TENG-go ko-ber-TOU-ra",
-      "pt": "Je ne veux pas d'assurance supplémentaire, merci. J'ai déjà une couverture.",
+      "pinyin": "no KIE-ro se-GU-ro a-di-ssio-NAL, GRA-ssias. ya TEN-go ko-ber-TU-ra",
+      "pt": "Non voglio un'assicurazione in più, grazie. Ho già una copertura.",
       "tts": "No quiero seguro adicional, gracias. Ya tengo cobertura."
     },
     {
@@ -613,28 +615,28 @@
         "taxi/locadora"
       ],
       "promptAudioKey": "b07-p12",
-      "promptPt": "Il tape, lève les yeux et vous propose quelque chose que vous avez déjà — imprimé, dans la poche latérale. Deux phrases courtes, aimables. Parlez maintenant.",
+      "promptPt": "Batte sui tasti, alza gli occhi e ti propone qualcosa che hai già — stampato, nella tasca laterale. Due frasi corte, gentili. Parla adesso.",
       "audioKey": "e07b-seguro-e",
       "es": "No quiero seguro adicional, gracias. Ya tengo cobertura.",
-      "pinyin": "no KIÉ-ro sé-GOU-ro a-di-ssio-NAL, GRA-ssiass. ya TENG-go ko-ber-TOU-ra",
-      "pt": "merci, c'est déjà là"
+      "pinyin": "no KIE-ro se-GU-ro a-di-ssio-NAL, GRA-ssias. ya TEN-go ko-ber-TU-ra",
+      "pt": "grazie, ce l'ho già"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e06a-estaenelcontrato-c",
       "receptivo": true,
-      "acao": "Ne pas discuter. Le même point encore une fois — mais le demander par écrit.",
+      "acao": "Non discutere. Lo stesso punto ancora una volta — ma chiederlo per iscritto.",
       "es": "No hace falta, hombre, si está en el contrato.",
-      "pinyin": "no A-ssé FAL-ta, OM-bré, si es-TA en el kon-TRA-to",
-      "pt": "👂 « Mais non, voyons, c'est dans le contrat. » — dit gentiment, et pourtant sans engagement.",
+      "pinyin": "no A-sse FAL-ta, OM-bre, si es-TA en el kon-TRA-to",
+      "pt": "👂 « Ma no, dai, è nel contratto. » — detto con garbo, e però senza impegnarsi a niente.",
       "tts": "No hace falta, hombre, si está en el contrato."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n25",
-      "pt": "La pression est bâtie à l'oral. Une seule phrase retourne la scène : demander de l'écrit."
+      "pt": "La pressione è costruita a voce. Una frase sola ribalta la scena: chiedere tutto per iscritto."
     },
     {
       "tipo": "responde",
@@ -642,28 +644,28 @@
       "promptVoz": "GuiaFem",
       "molde": "ME-PUEDE",
       "encaixe": "dar por escrito",
-      "encaixeGloss": "donner par écrit",
+      "encaixeGloss": "dare per iscritto",
       "promptAudioKey": "b07-p13",
-      "promptPt": "Troisième tentative avec la même offre, la file derrière vous s'allonge, et la clé reste sur le comptoir. Demandez du papier. Parlez maintenant.",
+      "promptPt": "Terzo tentativo con la stessa offerta, la fila dietro di te si allunga, e la chiave resta sul banco. Chiedi un foglio. Parla adesso.",
       "audioKey": "e07b-escrito-e",
       "es": "¿Me lo puede dar por escrito, por favor?",
-      "pinyin": "mé lo POUÉ-dé dar por es-KRI-to, por fa-BOR",
-      "pt": "la même phrase, mais sur papier"
+      "pinyin": "me lo PUE-de dar por es-KRI-to, por fa-BOR",
+      "pt": "la stessa frase, ma su carta"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n26",
       "tom": "ganha",
-      "pt": "Le plus souvent, ça s'arrête là. Ce qui se dit facilement s'écrit rarement."
+      "pt": "Quasi sempre finisce lì. Ciò che si dice facilmente, per iscritto si mette di rado."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e07b-caucion-c",
       "es": "¿Cuánto me bloquean en la tarjeta? ¿Cuándo me lo devuelven?",
-      "pinyin": "KOUAN-to mé blo-KÉ-an en la tar-KHÉ-ta? KOUAN-do mé lo dé-BOUÉL-ben?",
-      "pt": "Combien est bloqué sur la carte ? Quand est-ce que je le récupère ?",
+      "pinyin": "KUAN-to me blo-KE-an en la tar-KHE-ta? KUAN-do me lo de-BUEL-ben?",
+      "pt": "Quanto mi bloccano sulla carta? Quando me lo restituiscono?",
       "tts": "¿Cuánto me bloquean en la tarjeta? ¿Cuándo me lo devuelven?"
     },
     {
@@ -671,25 +673,25 @@
       "voz": "Carmen",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b07-p14",
-      "promptPt": "Il accepte votre non et vous glisse le contrat. Avant de signer, il manque deux chiffres — et après, presque personne ne demande. Parlez maintenant.",
+      "promptPt": "Accetta il tuo no e ti passa il contratto. Prima di firmare mancano due cifre — e dopo non le chiede quasi nessuno. Parla adesso.",
       "audioKey": "e07b-caucion-c",
       "es": "¿Cuánto me bloquean en la tarjeta? ¿Cuándo me lo devuelven?",
-      "pinyin": "KOUAN-to mé blo-KÉ-an en la tar-KHÉ-ta? KOUAN-do mé lo dé-BOUÉL-ben?",
-      "pt": "combien — et à partir de quand c'est libre"
+      "pinyin": "KUAN-to me blo-KE-an en la tar-KHE-ta? KUAN-do me lo de-BUEL-ben?",
+      "pt": "quanto — e da quando è libero"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n27",
-      "pt": "Chez certains loueurs, c'est cinq cents à mille cinq cents euros. Bloqué veut dire gelé, pas débité."
+      "pt": "Da certi noleggiatori sono cinquecento-millecinquecento euro. Bloccato vuol dire congelato, non addebitato."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e07b-lleno-e",
       "es": "¿Es lleno a lleno?",
-      "pinyin": "es YÉ-no a YÉ-no",
-      "pt": "Plein pour plein ? — Vous le prenez plein et le rendez plein. Le reste offre à la maison ce qui reste dans le réservoir.",
+      "pinyin": "es YE-no a YE-no",
+      "pt": "Pieno per pieno? — La prendi piena e la rendi piena. Il resto regala alla casa quel che resta nel serbatoio.",
       "tts": "¿Es lleno a lleno?"
     },
     {
@@ -697,26 +699,26 @@
       "voz": "Emilio",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b07-p15",
-      "promptPt": "Il montre une ligne sur le carburant sans la lire. Demandez la seule règle qui ne vous donne rien et ne vous prend rien. Parlez maintenant.",
+      "promptPt": "Indica una riga sul carburante senza leggerla. Chiedi l'unica regola che non ti dà niente e non ti toglie niente. Parla adesso.",
       "audioKey": "e07b-lleno-e",
       "es": "¿Es lleno a lleno?",
-      "pinyin": "es YÉ-no a YÉ-no",
-      "pt": "la règle du plein, en quatre mots"
+      "pinyin": "es YE-no a YE-no",
+      "pt": "la regola del pieno, in quattro parole"
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e07b-gasoleo-e",
       "es": "¿Es gasolina o gasóleo?",
-      "pinyin": "es ga-sso-LI-na o ga-SSO-lé-o",
-      "pt": "Essence ou diesel ? — Deux mots presque pareils, et le mauvais pistolet coûte le moteur.",
+      "pinyin": "es ga-sso-LI-na o ga-SSO-le-o",
+      "pt": "Benzina o diesel? — Due parole quasi uguali, e la pompa sbagliata costa il motore.",
       "tts": "¿Es gasolina o gasóleo?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n28",
-      "pt": "Demandez-le au comptoir, pas à la pompe. À minuit, les deux mots sonnent pareil."
+      "pt": "Chiedilo al banco, non alla pompa. A mezzanotte le due parole suonano uguali."
     },
     {
       "tipo": "intro",
@@ -724,15 +726,15 @@
       "audioKey": "b07-n29",
       "bloco": "capsula",
       "tom": "protege",
-      "pt": "Dernière chose au comptoir, collée au pare-brise : la vignette environnementale de la voiture."
+      "pt": "Ultima cosa al banco, incollata al parabrezza: il bollino ambientale della macchina."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e07b-etiqueta-e",
       "es": "¿Este coche tiene etiqueta ambiental? ¿Cuál?",
-      "pinyin": "ES-té KO-tché TIÉ-né é-ti-KÉ-ta am-bien-TAL. koual",
-      "pt": "La voiture a-t-elle une vignette environnementale ? Laquelle ? — La lettre décide où vous pouvez entrer.",
+      "pinyin": "ES-te KO-ce TIE-ne e-ti-KE-ta am-bien-TAL. KUAL",
+      "pt": "Questa macchina ha il bollino ambientale? Quale? — La lettera decide dove puoi entrare.",
       "tts": "¿Este coche tiene etiqueta ambiental? ¿Cuál?"
     },
     {
@@ -740,23 +742,23 @@
       "voz": "Carmen",
       "audioKey": "e06a-llevalac-c",
       "receptivo": true,
-      "acao": "Noter la lettre et vérifier le centre-ville avant — pas devant la caméra.",
+      "acao": "Segnare la lettera e controllare il centro prima — non davanti alla telecamera.",
       "es": "Lleva la C. Con esa hay centros donde no puedes entrar.",
-      "pinyin": "YÉ-ba la ssé. kon É-ssa aï SSEN-tross DON-dé no POUÉ-dess en-TRAR",
-      "pt": "👂 « Elle a la C. Avec ça, certains centres-villes vous sont fermés. »",
+      "pinyin": "YE-ba la sse. kon E-ssa ai SSEN-tros DON-de no PUE-des en-TRAR",
+      "pt": "👂 « Ha la C. Con quella certi centri città ti restano chiusi. »",
       "tts": "Lleva la ce. Con esa hay centros donde no puedes entrar."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n30",
-      "pt": "Depuis janvier 2026, toute ville de plus de cinquante mille habitants doit avoir une telle zone. Des caméras, pas de barrière."
+      "pt": "Da gennaio 2026 ogni città sopra i cinquantamila abitanti deve avere una zona così. Telecamere, non sbarre."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n31",
-      "pt": "Jusqu'à deux cents euros, la moitié en paiement immédiat — et le loueur la transmet des semaines plus tard."
+      "pt": "Fino a duecento euro, la metà pagando subito — e il noleggiatore te la gira settimane dopo."
     },
     {
       "tipo": "intro",
@@ -764,54 +766,54 @@
       "audioKey": "b07-n32",
       "bloco": "permissao",
       "tom": "ganha",
-      "pt": "Vous avez le droit de vous mettre au bout de la file et de monter sans un mot. Montrer l'adresse suffit."
+      "pt": "Hai il diritto di metterti in fondo alla fila e di salire senza una parola. Mostrare l'indirizzo basta."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n33",
-      "pt": "Vous avez le droit de refuser au comptoir en restant aimable. Et de filmer la voiture avant de partir."
+      "pt": "Hai il diritto di rifiutare al banco restando gentile. E di filmare la macchina prima di partire."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n34",
       "bloco": "espelho",
-      "pt": "Ce qui se remarque là-bas, c'est la longue négociation au comptoir. Plaider de vive voix ne gagne rien."
+      "pt": "Quello che si nota là è la lunga trattativa al banco. Trattare a voce non fa guadagnare niente."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n35",
       "bloco": "clique",
-      "pt": "Comptez les endroits : la file de taxis, la banquette arrière, la réception, le comptoir de location."
+      "pt": "Conta i posti: la fila dei taxi, il sedile posteriore, la reception, il banco dell'autonoleggio."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n36",
-      "pt": "Cette phrase, personne ne vous l'a donnée. Vous l'avez bâtie trois fois vous-même, d'un seul début."
+      "pt": "Questa frase non te l'ha data nessuno. L'hai costruita tu, tre volte, da un solo inizio."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-n37",
       "bloco": "piso",
-      "pt": "À Madrid, vous descendez pour trente-trois euros, et vous le saviez d'avance. La plupart le découvrent au bout."
+      "pt": "A Madrid scendi per trentatré euro, e lo sapevi già prima. Quasi tutti lo scoprono alla fine."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b07-s00",
-      "pt": "À répéter, fort, avec eux. Les deux qui portent cette nuit :"
+      "pt": "Da ripetere, forte, con loro. Le due che reggono questa notte:"
     },
     {
       "tipo": "shadow",
       "voz": "Carmen",
       "audioKey": "e06a-estalibre",
       "es": "¿Está libre?",
-      "pinyin": "es-TA LI-bré",
-      "pt": "Vous êtes libre ?"
+      "pinyin": "es-TA LI-bre",
+      "pt": "È libera?"
     },
     {
       "tipo": "shadow",
@@ -819,21 +821,21 @@
       "audioKey": "b07-dejado-c",
       "molde": "ME-HE-DEJADO",
       "es": "Me he dejado el móvil en el taxi.",
-      "pinyin": "mé é dé-KHA-do el MO-bil é-nel TAK-ssi",
-      "pt": "J'ai laissé mon portable dans le taxi."
+      "pinyin": "me e de-KHA-do el MO-bil e-nel TAK-si",
+      "pt": "Ho lasciato il cellulare nel taxi."
     },
     {
       "tipo": "recap",
       "voz": "GuiaFem",
       "audioKey": "b07-r01",
       "bloco": "recap",
-      "pt": "C'était la partie sept. Du tapis à bagages jusqu'au lit, et le montant fixé avant le départ."
+      "pt": "Era la parte sette. Dal nastro dei bagagli fino al letto, e l'importo fissato prima di partire."
     },
     {
       "tipo": "recap",
       "voz": "GuiaFem",
       "audioKey": "b07-r02",
-      "pt": "Encore une fois, fort, un matin sans aucune voiture devant la porte. La réception a un téléphone."
+      "pt": "Ancora una volta, forte, un mattino senza una macchina davanti alla porta. La reception ha un telefono."
     },
     {
       "tipo": "responde",
@@ -841,91 +843,91 @@
       "promptVoz": "GuiaFem",
       "molde": "ME-PUEDE",
       "encaixe": "llamar un taxi",
-      "encaixeGloss": "appeler un taxi",
+      "encaixeGloss": "chiamare un taxi",
       "promptAudioKey": "b07-p16",
-      "promptPt": "Six heures et demie, il pleut, l'avion part à neuf heures, et rien ne passe devant la porte. L'homme de la réception a un combiné près de lui. Parlez maintenant.",
+      "promptPt": "Sei e mezza, piove, l'aereo parte alle nove, e davanti alla porta non passa niente. L'uomo alla reception ha una cornetta lì accanto. Parla adesso.",
       "audioKey": "e01c-taxi-e",
       "es": "¿Me puede llamar un taxi?",
-      "pinyin": "mé POUÉ-dé ya-MAR oun TAK-ssi",
-      "pt": "laissez-le composer pour vous"
+      "pinyin": "me PUE-de ya-MAR un TAK-si",
+      "pt": "lascia che chiami lui per te"
     },
     {
       "tipo": "recap",
       "voz": "GuiaFem",
       "audioKey": "b07-r03",
-      "pt": "On continue avec la partie huit : « Où est-ce ? » — et la réponse qui tient dans votre tête. Hasta luego."
+      "pt": "Si va avanti con la parte otto: « Dov'è? » — e la risposta che ti sta in testa. Hasta luego."
     }
   ],
   "aprofundar": {
-    "titulo": "De l'aéroport jusqu'au lit, dans le détail (lecture facultative)",
+    "titulo": "Dall'aeroporto fino al letto, nei dettagli (lettura facoltativa)",
     "secoes": [
       {
-        "titulo": "Trois façons de gagner la ville, et l'une n'en est pas une",
-        "corpo": "Un taxi se prend en Espagne de deux façons légales : à la file signalée — la `parada de taxis` — ou au bord du trottoir, quand LIBRE est affiché sur le toit. Les VTC comme Uber, Cabify ou Bolt sont une troisième façon et passent uniquement par l'appli ; on ne les hèle pas dans la rue, et qui essaie attend pour rien. Ce qui vient vers vous dans le hall d'arrivée n'est aucune de ces trois façons. Le point n'est pas la politesse de l'offre, mais l'autorisation : dans une voiture non autorisée, le passager aussi peut être sanctionné, jusqu'à six cents euros. Et comme Barcelone est en train d'écarter les VTC de la circulation urbaine — réservation deux heures à l'avance, course minimale d'une heure, suppression de six cents des neuf cent quatre-vingt-dix licences —, une règle simple et robuste dans les deux cas vaut pour l'arrivée : le trajet depuis l'aéroport ne se planifie pas par appli. La file est toujours là, même si la loi a changé entre la réservation et l'atterrissage.",
+        "titulo": "Tre modi di raggiungere la città, e uno non lo è",
+        "corpo": "Un taxi in Spagna si prende in due modi legali: alla fila segnalata — la `parada de taxis` — oppure al bordo del marciapiede, quando sul tetto è acceso LIBRE. Le NCC come Uber, Cabify o Bolt (le VTC spagnole) sono un terzo modo e passano solo dall'app; non si fermano per strada, e chi ci prova aspetta invano. Ciò che ti viene incontro nell'atrio degli arrivi non è nessuno di questi tre modi. Il punto non è la gentilezza dell'offerta, ma l'autorizzazione: su una macchina non autorizzata anche il passeggero può essere sanzionato, fino a seicento euro. E siccome Barcellona sta escludendo le NCC dalla circolazione urbana — prenotazione con due ore d'anticipo, corsa minima di un'ora, taglio di seicento delle novecentonovanta licenze —, una regola semplice e solida in entrambi i casi vale per l'arrivo: la corsa dall'aeroporto non si pianifica con l'app. La fila è sempre lì, anche se la legge è cambiata tra la prenotazione e l'atterraggio.",
         "exemplos": [
           {
             "es": "¿Dónde está la parada de taxis?",
-            "pt": "DON-dé es-TA la pa-RA-da dé TAK-siss — Où est la station de taxis ?"
+            "pt": "DON-de es-TA la pa-RA-da de TAK-sis — Dov'è la fila dei taxi?"
           },
           {
             "es": "No, gracias. No me interesa.",
-            "pt": "no, GRA-ssiass. no mé in-té-RÉ-ssa — Non merci, pas intéressé. (en marchant, sans explication)"
+            "pt": "no, GRA-ssias. no me in-te-RE-ssa — No, grazie, non mi interessa. (camminando, senza spiegazioni)"
           }
         ]
       },
       {
-        "titulo": "Quand le compteur tourne et quand il ne tourne pas",
-        "corpo": "Madrid et Barcelone résolvent le même problème autrement, et qui prend l'un pour l'autre s'agace au mauvais endroit. À Madrid, entre l'aéroport de Barajas et toute adresse dans la M-30, il y a un forfait de trente-trois euros — vingt-quatre heures sur vingt-quatre, tous les jours, sans supplément autorisé pour les bagages, la nuit ou les jours fériés. Le compteur reste alors éteint, et ce n'est pas un oubli, c'est la règle. Si la destination sort de la M-30 jusqu'à neuf kilomètres, c'est le troisième tarif qui s'applique, avec vingt-deux euros de base, et à partir de là le compteur tourne. À Barcelone, pas de forfait depuis l'aéroport, mais un plancher : vingt et un euros pour toute course au départ du terminal, dans lequel le supplément aéroport de quatre euros soixante est déjà compris. Vers le quai des croisières, un forfait à part s'applique. Ce sont des tarifs municipaux, relevés chaque année — c'est pourquoi la phrase la plus utile n'est pas le chiffre, mais la question d'avant, et elle tient en quatre mots.",
+        "titulo": "Quando il tassametro gira e quando non gira",
+        "corpo": "Madrid e Barcellona risolvono lo stesso problema in modo diverso, e chi scambia l'uno per l'altro si spazientisce nel posto sbagliato. A Madrid, tra l'aeroporto di Barajas e qualsiasi indirizzo dentro la M-30, c'è una tariffa fissa di trentatré euro — ventiquattro ore su ventiquattro, tutti i giorni, senza supplementi autorizzati per i bagagli, la notte o i festivi. Il tassametro resta spento, e non è una dimenticanza, è la regola. Se la destinazione esce dalla M-30 fino a nove chilometri, si applica la terza tariffa, con ventidue euro di base, e da lì il tassametro gira. A Barcellona nessuna tariffa fissa dall'aeroporto, ma un minimo: ventuno euro per ogni corsa in partenza dal terminal, in cui il supplemento aeroporto di quattro euro e sessanta è già compreso. Verso il molo delle crociere si applica una tariffa fissa a parte. Sono tariffe comunali, riviste ogni anno — per questo la frase più utile non è la cifra, ma la domanda di prima, e sta in quattro parole.",
         "exemplos": [
           {
             "es": "¿Es tarifa fija, verdad?",
-            "pt": "es ta-RI-fa FI-kha, ber-DAD — C'est le forfait, non ? (avant de démarrer, comme une question)"
+            "pt": "es ta-RI-fa FI-kha, ber-DAD — È tariffa fissa, vero? (prima di partire, come una domanda)"
           },
           {
             "es": "¿Me pone el taxímetro, por favor?",
-            "pt": "mé PO-né el tak-SSI-mé-tro — Mettez le compteur, s'il vous plaît. (en ville, où il n'y a pas de forfait)"
+            "pt": "me PO-ne el tak-SI-me-tro — Mi mette il tassametro, per favore? (in città, dove non c'è tariffa fissa)"
           }
         ]
       },
       {
-        "titulo": "Le comptoir où la clé reste posée",
-        "corpo": "Les comptoirs de location d'aéroport sont faits pour des rencontres courtes, denses, avec des arrivants fatigués, et c'est dans cette faille qu'on propose l'assurance de la maison — parfois avec la remarque que votre couverture ne suffit pas, et avec la voiture qui reste immobilisée en attendant. Associations de consommateurs et presse spécialisée l'ont documenté pour 2025 et 2026, avec des cas nommés. Le levier contre cela n'est pas une discussion, c'est un changement de forme : qui demande l'affirmation par écrit quitte le terrain où la pression fonctionne. Viennent ensuite deux chiffres que presque personne ne réclame — le montant de la caution bloquée sur la carte, et quand elle est de nouveau libre ; assurance de la maison refusée, elle va selon le loueur de cinq cents à mille cinq cents euros. Puis la règle du carburant : `lleno a lleno` est la seule où vous ne payez que ce que vous roulez. Et pour finir deux choses qu'on ne dit pas, qu'on fait : filmer la voiture une fois en entier, compteur et jauge à l'image, et tirer au clair d'avance si le pistolet à la pompe s'appelle `gasolina` ou `gasóleo`.",
+        "titulo": "Il banco dove la chiave resta lì",
+        "corpo": "I banchi dell'autonoleggio in aeroporto sono fatti per incontri corti, densi, con gente stanca appena arrivata, ed è in quella falla che ti propongono l'assicurazione della casa — a volte con l'osservazione che la tua copertura non basta, e con la macchina che resta ferma nell'attesa. Associazioni di consumatori e stampa specializzata l'hanno documentato per il 2025 e il 2026, con casi nominati. La leva contro tutto questo non è una discussione, è un cambio di forma: chi chiede l'affermazione per iscritto lascia il terreno dove la pressione funziona. Poi vengono due cifre che quasi nessuno chiede — la somma della cauzione bloccata sulla carta, e quando torna libera; rifiutata l'assicurazione della casa, va dai cinquecento ai millecinquecento euro secondo il noleggiatore. Poi la regola del carburante: `lleno a lleno` è l'unica in cui paghi solo quel che percorri. E per finire due cose che non si dicono, si fanno: filmare la macchina una volta per intero, tassametro e spia del pieno nell'inquadratura, e chiarire prima se la pompa si chiama `gasolina` o `gasóleo`.",
         "exemplos": [
           {
             "es": "No quiero seguro adicional, gracias. Ya tengo cobertura.",
-            "pt": "no KIÉ-ro sé-GOU-ro a-di-ssio-NAL — Pas d'assurance supplémentaire, merci. J'ai déjà une couverture."
+            "pt": "no KIE-ro se-GU-ro a-di-ssio-NAL — Non voglio un'assicurazione in più, grazie. Ho già una copertura."
           },
           {
             "es": "¿Me lo puede dar por escrito, por favor?",
-            "pt": "mé lo POUÉ-dé dar por es-KRI-to — Pouvez-vous me le donner par écrit ? (la phrase qui met fin à la pression orale)"
+            "pt": "me lo PUE-de dar por es-KRI-to — Me lo può dare per iscritto, per favore? (la frase che ferma la pressione orale)"
           }
         ]
       },
       {
-        "titulo": "La lettre sur le pare-brise",
-        "corpo": "Depuis le 1er janvier 2026, toute commune espagnole de plus de cinquante mille habitants doit exploiter une zone à faibles émissions, plus les îles et les petites communes aux mauvais relevés ; la surveillance passe par caméra, sans barrière ni feu. L'infraction est grave et coûte jusqu'à deux cents euros, la moitié en paiement immédiat, sans retrait de points. Pour vous, ce n'est pas une interdiction de rouler, mais une question de dix secondes au comptoir : les voitures de location ont une plaque espagnole et portent la vignette de la DGT, et la lettre dessus — 0, ECO, C ou B — décide quels centres-villes sont ouverts. Qui la connaît vérifie avant de partir quelle zone a la destination, et gare la voiture dehors au besoin ; un parking en périphérie coûte moins que l'amende, et à pied le centre est de toute façon plus beau. Ne comptez pas passer inaperçu : le loueur transmet l'avis des semaines plus tard, frais de dossier en plus. Et vous êtes nombreux à arriver par la route, souvent avec une plaque française — pour ce cas-là, la vignette de la DGT ne s'achète pas simplement, l'enregistrement en ligne se fait ville par ville, et son détail reste à vérifier.",
+        "titulo": "La lettera sul parabrezza",
+        "corpo": "Dal 1º gennaio 2026 ogni comune spagnolo con più di cinquantamila abitanti deve avere una zona a basse emissioni, più le isole e i piccoli comuni con rilevazioni cattive; il controllo passa dalle telecamere, senza sbarra né semaforo. L'infrazione è grave e costa fino a duecento euro, la metà pagando subito, senza perdita di punti. Per te non è un divieto di circolare, ma una domanda di dieci secondi al banco: le auto a noleggio hanno una targa spagnola e portano il bollino della DGT, e la lettera sopra — 0, ECO, C o B — decide quali centri città sono aperti. Chi la conosce controlla prima di partire quale zona ha la destinazione, e se serve lascia la macchina fuori; un parcheggio in periferia costa meno della multa, e a piedi il centro è comunque più bello. Non contare di passare inosservato: il noleggiatore ti gira il verbale settimane dopo, con spese di pratica in più. E il caso della targa straniera — chi scende in Spagna con la propria macchina, passando per la Francia — per questo par è l'eccezione, non la regola: tu arrivi in aereo e noleggi, con targa spagnola e bollino. Per la targa straniera il bollino della DGT non si compra e basta, la registrazione online si fa città per città, e il suo dettaglio resta da verificare.",
         "exemplos": [
           {
             "es": "¿Este coche tiene etiqueta ambiental? ¿Cuál?",
-            "pt": "é-ti-KÉ-ta am-bien-TAL — La voiture a-t-elle une vignette environnementale ? Laquelle ?"
+            "pt": "e-ti-KE-ta am-bien-TAL — Questa macchina ha il bollino ambientale? Quale?"
           },
           {
             "es": "¿Dónde puedo aparcar sin entrar?",
-            "pt": "DON-dé POUÉ-do a-par-KAR sin en-TRAR — Où puis-je me garer sans entrer ?"
+            "pt": "DON-de PUE-do a-par-KAR sin en-TRAR — Dove posso parcheggiare senza entrare?"
           }
         ]
       },
       {
-        "titulo": "« Me he dejado » — la phrase qui ramène les objets",
-        "corpo": "Deux phrases décrivent la même poche vide et déclenchent des choses tout à fait différentes. `Me han robado el móvil` veut dire qu'on l'a volé, et le chemin mène à la plainte. `Me he dejado el móvil` veut dire qu'il est resté — et le chemin mène à la réception, au bar et à la centrale de taxis, c'est-à-dire là où la chose se trouve, dans la grande majorité des cas. C'est pour ça que la seconde phrase est la plus utile, et c'est pour ça qu'elle est ici. Elle se construit en trois morceaux : le début fixe, la chose et le lieu. Les deux champs de derrière bougent — `el móvil`, `la chaqueta`, `el pasaporte`, `la maleta`, `las llaves`, et derrière `en el taxi`, `en el bar`, `en la habitación`, `en el tren`. Et la construction est la vôtre : « j'ai laissé la veste dans le taxi » a le même ordre et la même logique ; ici on ne déplace rien, on insère. Un seul son demande un peu d'attention, et il est dans le début même : le j de `dejado` ne se dit pas « j » — il se racle au fond de la gorge, le même souffle que la jota de `jamón`. Le reste — le h muet de `he`, le v de `móvil` qui sonne comme un b — vous vient tout seul.",
+        "titulo": "« Me he dejado » — la frase che riporta indietro le cose",
+        "corpo": "Due frasi descrivono la stessa tasca vuota e fanno partire cose del tutto diverse. `Me han robado el móvil` vuol dire che l'hanno rubato, e la strada porta alla denuncia. `Me he dejado el móvil` vuol dire che è rimasto — e la strada porta alla reception, al bar e alla centrale dei taxi, cioè dove la cosa si trova, nella grande maggioranza dei casi. Per questo la seconda frase è la più utile, ed è per questo che è qui. Si costruisce in tre pezzi: l'inizio fisso, la cosa e il luogo. I due campi dietro si muovono — `el móvil`, `la chaqueta`, `el pasaporte`, `la maleta`, `las llaves`, e dietro `en el taxi`, `en el bar`, `en la habitación`, `en el tren`. E la costruzione è tua: « ho lasciato la giacca nel taxi » ha lo stesso ordine e la stessa logica — il tuo passato prossimo con `avere` è già lo stampo giusto; qui non si sposta niente, si inserisce. Un solo suono chiede un po' di attenzione, ed è nell'inizio stesso: la j di `dejado` non si dice « gi » — si raschia in fondo alla gola, lo stesso soffio della jota di `jamón`. Il resto ti viene quasi da sé: la h di `he` è muta, e la `ch` di `chaqueta` è il suono di `ciao`, non il `k` di `chi`.",
         "exemplos": [
           {
             "es": "Me he dejado las llaves en la habitación.",
-            "pt": "mé é dé-KHA-do lass YA-bess en la a-bi-ta-SSION — J'ai laissé les clés dans la chambre."
+            "pt": "me e de-KHA-do las YA-ves en la a-bi-ta-SSION — Ho lasciato le chiavi in camera."
           },
           {
             "es": "Me he dejado una cosa aquí. ¿La han encontrado?",
-            "pt": "mé é dé-KHA-do OU-na KO-ssa a-KI — J'ai laissé quelque chose ici. On l'a retrouvé ?"
+            "pt": "me e de-KHA-do U-na KO-ssa a-KI — Ho lasciato una cosa qui. L'avete trovata?"
           }
         ]
       }

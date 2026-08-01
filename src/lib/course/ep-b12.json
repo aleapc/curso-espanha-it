@@ -4,8 +4,8 @@
   "nivel": "basico",
   "numero": 12,
   "parte": "12",
-  "titulo": "Sans glace — et un de ceux-là",
-  "subtitulo": "Deux mots qui font venir ce que vous voulez vraiment — et un mot qui ouvre la boulangerie, le marché et la réception.",
+  "titulo": "Senza ghiaccio — e uno di quelli",
+  "subtitulo": "Due parole che fanno arrivare quello che vuoi davvero — e una parola che apre la panetteria, il mercato e la reception.",
   "moldura": "ganha",
   "moldes": [
     "SIN-CON-PARA",
@@ -13,27 +13,27 @@
   ],
   "clique": {
     "contagem": [
-      "la boulangerie",
-      "le marché",
-      "la réception",
-      "la pharmacie"
+      "la panetteria",
+      "il mercato",
+      "la reception",
+      "la farmacia"
     ],
-    "desconto": "Ces quatre phrases, personne ne vous les a apprises. Vous venez de les fabriquer à partir d'une seule.",
-    "piso": "Quatre phrases que vous n'avez jamais apprises, à partir d'une que vous avez apprise. La plupart des gens qui passent deux semaines ici n'en fabriquent pas une seule."
+    "desconto": "Queste quattro frasi non te le ha insegnate nessuno. Le hai appena costruite a partire da una sola.",
+    "piso": "Quattro frasi che non hai mai imparato, a partire da una che hai imparato. I più che passano due settimane qui non ne costruiscono nemmeno una."
   },
   "cliqueAudioKey": "b12-n27",
-  "frasePiso": "Quatre phrases que vous n'avez jamais apprises, à partir d'une que vous avez apprise. La plupart des gens qui passent deux semaines ici n'en fabriquent pas une seule.",
-  "permissao": "Vous ne justifiez jamais. «Sin hielo», c'est une phrase entière — pas de raison, pas d'excuse, pas d'histoire. Et si le mot de la chose vous manque : montrez-la du doigt et dites «quería». Le reste, ils le font pour vous.",
+  "frasePiso": "Quattro frasi che non hai mai imparato, a partire da una che hai imparato. I più che passano due settimane qui non ne costruiscono nemmeno una.",
+  "permissao": "Non ti giustifichi mai. «Sin hielo» è una frase intera — niente motivo, niente scusa, niente storie. E se ti manca la parola della cosa: indicala col dito e di' «quería». Il resto lo fanno loro per te.",
   "permissaoAudioKey": "b12-n26",
-  "espelho": "S'excuser avant de rendre une boisson, voilà ce qui détonne là-bas. Personne ne s'en excuse, parce que pour le comptoir rien n'a encore eu lieu.",
+  "espelho": "Scusarsi prima di rimandare indietro una bevanda: ecco cosa stona lì. Nessuno se ne scusa, perché per il bancone non è ancora successo niente.",
   "fichasCulturais": [
     {
-      "sinal": "Vous avez dit «sin hielo», et le verre arrive quand même rempli de glace à ras bord.",
-      "suaLeitura": "Il s'est trompé, et c'est ma faute. Si je dis quelque chose maintenant, je passe pour l'étranger pénible.",
-      "oQueEAli": "Au comptoir, une boisson n'est finie que quand vous l'avez prise. La repousser tout de suite est une étape du service, pas une plainte contre quelqu'un. Et la glace fait partie des extras qu'un bar peut facturer s'il le signale d'avance — c'est une ligne, pas une faveur.",
-      "oQueVoceFaz": "Repoussez le verre sur le comptoir, redites «sin hielo, por favor», visage aimable. Pas d'excuse, pas d'explication.",
-      "oQueMelhora": "Vous voyez que corriger est une routine là-bas et que ça ne coûte rien — et vous commandez ce que vous voulez vraiment pendant les deux semaines qui restent.",
-      "ondeNaoVale": "Pas à minuit devant un comptoir sur trois rangs : là, personne ne refait rien. Là, vous le buvez et vous dites les deux mots plus tôt la prochaine fois.",
+      "sinal": "Hai detto «sin hielo», e il bicchiere arriva lo stesso pieno di ghiaccio fino all'orlo.",
+      "suaLeitura": "Ha sbagliato, ed è colpa mia. Se dico qualcosa adesso, passo per lo straniero rompiscatole.",
+      "oQueEAli": "Al bancone, una bevanda è finita solo quando l'hai presa. Rispingerla subito è un passaggio del servizio, non una lamentela contro qualcuno. E il ghiaccio è tra gli extra che un bar può mettere in conto se lo segnala prima — è una voce, non un favore.",
+      "oQueVoceFaz": "Rispingi il bicchiere sul bancone, ridici «sin hielo, por favor», faccia gentile. Nessuna scusa, nessuna spiegazione.",
+      "oQueMelhora": "Vedi che correggere lì è una routine e non costa niente — e ordini quello che vuoi davvero per le due settimane che restano.",
+      "ondeNaoVale": "Non a mezzanotte davanti a un bancone su tre file: lì nessuno rifà niente. Lì lo bevi e dici le due parole prima, la prossima volta.",
       "evidencia": "CONSENSO",
       "audioKeys": [
         "b12-n22",
@@ -46,7 +46,7 @@
   "fatosDatados": [
     {
       "id": "extras-cobraveis-bar",
-      "afirmacao": "Le pain, la glace et le lait dans le café, un bar peut les facturer — à condition de le signaler d'avance.",
+      "afirmacao": "Il pane, il ghiaccio e il latte nel caffè, un bar può metterli in conto — a patto di segnalarlo prima.",
       "fonte": "OCU, via Infobae, jul/2026 — citado em docs/pesquisa-espanha.md",
       "ano": 2026,
       "revisarAte": "2027-07-01",
@@ -58,14 +58,15 @@
     }
   ],
   "_autoria": {
-    "_": "PARTE ESCRITA em FRANCÊS. A fala espanhola é a do andaime herdado do curso base: nenhum campo `es`, `audioKey` ou `tts` foi tocado, e nenhum clipe espanhol NOVO foi criado — o custo de crédito espanhol desta parte é ZERO (24 chaves espanholas, todas já em disco). Tudo que é voz-guia (GuiaFem, GuiaMasc) é escrito e será gravado depois do casting FR (audio.config: voiceId ainda PLACEHOLDER).",
-    "vozes_renomeadas": "As vozes-guia do andaime vinham do scaffold ALEMÃO (Juli/Thomas). Foram renomeadas para os nomes que o audio.config deste SKU declara em `_g14.guia`: Juli→GuiaFem (educadora), Thomas→GuiaMasc (alertas), inclusive em `promptVoz`. Sem isso o G14 não reconhece a voz-guia e PULA a narração francesa em vez de protegê-la (a voz nativa peninsular Carmen/Emilio segue intacta). A guia FRANCESA nunca fala espanhol (cita-o); a nativa nunca fala francês — conferência humana G14 continua obrigatória.",
-    "armadilha_desta_parte": "INVERTIDA vs o alemão. O bloco de alerta alemão ensinava ⟨qu⟩=[kv] — que é BRINDE no francês (`quería` sai limpo, [k]); copiá-lo seria o anti-padrão 9. O GuiaMasc francês ataca o que a DERIVACAO §1.2/moldes.json declaram como a fonética CARA desta casa: a TÔNICA oxítona (o soco, gesto 3 = programa central do francês em B01: que-RÍ-a, não «queriÁ»), os FINAIS apagados (o -a de `quería`, o -s de `dos`/plural, o -r de `por favor`) e a NASAL de `sin`/`con` (o -n é consoante plena). Tudo grudado a palavras que o aluno JÁ produziu (quinto tempo do `padrao_de_ensino`).",
-    "falso_amigo_desta_parte": "O momento de falso amigo de B12 é o BRINDE-ESPELHO `la carta`=`la carte` e `el menú`=`le menu (du jour)` (b12-n15/n16): reconhecimento, não instrução — a DERIVACAO §1.6/§3.2 manda registrar o que este comprador já sabe, sem gastar áudio de ensino. Segundo brinde declarado no aprofundar §3: `entrada`=`entrée` (a entrada espanhola É a entrée francesa — outro cognato que bate). O falso amigo-armadilha da parte é `demandar`≠`demander` (leve, apoio de QUERIA): tratado em UMA linha no aprofundar §1, sem queimar clipe, porque o reflexo francês costuma sair como `quería`/`pedir` e pode não disparar (moldes.json `falsos_amigos.demandar`). `tortilla` (falso amigo real para o francês, que a conhece como galette mexicana) é desarmado no aprofundar §3.",
-    "sin_conversion_ausente": "Os dois steps de DCC do andaime EN (`e03b-sinconversion-c` e `e03b-loanulo-e`) já não constam deste arquivo — foram removidos no scaffold porque descrevem uma cena que não acontece com cartão em euros num país do euro (DERIVACAO §3.3 item 1). O encaixe de reposição `con tarjeta` NÃO entra aqui: pertence à cena de B14, e o roster manda B14 decidir se a declaração fica em `Voy a + [inf]` ou em `sin/con/para`. B12 fecha com oito encaixes próprios (hielo, gas, llevar, dos, compartir, para mí, cebolla, e o `sin gluten` via HAY).",
-    "respelling": "O campo `pinyin` é respelling para o OLHO FRANCÊS e NUNCA vai ao TTS (INV-6). Convenção RE-DERIVADA para o francês (substitui a alemã, que enganava o leitor francês): `u`→«ou» (bloqueia o [y] de `tu`: OU-na, GLOU-ten); `j` e `g`+e,i→«kh» (o francês não tem [x] e lê ⟨ch⟩ como [ʃ]: `jamón`→kha-MON, `mejor`→me-KHOR); `ll`/`y`→«y» de `yaourt` (YÉ-lo, ye-VAR); `ch`→«tch» de `Tchad` (LÉ-tcheh); `ñ`→«ny»; `h`→nada; `qu`→«k»; `s` intervocálico + `z`/`c`+e,i→«ss» (impede o [z] francês; seseo ACEITO, [ts] proibido); `v` MANTIDO como «v» (o [v] francês é entendido — é justamente por isso que a gag alemã `vino`×`fino` morre); `-e` final→«-eh» (contra o e-caduc que o francês apaga); tônica em MAIÚSCULA.",
-    "PENDENCIAS": "(1) TODA a camada `pinyin` e as notas de fonética são INFERÊNCIA — exigem revisor FR-L1 + espanhol peninsular antes do áudio (DERIVACAO §1, §5); a escolha `kh` para a jota e `ss` para z/c (seseo grafado, contra o modelo [θ] do áudio) é DECISÃO DE AUTORIA que o dono pode reverter. (2) Voz-guia FR ainda em casting (placeholder). (3) G14 voz×língua por conferência humana. (4) O SKU não tem clipe espanhol NOVO nesta parte, então nada de fala-alvo a sintetizar aqui.",
-    "medido": "valida-tom --relatorio, só B12 VIGENTE (com `cena`): ver mensagem de entrega. G4 média/clipe e maior clipe abaixo do teto (120/320), 15 `responde`, G14 0 divergências na parte, G6 0 gentílicos, G15 0 anúncios e 0 vazamentos de encaixe declarado, 24 chaves espanholas / 0 clipe novo."
+    "_": "PARTE RE-DERIVADA AO ITALIANO a partir do NÚCLEO (moldes.json IT + docs/DERIVACAO-IT.md), NÃO traduzida do francês. A fala espanhola é a do andaime herdado do curso base: nenhum campo `es`, `audioKey` ou `tts` foi tocado, e nenhum clipe espanhol NOVO foi criado — custo de crédito espanhol ZERO (24 chaves espanholas, todas em disco). Tudo que é voz-guia (GuiaFem, GuiaMasc) foi reescrito em ITALIANO e grava depois do casting IT (audio.config: voiceId GuiaFem/GuiaMasc = 'TODO-IT-...', `_g14.guiaLingua` 'it').",
+    "vozes_guia": "GuiaFem (educadora) e GuiaMasc (alertas) são os placeholders IT do audio.config (`_g14.guia`), voiceId ainda TODO-IT. Carmen e Emilio (peninsulares) INTACTOS, mesmos audioKey do curso base. G14 (voz × língua) PENDENTE por conferência humana: a guia ITALIANA nunca fala espanhol (cita-o), a nativa nunca fala italiano.",
+    "armadilha_desta_parte": "INVERTIDA vs o francês. O bloco de alerta francês (b12-t01/t02/t03, b12-n12) atacava a TÔNICA oxítona (o soco), os FINAIS apagados (-a/-s/-r) e a NASAL de sin/con — os TRÊS são BRINDE para o italiano (tônica paroxítona bate, finais plenos, sem nasalização); portá-los seria o anti-padrão 9. O que sobra de REAL em B12 é o INVERSO do t03 francês: o ⟨qu⟩. Em francês qu=[k] (brinde, «le qu ne vous piège pas»); em ITALIANO qu=[kw] (questo, quando, qui) e `quería` tende a «kweria». Trap MENOR: com o slot sendo a CASA de QUERIA, o qu porta como tranelo leve (a DERIVACAO §1.2 o lista como brinde — orientação de derivação corrige para este slot). Uma linha, grudada a `quería` que o aluno já produziu (t01-t03), e o brinde CONFIRMADO (a fine suona, o acento cai certo). Fonética secundária só no respelling (ce_ci_z→SSION, ll→gli, ch→ci, jota→kh), sem tabela falada.",
+    "registro_o_foco": "O FOCO de B12: a conta (contar no balcão — para cuántos, para dos, medio kilo) e a ESCADA de registro de QUERIA. `Vorrei` traduz um degrau ACIMA de `quería` (como `Je voudrais`) e é mais longo (duas palavras contra uma); `quiero` funciona e soa seco; `quería` é o que se ouve sobre o balcão. Tratado no aprofundar §1.",
+    "falso_amigo_desta_parte": "O momento de falso amigo é o BRINDE-ESPELHO `la carta`=`la carta`/`alla carta` e `el menú`=`il menù`/`menù del giorno`=`menú del día` (b12-n15/n16): reconhecimento, não instrução — a DERIVACAO §1.6 manda registrar o que este comprador já sabe, sem gastar áudio de ensino. O falso amigo-armadilha da parte é `demandar`≠`domandare` (domandare IT=pedir/perguntar → demandar ES=PROCESSAR/fazer causa): UMA linha no aprofundar §1, sem queimar clipe, porque o reflexo italiano costuma sair `quería`/`pido` e pode não disparar (moldes.json `falsos_amigos.demandar`). A GAG-ÂNCORA `burro` (manteiga→jumento) é da CASA ME-PONE (B11, que vem ANTES); em B12 é só eco possível no primeiro balcão, NÃO reintroduzida. NÃO usar `vino`×`fino` (o italiano diz [vino]).",
+    "sin_conversion_ausente": "Os dois steps de DCC do andaime EN (`e03b-sinconversion-c`, `e03b-loanulo-e`) já não constam do arquivo — removidos no scaffold (DERIVACAO-IT §3.3 item 1: a Itália é Eurozona, cartão em euros, o DCC não existe). Mas o ARGUMENTO do aprofundar §2 (o DCC só existe quando a moeda do cartão difere da do valor) PORTA ao italiano e FICA. O encaixe de reposição `con tarjeta` NÃO entra aqui: pertence à cena de B14 (o roster manda B14 declarar UMA de `Voy a + [inf]`/`sin-con-para`). B12 fecha com oito encaixes próprios (hielo, gas, llevar, dos, compartir, para mí, cebolla, e o `sin gluten` via HAY).",
+    "respelling": "O campo `pinyin` é respelling para o OLHO ITALIANO e NUNCA vai ao TTS (INV-6). Convenção RE-DERIVADA para o italiano (substitui a francesa): `u`→«u» (o `u` italiano é [u], não o [y] francês — cai o «ou»); jota (`j`, `g`+e,i)→«kh» (o [x]/gorgia toscana de `la casa`→«la hasa», NUNCA o [k] de `chiesa` nem o [dʒ] de `gente`: `jamón`→kha-MON, `mejor`→me-KHOR); `ll`→«gli» (o [ʎ] de `figlio`, não a geminada [ll] de `bello`: `llevar`→glie-VAR, `Sevilla`→se-VI-glia); `ch`→«c/ci» (o [tʃ] NATIVO, o `ci` de `ciao`: `leche`→LE-ce, `hecho`→E-cio); `z` e `c`+e,i→«ss» (seseo grafado, bloqueia o [ts]/[tʃ] italiano e o [z] do Norte; distinción [θ] é o alvo do áudio: `habitación`→a-bi-ta-SSION, `gracias`→GRA-ssias); `ñ`→«gn» (`bagno`: `caña`→KA-gna); `qu`+e,i→«k» (bloqueia o [kw]: `quería`→ke-RI-a, `quito`→KI-to, `quieres`→KIE-res); [kw] real (`cua/cue`)→«kw» (`cuántos`→KWAN-tos, `cuesta`→KWES-ta); [j] (`y`, `hie`)→«i» (`hielo`→IE-lo, `ya`→ia); `v` MANTIDO «v» (o [v] italiano é entendido — por isso a gag `vino`×`fino` morre); `h`→nada (mudo nos dois); tônica em MAIÚSCULA. As `doppie` NÃO entram no respelling (mostra-se o espanhol de consoante simples); a nota das geminadas é do B13/áudio.",
+    "PENDENCIAS": "(1) TODA a camada `pinyin` e as notas de fonética são INFERÊNCIA — exigem revisor IT-L1 + espanhol peninsular antes do áudio (DERIVACAO-IT §1, §5); as escolhas `kh`/`ss`/`gli`/`ci` e tratar o `qu` como tranelo leve são DECISÃO DE AUTORIA que o dono pode reverter (a DERIVACAO §1.2 o lista como brinde). (2) Voz-guia IT ainda em casting (placeholder). (3) G14 voz×língua por conferência humana. (4) Zero clipe espanhol NOVO nesta parte — nada de fala-alvo a sintetizar aqui.",
+    "autocheck": "(a) `es`/`audioKey`/`tts` conferidos verbatim contra o andaime (24 chaves espanholas, 0 clipe novo). (b) Zero resíduo francês na narração (grep). (c) Maior clipe de narração abaixo de 320; média abaixo de 120. NÃO rodei valida-tom/build-consulta/gera-outline — o orquestrador roda depois."
   },
   "steps": [
     {
@@ -75,7 +76,7 @@
       "bloco": "aquecimento",
       "gesto": 3,
       "tom": "ganha",
-      "pt": "On s'échauffe. Le poing frappe la syllabe forte — GRA-cias, le coup au début, pas à la fin. Votre oreille la tire vers le bout ; ramenez-la."
+      "pt": "Ci scaldiamo. Il pugno batte sulla sillaba forte — GRA-cias, il colpo davanti. Per te cade già dove deve: sentilo e basta."
     },
     {
       "tipo": "responde",
@@ -84,13 +85,13 @@
       "bloco": "callback",
       "molde": "ME-PONE",
       "encaixe": "una caña",
-      "encaixeGloss": "un demi, pression",
+      "encaixeGloss": "una birra piccola alla spina",
       "promptAudioKey": "b12-p01",
-      "promptPt": "Le bar d'hier, le même homme derrière le comptoir, les mêmes une seconde et demie. Tout le monde au comptoir tient le même petit verre. Commandez ça. Parlez maintenant.",
+      "promptPt": "Il bar di ieri, lo stesso uomo dietro al bancone, lo stesso secondo e mezzo. Tutti al bancone hanno in mano lo stesso bicchierino. Ordina quello. Parla adesso.",
       "audioKey": "e03a-cana-e",
       "es": "¿Me pones una caña, por favor?",
-      "pinyin": "me PO-ness OU-na KA-nya, por fa-VOR",
-      "pt": "un demi, pression",
+      "pinyin": "me PO-nes U-na KA-gna, por fa-VOR",
+      "pt": "una birra piccola alla spina",
       "consulta": [
         "chegar/balcao"
       ]
@@ -100,49 +101,49 @@
       "voz": "GuiaFem",
       "audioKey": "b12-n02",
       "bloco": "cena",
-      "pt": "Trente-quatre degrés. Une table en terrasse. Le serveur pose un grand verre, et les trois quarts sont de la glace."
+      "pt": "Trentaquattro gradi. Un tavolino in terrazza. Il cameriere posa un bicchiere grande, e tre quarti sono ghiaccio."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n03",
-      "pt": "Ce verre-là, vous ne le renvoyez pas. Vous faites en sorte que le prochain arrive autrement."
+      "pt": "Quel bicchiere non lo rimandi indietro. Fai in modo che il prossimo arrivi diverso."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n04",
       "bloco": "molde",
-      "pt": "Voici le moule, et il tient en un mot. Sin — sans. Con — avec. Para — pour. Il n'y a rien de plus."
+      "pt": "Ecco lo stampo, e sta in una parola. Sin — senza. Con — con. Para — per. Non c'è altro."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n05",
-      "pt": "Le moule ne bouge pas. Seule la chose derrière change. Carmen."
+      "pt": "Lo stampo non si muove. Cambia solo la cosa dietro. Carmen."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e03b-sinhielo-c",
       "es": "Sin hielo, por favor.",
-      "pinyin": "sin YÉ-lo, por fa-VOR",
-      "pt": "Sans glace, s'il vous plaît.",
+      "pinyin": "sin IE-lo, por fa-VOR",
+      "pt": "Senza ghiaccio, per favore.",
       "tts": "Sin hielo, por favor."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n06",
-      "pt": "Le même petit mot, et derrière on accroche autre chose. Emilio, à la même table, sur la bouteille d'eau."
+      "pt": "La stessa paroletta, e dietro ci si aggancia un'altra cosa. Emilio, allo stesso tavolo, sulla bottiglia d'acqua."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e03b-singas-e",
       "es": "Sin gas, por favor.",
-      "pinyin": "sin gass, por fa-VOR",
-      "pt": "Plate, s'il vous plaît. (littéralement : sans gaz)",
+      "pinyin": "sin gas, por fa-VOR",
+      "pt": "Naturale, per favore. (alla lettera: senza gas)",
       "tts": "Sin gas, por favor."
     },
     {
@@ -152,11 +153,11 @@
       "molde": "SIN-CON-PARA",
       "encaixe": "hielo",
       "promptAudioKey": "b12-p02",
-      "promptPt": "Deuxième jour, même terrasse, même serveur. Cette fois vous voulez une boisson, pas une boule de neige. Parlez maintenant.",
+      "promptPt": "Secondo giorno, stessa terrazza, stesso cameriere. Stavolta vuoi una bevanda, non una palla di neve. Parla adesso.",
       "audioKey": "e03b-sinhielo-c",
       "es": "Sin hielo, por favor.",
-      "pinyin": "sin YÉ-lo, por fa-VOR",
-      "pt": "sans ce truc",
+      "pinyin": "sin IE-lo, por fa-VOR",
+      "pt": "senza quella roba",
       "consulta": [
         "mesa/bebida"
       ]
@@ -165,15 +166,15 @@
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n07",
-      "pt": "Maintenant une qui répond par une question. Il en pose une, et un seul mot la referme."
+      "pt": "Adesso una che risponde con una domanda. Lui ne fa una, e una parola sola la richiude."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e03b-cuantos-e",
       "es": "¿Para cuántos?",
-      "pinyin": "PA-ra KOUAN-toss",
-      "pt": "👂 «Pour combien ?» — la question à la porte. Au pire, levez les doigts. Vous n'en aurez pas besoin.",
+      "pinyin": "PA-ra KWAN-tos",
+      "pt": "👂 «Per quanti?» — la domanda sulla porta. Al limite, alza le dita. Non ti servirà.",
       "tts": "¿Para cuántos?"
     },
     {
@@ -182,13 +183,13 @@
       "promptVoz": "GuiaFem",
       "molde": "SIN-CON-PARA",
       "encaixe": "dos",
-      "encaixeGloss": "à deux",
+      "encaixeGloss": "per due",
       "promptAudioKey": "b12-p03",
-      "promptPt": "Neuf heures et demie du soir, la porte d'un restaurant, un homme avec une pile de cartes sous le bras — et c'est exactement ce qu'il vient de demander. Vous et la personne à côté de vous. Parlez maintenant.",
+      "promptPt": "Nove e mezza di sera, la porta di un ristorante, un uomo con una pila di menù sotto il braccio — ed è esattamente quello che ha appena chiesto. Tu e la persona accanto a te. Parla adesso.",
       "audioKey": "e03b-parados-c",
       "es": "Para dos, por favor.",
-      "pinyin": "PA-ra doss, por fa-VOR",
-      "pt": "pour nous deux",
+      "pinyin": "PA-ra dos, por fa-VOR",
+      "pt": "per noi due",
       "consulta": [
         "mesa/mesa"
       ]
@@ -199,13 +200,13 @@
       "promptVoz": "GuiaFem",
       "molde": "SIN-CON-PARA",
       "encaixe": "llevar",
-      "encaixeGloss": "à emporter",
+      "encaixeGloss": "da portar via",
       "promptAudioKey": "b12-p04",
-      "promptPt": "Huit heures du matin, un comptoir de sandwichs. Votre train part dans douze minutes, et l'homme attrape assiette et fourchette. Vous ne vous asseyez pas. Parlez maintenant.",
+      "promptPt": "Otto del mattino, un banco di panini. Il tuo treno parte tra dodici minuti, e l'uomo prende piatto e forchetta. Tu non ti siedi. Parla adesso.",
       "audioKey": "e03b-parallevar-e",
       "es": "Para llevar, por favor.",
-      "pinyin": "PA-ra ye-VAR, por fa-VOR",
-      "pt": "pas ici, dehors",
+      "pinyin": "PA-ra glie-VAR, por fa-VOR",
+      "pt": "non qui, fuori",
       "consulta": [
         "mesa/comida"
       ]
@@ -214,35 +215,35 @@
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n08",
-      "pt": "Celui-là, vous le connaissez déjà : para llevar, c'est mot pour mot «à emporter». Cadeau."
+      "pt": "Questo lo conosci già: para llevar è parola per parola «da portar via». Regalo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n09",
       "bloco": "molde",
-      "pt": "Le mot suivant, vous l'avez déjà dit au guichet de la gare. Aujourd'hui, c'est le deuxième moule."
+      "pt": "La parola dopo l'hai già detta allo sportello della stazione. Oggi è il secondo stampo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n10",
-      "pt": "Quería. Ensuite vient la chose, et seule la chose change. Carmen d'abord."
+      "pt": "Quería. Poi viene la cosa, e cambia solo la cosa. Prima Carmen."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e03b-quericafe-c",
       "es": "Quería un café con leche, por favor.",
-      "pinyin": "ke-RI-a oun ka-FÉ kon LÉ-tcheh, por fa-VOR",
-      "pt": "Je voudrais un café au lait, s'il vous plaît.",
+      "pinyin": "ke-RI-a un ka-FE kon LE-ce, por fa-VOR",
+      "pt": "Vorrei un caffè con latte, per favore.",
       "tts": "Quería un café con leche, por favor."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n11",
-      "pt": "Vous entendez la couture ? Quería, puis la chose. Le même mot, une autre chose."
+      "pt": "Senti la cucitura? Quería, poi la cosa. La stessa parola, un'altra cosa."
     },
     {
       "tipo": "ouvir",
@@ -250,7 +251,7 @@
       "audioKey": "e03b-quericarta-c",
       "es": "Quería la carta, por favor.",
       "pinyin": "ke-RI-a la KAR-ta, por fa-VOR",
-      "pt": "Je voudrais la carte, s'il vous plaît.",
+      "pt": "Vorrei la carta, per favore.",
       "tts": "Quería la carta, por favor."
     },
     {
@@ -259,13 +260,13 @@
       "promptVoz": "GuiaFem",
       "molde": "QUERIA",
       "encaixe": "uno de esos",
-      "encaixeGloss": "un de ceux-là",
+      "encaixeGloss": "uno di quelli",
       "promptAudioKey": "b12-p05",
-      "promptPt": "La boulangerie, neuf heures du matin. Ce que vous voulez est derrière la vitre, et personne ne vous a jamais dit son nom. Montrez-le du doigt et lancez-vous. Parlez maintenant.",
+      "promptPt": "La panetteria, nove del mattino. Quello che vuoi è dietro il vetro, e nessuno ti ha mai detto il suo nome. Indicalo col dito e buttati. Parla adesso.",
       "audioKey": "e03b-queriuno-e",
       "es": "Quería uno de esos, por favor.",
-      "pinyin": "ke-RI-a OU-no de É-ssoss, por fa-VOR",
-      "pt": "celui du fond",
+      "pinyin": "ke-RI-a U-no de E-ssos, por fa-VOR",
+      "pt": "quello in fondo",
       "consulta": [
         "compras/balcao"
       ]
@@ -274,19 +275,19 @@
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b12-t01",
-      "pt": "ATTENTION. Vous venez de dire quería. Votre oreille avale la fin — le -a, le -s, le -r. En espagnol, la fin sonne."
+      "pt": "ATTENZIONE. Hai appena detto quería. Occhio alla qu: in italiano si tira dietro una u — questo, quando —, in spagnolo no."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b12-t02",
-      "pt": "quería, pas «kéri». Et por favor, pas «por favó» : le r au bout existe. dos, pas «do» — ce -s, c'est le pluriel."
+      "pt": "E il resto è un regalo: l'accento cade dove lo metteresti già — que-RÍ-a — e la fine suona: la -a resta, la -s di dos, la -r di por favor. Non le mangi."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b12-t03",
-      "pt": "Le ⟨qu⟩ ne vous piège pas : c'est un k tout simple. Ce qui se joue ici, c'est le dernier son — celui que vous laissez tomber chez vous."
+      "pt": "Quindi l'unica cosa da tenere d'occhio qui è quella u di troppo. Ke, non kwe. La fine si tiene da sé."
     },
     {
       "tipo": "responde",
@@ -295,11 +296,11 @@
       "molde": "HAY",
       "encaixe": "algo sin gluten",
       "promptAudioKey": "b12-p06",
-      "promptPt": "Autre matin, même boulangerie. Aujourd'hui vous achetez pour la personne avec qui vous voyagez — qui ne mange plus de blé depuis ses douze ans. Derrière la vitre, tout en est fait. Parlez maintenant.",
+      "promptPt": "Un altro mattino, stessa panetteria. Oggi compri per la persona con cui viaggi — che non mangia più grano da quando aveva dodici anni. Dietro il vetro, è tutto fatto con quello. Parla adesso.",
       "audioKey": "e03b-singluten-c",
       "es": "¿Hay algo sin gluten?",
-      "pinyin": "ay AL-go sin GLOU-ten",
-      "pt": "quelque chose sans ce truc",
+      "pinyin": "ai AL-go sin GLU-ten",
+      "pt": "qualcosa senza quella roba",
       "consulta": [
         "dieta/sem"
       ]
@@ -308,7 +309,7 @@
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n12",
-      "pt": "Un mot sur sin et con : le n se prononce, toujours. sin, con — pleins, jusqu'au bout. Ne laissez pas le nez manger la voyelle d'avant."
+      "pt": "Una parola su sin e con: le dici piene, la enne fino in fondo. E qui non devi fare niente di nuovo — ti vengono già così."
     },
     {
       "tipo": "responde",
@@ -316,13 +317,13 @@
       "promptVoz": "GuiaFem",
       "molde": "QUERIA",
       "encaixe": "medio kilo de tomates",
-      "encaixeGloss": "un demi-kilo de tomates",
+      "encaixeGloss": "mezzo chilo di pomodori",
       "promptAudioKey": "b12-p07",
-      "promptPt": "Samedi, le marché. La pelle est déjà dans sa main, quatre personnes attendent derrière vous, et ce que vous voulez, c'est la caisse de trucs rouges devant elle. La moitié d'un kilo. Parlez maintenant.",
+      "promptPt": "Sabato, il mercato. La paletta è già nella sua mano, quattro persone aspettano dietro di te, e quello che vuoi è la cassetta di roba rossa davanti a lei. Mezzo chilo. Parla adesso.",
       "audioKey": "e03b-queritom-c",
       "es": "Quería medio kilo de tomates.",
-      "pinyin": "ke-RI-a MÉ-dio KI-lo de to-MA-tess",
-      "pt": "un demi-kilo de ça",
+      "pinyin": "ke-RI-a ME-dio KI-lo de to-MA-tes",
+      "pt": "mezzo chilo di quella roba",
       "consulta": [
         "compras/balcao"
       ]
@@ -333,13 +334,13 @@
       "promptVoz": "GuiaFem",
       "molde": "QUERIA",
       "encaixe": "otra habitación",
-      "encaixeGloss": "une autre chambre",
+      "encaixeGloss": "un'altra camera",
       "promptAudioKey": "b12-p08",
-      "promptPt": "Minuit, la réception de l'hôtel. Votre fenêtre donne sur la place, et sur la place un groupe joue. Demandez-lui de vous mettre ailleurs. Parlez maintenant.",
+      "promptPt": "Mezzanotte, la reception dell'hotel. La tua finestra dà sulla piazza, e in piazza un gruppo suona. Chiedigli di spostarti da un'altra parte. Parla adesso.",
       "audioKey": "e03b-queriohab-e",
       "es": "Quería otra habitación, si es posible.",
-      "pinyin": "ke-RI-a O-tra a-bi-ta-SSION, si ess po-SSI-bleh",
-      "pt": "ailleurs, si c'est possible",
+      "pinyin": "ke-RI-a O-tra a-bi-ta-SSION, si es po-SSI-ble",
+      "pt": "da un'altra parte, se si può",
       "consulta": [
         "quarto/pedir"
       ]
@@ -352,11 +353,11 @@
       "tom": "protege",
       "encaixe": "algo para las quemaduras del sol",
       "promptAudioKey": "b12-p09",
-      "promptPt": "La pharmacie. Vous n'avez aucune idée du nom de ce que deux heures de plage ont fait à vos épaules — mais vous savez comment la phrase commence, et vous savez ce qu'elle doit faire. Parlez maintenant.",
+      "promptPt": "La farmacia. Non hai la minima idea di come si chiami quello che due ore di spiaggia hanno fatto alle tue spalle — ma sai come comincia la frase, e sai cosa deve fare. Parla adesso.",
       "audioKey": "e03b-queriquem-c",
       "es": "Quería algo para las quemaduras del sol.",
-      "pinyin": "ke-RI-a AL-go PA-ra lass ke-ma-DOU-rass del sol",
-      "pt": "quelque chose contre ce que le soleil a fait",
+      "pinyin": "ke-RI-a AL-go PA-ra las ke-ma-DU-ras del sol",
+      "pt": "qualcosa contro quello che ha fatto il sole",
       "consulta": [
         "saude/algo-para"
       ]
@@ -366,24 +367,24 @@
       "voz": "GuiaFem",
       "audioKey": "b12-n13",
       "tom": "ganha",
-      "pt": "La phrase tient. Écoutez ce qui revient de la réception — et le peu qu'il vous en faut."
+      "pt": "La frase regge. Ascolta cosa torna dalla reception — e quanto poco te ne serve."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e03b-queriohab-e",
       "es": "Quería otra habitación, si es posible.",
-      "pinyin": "ke-RI-a O-tra a-bi-ta-SSION, si ess po-SSI-bleh",
-      "pt": "— Je voudrais une autre chambre, si c'est possible."
+      "pinyin": "ke-RI-a O-tra a-bi-ta-SSION, si es po-SSI-ble",
+      "pt": "— Vorrei un'altra camera, se è possibile."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e03b-hab1-c",
       "es": "¿Le importa una planta más alta?",
-      "pinyin": "le im-POR-ta OU-na PLAN-ta mass AL-ta",
-      "pt": "👂 «Un étage plus haut, ça vous irait ?» — la contre-question à laquelle un mot suffit.",
-      "acao": "Dites oui et prenez l'étage plus haut. Vous avez obtenu plus que ce que vous demandiez.",
+      "pinyin": "le im-POR-ta U-na PLAN-ta mas AL-ta",
+      "pt": "👂 «Le va bene un piano più in alto?» — la controdomanda a cui basta una parola.",
+      "acao": "Di' di sì e prendi il piano più in alto. Hai ottenuto più di quello che chiedevi.",
       "tts": "¿Le importa una planta más alta?"
     },
     {
@@ -391,54 +392,54 @@
       "voz": "Emilio",
       "audioKey": "e03b-hab2-e",
       "es": "Mejor todavía. Gracias.",
-      "pinyin": "me-KHOR to-da-VI-a. GRA-ssiass",
-      "pt": "— Encore mieux. Merci.",
+      "pinyin": "me-KHOR to-da-VI-a. GRA-ssias",
+      "pt": "— Ancora meglio. Grazie.",
       "tts": "Mejor todavía. Gracias."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b12-t04",
-      "pt": "quería prend une chose. Un café, une chambre, un demi-kilo de quelque chose."
+      "pt": "quería prende una cosa. Un caffè, una camera, mezzo chilo di qualcosa."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b12-t05",
-      "pt": "Accrochez un projet derrière — «que vous changiez ma réservation» — et vous décollez du sol."
+      "pt": "Aggancia dietro un progetto — «che mi cambi la prenotazione» — e ti stacchi da terra."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b12-t06",
-      "pt": "Vouloir une chose : quería. Faire faire quelque chose : montrez du doigt et dites quand même la chose. On vient à votre rencontre."
+      "pt": "Volere una cosa: quería. Far fare qualcosa: indica col dito e di' comunque la cosa. Ti vengono incontro."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n14",
       "bloco": "corpo",
-      "pt": "Deux encore, et les deux se passent assis. Pour le premier, votre intuition tombe juste."
+      "pt": "Ancora due, e tutte e due si giocano da seduto. Per la prima, il tuo istinto ci prende."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n15",
-      "pt": "La carta, c'est la carte avec tout dessus. El menú, c'est le déjeuner fixe à prix fixe."
+      "pt": "La carta è la carta con tutto sopra. El menú è il pranzo fisso a prezzo fisso."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n16",
-      "pt": "Les deux tombent juste. Ici, rien à réapprendre : le mot que vous connaissez est le bon. Retenez-les et avancez."
+      "pt": "Tutte e due ci prendono. Qui non c'è niente da reimparare: la parola che conosci è quella giusta. Tienile a mente e vai avanti."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e03b-carta-c",
       "es": "¿Nos trae la carta, por favor?",
-      "pinyin": "noss TRA-eh la KAR-ta, por fa-VOR",
-      "pt": "Vous nous apportez la carte, s'il vous plaît ?",
+      "pinyin": "nos TRA-e la KAR-ta, por fa-VOR",
+      "pt": "Ci porta la carta, per favore?",
       "tts": "¿Nos trae la carta, por favor?"
     },
     {
@@ -446,11 +447,11 @@
       "voz": "Carmen",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b12-p10",
-      "promptPt": "On vous a installé à une table sans rien vous donner à lire. Demandez-la — la longue, celle avec tout dessus. Parlez maintenant.",
+      "promptPt": "Ti hanno fatto sedere a un tavolo senza darti niente da leggere. Chiedila — quella lunga, con tutto sopra. Parla adesso.",
       "audioKey": "e03b-carta-c",
       "es": "¿Nos trae la carta, por favor?",
-      "pinyin": "noss TRA-eh la KAR-ta, por fa-VOR",
-      "pt": "la liste avec tout",
+      "pinyin": "nos TRA-e la KAR-ta, por fa-VOR",
+      "pt": "la lista con tutto",
       "consulta": [
         "mesa/carta"
       ]
@@ -459,21 +460,21 @@
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n17",
-      "pt": "Quatre mots décident de la quantité qui arrive. Tapa, c'est petit. Pincho, c'est sur une tranche de pain et ça se paie à la pièce."
+      "pt": "Quattro parole decidono la quantità che arriva. Tapa è piccola. Pincho è su una fetta di pane e si paga a pezzo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n18",
-      "pt": "Ración, c'est une assiette pour le milieu de la table. Media ración, c'est la moitié, et à deux c'est souvent le bon compte."
+      "pt": "Ración è un piatto per il centro del tavolo. Media ración è la metà, e in due è spesso la misura giusta."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e03b-tamano-e",
       "es": "¿Esto es tapa, media ración o ración?",
-      "pinyin": "ESS-to ess TA-pa, MÉ-dia rra-SSION o rra-SSION",
-      "pt": "C'est une petite, une demie ou une entière ?",
+      "pinyin": "ES-to es TA-pa, ME-dia rra-SSION o rra-SSION",
+      "pt": "È una piccola, una mezza o una intera?",
       "tts": "¿Esto es tapa, media ración o ración?"
     },
     {
@@ -481,11 +482,11 @@
       "voz": "Emilio",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b12-p11",
-      "promptPt": "Sur l'ardoise, un nom qui ne vous évoque rien, et vous êtes à un hochement de tête d'en commander quatre. Trouvez d'abord la taille. Parlez maintenant.",
+      "promptPt": "Sulla lavagna, un nome che non ti dice niente, e sei a un cenno del capo dall'ordinarne quattro. Prima trova la misura. Parla adesso.",
       "audioKey": "e03b-tamano-e",
       "es": "¿Esto es tapa, media ración o ración?",
-      "pinyin": "ESS-to ess TA-pa, MÉ-dia rra-SSION o rra-SSION",
-      "pt": "c'est grand comment, ça",
+      "pinyin": "ES-to es TA-pa, ME-dia rra-SSION o rra-SSION",
+      "pt": "quant'è grande, questa",
       "consulta": [
         "mesa/tamanho"
       ]
@@ -495,8 +496,8 @@
       "voz": "Carmen",
       "audioKey": "e03b-consobra-c",
       "es": "Eso es ración. Es grande, ¿eh? Es para compartir.",
-      "pinyin": "É-sso ess rra-SSION. ess GRAN-deh, é? ess PA-ra kom-par-TIR",
-      "pt": "👂 «Ça, c'est une assiette entière — grande, hein ? C'est pour partager.» — la réponse dont vous aviez besoin avant, pas après.",
+      "pinyin": "E-sso es rra-SSION. es GRAN-de, e? es PA-ra kom-par-TIR",
+      "pt": "👂 «Quello è un piatto intero — grande, eh? È da condividere.» — la risposta che ti serviva prima, non dopo.",
       "tts": "Eso es ración. Es grande, ¿eh? Es para compartir."
     },
     {
@@ -505,13 +506,13 @@
       "promptVoz": "GuiaFem",
       "molde": "SIN-CON-PARA",
       "encaixe": "compartir",
-      "encaixeGloss": "à partager",
+      "encaixeGloss": "da condividere",
       "promptAudioKey": "b12-p12",
-      "promptPt": "Vous êtes deux, une assiette au milieu, tout le monde autour mange pareil. Commandez une assiette entière de jambon et dites pour quoi elle est. Parlez maintenant.",
+      "promptPt": "Siete in due, un piatto al centro, tutti intorno mangiano così. Ordina un piatto intero di prosciutto e di' a cosa serve. Parla adesso.",
       "audioKey": "e03b-compartir-c",
       "es": "Ponnos una ración de jamón para compartir.",
-      "pinyin": "PON-noss OU-na rra-SSION de kha-MON PA-ra kom-par-TIR",
-      "pt": "pour le milieu de la table",
+      "pinyin": "PON-nos U-na rra-SSION de kha-MON PA-ra kom-par-TIR",
+      "pt": "per il centro del tavolo",
       "consulta": [
         "mesa/comida"
       ]
@@ -522,13 +523,13 @@
       "promptVoz": "GuiaFem",
       "molde": "SIN-CON-PARA",
       "encaixe": "para mí",
-      "encaixeGloss": "pour moi",
+      "encaixeGloss": "per me",
       "promptAudioKey": "b12-p13",
-      "promptPt": "La personne avec vous vient de commander très vite quelque chose, et ça sonnait bien. Le serveur se tourne vers vous. Parlez maintenant.",
+      "promptPt": "La persona con te ha appena ordinato qualcosa in fretta, e suonava bene. Il cameriere si gira verso di te. Parla adesso.",
       "audioKey": "e03b-lomismo-c",
       "es": "Lo mismo para mí.",
-      "pinyin": "lo MISS-mo PA-ra MI",
-      "pt": "la même chose, de ce côté-ci",
+      "pinyin": "lo MIS-mo PA-ra MI",
+      "pt": "la stessa cosa, da questa parte",
       "consulta": [
         "mesa/comida"
       ]
@@ -537,15 +538,15 @@
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n19",
-      "pt": "Et si l'assiette est presque parfaite, donnez à la cuisine le même petit mot — par le serveur."
+      "pt": "E se il piatto è quasi perfetto, passa alla cucina la stessa paroletta — tramite il cameriere."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e03b-sincebolla-e",
       "es": "¿Me lo puede hacer sin cebolla?",
-      "pinyin": "me lo POUÉ-deh a-SSER sin sse-BO-ya",
-      "pt": "Vous pouvez me le faire sans oignon ?",
+      "pinyin": "me lo PUE-de a-SSER sin sse-BO-glia",
+      "pt": "Me lo può fare senza cipolla?",
       "tts": "¿Me lo puede hacer sin cebolla?"
     },
     {
@@ -554,13 +555,13 @@
       "promptVoz": "GuiaFem",
       "molde": "SIN-CON-PARA",
       "encaixe": "sin cebolla",
-      "encaixeGloss": "sans oignon",
+      "encaixeGloss": "senza cipolla",
       "promptAudioKey": "b12-p14",
-      "promptPt": "Dans le plat que vous voulez, il y a une chose que vous détestez depuis vos neuf ans — et qu'une cuisine peut laisser de côté. Demandez-le. Parlez maintenant.",
+      "promptPt": "Nel piatto che vuoi c'è una cosa che detesti da quando avevi nove anni — e che una cucina può lasciar fuori. Chiedilo. Parla adesso.",
       "audioKey": "e03b-sincebolla-e",
       "es": "¿Me lo puede hacer sin cebolla?",
-      "pinyin": "me lo POUÉ-deh a-SSER sin sse-BO-ya",
-      "pt": "fait sans ce truc-là",
+      "pinyin": "me lo PUE-de a-SSER sin sse-BO-glia",
+      "pt": "fatto senza quella roba lì",
       "consulta": [
         "dieta/sem",
         "mesa/comida"
@@ -571,40 +572,40 @@
       "voz": "Carmen",
       "audioKey": "e03b-porencima-c",
       "es": "Es que ya viene hecho. Se la quito por encima, si quieres.",
-      "pinyin": "ess ke ya VYÉ-neh É-tcho. sse la KI-to por en-SSI-ma, si KYÉ-ress",
-      "pt": "👂 «Ça vient déjà fait — je te l'enlève sur le dessus, si tu veux.» — un demi-oui, et il vaut le coup.",
-      "acao": "Accepter le demi-oui : hochez la tête et dites «vale». En cas d'allergie, non — là c'est la partie 13.",
+      "pinyin": "es ke ia VIE-ne E-cio. se la KI-to por en-SSI-ma, si KIE-res",
+      "pt": "👂 «È che viene già fatto — te la tolgo da sopra, se vuoi.» — un mezzo sì, e conviene.",
+      "acao": "Accetta il mezzo sì: fai cenno di sì e di' «vale». Se è allergia, no — quello è la parte 13.",
       "tts": "Es que ya viene hecho. Se la quito por encima, si quieres."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n20",
-      "pt": "Le steak. Trois mots, et là pas besoin de moule : poco hecho, al punto, muy hecho. C'est saignant, à point, bien cuit."
+      "pt": "La bistecca. Tre parole, e qui non serve lo stampo: poco hecho, al punto, muy hecho. Al sangue, cotta al punto, ben cotta."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e04b-punto-e",
       "es": "Poco hecho, por favor. / Al punto. / Muy hecho.",
-      "pinyin": "PO-ko É-tcho, por fa-VOR · al POUN-to · moui É-tcho",
-      "pt": "👂 Saignant, s'il vous plaît. / À point. / Bien cuit. — la liste, c'est la liste.",
-      "acao": "Dire un des trois mots en commandant, pas quand l'assiette arrive.",
+      "pinyin": "PO-ko E-cio, por fa-VOR · al PUN-to · mui E-cio",
+      "pt": "👂 Al sangue, per favore. / Al punto. / Ben cotta. — la lista è la lista.",
+      "acao": "Di' una delle tre parole quando ordini, non quando arriva il piatto.",
       "tts": "Poco hecho, por favor. Al punto. Muy hecho."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n21",
-      "pt": "Vous le dites en commandant, pas quand l'assiette est déjà là. Après, on n'y touche plus."
+      "pt": "Lo dici quando ordini, non quando il piatto è già lì. Dopo, non ci si mette più mano."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e03b-alpunto-c",
       "es": "Al punto, por favor.",
-      "pinyin": "al POUN-to, por fa-VOR",
-      "pt": "À point, s'il vous plaît.",
+      "pinyin": "al PUN-to, por fa-VOR",
+      "pt": "Al punto, per favore.",
       "tts": "Al punto, por favor."
     },
     {
@@ -612,58 +613,58 @@
       "voz": "GuiaFem",
       "audioKey": "b12-n22",
       "bloco": "capsula",
-      "pt": "Vous avez dit sin hielo, et le verre arrive quand même plein. Regardez ce que fait l'homme au comptoir."
+      "pt": "Hai detto sin hielo, e il bicchiere arriva pieno lo stesso. Guarda cosa fa l'uomo al bancone."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n23",
-      "pt": "Vous le repoussez sur le comptoir, le même petit mot encore une fois, visage aimable, et aucune excuse."
+      "pt": "Lo rispingi sul bancone, la stessa paroletta ancora una volta, faccia gentile, e nessuna scusa."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n24",
-      "pt": "La glace, un bar peut la facturer s'il le signale d'avance. C'est une ligne, pas une faveur."
+      "pt": "Il ghiaccio, un bar può metterlo in conto se lo segnala prima. È una voce, non un favore."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n25",
-      "pt": "Pas à minuit devant un comptoir sur trois rangs. Là, vous le buvez et vous le dites plus tôt la fois d'après."
+      "pt": "Non a mezzanotte davanti a un bancone su tre file. Lì lo bevi, e lo dici prima la volta dopo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n26",
       "bloco": "permissao",
-      "pt": "Et vous ne justifiez jamais. Sin hielo, c'est une phrase entière. Pas de raison, pas d'excuse, pas d'histoire."
+      "pt": "E non ti giustifichi mai. Sin hielo è una frase intera. Niente motivo, niente scusa, niente storie."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n27",
       "bloco": "clique",
-      "pt": "Comptez avec moi. La boulangerie, le marché, la réception, la pharmacie. Quatre endroits, un mot."
+      "pt": "Conta con me. La panetteria, il mercato, la reception, la farmacia. Quattro posti, una parola."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n28",
-      "pt": "Ces quatre phrases, personne ne vous les a apprises. Vous venez de les fabriquer à partir d'une seule."
+      "pt": "Queste quattro frasi non te le ha insegnate nessuno. Le hai appena costruite a partire da una sola."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n29",
       "bloco": "piso",
-      "pt": "Quatre phrases jamais apprises, à partir d'une apprise. La plupart, en deux semaines, n'en fabriquent aucune."
+      "pt": "Quattro frasi mai imparate, a partire da una imparata. I più, in due settimane, non ne costruiscono una."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-s00",
-      "pt": "Répétez. Fort, avec eux, le poing sur la syllabe forte. Les deux qui changent le plus de journées :"
+      "pt": "Ripeti. Forte, con loro, il pugno sulla sillaba forte. Le due che cambiano più giornate:"
     },
     {
       "tipo": "shadow",
@@ -671,8 +672,8 @@
       "audioKey": "e03b-sinhielo-c",
       "molde": "SIN-CON-PARA",
       "es": "Sin hielo, por favor.",
-      "pinyin": "sin YÉ-lo, por fa-VOR",
-      "pt": "Sans glace, s'il vous plaît."
+      "pinyin": "sin IE-lo, por fa-VOR",
+      "pt": "Senza ghiaccio, per favore."
     },
     {
       "tipo": "shadow",
@@ -680,15 +681,15 @@
       "audioKey": "e03b-queriquem-c",
       "molde": "QUERIA",
       "es": "Quería algo para las quemaduras del sol.",
-      "pinyin": "ke-RI-a AL-go PA-ra lass ke-ma-DOU-rass del sol",
-      "pt": "Je voudrais quelque chose contre les coups de soleil."
+      "pinyin": "ke-RI-a AL-go PA-ra las ke-ma-DU-ras del sol",
+      "pt": "Vorrei qualcosa contro le scottature del sole."
     },
     {
       "tipo": "recap",
       "voz": "GuiaFem",
       "audioKey": "b12-r01",
       "bloco": "recap",
-      "pt": "Une dernière fois à voix haute, et vous avez fini. Un comptoir où nous n'étions pas encore allés."
+      "pt": "Un'ultima volta ad alta voce, e hai finito. Un bancone dove non eravamo ancora stati."
     },
     {
       "tipo": "responde",
@@ -696,13 +697,13 @@
       "promptVoz": "GuiaFem",
       "molde": "SIN-CON-PARA",
       "encaixe": "llevar",
-      "encaixeGloss": "à emporter",
+      "encaixeGloss": "da portar via",
       "promptAudioKey": "b12-p15",
-      "promptPt": "Neuf heures du soir, le comptoir des glaces, et vous repartez avec vers la gare. Parlez maintenant.",
+      "promptPt": "Nove di sera, il banco dei gelati, e riparti con quello verso la stazione. Parla adesso.",
       "audioKey": "e03b-parallevar-e",
       "es": "Para llevar, por favor.",
-      "pinyin": "PA-ra ye-VAR, por fa-VOR",
-      "pt": "pour la route",
+      "pinyin": "PA-ra glie-VAR, por fa-VOR",
+      "pt": "per la strada",
       "consulta": [
         "compras/balcao"
       ]
@@ -711,55 +712,55 @@
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b12-n30",
-      "pt": "C'est tout. Deux moules, six comptoirs, et rien de tout ça que vous ayez eu à chercher. Hasta luego."
+      "pt": "È tutto. Due stampi, sei banconi, e niente di tutto questo che tu abbia dovuto cercare. Hasta luego."
     }
   ],
   "aprofundar": {
-    "titulo": "Deux moules, et pourquoi personne ne vous a donné de carte (de bon cœur)",
+    "titulo": "Due stampi, e perché nessuno ti ha dato la carta (di buon grado)",
     "secoes": [
       {
-        "titulo": "Pourquoi quería et pas quiero — et pourquoi pas je voudrais",
-        "corpo": "Les trois se comprennent. Quiero marche et sonne un peu sec. Quería, c'est ce qu'on entend vraiment au-dessus d'un comptoir espagnol, et ça ne vous coûte pas une syllabe de plus. Je voudrais, lui, traduit un cran de registre au-dessus et il est plus long : deux mots là où quería en est un. Bonne nouvelle qui vous revient : le ⟨qu⟩ ne vous piège pas — il se lit k, tout simplement, là où d'autres voyageurs butent (ke-RI-a). Ce qui se joue, c'est ailleurs : le coup tombe au milieu, que-RÍ-a, et la fin sonne — le -a reste, il ne s'évapore pas. Un dernier point, léger mais utile : ne dites pas demandar en pensant «demander». En espagnol, demandar, c'est poursuivre en justice ; pour «je voudrais», le mot est quería, et pour «je demande», c'est pido.",
+        "titulo": "Perché quería e non quiero — e perché non Vorrei",
+        "corpo": "Tutti e tre si capiscono. Quiero funziona e suona un po' secco. Quería è quello che si sente davvero sopra un bancone spagnolo, e non ti costa una sillaba in più. Vorrei, invece, traduce un gradino di registro più su ed è più lungo: due parole dove quería ne è una. E qui c'è un tranello che il francese non ha e tu sì: la ⟨qu⟩. In italiano si tira dietro una u — questo, quando, qui —, in spagnolo no: quería è una k secca, ke-RI-a, come kilo. Per il resto sei a posto: il colpo cade in mezzo, que-RÍ-a, e la fine suona — la -a resta, non evapora (per te non lo faceva comunque). Un ultimo punto, leggero ma utile: non dire demandar pensando a «domandare». In spagnolo demandar è fare causa, portare in tribunale; per «vorrei» la parola è quería, e per «chiedo» è pido.",
         "exemplos": [
           {
             "es": "Quería un adaptador de enchufe.",
-            "pt": "ke-RI-a oun a-dap-ta-DOR de en-TCHOU-feh — Je voudrais un adaptateur de prise. (un mot que vous n'avez jamais dit, dans une phrase qui est déjà à vous)"
+            "pt": "ke-RI-a un a-dap-ta-DOR de en-CIU-fe — Vorrei un adattatore per la presa. (una parola che non hai mai detto, in una frase che è già tua)"
           },
           {
             "es": "Quería dos billetes para Sevilla.",
-            "pt": "ke-RI-a doss bi-YÉ-tess PA-ra sse-BI-ya — Je voudrais deux billets pour Séville. (même mot, guichet de gare — le ll est un y : bi-YÉ-tess, se-BI-ya)"
+            "pt": "ke-RI-a dos bi-GLIE-tes PA-ra se-VI-glia — Vorrei due biglietti per Siviglia. (stessa parola, sportello della stazione — il ll suona come il gl di figlio: bi-GLIE-tes, se-VI-glia)"
           }
         ]
       },
       {
-        "titulo": "Jusqu'où portent sin, con et para",
-        "corpo": "Deux mots, pas de verbe, et ils tiennent comme une phrase entière : Sin hielo, por favor. est une phrase finie. Sin prend tout ce qui doit rester dehors — gluten, gas, cebolla, hielo, leche. Con prend tout ce qui s'ajoute — hielo, limón, leche. Para est le plus large des trois : il prend un but (para llevar), un nombre (para dos), une personne (para mí) et un document (para el seguro — le reçu pour l'assurance, la version dont vous serez le plus reconnaissant). Votre avantage ici est grand et vous pouvez l'entendre sans gêne : sans, avec et pour se posent un contre un, et para llevar, c'est mot pour mot «à emporter». Une chose que les guides venus de l'anglais montent en épingle n'a pas sa place ici : le sin conversión au terminal de carte. La conversion dynamique de devise n'existe que quand la monnaie de votre carte diffère de celle du montant. Vous payez en euros avec une carte en euros. La machine ne vous proposera rien.",
+        "titulo": "Fin dove arrivano sin, con e para",
+        "corpo": "Due parole, nessun verbo, e reggono come una frase intera: Sin hielo, por favor. è una frase finita. Sin prende tutto quello che deve restare fuori — gluten, gas, cebolla, hielo, leche. Con prende tutto quello che si aggiunge — hielo, limón, leche. Para è la più larga delle tre: prende uno scopo (para llevar), un numero (para dos), una persona (para mí) e un documento (para el seguro — la ricevuta per l'assicurazione, la versione di cui sarai più grato). Il tuo vantaggio qui è grande e puoi sentirlo senza imbarazzo: senza, con e per si posano uno contro uno, e para llevar è parola per parola «da portar via». Una cosa che le guide venute dall'inglese gonfiano non ha posto qui: il sin conversión al terminale della carta. La conversione dinamica di valuta esiste solo quando la valuta della tua carta è diversa da quella dell'importo. Tu paghi in euro con una carta in euro. La macchina non ti proporrà niente.",
         "exemplos": [
           {
             "es": "¿Me lo pone para llevar?",
-            "pt": "me lo PO-neh PA-ra ye-VAR — Vous me le mettez à emporter ? (les deux moules l'un sur l'autre)"
+            "pt": "me lo PO-ne PA-ra glie-VAR — Me lo mette da portar via? (i due stampi uno sull'altro)"
           },
           {
             "es": "Quería la factura para el seguro.",
-            "pt": "ke-RI-a la fak-TOU-ra PA-ra el sse-GOU-ro — Je voudrais la facture pour l'assurance."
+            "pt": "ke-RI-a la fak-TU-ra PA-ra el se-GU-ro — Vorrei la fattura per l'assicurazione."
           }
         ]
       },
       {
-        "titulo": "La carta, el menú et les quatre tailles",
-        "corpo": "Ici votre intuition tombe juste, et c'est assez rare pour le dire : la carta, c'est la carte ; el menú, c'est le déjeuner fixe à prix fixe ; et les deux collent aux mots que vous employez chez vous. Une autre bonne surprise sur la même page : entrada, c'est bien l'entrée, le plat d'avant. Un mot, en revanche, est moins amical : tortilla, ici, n'est pas une galette mexicaine — c'est une épaisse omelette aux pommes de terre. Pour les tailles : une tapa est une petite assiette qui accompagne la boisson ; un pincho ou montadito est la version du Nord, sur une tranche de pain, payée à la pièce ; une ración est une assiette pleine à partager, vraiment grande ; une media ración en est la moitié, souvent le bon compte à deux. Au Pays basque, le système pintxo tourne autrement : vous vous servez au comptoir, et les pics à cocktail sur votre assiette sont l'addition — gardez-les. Et S.M. ou según mercado à côté des fruits de mer veut dire que le prix dépend du poids et du marché du jour : demandez avant de commander.",
+        "titulo": "La carta, el menú e le quattro misure",
+        "corpo": "Qui il tuo istinto ci prende, ed è abbastanza raro da dirlo: la carta è la carta; el menú è il pranzo fisso a prezzo fisso; e tutte e due si incollano alle parole che usi a casa (la carta = alla carta, il menú = il menù del giorno). Un'altra buona sorpresa sulla stessa pagina: entrada è proprio l'antipasto, il piatto di prima — occhio solo a non leggerla come l'italiano «entrata». Una parola, invece, è meno amichevole: tortilla, qui, non è la piadina messicana — è una frittata spessa di patate. Per le misure: una tapa è un piattino che accompagna la bevanda; un pincho o montadito è la versione del Nord, su una fetta di pane, pagata a pezzo; una ración è un piatto pieno da condividere, davvero grande; una media ración ne è la metà, spesso la misura giusta in due. Nei Paesi Baschi il sistema pintxo funziona diversamente: ti servi al bancone, e gli stecchini sul tuo piatto sono il conto — tienili. E S.M. o según mercado accanto ai frutti di mare vuol dire che il prezzo dipende dal peso e dal mercato del giorno: chiedi prima di ordinare.",
         "exemplos": [
           {
             "es": "¿Cuánto cuesta antes de pedirlo?",
-            "pt": "KOUAN-to KOUESS-ta AN-tess de pe-DIR-lo — Combien ça coûte, avant que je le commande ?"
+            "pt": "KWAN-to KWES-ta AN-tes de pe-DIR-lo — Quanto costa, prima che lo ordini?"
           },
           {
             "es": "¿Cuántos palillos tienes?",
-            "pt": "KOUAN-toss pa-LI-yoss TYÉ-ness — 👂 «Combien de pics as-tu ?» — il ne vous reproche rien, il additionne."
+            "pt": "KWAN-tos pa-LI-glios TIE-nes — 👂 «Quanti stecchini hai?» — non ti sta rimproverando niente, sta sommando."
           }
         ]
       }
     ]
   },
-  "cena": "Trente-quatre degrés, une table en terrasse, et dans le grand verre que le serveur vient de poser devant vous, les trois quarts sont de la glace."
+  "cena": "Trentaquattro gradi, un tavolino in terrazza, e nel bicchiere grande che il cameriere ha appena posato davanti a te, tre quarti sono ghiaccio."
 }

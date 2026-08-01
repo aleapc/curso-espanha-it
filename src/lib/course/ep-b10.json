@@ -4,22 +4,22 @@
   "nivel": "basico",
   "numero": 10,
   "parte": "10",
-  "titulo": "«SALIDA» ne veut pas dire «sale»",
-  "subtitulo": "Lire les portes, les heures et les prix — et repérer les mots qui ressemblent au français et disent autre chose",
+  "titulo": "«SALIDA» non vuol dire «salita»",
+  "subtitulo": "Leggere le porte, gli orari e i prezzi — e riconoscere le parole che somigliano all'italiano e dicono un'altra cosa",
   "moldura": "ganha",
   "moldes": [],
-  "frasePiso": "Quatre panneaux suffisent pour tout le voyage : salida, aseos, tirar, cerrado por vacaciones. La plupart des visiteurs poussent une porte où il est écrit tirar pendant deux semaines.",
-  "permissao": "Aucun de ces panneaux, vous n'avez à le prononcer. Le reconnaître suffit, et la rue n'en demande pas plus — c'est pour ça que vous parlez moins ici qu'ailleurs. Rester quatre secondes devant une porte à lire, c'est parfaitement banal, et s'il vous manque le mot, montrez du doigt. «Cocina cerrada» ferme la cuisine, pas le bar : demandez quand même.",
+  "frasePiso": "Quattro cartelli bastano per tutto il viaggio: salida, aseos, tirar, cerrado por vacaciones. La maggior parte dei visitatori spinge per due settimane una porta dove c'è scritto tirar.",
+  "permissao": "Nessuno di questi cartelli devi pronunciarlo. Riconoscerlo basta, e la strada non chiede altro — è per questo che qui parli meno che altrove. Restare quattro secondi davanti a una porta a leggere è del tutto normale, e se ti manca la parola, indica col dito. «Cocina cerrada» chiude la cucina, non il bar: chiedi lo stesso.",
   "permissaoAudioKey": "b10-n28",
-  "espelho": "Faire demi-tour à deux heures et quart devant la porte fermée, c'est ça qui se remarque là-bas : le verrou est mis, pas le commerce, et à cinq heures la même personne est de nouveau derrière.",
+  "espelho": "Fare dietrofront alle due e un quarto davanti alla porta chiusa, è questo che si nota lì: chiudono a chiave, non chiudono bottega, e alle cinque la stessa persona è di nuovo dietro il banco.",
   "fichasCulturais": [
     {
-      "sinal": "Un rideau de fer baissé en pleine semaine, un mot écrit à la main derrière, et sur la carte du téléphone c'est «ouvert».",
-      "suaLeitura": "La boutique a fermé pour de bon, ou j'ai mal lu les horaires.",
-      "oQueEAli": "C'est le mois d'août. Le commerce tenu par son patron ferme le mois entier, colle «cerrado por vacaciones» sur la vitre et ne l'inscrit nulle part en ligne.",
-      "oQueVoceFaz": "Appeler avant de partir, au lieu de marcher vingt-cinq minutes — et lire la ligne «horario de verano», parce qu'en été les heures changent par rapport au vieux panneau.",
-      "oQueMelhora": "Vous ne perdez pas une demi-après-midi pour une adresse, et vous trouvez celui qui, deux rues plus loin, est ouvert.",
-      "ondeNaoVale": "Pas dans le quartier touristique ni dans les chaînes — eux ne ferment pas. Bars et restaurants restent ouverts de toute façon ; c'est la petite boutique qui ferme.",
+      "sinal": "Una saracinesca abbassata in piena settimana, un biglietto scritto a mano dietro, e sulla mappa del telefono risulta «aperto».",
+      "suaLeitura": "Il negozio ha chiuso per sempre, o ho letto male gli orari.",
+      "oQueEAli": "È il mese di agosto. Il negozio gestito dal titolare chiude il mese intero, attacca «cerrado por vacaciones» sulla vetrina e non lo segna da nessuna parte online.",
+      "oQueVoceFaz": "Telefonare prima di uscire, invece di camminare venticinque minuti — e leggere la riga «horario de verano», perché d'estate gli orari cambiano rispetto al vecchio cartello.",
+      "oQueMelhora": "Non perdi mezzo pomeriggio per un indirizzo, e trovi quello che, due strade più in là, è aperto.",
+      "ondeNaoVale": "Non nel quartiere turistico né nelle catene — quelli non chiudono. Bar e ristoranti restano aperti comunque; è il piccolo negozio che chiude.",
       "evidencia": "FATO",
       "audioKeys": [
         "b10-n16",
@@ -28,12 +28,12 @@
       ]
     },
     {
-      "sinal": "Sur la carte, à la ligne du poisson et des fruits de mer, pas de montant mais «S.M.» ou «según mercado».",
-      "suaLeitura": "Quelqu'un a oublié d'écrire le prix. Je demanderai plus tard.",
-      "oQueEAli": "C'est le prix du jour au poids, et il est là tel quel : on paie la pièce qu'on vous montre, pas la portion.",
-      "oQueVoceFaz": "Deux questions avant de dire oui : combien coûte le kilo, et combien pèse la pièce qu'il tient en main.",
-      "oQueMelhora": "Vous mangez le poisson que vous vouliez, et le chiffre au bout est celui avec lequel vous aviez compté.",
-      "ondeNaoVale": "Pas pour la ración au prix affiché ni pour le menu du jour — là le montant est sur la carte et vaut, quoi que dise la balance.",
+      "sinal": "Sul menù, alla riga del pesce e dei frutti di mare, nessun importo ma «S.M.» o «según mercado».",
+      "suaLeitura": "Qualcuno ha dimenticato di scrivere il prezzo. Chiederò dopo.",
+      "oQueEAli": "È il prezzo del giorno a peso, ed è lì com'è: si paga il pezzo che ti mostrano, non la porzione.",
+      "oQueVoceFaz": "Due domande prima di dire di sì: quanto costa il chilo, e quanto pesa il pezzo che tiene in mano.",
+      "oQueMelhora": "Mangi il pesce che volevi, e la cifra finale è quella su cui avevi contato.",
+      "ondeNaoVale": "Non per la ración a prezzo esposto né per il menu del giorno — lì l'importo è sul menù e vale, qualunque cosa dica la bilancia.",
       "evidencia": "FATO",
       "audioKeys": [
         "b10-n10",
@@ -42,12 +42,12 @@
       ]
     },
     {
-      "sinal": "Vous tendez la main vers une tomate à l'étal, et celle du vendeur y est avant la vôtre.",
-      "suaLeitura": "Il ne me croit pas capable de choisir un fruit mûr.",
-      "oQueEAli": "«No tocar la fruta» est affiché : choisir, c'est son travail, pas le vôtre. Il sait ce qui se mange aujourd'hui et ce qui tient jusqu'à vendredi.",
-      "oQueVoceFaz": "Montrer et dire la quantité — un demi-kilo, quatre pièces, pour ce soir. Les mains restent en bas.",
-      "oQueMelhora": "Vous repartez avec ce qui est mûr aujourd'hui, et la deuxième fois on vous met de côté le meilleur sans que vous demandiez.",
-      "ondeNaoVale": "Pas au supermarché — là vous pesez vous-même, avec gant et balance. Le panneau est à l'étal, pas dans le rayon.",
+      "sinal": "Allunghi la mano verso un pomodoro al banco, e quella del venditore ci arriva prima della tua.",
+      "suaLeitura": "Non mi crede capace di scegliere un frutto maturo.",
+      "oQueEAli": "«No tocar la fruta» è affisso: scegliere è il suo lavoro, non il tuo. Lui sa cosa si mangia oggi e cosa regge fino a venerdì.",
+      "oQueVoceFaz": "Indicare e dire la quantità — mezzo chilo, quattro pezzi, per stasera. Le mani restano giù.",
+      "oQueMelhora": "Riparti con ciò che è maturo oggi, e la seconda volta ti mettono da parte il meglio senza che tu lo chieda.",
+      "ondeNaoVale": "Non al supermercato — lì pesi da solo, con guanto e bilancia. Il cartello è al banco, non nel reparto.",
       "evidencia": "CONSENSO",
       "audioKeys": [
         "b10-n20",
@@ -58,7 +58,7 @@
   "fatosDatados": [
     {
       "id": "zbe-2026",
-      "afirmacao": "Depuis le 1er janvier 2026, toutes les communes espagnoles de plus de 50 000 habitants ainsi que les territoires insulaires doivent avoir une zone à faibles émissions (ZBE) active ; la surveillance passe par des caméras de lecture de plaque, et l'infraction est classée comme grave, jusqu'à 200 euros, réduite à 100 euros en cas de paiement immédiat.",
+      "afirmacao": "Dal 1º gennaio 2026, tutti i comuni spagnoli con più di 50.000 abitanti e i territori insulari devono avere una zona a basse emissioni (ZBE) attiva; il controllo avviene tramite telecamere di lettura targa, e l'infrazione è classificata come grave, fino a 200 euro, ridotta a 100 euro in caso di pagamento immediato.",
       "fonte": "docs/pesquisa-espanha.md §8.4 (Ley de cambio climático 7/2021 e regulamentação municipal; síntese 2026)",
       "ano": 2026,
       "revisarAte": "2027-01-31",
@@ -71,8 +71,8 @@
     },
     {
       "id": "distintivo-dgt-placa-espanhola",
-      "afirmacao": "La vignette environnementale de la DGT n'est délivrée qu'aux véhicules immatriculés en Espagne ; une voiture de location à plaque espagnole l'a, un véhicule à plaque étrangère entré par la route ne peut pas simplement l'acheter et doit s'enregistrer en ligne ville par ville.",
-      "fonte": "docs/pesquisa-espanha.md §8.4 (distintivo da DGT só para veículo matriculado na Espanha; registro online de ZBE em cada cidade para placa estrangeira). O QUE ESTÁ SOB PENDÊNCIA DE PESQUISA (docs/DERIVACAO-FR.md §4.1) NÃO é a existência do registro, é o PROCEDIMENTO município a município — prazo, taxa e formulário variam e não foram conferidos um a um. Pesa MAIS neste par: 65% dos franceses chega de carro (Turespaña), muitos com placa francesa. Por isso a afirmação para aqui e o áudio desta parte trata a ZBE apenas como SINAL VISUAL",
+      "afirmacao": "La vignetta ambientale della DGT viene rilasciata solo ai veicoli immatricolati in Spagna; un'auto a noleggio con targa spagnola ce l'ha, un veicolo con targa straniera entrato su strada non può semplicemente comprarla e deve registrarsi online città per città.",
+      "fonte": "docs/pesquisa-espanha.md §8.4 (distintivo da DGT só para veículo matriculado na Espanha; registro online de ZBE em cada cidade para placa estrangeira). O QUE ESTÁ SOB PENDÊNCIA (docs/DERIVACAO-IT.md §3.1 e §6 item 3, ficha executiva Turespaña-Itália AUSENTE) NÃO é a existência do registro, é o MEIO DE CHEGADA e o PROCEDIMENTO município a município. A Itália NÃO faz fronteira com a Espanha, então o «65% chega de carro» francês NÃO PORTA: a inferência geográfica é avião/ferry majoritários e o carro entra pela LOCADORA (placa espanhola, já com distintivo). Por isso esta parte trata a ZBE só como SINAL VISUAL e o peso «muitos com placa estrangeira» CAI vs o francês",
       "ano": 2026,
       "revisarAte": "2027-01-31",
       "evidencia": "FATO",
@@ -83,8 +83,8 @@
     },
     {
       "id": "agosto-cierre-por-vacaciones",
-      "afirmacao": "En août, les commerces tenus par leur patron ferment souvent le mois entier avec l'affiche «cerrado por vacaciones» ; les cartes en ligne l'ignorent parce que personne n'inscrit une fermeture d'un mois. Et août est le cœur des grandes vacances françaises, quand le visiteur qui traverse la frontière arrive au moment même où le rideau est baissé.",
-      "fonte": "docs/pesquisa-espanha.md §8.3 (agosto e horários — fechamento de comércio de bairro no mês inteiro). O ângulo francês (agosto = pico das grandes vacances, clivê juillettistes/aoûtiens) é o calendário escolar francês, corrente e não datado a fonte primária aqui — docs/DERIVACAO-FR.md §4.2 A06; a afirmação DATADA restringe-se ao lado espanhol, que tem fonte",
+      "afirmacao": "In agosto i negozi gestiti dal titolare chiudono spesso il mese intero con il cartello «cerrado por vacaciones»; le mappe online lo ignorano perché nessuno segna una chiusura di un mese. E agosto è anche il cuore delle ferie italiane — l'esodo di Ferragosto —, quando il visitatore che arriva capita proprio nel momento in cui la saracinesca è abbassata.",
+      "fonte": "docs/pesquisa-espanha.md §8.3 (agosto e horários — fechamento de comércio de bairro no mês inteiro). O ângulo italiano (agosto = Ferragosto, êxodo de férias, e o RECONHECIMENTO do «chiuso per ferie» que a Itália faz igual) é comportamento corrente, não datado a fonte primária aqui — docs/DERIVACAO-IT.md §3.3; a afirmação DATADA restringe-se ao lado espanhol, que tem fonte",
       "ano": 2026,
       "revisarAte": "2027-05-01",
       "evidencia": "FATO",
@@ -96,7 +96,7 @@
     },
     {
       "id": "horario-comercio-e-domingo",
-      "afirmacao": "Le petit commerce ferme en milieu de journée — grosso modo de deux heures à cinq —, tandis que chaînes, supermarchés, restaurants et musées font la journée continue. Le dimanche, supermarché et commerce ordinaire sont majoritairement fermés, mais bars, restaurants et sites touristiques ouverts ; dans les zones touristiques déclarées, on ouvre le dimanche, dans le quartier résidentiel plutôt pas.",
+      "afirmacao": "Il piccolo commercio chiude a metà giornata — grosso modo dalle due alle cinque —, mentre catene, supermercati, ristoranti e musei fanno orario continuato. La domenica, supermercato e commercio ordinario sono in prevalenza chiusi, ma bar, ristoranti e siti turistici aperti; nelle zone turistiche dichiarate si apre la domenica, nel quartiere residenziale piuttosto no.",
       "fonte": "docs/pesquisa-espanha.md §7.1 — «siesta comercial» (~10:00 → 13:30/14:00 → reabre 16:30/17:00 → 20:00/20:30; não fecham cadeias, restaurantes e museus) e «Domingo e agosto», ambos rotulados ali como FATO qualitativo por consenso de fontes de comércio 2025–2026",
       "ano": 2026,
       "revisarAte": "2028-01-01",
@@ -108,7 +108,7 @@
     },
     {
       "id": "cartaz-hojas-de-reclamaciones",
-      "afirmacao": "L'affiche «hay hojas de reclamaciones a disposición del consumidor» est obligatoire ; si elle est là, le commerce ne peut pas refuser de remettre le formulaire.",
+      "afirmacao": "Il cartello «hay hojas de reclamaciones a disposición del consumidor» è obbligatorio; se c'è, il negozio non può rifiutare di consegnare il modulo.",
       "fonte": "docs/pesquisa-espanha.md §6.3 e §7.6 (normativa autonômica de consumo)",
       "ano": 2026,
       "revisarAte": "2027-07-01",
@@ -121,24 +121,24 @@
     }
   ],
   "_notas": {
-    "_": "PARTE ESCRITA EM FRANCÊS. `cena` declarado, `aguardaNarracao` removido. Nenhum campo `es` nem `tts` foi tocado e nenhum clipe espanhol NOVO foi criado: o custo de crédito espanhol desta parte é ZERO. Tudo que é voz-guia (GuiaFem, GuiaMasc — os PLACEHOLDER do audio.config) é escrito em FRANCÊS e só se grava depois do casting da voz FR e da revisão nativa da fonética (DERIVACAO-FR §5).",
-    "voz_guia_renomeada": "As vozes-guia dos steps passaram de `Juli`/`Thomas` (resíduo do scaffold alemão) para `GuiaFem`/`GuiaMasc`, que são os nomes que o audio.config.json._g14.guia declara para este SKU. Isto NÃO é cosmético: o G14 (voz × língua) só confere um clipe cuja `voz` está no conjunto `guia` ou `alvo` — com `Juli`/`Thomas` a narração francesa passaria SEM SER CHECADA. GuiaFem carrega a educadora; GuiaMasc é o masculino de alertas (a batida do método do falso amigo, b10-t01/b10-t02). Carmen e Emilio (peninsulares, alvo) intocados.",
-    "o_que_esta_parte_e": "É AQUI QUE O EIXO DO CURSO MORA E É ENSINADO (DERIVACAO-FR §1.6 e §4.0). Ao contrário do alemão, onde B10 quase esvaziou, no francês o inventário de falso amigo CRESCE — as línguas são irmãs. A tese da parte, dita na voz da GuiaMasc na porta (b10-t01/t02) e paga na cena de SALIDA (b10-n06): PARECE FRANCÊS, QUER DIZER OUTRA COISA, A CONSEQUÊNCIA É X. O método é ensinado uma vez, grudado à porta, e depois cada placa/encaixe reencontra um falso amigo na sua própria cena — nunca uma lista lida em voz alta (a regra que segura o G4).",
-    "falsos_amigos_tratados": "ÂNCORA e casa do método: `salida`/`salir` — para o francês `salir`=SUJAR e `sale`=sujo, mas em espanhol é SAIR/SAÍDA (e-mail interno: ele HESITA diante da porta certa). GRAVADO: `SALIDA · SALIDAS` (e08b-placas1-c) e `¿Dónde está la salida?` (b10-salida-e). O contraste interno `SALIDA`×`SALIDAS` (uma letra, dois destinos) porta como no par EN. BRINDE-ESPELHO, o cognato que AJUDA e é o contraexemplo do método: `TIRAR`=`tirer` (puxar) — o francês lê a porta CERTA de graça (b10-t01); é o que prova que o eixo é saber QUAL semelhança ajuda e qual mente. CATALÃO no mesmo eixo: `sortida`=`sortie`, mesma raiz de `salida`, e transfronteiriço (Rosselló) — reforça a âncora (b10-n26). CANDIDATO NÃO CONFERIDO, nomeado para ninguém escrever sem fonte: `efectivo` (espécie) contra `effectif` (eficaz/real) — glossei `SOLO EFECTIVO` como «espèces» (correto) e NÃO afirmei o falso amigo; se um revisor o confirmar, o endereço é este slot (mesma decisão do par alemão).",
-    "fonetica_desta_parte": "Toque LEVE, porque a casa da fonética densa é outra. A JOTA (som novo [ʒ]→alvo [x]) aparece em `empujar`, `hojas`, `baja`, `cajero` e ganha UMA linha na voz da GuiaMasc (b10-t02): «le j se racle du fond de la gorge, pas le j de jour». A casa da jota é B13/LLEVA (`jamón`), onde ela vira treino e não nota — forçá-la aqui roubaria a primeira aparição de peso. O `u`=[y] é tratado só pelo respelling (`ou`). NÃO entrou nada de `h`/`qu`/`v`=[f], que são brindes ou não-problemas do francês (copiá-los é o anti-padrão 9).",
-    "respelling_para_leitor_frances": "O campo `pinyin` é RE-DERIVADO para o OLHO FRANCÊS (o respelling alemão não porta: `ch de Bach`, `ss` por s-intervocálico alemão [z] etc. não querem dizer nada para um francês). Convenção: MAIÚSCULA = sílaba tônica · `ou` = o `u` espanhol [u], nunca o `u` francês [y] (según→se-GOUN) · `kh` = a jota [x], souffle de gorge (empujar→em-pou-KHAR, hojas→O-khass) · `tch` = o `ch` espanhol [tʃ], não [ʃ] · `b` = o v/b espanhol (vía→BI-a) · `ss` = z, c+e/i e s intervocálico, sempre duro [s] (alvo peninsular [θ]; seseo [s] aceito — servicios→ser-BI-ssioss) · `gn`=ñ · `h` mudo cai · `qu`=k · finais escritas = a pronunciar (o `-s`/`-e` que o francês come; `-e` final → `-é`). ESTA CONVENÇÃO É INFERÊNCIA e é PENDÊNCIA de revisor FR-L1 + peninsular antes do áudio — em especial o glifo da jota, que nenhum respelling resolve sozinho (numa porta não há Carmen nem Emilio para imitar — é o argumento pelo qual este campo existe, e esta é a parte onde ele mais rende).",
-    "catalao_reenquadrado": "O par alemão tratava a porta co-oficial como BALEAR (Baleares 42% do alemão) e gastava uma seção no `article salat` (Sa Coma, Es Trenc). Para o francês o destino é o LITORAL CONTINENTAL — Catalunha 30%, Valência 17% (DERIVACAO-FR §4.3) —, então o catalão sobe por ser a língua de 30% do destino E transfronteiriça (Rosselló/Pyrénées-Orientales): não é exótico, é quase de casa. `OBERT · TANCAT · SORTIDA` (clipe gravado b10-cooficial-c) é reconhecimento puro, respelling em catalão (`ou-BÉRT`, `sour-TI-da`). O `article salat` é rebaixado a menção curta no `aprofundar` (é fenômeno de ilha, e o francês pega mais o continente). `sortida`=`sortie` amarra ao eixo `salida`.",
-    "fatosDatados_re_derivados": "CINCO, contra os seis do alemão. (1) SAIU `bargeld-quote-deutschland` (os 45% em espécie da Alemanha): a França é PAÍS DE CARTÃO (DERIVACAO-FR §3.3 item 1), e a surpresa do `SOLO EFECTIVO` inverte — o francês paga por cartão por hábito e o panneau o pega desprevenido; isso está na narração (b10-n14), sem número, porque uma estatística FRANCESA de uso de cartão não estava à mão e não se fabrica. (2) O fato do agosto perdeu o `Abkommen de Hamburgo`/Baviera (só alemão) e virou `agosto-cierre-por-vacaciones`: a afirmação DATADA fica no lado espanhol (pesquisa §8.3), e o ângulo francês (grandes vacances, aoûtiens) entra como calendário na narração (b10-n17), não como fato datado sem fonte. (3) `zbe-2026`, `distintivo-dgt` e `horario-comercio-e-domingo` portam, reescritos em francês; a ZBE PESA MAIS aqui (65% de carro) e continua tratada só como SINAL VISUAL (placa estrangeira é pendência). (4) `cartaz-hojas-de-reclamaciones` porta: só o reconhecimento da parede; o formulário e o canal de consumo intra-UE (o francês aciona a rede de Centros Europeus do Consumidor, que o britânico perdeu) são de B14, que é dona do item.",
-    "redisparos_cumpridos": "Os três que o roster promete para B10, todos com encaixe NOVO e casa em slot anterior: DONDE (casa B08) em `la vía cuatro`, `los aseos` e `la salida`; HAY (casa B08) em `algo para picar` e `un cajero`; PUEDO (casa B06) em `aparcar aquí`. Nenhum `clique` e `moldes: []` na raiz, porque B10 não é casa de molde nenhum — o G16 só cobra clique de casa.",
+    "_": "PARTE RE-DERIVADA AO ITALIANO a partir do NÚCLEO (moldes.json IT + DERIVACAO-IT.md), NÃO traduzida do francês. O andaime era uma cópia do SKU francês (narração-guia em francês); aqui a camada italiana se re-derivou. Nenhum campo `es`, `audioKey` nem `tts` foi tocado e nenhum clipe espanhol NOVO foi criado: o custo de crédito espanhol desta parte é ZERO. Tudo que é voz-guia (GuiaFem/GuiaMasc — os PLACEHOLDER do audio.config) é escrito em ITALIANO e só se grava depois do casting da voz IT e da revisão nativa (DERIVACAO-IT §6).",
+    "voz_guia": "As vozes-guia dos steps são `GuiaFem`/`GuiaMasc`, os nomes que o audio.config.json._g14.guia declara para este SKU (mapeados a `TODO-IT-guia-feminina`/`TODO-IT-guia-alertas`, guiaLingua `it`). Isto NÃO é cosmético: o G14 (voz × língua) só confere um clipe cuja `voz` está no conjunto `guia` ou `alvo`. GuiaFem carrega a educadora; GuiaMasc é o masculino de alertas (a batida do método do falso amigo, b10-t01/b10-t02). Carmen e Emilio (peninsulares, alvo) intocados — nunca dizem uma palavra de italiano.",
+    "o_que_esta_parte_e": "É AQUI QUE O EIXO DO CURSO MORA E É ENSINADO (DERIVACAO-IT §1.6 e §4.0). O italiano é o par MAIS cognato do catálogo (~82%), então o inventário de falso amigo CRESCE ainda mais que no francês — a proximidade que engana, no máximo. A tese da parte, dita na voz da GuiaMasc na porta (b10-t01/t02) e paga na cena de SALIDA (b10-n06): PARECE ITALIANO, QUER DIZER OUTRA COISA, A CONSEQUÊNCIA É X. O método é ensinado uma vez, grudado à porta, e depois cada placa reencontra um falso amigo na sua própria cena — nunca uma lista lida em voz alta (a regra que segura o G4).",
+    "falsos_amigos_tratados": "ÂNCORA e casa do método: `salida`/`salir` — RE-DERIVADO DO ZERO (no francês era `salir`=SUJAR e `sale`=sujo; no italiano `salire`=SUBIR e `salita`=SUBIDA/ladeira, então diante de SALIDA o italiano pensa «subida/para cima»). A palavra italiana de saída é `uscita`, que não ajuda nem um pouco — nem `salida` nem a catalã `sortida` a lembram. GRAVADO: `¿Dónde está la salida?` (b10-salida-e) e o contraste `SALIDA · SALIDAS` (e08b-placas1-c), uma letra, dois destinos. BRINDE-ESPELHO, o cognato que AJUDA e é o contraexemplo do método: `TIRAR`=`tirare` (puxar) — o italiano lê a porta CERTA de graça (b10-t01); prova que o eixo é saber QUAL semelhança ajuda e qual mente. APOIO citado pela guia (sem clipe novo): `oficina`≠`officina` (=oficina mecânica) — `oficina de turismo` o italiano lê «garagem de turismo». CATALÃO `sortida` no mesmo eixo, reconhecimento puro. CANDIDATO NÃO CONFERIDO, nomeado para ninguém escrever sem fonte: `efectivo` (contanti) contra `effettivo` (real/eficaz) — glossei `SOLO EFECTIVO` como «contanti» (correto) e NÃO afirmei o falso amigo (não está no roster IT); mesmo tratamento do par francês.",
+    "fonetica_desta_parte": "Toque LEVE, porque a casa da fonética densa é outra (B13/LLEVA, a jota de `jamón`). O italiano é o comprador cuja boca já faz quase tudo (DERIVACAO-IT §1). A JOTA (som novo [x]) aparece em `empujar`, `hojas`, `baja`, `cajero` e ganha UMA linha na voz da GuiaMasc (b10-t02), ancorada na GORGIA TOSCANA (a c de `la casa`→«la hasa»), âncora RE-DERIVADA (o par anterior contrastava com um j que o italiano não usa assim) — o italiano não tem uvular. O `ce_ci_z` é tratado só pelo respelling. NÃO entrou NADA de tônica, finais, `u`, nasal nem `r`: são TODOS BRINDES para o italiano (a tônica é paroxítona como no espanhol, os finais são plenos, o `u`=[u], o `r` é tap/vibrante nativo) — copiá-los seria o anti-padrão 9 (o warm-up francês de tônica, b10-n01, foi RE-ESCRITO porque não há erro de tônica a trair). RESSALVA `qu`: o italiano lê ⟨qu⟩=[kw] (`qui`=«kwi»), então `aquí` foi respelado «a-KI» e `que` como «ke» para desviar o instinto [kw] — trap MENOR, resolvido no respelling.",
+    "respelling_para_leitor_italiano": "O campo `pinyin` é RE-DERIVADO para o OLHO ITALIANO (o esquema francês não porta: o `ou` francês para o `u` é inútil, o `u` italiano já é [u]). Convenção: MAIÚSCULA = sílaba tônica (mas o italiano quase sempre acerta a tônica sozinho — é aid, não correção como no francês) · `u` = [u] SEM `ou` (brinde) · `kh` = a jota [x], soffio de gorgia toscana (empujar→em-pu-KHAR, hojas→O-khass, cajero→ka-KHE-ro) · `ss` = z, c+e/i e s intervocálico, sempre surdo [s] (alvo peninsular [θ]; seseo [s] aceito; bloqueia o [tʃ]/[ts] italiano E o [z] do Norte — servicios→ser-BI-ssioss) · `b` = o v/b espanhol [b] (o italiano distingue v=[v]; vía→BI-a) · `ke`/`KI` = o `qu` espanhol [k], desvia o [kw] italiano (aquí→a-KI) · `h` mudo cai (brinde) · `gn`=ñ, `gl` de `figlio` para ⟨ll⟩ (não ocorrem em B10). ESTA CONVENÇÃO É INFERÊNCIA e é PENDÊNCIA de revisor IT-L1 + peninsular antes do áudio — em especial o glifo da jota (`kh`), o mais frágil (numa porta não há Carmen nem Emilio para imitar — é o argumento pelo qual este campo existe).",
+    "catalao_reenquadrado": "O francês subiu o catalão por ser TRANSFRONTEIRIÇO (Rosselló/Pyrénées-Orientales, «on le parle de l'autre côté») e por ser a língua de 30% do destino francês. PARA O ITALIANO ISSO NÃO PORTA: a Itália não faz fronteira com a Espanha (DERIVACAO-IT §4.2), então TODO o ângulo «quase de casa» caiu (Roussillon, `bon dia` do outro lado, os percentuais de destino — distribuição Turespaña-Itália pendente, §6). O catalão fica RECONHECIMENTO PURO e um filo MAIS estranho ao italiano que ao francês: `obert`≠`aperto`, `tancat`≠`chiuso`, `sortida`≠`uscita`. `SORTIDA` amarra ao eixo `salida` (mesma raiz, e como `salida` não lembra `uscita`). O `article salat` (Sa Coma, Es Trenc) fica menção curta de ilha no `aprofundar`.",
+    "fatosDatados_re_derivados": "CINCO, re-derivados ao italiano. (1) SOLO EFECTIVO (b10-n14): a «surpresa invertida» do cartão é MENOR para o italiano, não maior — a Itália usa MAIS espécie que a França, país de cartão (DERIVACAO-IT §3.3 item 1); a moldura francesa «em casa a carta passa em toda parte, isto te pega desprevenido» foi RETIRADA, ficou o gesto prático (ler o cartaz entrando). (2) `agosto-cierre-por-vacaciones` (b10-n16/17): re-derivado ao ângulo italiano — `cerrado por vacaciones` É, palavra por palavra, o `chiuso per ferie` que a Itália faz igual (RECONHECIMENTO), e agosto é o êxodo de Ferragosto; entra como calendário na narração, não como fato datado sem fonte. (3) `zbe-2026` (b10-n23): porta, mas o CARRO NÃO domina — a Itália não faz fronteira, chega de avião/ferry, então a moldura «muitos chegam de carro» virou «se noleggi l'auto» (se você alugar o carro); ZBE continua só SINAL VISUAL. (4) `distintivo-dgt`: porta, com o peso «placa estrangeira» rebaixado. (5) `cartaz-hojas-de-reclamaciones`: só reconhecimento da parede; o formulário e o canal de consumo intra-UE são de B14, dona do item.",
+    "redisparos_cumpridos": "Os três que o roster promete para B10, todos com encaixe NOVO e casa em slot anterior: DONDE (casa B08) em `la vía cuatro`, `los aseos` e `la salida`; HAY (casa B08) em `algo para picar` e `un cajero`; PUEDO (casa B06) em `aparcar aquí`. Nenhum `clique` e `moldes: []` na raiz, porque B10 não é casa de molde nenhum — o G15 só cobra o nome da peça (`lo stampo`) na CASA, e o G16 só cobra clique de casa.",
     "por_que_seis_responde": "INV-9 é lei: placas e sinais são passivos por design, e a `permissao` desta parte é essa frase. G3 pede ≥4 e esta entrega 6, todos ancorados numa placa recém-lida: a placa é o gatilho, a fala é o que ela obriga. Treze steps `ouvir` saem `receptivo` com `acao` (piso do G12).",
-    "steps_removidos_no_andaime": "DOIS, herdados do andaime e mantidos removidos com o mesmo motivo do par alemão. (1) `b10-dinero-c` («SOLO EFECTIVO · CON CONVERSIÓN · SIN CONVERSIÓN»): as duas últimas descrevem uma tela que não aparece para quem paga em euros com cartão em euros (DCC inexistente na Eurozona — vale igual para o francês, DERIVACAO-FR §3.3 item 1); reposto por `e05a-soloefectivo-e` (Emilio), já gravado, custo zero. (2) `e06b-s-anden` («ANDÉN · VÍA»): placa de B09, um slot antes; o callback usa `la vía cuatro` como palavra já dada.",
-    "pendencia_G14": "Roda neste SKU (audio.config.json._g14, guiaLingua `fr`) e esta parte sai para zero divergência DEPOIS da renomeação GuiaFem/GuiaMasc — a guia francesa CITA espanhol e catalão dentro da narração francesa (é o trabalho dela, INV-5) e nunca os fala; Carmen e Emilio não dizem uma palavra de francês. Conferência humana continua obrigatória (este repositório já teve o acidente do mp3 na língua errada).",
+    "steps_removidos_no_andaime": "DOIS, herdados do andaime e mantidos removidos com o mesmo motivo dos pares anteriores. (1) `b10-dinero-c` («SOLO EFECTIVO · CON CONVERSIÓN · SIN CONVERSIÓN»): as duas últimas descrevem uma tela que não aparece para quem paga em euros com cartão em euros (DCC inexistente na Eurozona — vale igual para o italiano, DERIVACAO-IT §3.3 item 1); reposto por `e05a-soloefectivo-e` (Emilio), já gravado, custo zero. (2) `e06b-s-anden` («ANDÉN · VÍA»): placa de B09, um slot antes; o callback usa `la vía cuatro` como palavra já dada.",
+    "pendencia_G14": "Roda neste SKU (audio.config.json._g14, guiaLingua `it`) e esta parte sai para zero divergência DEPOIS do casting da voz IT — a guia italiana CITA espanhol e catalão dentro da narração italiana (é o trabalho dela, INV-5) e nunca os fala; Carmen e Emilio não dizem uma palavra de italiano. Conferência humana continua obrigatória (este repositório já teve o acidente do mp3 na língua errada).",
     "pendencias": [
-      "REVISOR FR-L1 + espanhol peninsular: TODO o respelling `pinyin` desta parte é INFERÊNCIA (o esquema francês foi criado aqui, ele não existia — B10 é a primeira parte francesa escrita do SKU). O glifo da jota (`kh`) é o mais frágil e precisa de decisão do revisor; a sílaba tônica marcada por MAIÚSCULA também é inferência.",
-      "FALSO AMIGO NÃO CONFERIDO, nomeado para que ninguém o escreva sem fonte: `efectivo` (espécie) × `effectif` (eficaz/real). Não está na lista de candidatos confirmados da DERIVACAO-FR §1.6; glossei `SOLO EFECTIVO` corretamente e não afirmei o falso amigo.",
-      "ESTATÍSTICA FRANCESA DE USO DE CARTÃO: a narração afirma o HÁBITO de cartão do comprador francês (b10-n14) sem número, porque não havia fonte primária à mão (a Alemanha tinha o Bundesbank; a França não foi coletada). Se um número for desejado, é o endereço natural — mas fato datado só entra com fonte.",
-      "ZBE PARA PLACA ESTRANGEIRA: pesa mais neste par (65% de carro, muitos com placa francesa) e o procedimento município a município continua sem fonte conferida — mantida como SINAL VISUAL, decisão do autor de B04 respeitada.",
-      "`moldes.json` v1 lista DONDE como redisparo de B10, mas DONDE só é declarado nesta parte no corpus francês por enquanto (as 35 outras ainda estão em alemão) — o G9 vai acusar «molde aparece em uma parte só» até B08 ser escrita em francês. É aviso agregado da obra em andamento, não regressão."
+      "REVISOR IT-L1 + espanhol peninsular: TODO o respelling `pinyin` desta parte é INFERÊNCIA (o esquema italiano foi criado aqui). O glifo da jota (`kh`) é o mais frágil e precisa de decisão do revisor; a sílaba tônica marcada por MAIÚSCULA também é inferência (embora quase sempre coincida com o palpite do italiano).",
+      "FALSO AMIGO NÃO CONFERIDO, nomeado para que ninguém o escreva sem fonte: `efectivo` (contanti) × `effettivo` (real/eficaz). Não está no roster IT (moldes.json); glossei `SOLO EFECTIVO` corretamente como «contanti» e não afirmei o falso amigo — vive como aparte não-afirmado no `aprofundar`.",
+      "MEIO DE CHEGADA DO COMPRADOR ITALIANO: a Itália não faz fronteira com a Espanha, então o «65% de carro» francês NÃO PORTA; a inferência avião/ferry majoritários sustenta a re-derivação da ZBE (b10-n23), mas FALTA a ficha executiva Turespaña-Itália (DERIVACAO-IT §6 item 3). A ZBE fica SINAL VISUAL.",
+      "ZBE PARA PLACA ESTRANGEIRA: pesa MENOS neste par que no francês (o carro entra pela locadora, placa espanhola já com distintivo) e o procedimento município a município continua sem fonte conferida — mantida como SINAL VISUAL.",
+      "`moldes.json` v1 lista DONDE/HAY/PUEDO como redisparos de B10, mas eles só são declarados nesta parte no corpus italiano por enquanto (as 35 outras ainda estão em francês) — o G9 vai acusar «molde aparece em uma parte só» até as casas (B06/B08) serem escritas em italiano. É aviso agregado da obra em andamento, não regressão."
     ]
   },
   "steps": [
@@ -149,7 +149,7 @@
       "bloco": "aquecimento",
       "gesto": 4,
       "tom": "ganha",
-      "pt": "Échauffement. En français, l'appui tombe toujours au bout ; en espagnol il bouge : ti-RAR et em-pou-KHAR frappent la fin, sa-LI-da frappe le milieu. Écoutez où il tombe."
+      "pt": "Riscaldamento. Quasi ogni cartello lo leggi già da solo: è la lingua più vicina alla tua. Oggi lavoriamo le poche parole che sembrano italiane e dicono un'altra cosa. Ascolta."
     },
     {
       "tipo": "responde",
@@ -158,109 +158,109 @@
       "bloco": "callback",
       "molde": "DONDE",
       "encaixe": "la vía cuatro",
-      "encaixeGloss": "la voie quatre",
+      "encaixeGloss": "il binario quattro",
       "consulta": [
         "transporte/plataforma"
       ],
       "promptAudioKey": "b10-p01",
-      "promptPt": "Votre train part dans six minutes, le panneau affiche un numéro, et vous ne savez pas de quel côté descendre. Demandez où il se trouve. Parlez maintenant.",
+      "promptPt": "Il tuo treno parte tra sei minuti, il cartello mostra un numero, e non sai da che parte scendere. Chiedi dov'è. Parla adesso.",
       "audioKey": "b10-via-e",
       "es": "¿Dónde está la vía cuatro?",
-      "pinyin": "DON-dé es-TA la BI-a KOUA-tro",
-      "pt": "le niveau où votre train est à quai"
+      "pinyin": "DON-de es-TA la BI-a KUA-tro",
+      "pt": "il binario dove il treno è già fermo"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "b10-controlcierra-c",
       "receptivo": true,
-      "acao": "Partir avant qu'elle ait fini de parler.",
+      "acao": "Partire prima che finisca di parlare.",
       "es": "Vía cuatro es abajo. Pero corre, que el control cierra antes.",
-      "pinyin": "BI-a KOUA-tro es a-BA-kho. PE-ro KO-rré, ké el kon-TROL SSIE-rra AN-tess",
-      "pt": "👂 «La voie quatre, c'est en bas. Mais cours, le contrôle ferme avant.» — la barrière a sa propre horloge."
+      "pinyin": "BI-a KUA-tro es a-BA-kho. PE-ro KO-rre, ke el kon-TROL SSIE-rra AN-tes",
+      "pt": "👂 «Il binario quattro è giù. Ma corri, che il controllo chiude prima.» — la barriera ha il suo orologio."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n02",
       "bloco": "cena",
-      "pt": "Deux heures et quart, mardi. Une porte vitrée, un mot dessus, et vous ne savez pas s'il faut pousser ou tirer."
+      "pt": "Le due e un quarto, martedì. Una porta a vetri, una parola sopra, e non sai se spingere o tirare."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n03",
-      "pt": "Cette partie a moins d'exercices que les autres, et c'est voulu. Un panneau ne se parle pas : il se lit, et on agit."
+      "pt": "Questa parte ha meno esercizi delle altre, ed è voluto. Un cartello non si parla: si legge, e si agisce."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n04",
       "tom": "ganha",
-      "pt": "Bonne nouvelle : la rue espagnole est facile pour votre œil. Farmacia, horario, restringido — vous les avez déjà."
+      "pt": "Buona notizia: la strada spagnola è facile per il tuo occhio. Farmacia, horario, restringido — le hai già."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n05",
-      "pt": "Le piège est juste là : comme presque tout se lit tout seul, vous vous fiez à l'œil même où il vous ment."
+      "pt": "La trappola è proprio lì: siccome quasi tutto si legge da sé, ti fidi dell'occhio anche dove ti mente."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e08b-placas2-e",
       "receptivo": true,
-      "acao": "Lire d'abord, orienter la main ensuite.",
+      "acao": "Leggere prima, orientare la mano dopo.",
       "es": "TIRAR · EMPUJAR",
-      "pinyin": "ti-RAR · em-pou-KHAR",
-      "pt": "👂 Tirer. Pousser. Dans cet ordre, comme sur la porte.",
+      "pinyin": "ti-RAR · em-pu-KHAR",
+      "pt": "👂 Tirare. Spingere. In quest'ordine, come sulla porta.",
       "tts": "Tirar. Empujar."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b10-t01",
-      "pt": "Un mot sur deux ressemble au français : votre force, et votre piège. TIRAR, vous l'avez lu juste — «tirer», on tire."
+      "pt": "Una parola su due somiglia all'italiano: la tua forza e la tua trappola. TIRAR l'hai letta giusta — «tirare», si tira."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b10-t02",
-      "pt": "EMPUJAR, «pousser» — aucun cousin français, et le j se racle du fond de la gorge, pas le j de «jour». La ressemblance aide parfois ; le prochain panneau, elle trahit."
+      "pt": "EMPUJAR, «spingere» — nessun cugino italiano, e quella j si raschia dal fondo della gola, come la c toscana di «la casa». La somiglianza a volte aiuta; al prossimo cartello, tradisce."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n06",
       "tom": "ganha",
-      "pt": "SALIDA sonne comme «sale», comme «salir». Sauf que c'est la SORTIE. Voilà le faux ami : l'air français, le sens espagnol."
+      "pt": "SALIDA somiglia a «salita», a «salire» — sembra dire «su». Invece è l'USCITA. Ecco il falso amico: l'aria italiana, il senso spagnolo."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e08b-placas1-c",
       "receptivo": true,
-      "acao": "Regarder le dernier s avant de suivre la flèche.",
+      "acao": "Guardare l'ultima s prima di seguire la freccia.",
       "es": "SALIDA · SALIDAS",
       "pinyin": "sa-LI-da · sa-LI-dass",
-      "pt": "👂 Sortie. Et avec un s au bout : départs. Une lettre, deux portes tout à fait différentes.",
+      "pt": "👂 Uscita. E con una s in fondo: partenze. Una lettera, due porte del tutto diverse.",
       "tts": "Salida. Salidas."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n07",
-      "pt": "Trois mots pour la même porte, maintenant, et aucun n'est «baño»."
+      "pt": "Tre parole per la stessa porta, adesso, e nessuna è «baño»."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "b10-aseos-c",
       "receptivo": true,
-      "acao": "Chercher ces trois mots-là, pas «baño».",
+      "acao": "Cercare queste tre parole, non «baño».",
       "es": "ASEOS · SERVICIOS · LAVABOS · PLANTA BAJA",
-      "pinyin": "a-SSÉ-oss · ser-BI-ssioss · la-BA-boss · PLAN-ta BA-kha",
-      "pt": "👂 Trois fois la même chose : les toilettes. Et derrière, l'étage où elles sont.",
+      "pinyin": "a-SSE-oss · ser-BI-ssioss · la-BA-boss · PLAN-ta BA-kha",
+      "pt": "👂 Tre volte la stessa cosa: i bagni. E dietro, il piano dove si trovano.",
       "tts": "Aseos. Servicios. Lavabos. Planta baja."
     },
     {
@@ -268,13 +268,13 @@
       "voz": "GuiaFem",
       "audioKey": "b10-n08",
       "tom": "ganha",
-      "pt": "«Planta baja» : le rez-de-chaussée. L'Espagne compte comme vous — ensuite la primera planta, le premier étage."
+      "pt": "«Planta baja»: il pianterreno. La Spagna conta come te — poi la primera planta, il primo piano."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n09",
-      "pt": "Et pour la porte elle-même, deux mots à demander."
+      "pt": "E per la porta in sé, due parole da chiedere."
     },
     {
       "tipo": "responde",
@@ -282,26 +282,26 @@
       "promptVoz": "GuiaFem",
       "molde": "DONDE",
       "encaixe": "los aseos",
-      "encaixeGloss": "les toilettes",
+      "encaixeGloss": "i bagni",
       "consulta": [
         "chegar/entrar"
       ],
       "promptAudioKey": "b10-p02",
-      "promptPt": "Le café est bu, et il vous faut la petite porte au fond avant de repartir. Le serveur passe. Demandez où elles sont. Parlez maintenant.",
+      "promptPt": "Il caffè è bevuto, e ti serve la porticina in fondo prima di ripartire. Il cameriere passa. Chiedi dove sono. Parla adesso.",
       "audioKey": "b08-donde-aseos-c",
       "es": "¿Dónde están los aseos?",
-      "pinyin": "DON-dé es-TAN loss a-SSÉ-oss",
-      "pt": "la porte qu'il vous faut à l'instant"
+      "pinyin": "DON-de es-TAN loss a-SSE-oss",
+      "pt": "la porta che ti serve adesso"
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "b10-cocina-e",
       "receptivo": true,
-      "acao": "Ne pas partir — le bar reste ouvert même si la cuisine est fermée.",
+      "acao": "Non andartene — il bar resta aperto anche se la cucina è chiusa.",
       "es": "COCINA CERRADA · S.M. · SEGÚN MERCADO",
-      "pinyin": "ko-SSI-na sse-RRA-da · se-GOUN mer-KA-do",
-      "pt": "👂 Cuisine fermée. Et «selon le marché» : pas de montant affiché, parce qu'il va au poids.",
+      "pinyin": "ko-SSI-na sse-RRA-da · se-GUN mer-KA-do",
+      "pt": "👂 Cucina chiusa. E «secondo il mercato»: nessun prezzo esposto, perché va a peso.",
       "tts": "Cocina cerrada. Según mercado."
     },
     {
@@ -310,26 +310,26 @@
       "audioKey": "b10-n10",
       "bloco": "capsula",
       "tom": "protege",
-      "pt": "«S.M.», ou «según mercado», dans la ligne du poisson : c'est le prix du jour, au poids."
+      "pt": "«S.M.», o «según mercado», nella riga del pesce: è il prezzo del giorno, a peso."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n11",
-      "pt": "On paie la pièce qu'on vous montre, pas la portion. Deux questions avant de dire oui."
+      "pt": "Si paga il pezzo che ti mostrano, non la porzione. Due domande prima di dire di sì."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n12",
       "tom": "ganha",
-      "pt": "Combien coûte le kilo, et combien pèse la pièce qu'il tient. Le chiffre du bout redevient le vôtre."
+      "pt": "Quanto costa il chilo, e quanto pesa il pezzo che tiene. La cifra finale torna a essere la tua."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n13",
-      "pt": "Ça ne vaut pas pour la ración au prix affiché ni pour le menu du jour — là, le montant est écrit."
+      "pt": "Non vale per la ración a prezzo esposto né per il menu del giorno — lì, l'importo è scritto."
     },
     {
       "tipo": "responde",
@@ -337,33 +337,33 @@
       "promptVoz": "GuiaFem",
       "molde": "HAY",
       "encaixe": "algo para picar",
-      "encaixeGloss": "quelque chose à grignoter",
+      "encaixeGloss": "qualcosa da stuzzicare",
       "consulta": [
         "mesa/comida"
       ],
       "promptAudioKey": "b10-p03",
-      "promptPt": "La cuisine est fermée, mais vous avez un petit creux et le bar tourne. Demandez s'il reste de quoi tenir jusqu'au dîner. Parlez maintenant.",
+      "promptPt": "La cucina è chiusa, ma hai un languorino e il bar è in attività. Chiedi se c'è qualcosa per arrivare a cena. Parla adesso.",
       "audioKey": "b10-picar-c",
       "es": "¿Hay algo para picar?",
-      "pinyin": "aï AL-go PA-ra pi-KAR",
-      "pt": "un petit quelque chose, sans cuisine"
+      "pinyin": "ai AL-go PA-ra pi-KAR",
+      "pt": "un piccolo assaggio, senza cucina"
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e05a-soloefectivo-e",
       "receptivo": true,
-      "acao": "Ouvrir le porte-monnaie avant de s'asseoir.",
+      "acao": "Aprire il portafogli prima di sedersi.",
       "es": "SOLO EFECTIVO",
-      "pinyin": "SO-lo é-fek-TI-bo",
-      "pt": "👂 Espèces seulement. Derrière ce comptoir, pas de terminal, et il n'en viendra pas.",
+      "pinyin": "SO-lo e-fek-TI-bo",
+      "pt": "👂 Solo contanti. Dietro questo banco niente POS, e non arriverà.",
       "tts": "Solo efectivo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n14",
-      "pt": "Chez vous, la carte passe partout ; ici, le petit bar de quartier vous prend au dépourvu. Lisez le panneau en entrant."
+      "pt": "Il piccolo bar di quartiere a volte prende solo contanti, e non c'è terminale che tenga. Leggi il cartello entrando."
     },
     {
       "tipo": "responde",
@@ -371,43 +371,43 @@
       "promptVoz": "GuiaFem",
       "molde": "HAY",
       "encaixe": "un cajero",
-      "encaixeGloss": "un distributeur",
+      "encaixeGloss": "un bancomat",
       "consulta": [
         "pagar/dinheiro"
       ],
       "promptAudioKey": "b10-p04",
-      "promptPt": "Le panneau dit espèces, et vous n'avez que du plastique dans la poche. Demandez à l'homme sur le pas de la porte ce qui règle ça. Parlez maintenant.",
+      "promptPt": "Il cartello dice contanti, e in tasca hai solo la carta. Chiedi all'uomo sulla soglia cosa risolve la cosa. Parla adesso.",
       "audioKey": "b08-cajero-c",
       "es": "¿Hay un cajero por aquí?",
-      "pinyin": "aï oun ka-KHÉ-ro por a-KI",
-      "pt": "de quoi retirer, quelque part par ici"
+      "pinyin": "ai un ka-KHE-ro por a-KI",
+      "pt": "dove prelevare, da qualche parte qui intorno"
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "b10-hojas-e",
       "receptivo": true,
-      "acao": "Le lire une fois, là où c'est affiché. Rien de plus aujourd'hui.",
+      "acao": "Leggerlo una volta, dov'è affisso. Niente di più oggi.",
       "es": "HAY HOJAS DE RECLAMACIONES A DISPOSICIÓN DEL CONSUMIDOR",
-      "pinyin": "aï O-khass dé rre-kla-ma-SSIO-ness a diss-po-ssi-SSION del kon-ssou-mi-DOR",
-      "pt": "👂 Formulaires de réclamation disponibles. S'il est affiché, le commerce ne peut pas refuser le formulaire.",
+      "pinyin": "ai O-khass de rre-kla-ma-SSIO-ness a diss-po-ssi-SSION del kon-su-mi-DOR",
+      "pt": "👂 Moduli di reclamo a disposizione. Se è affisso, il negozio non può rifiutare il modulo.",
       "tts": "Hay hojas de reclamaciones a disposición del consumidor."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n15",
-      "pt": "Ça, c'est le mur. Le formulaire lui-même a son tour plus tard dans le voyage."
+      "pt": "Questo è il muro. Il modulo vero e proprio ha il suo turno più avanti nel viaggio."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "b10-horario-e",
       "receptivo": true,
-      "acao": "Lire la deuxième ligne : l'été a d'autres heures que le vieux panneau.",
+      "acao": "Leggere la seconda riga: l'estate ha orari diversi dal vecchio cartello.",
       "es": "HORARIO · HORARIO DE VERANO · CERRADO POR VACACIONES",
-      "pinyin": "o-RA-rio · o-RA-rio dé bé-RA-no · sse-RRA-do por ba-ka-SSIO-ness",
-      "pt": "👂 Horaires. Horaires d'été. Et : fermé pour congés.",
+      "pinyin": "o-RA-rio · o-RA-rio de be-RA-no · sse-RRA-do por ba-ka-SSIO-ness",
+      "pt": "👂 Orari. Orari d'estate. E: chiuso per ferie.",
       "tts": "Horario. Horario de verano. Cerrado por vacaciones."
     },
     {
@@ -415,37 +415,37 @@
       "voz": "GuiaFem",
       "audioKey": "b10-n16",
       "bloco": "capsula",
-      "pt": "Août, maintenant, et c'est le plus cher des trois. Le commerce tenu par son patron ferme le mois entier."
+      "pt": "Agosto, adesso, ed è il più caro dei tre. Il negozio gestito dal titolare chiude il mese intero."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n17",
       "tom": "protege",
-      "pt": "«Cerrado por vacaciones» sur la vitre, jamais en ligne. Et août, c'est vos grandes vacances : vous arrivez quand le rideau est baissé."
+      "pt": "«Cerrado por vacaciones» sulla vetrina, mai online — è il tuo «chiuso per ferie». E agosto è anche il tuo esodo: arrivi quando la saracinesca è giù."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n18",
       "tom": "ganha",
-      "pt": "Le geste tient en un mot et sauve une demi-journée : appeler avant de marcher vingt-cinq minutes."
+      "pt": "Il gesto sta in una parola e ti salva mezza giornata: telefonare prima di camminare venticinque minuti."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n19",
-      "pt": "Deux choses ferment sans avoir fermé : la sieste commerciale, de deux à cinq, et le dimanche — supermarchés clos, bars et sites ouverts."
+      "pt": "Due cose chiudono senza aver chiuso: la siesta commerciale, dalle due alle cinque, e la domenica — supermercati chiusi, bar e monumenti aperti."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "b10-calle-c",
       "receptivo": true,
-      "acao": "À l'étal, garder les mains en bas. À la pharmacie éteinte, lire la liste sur la porte.",
+      "acao": "Al banco, tenere le mani giù. Alla farmacia spenta, leggere la lista sulla porta.",
       "es": "NO TOCAR LA FRUTA · FARMACIA DE GUARDIA",
-      "pinyin": "no to-KAR la FROU-ta · far-MA-ssia dé GWAR-dia",
-      "pt": "👂 Ne pas toucher les fruits. Et : pharmacie de garde.",
+      "pinyin": "no to-KAR la FRU-ta · far-MA-ssia de GWAR-dia",
+      "pt": "👂 Non toccare la frutta. E: farmacia di turno.",
       "tts": "No tocar la fruta. Farmacia de guardia."
     },
     {
@@ -453,30 +453,30 @@
       "voz": "GuiaFem",
       "audioKey": "b10-n20",
       "bloco": "capsula",
-      "pt": "À l'étal, la main du vendeur arrive avant la vôtre. Choisir, c'est son travail : «no tocar la fruta»."
+      "pt": "Al banco, la mano del venditore arriva prima della tua. Scegliere è il suo lavoro: «no tocar la fruta»."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n21",
       "tom": "ganha",
-      "pt": "Montrez, et dites la quantité — un demi-kilo, quatre, pour ce soir. La deuxième fois, on vous garde le meilleur."
+      "pt": "Indica, e di' la quantità — mezzo chilo, quattro, per stasera. La seconda volta, ti tengono il meglio."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n22",
-      "pt": "«Farmacia de guardia» : celle qui est de garde. La liste est sur la porte de celles qui sont éteintes."
+      "pt": "«Farmacia de guardia»: quella di turno. La lista è sulla porta di quelle spente."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e07b-placas-c",
       "receptivo": true,
-      "acao": "Ne pas entrer. Se garer dehors et faire les derniers mètres à pied.",
+      "acao": "Non entrare. Parcheggiare fuori e fare gli ultimi metri a piedi.",
       "es": "ZBE · ZONA DE BAJAS EMISIONES · ACCESO RESTRINGIDO · CÁMARAS",
-      "pinyin": "SSÉ-ta bé é · SSO-na dé BA-khass é-mi-SSIO-ness · ak-SSÉ-so rress-trin-KHI-do · KA-ma-rass",
-      "pt": "👂 Zone à faibles émissions, accès restreint, caméras. Trois des quatre lignes, vous les lisez sans aide.",
+      "pinyin": "SSE-ta be e · SSO-na de BA-khass e-mi-SSIO-ness · ak-SSE-so rress-trin-KHI-do · KA-ma-rass",
+      "pt": "👂 Zona a basse emissioni, accesso limitato, telecamere. Tre righe su quattro le leggi senza aiuto.",
       "tts": "Zeta, be, e. Zona de bajas emisiones. Acceso restringido. Cámaras."
     },
     {
@@ -484,13 +484,13 @@
       "voz": "GuiaFem",
       "audioKey": "b10-n23",
       "tom": "protege",
-      "pt": "Vous êtes nombreux à arriver en voiture : ce panneau compte double. Depuis janvier 2026, toute ville de plus de cinquante mille habitants a sa zone."
+      "pt": "Se noleggi l'auto, questo cartello conta doppio. Da gennaio 2026 ogni città oltre i cinquantamila abitanti ha la sua zona."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n24",
-      "pt": "Caméra, jusqu'à deux cents euros, et la vignette n'existe que pour une plaque espagnole. La règle tient au carrefour : voir ZBE, ne pas entrer."
+      "pt": "Telecamera, fino a duecento euro, e il bollino esiste solo per una targa spagnola. La regola sta all'incrocio: vedi ZBE, non entrare."
     },
     {
       "tipo": "responde",
@@ -498,26 +498,26 @@
       "promptVoz": "GuiaFem",
       "molde": "PUEDO",
       "encaixe": "aparcar aquí",
-      "encaixeGloss": "se garer ici",
+      "encaixeGloss": "parcheggiare qui",
       "consulta": [
         "taxi/estacionar"
       ],
       "promptAudioKey": "b10-p05",
-      "promptPt": "Vous cherchez où laisser la voiture, et vous n'êtes pas sûr que ce bout de trottoir soit permis. Demandez au patron du bar. Parlez maintenant.",
+      "promptPt": "Cerchi dove lasciare l'auto, e non sei sicuro che quel pezzo di marciapiede sia permesso. Chiedi al titolare del bar. Parla adesso.",
       "audioKey": "b10-aparcar-e",
       "es": "¿Puedo aparcar aquí?",
-      "pinyin": "POUÉ-do a-par-KAR a-KI",
-      "pt": "la voiture, le trottoir, et la permission"
+      "pinyin": "PUE-do a-par-KAR a-KI",
+      "pt": "l'auto, il marciapiede, e il permesso"
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e07b-aparcar-e",
       "receptivo": true,
-      "acao": "Prendre la réponse : laisser dehors et marcher.",
+      "acao": "Prendere la risposta: lasciare fuori e camminare.",
       "es": "¿Dónde puedo aparcar sin entrar?",
-      "pinyin": "DON-dé POUÉ-do a-par-KAR sin en-TRAR",
-      "pt": "👂 «Où puis-je me garer sans entrer ?» — la phrase qui contourne la zone.",
+      "pinyin": "DON-de PUE-do a-par-KAR sin en-TRAR",
+      "pt": "👂 «Dove posso parcheggiare senza entrare?» — la frase che aggira la zona.",
       "tts": "¿Dónde puedo aparcar sin entrar?"
     },
     {
@@ -525,10 +525,10 @@
       "voz": "Emilio",
       "audioKey": "b10-agua-e",
       "receptivo": true,
-      "acao": "À cette fontaine, ne pas remplir. L'eau, vous la prenez dedans, au comptoir.",
+      "acao": "A questa fontana, non riempire. L'acqua, la prendi dentro, al banco.",
       "es": "AGUA NO POTABLE",
-      "pinyin": "A-gwa no po-TA-blé",
-      "pt": "👂 Eau non potable. Le panneau dit où ne pas remplir — rien de plus.",
+      "pinyin": "A-gwa no po-TA-ble",
+      "pt": "👂 Acqua non potabile. Il cartello dice dove non riempire — niente di più.",
       "tts": "Agua no potable."
     },
     {
@@ -536,30 +536,30 @@
       "voz": "Carmen",
       "audioKey": "b10-cooficial-c",
       "receptivo": true,
-      "acao": "Lire comme un seul sens : ouvert, fermé, sortie.",
+      "acao": "Leggere come un solo senso: aperto, chiuso, uscita.",
       "es": "OBERT · TANCAT · SORTIDA",
-      "pinyin": "ou-BÉRT · tan-KAT · sour-TI-da",
-      "pt": "👂 Ouvert. Fermé. Sortie. C'est du catalan, et sur la porte, c'est ça.",
+      "pinyin": "u-BERT · tan-KAT · sur-TI-da",
+      "pt": "👂 Aperto. Chiuso. Uscita. È catalano, e sulla porta, è questo.",
       "tts": "Obert. Tancat. Sortida."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n25",
-      "pt": "En Catalogne, sur beaucoup de portes, ce n'est pas de l'espagnol : c'est du catalan. Souvent à côté, parfois seul."
+      "pt": "In Catalogna, su molte porte, non è spagnolo: è catalano. Spesso accanto, a volte da solo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n26",
-      "pt": "Pour vous, ce n'est pas si étranger : on le parle aussi de l'autre côté, en Roussillon. «Sortida», c'est la sortie — cousin de salida."
+      "pt": "«Sortida» è l'uscita in catalano, cugina di salida — e come salida non somiglia alla tua «uscita». Qui basta riconoscerla."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n27",
       "tom": "ganha",
-      "pt": "Rien à produire ici : reconnaître suffit, et cette langue aura sa place plus loin dans le cours."
+      "pt": "Niente da produrre qui: riconoscere basta, e questa lingua avrà il suo posto più avanti nel corso."
     },
     {
       "tipo": "intro",
@@ -567,33 +567,33 @@
       "audioKey": "b10-n28",
       "bloco": "permissao",
       "tom": "ganha",
-      "pt": "Aucun de ces mots à prononcer : les reconnaître suffit, et c'est pour ça qu'on parle moins ici. Rester quatre secondes devant une porte à lire, c'est normal."
+      "pt": "Nessuna di queste parole da pronunciare: riconoscerle basta, ed è per questo che qui si parla meno. Restare quattro secondi davanti a una porta a leggere è normale."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n29",
-      "pt": "Et s'il vous manque le mot, montrez du doigt. «Cocina cerrada» ferme la cuisine, pas le bar : demandez quand même."
+      "pt": "E se ti manca la parola, indica col dito. «Cocina cerrada» chiude la cucina, non il bar: chiedi lo stesso."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n30",
       "bloco": "piso",
-      "pt": "Quatre panneaux suffisent pour tout le voyage : salida, aseos, tirar, cerrado por vacaciones."
+      "pt": "Quattro cartelli bastano per tutto il viaggio: salida, aseos, tirar, cerrado por vacaciones."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n31",
       "tom": "ganha",
-      "pt": "La plupart des visiteurs poussent une porte où il est écrit tirar pendant deux semaines. Plus vous."
+      "pt": "La maggior parte dei visitatori spinge per due settimane una porta dove c'è scritto tirar. Tu no."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-s00",
-      "pt": "À répéter. Fort, avec eux, la dernière syllabe tenue. Les deux qui reviennent chaque jour :"
+      "pt": "Da ripetere. Forte, con loro, l'ultima sillaba tenuta. Le due che tornano ogni giorno:"
     },
     {
       "tipo": "shadow",
@@ -601,8 +601,8 @@
       "audioKey": "b08-donde-aseos-c",
       "molde": "DONDE",
       "es": "¿Dónde están los aseos?",
-      "pinyin": "DON-dé es-TAN loss a-SSÉ-oss",
-      "pt": "Où sont les toilettes ?"
+      "pinyin": "DON-de es-TAN loss a-SSE-oss",
+      "pt": "Dove sono i bagni?"
     },
     {
       "tipo": "shadow",
@@ -610,15 +610,15 @@
       "audioKey": "b10-aparcar-e",
       "molde": "PUEDO",
       "es": "¿Puedo aparcar aquí?",
-      "pinyin": "POUÉ-do a-par-KAR a-KI",
-      "pt": "Je peux me garer ici ?"
+      "pinyin": "PUE-do a-par-KAR a-KI",
+      "pt": "Posso parcheggiare qui?"
     },
     {
       "tipo": "recap",
       "voz": "GuiaFem",
       "audioKey": "b10-rend",
       "bloco": "recap",
-      "pt": "Encore une fois, à voix haute, devant une porte qu'on n'a pas encore vue. Le verrou est mis, pas le commerce."
+      "pt": "Ancora una volta, ad alta voce, davanti a una porta che non hai ancora visto. Chiudono a chiave, non chiudono bottega."
     },
     {
       "tipo": "responde",
@@ -626,98 +626,98 @@
       "promptVoz": "GuiaFem",
       "molde": "DONDE",
       "encaixe": "la salida",
-      "encaixeGloss": "la sortie",
+      "encaixeGloss": "l'uscita",
       "consulta": [
         "transporte/placas"
       ],
       "promptAudioKey": "b10-p06",
-      "promptPt": "Fin de la visite, la salle est un labyrinthe, et le mot sur la porte ressemble à «sale». Ce n'est pas ça. Demandez le chemin vers dehors. Parlez maintenant.",
+      "promptPt": "Fine della visita, la sala è un labirinto, e la parola sulla porta somiglia a «salita». Non è quella. Chiedi da che parte si torna in strada. Parla adesso.",
       "audioKey": "b10-salida-e",
       "es": "¿Dónde está la salida?",
-      "pinyin": "DON-dé es-TA la sa-LI-da",
-      "pt": "le chemin vers dehors"
+      "pinyin": "DON-de es-TA la sa-LI-da",
+      "pt": "la strada per uscire"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b10-n32",
-      "pt": "C'est tout. Vous lisez la porte, l'heure et le prix — et le mot qui vous piège, vous le voyez venir. Hasta luego."
+      "pt": "È tutto. Leggi la porta, l'ora e il prezzo — e la parola che ti frega, la vedi arrivare. Hasta luego."
     }
   ],
   "aprofundar": {
-    "titulo": "Ce qui est affiché au mur (lecture optionnelle)",
+    "titulo": "Ciò che è affisso al muro (lettura facoltativa)",
     "secoes": [
       {
-        "titulo": "Pourquoi vous n'avez pas à prononcer ces mots",
-        "corpo": "Cette partie a moins d'exercices de parole que les autres, et c'est exprès. Un panneau n'est pas un interlocuteur : il demande que vous le reconnaissiez et que vous agissiez ensuite, et produire quelque chose par écrit ne sert à rien en voyage — personne ne peint une inscription en l'air. Ce que vous recevez ici, ce sont des paires d'yeux : TIRAR c'est tirer, EMPUJAR c'est pousser, SALIDA la sortie et SALIDAS les départs, ASEOS, SERVICIOS et LAVABOS trois fois la même pièce, ABIERTO et CERRADO ouvert et fermé, PLANTA BAJA le rez-de-chaussée. Et une remarque sur la lecture elle-même, qui ne vaut que pour vous : la rue espagnole est, pour votre œil, exceptionnellement amicale. Farmacia, horario, restringido, cámaras, emisiones, consumidor, reclamaciones, servicios — autant de mots que vous apportez déjà sous une forme ou une autre. C'est là, justement, qu'est le piège : parce que tant de choses se lisent toutes seules, vous vous fiez à l'œil même là où il vous dit du faux. TIRAR, la ressemblance vous aide — «tirer», on tire. SALIDA, elle vous trahit — ça sonne comme «sale» ou «salir», et c'est la sortie. Le mot a l'air français et dit autre chose : c'est le faux ami, et vous le retrouverez tout le voyage — à la pharmacie, à table, au comptoir. La règle du voyage tient en une phrase : vous comprenez presque tout ; travaillez les rares endroits où «presque» est le problème. C'est pour ça qu'il y a une transcription sous chaque panneau : devant une porte vitrée, il n'y a pas de locuteur natif à imiter.",
+        "titulo": "Perché non devi pronunciare queste parole",
+        "corpo": "Questa parte ha meno esercizi di parola delle altre, ed è apposta. Un cartello non è un interlocutore: chiede solo di essere riconosciuto e poi di agire, e produrre qualcosa per iscritto non serve in viaggio — nessuno dipinge una scritta a mezz'aria. Quello che ricevi qui sono coppie di occhi: TIRAR è tirare, EMPUJAR è spingere, SALIDA l'uscita e SALIDAS le partenze, ASEOS, SERVICIOS e LAVABOS tre volte la stessa stanza, ABIERTO e CERRADO aperto e chiuso, PLANTA BAJA il pianterreno. E una nota sulla lettura in sé, che vale proprio per te: la strada spagnola è, per il tuo occhio, straordinariamente amichevole — è la lingua più vicina alla tua. Farmacia, horario, restringido, cámaras, emisiones, consumidor, reclamaciones, servicios — parole che porti già con te in una forma o nell'altra. È lì, appunto, la trappola: siccome tanto si legge da sé, ti fidi dell'occhio anche dove ti dice il falso. TIRAR, la somiglianza aiuta — «tirare», si tira. SALIDA, tradisce — sembra «salita» o «salire», e invece è l'uscita (che in italiano è «uscita», parola che non ti aiuta per niente). La parola ha l'aria italiana e dice un'altra cosa: è il falso amico, e lo ritroverai per tutto il viaggio — in farmacia, a tavola, al banco. La regola del viaggio sta in una frase: capisci quasi tutto; allena i pochi punti dove «quasi» è il problema. È per questo che sotto ogni cartello c'è una trascrizione: davanti a una porta a vetri non c'è un madrelingua da imitare.",
         "exemplos": [
           {
             "es": "TIRAR · EMPUJAR",
-            "pt": "ti-RAR · em-pou-KHAR — tirer · pousser. Le j de empujar se racle du fond de la gorge, pas le j de «jour»."
+            "pt": "ti-RAR · em-pu-KHAR — tirare · spingere. La j di empujar si raschia dal fondo della gola, come la c toscana di «la casa», non la j di «jeans»."
           },
           {
             "es": "SALIDA · SALIDAS",
-            "pt": "sa-LI-da · sa-LI-dass — sortie · départs. Un s d'écart, deux étages d'écart. Et non : ce n'est pas «sale»."
+            "pt": "sa-LI-da · sa-LI-dass — uscita · partenze. Una s di scarto, due mondi di scarto. E no: non è «salita»."
           }
         ]
       },
       {
-        "titulo": "La transcription : comment lire l'espagnol avec un œil français",
-        "corpo": "Sous chaque panneau, une transcription pour l'œil, et elle suit un schéma fixe, différent de celui d'autres langues parce que votre œil n'a pas les mêmes réflexes. La MAJUSCULE marque la syllabe tonique — et la tonique espagnole tombe rarement à la fin, à l'inverse du français : c'est «sa-LI-da», pas «sali-DA». Le «ou» rend le u espagnol [u], jamais le u français : según se lit «se-GOUN», pas «se-gun». Le «kh» est la jota, ce souffle du fond de la gorge que le français n'a pas : empujar, «em-pou-KHAR» ; hojas, «O-khass». Le «tch» est le ch espagnol, plein, pas le ch de «chat». Le «b» rend le v espagnol, qui sonne comme un b : vía, «BI-a». Le «ss» tient lieu du z et du c devant e/i (à l'oreille péninsulaire, un son proche du th anglais de «think» ; le simple [s] passe aussi) et du s entre voyelles, toujours dur — servicios, «ser-BI-ssioss» —, parce qu'un seul s français entre voyelles se met à bourdonner. Enfin, les fins de mots écrites se prononcent : le -s du pluriel, le -e final que le français avale. SALIDAS a bien son s ; sans lui, ce ne sont plus les départs.",
+        "titulo": "La trascrizione: come leggere lo spagnolo con un occhio italiano",
+        "corpo": "Sotto ogni cartello, una trascrizione per l'occhio, e segue uno schema fisso, diverso da quello di altre lingue perché il tuo occhio ha altri riflessi. La MAIUSCOLA segna la sillaba tonica — e qui, buona notizia, cade quasi sempre dove la metteresti tu: l'accento spagnolo è piano come l'italiano, «sa-LI-da», senza il salto in fondo che tradisce il francese. La «u» resta «u»: según si legge «se-GUN», non serve travestirla. Il «kh» è la jota, quel soffio dal fondo della gola che l'italiano non ha — l'unico appiglio è la c toscana, «la casa»→«la hasa»: empujar, «em-pu-KHAR»; hojas, «O-khass». Il «b» rende la v spagnola, che suona come una b — non la tua v di «vino»: vía, «BI-a». Il «ss» sta per la z e la c davanti a e/i (all'orecchio peninsulare un suono vicino al th inglese di «think»; la [s] passa lo stesso) e per la s tra vocali, sempre dura — servicios, «ser-BI-ssioss» —, perché la tua abitudine la sonorizzerebbe in [z] al Nord, e qui è sempre sorda. Attenzione al gemello che t'inganna: lo spagnolo ⟨ch⟩ è la ci di «ciao», mai il ch di «chiesa». Infine, le finali scritte si pronunciano: la -s del plurale, che l'italiano non ha ma non deve mangiare — SALIDAS con la sua s è un'altra cosa da SALIDA. E il «qu» spagnolo è solo [k]: aquí è «a-KI», non «a-kwi».",
         "exemplos": [
           {
             "es": "SEGÚN MERCADO",
-            "pt": "se-GOUN mer-KA-do — selon le marché. Le u = «ou», la tonique sur GÚN, avec l'accent écrit."
+            "pt": "se-GUN mer-KA-do — secondo il mercato. La u resta u, la tonica su GÚN, con l'accento scritto."
           },
           {
             "es": "PLANTA BAJA",
-            "pt": "PLAN-ta BA-kha — le rez-de-chaussée. Le j = «kh», le souffle de la jota."
+            "pt": "PLAN-ta BA-kha — il pianterreno. La j = «kh», il soffio della jota."
           }
         ]
       },
       {
-        "titulo": "Les heures : les deux heures, le dimanche et le mois d'août",
-        "corpo": "Trois choses différentes qui ressemblent toutes à «fermé» et appellent des réponses tout à fait différentes. D'abord la pause de midi : beaucoup de commerces ferment à peu près de deux à cinq. Le verrou est mis, pas le commerce, et la même personne est de nouveau derrière l'après-midi. Qui fait demi-tour et raye la boutique la perd pour tout le voyage. Ensuite le dimanche : supermarchés et commerce ordinaire majoritairement fermés, bars, restaurants et sites ouverts. Dans les zones touristiques déclarées on ouvre le dimanche ; dans le quartier de votre location, plutôt pas. La conséquence pratique tient en une phrase : les grosses courses, c'est le samedi. Enfin le mois d'août, et c'est le plus cher des trois. Les commerces tenus par leur patron ferment le mois entier et collent «cerrado por vacaciones» sur la vitre ; les cartes en ligne l'ignorent souvent, parce que personne n'inscrit une fermeture d'un mois. Le geste est banal et sauve une demi-journée : appeler avant de marcher vingt-cinq minutes. Pour ce voyage, août a une arête que d'autres visiteurs n'ont pas : c'est le cœur de vos grandes vacances, vous arrivez au moment même où le rideau est baissé et où la chaleur tient le plus longtemps. Et une ligne qu'on saute : sous «horario», il y a souvent un deuxième «horario de verano», plus petit. En été, c'est le deuxième qui vaut.",
+        "titulo": "Gli orari: le due, la domenica e il mese di agosto",
+        "corpo": "Tre cose diverse che somigliano tutte a «chiuso» e chiedono risposte del tutto diverse. Prima la pausa di mezzogiorno: molti negozi chiudono grosso modo dalle due alle cinque. Chiudono a chiave, non chiudono bottega, e la stessa persona è di nuovo dietro il banco nel pomeriggio. Chi fa dietrofront e cancella il negozio lo perde per tutto il viaggio. Poi la domenica: supermercati e commercio ordinario in prevalenza chiusi, bar, ristoranti e siti aperti. Nelle zone turistiche dichiarate si apre la domenica; nel quartiere del tuo alloggio, piuttosto no. La conseguenza pratica sta in una frase: la spesa grossa si fa il sabato. Infine il mese di agosto, ed è il più caro dei tre. I negozi gestiti dal titolare chiudono il mese intero e attaccano «cerrado por vacaciones» sulla vetrina — che è, parola per parola, il tuo «chiuso per ferie», e lo riconosci al volo perché a casa si fa uguale. Ma le mappe online spesso lo ignorano, perché nessuno segna una chiusura di un mese. Il gesto è banale e salva mezza giornata: telefonare prima di camminare venticinque minuti. E per questo viaggio agosto ha uno spigolo in più: è anche il cuore delle tue ferie, l'esodo di Ferragosto, e arrivi proprio quando la saracinesca è abbassata e il caldo tiene più a lungo. E una riga che si salta: sotto «horario» c'è spesso un secondo «horario de verano», più piccolo. D'estate vale il secondo.",
         "exemplos": [
           {
             "es": "HORARIO · HORARIO DE VERANO",
-            "pt": "o-RA-rio · o-RA-rio dé bé-RA-no — horaires · horaires d'été. C'est la ligne du bas qui vaut."
+            "pt": "o-RA-rio · o-RA-rio de be-RA-no — orari · orari d'estate. Vale la riga in basso."
           },
           {
             "es": "CERRADO POR VACACIONES",
-            "pt": "sse-RRA-do por ba-ka-SSIO-ness — fermé pour congés. Pas pour de bon."
+            "pt": "sse-RRA-do por ba-ka-SSIO-ness — chiuso per ferie. Non per sempre."
           }
         ]
       },
       {
-        "titulo": "Les panneaux qui coûtent de l'argent : S.M., SOLO EFECTIVO et la ZBE",
-        "corpo": "Trois affiches auxquelles un montant est accroché, et toutes trois arrivent sans montant. «S.M.» ou «según mercado» est dans la ligne du poisson et des fruits de mer : prix du jour au poids, on paie la pièce qu'on vous montre, pas la portion. Deux questions le désamorcent, posées avant le oui — combien coûte le kilo, et combien pèse la pièce dans sa main. Pour une ración au prix affiché ou un menu du jour, la question ne se pose pas : le chiffre est là. «SOLO EFECTIVO» est la deuxième, et pour vous la surprise va à l'envers. Vous payez par carte partout chez vous, sans y penser ; au comptoir espagnol la carte et le sans-contact sont l'ordinaire, et c'est justement pour ça que le panneau du bar de quartier vous prend au dépourvu si vous ne l'avez pas lu en entrant. (Un mot à ranger, sans l'affirmer : efectivo, ce sont les espèces — pas «effectif».) La troisième n'est pas une affaire de porte-monnaie mais de courrier : ZBE, zona de bajas emisiones, avec «acceso restringido» et «cámaras». Depuis le 1er janvier 2026, toutes les communes de plus de cinquante mille habitants et les territoires insulaires doivent avoir une telle zone. Contrôle par caméra de plaque, infraction grave jusqu'à deux cents euros — la moitié en paiement immédiat —, et avec une voiture de location la facture arrive des semaines plus tard via le loueur, frais de dossier en plus. Vous êtes nombreux à arriver par la route, souvent à plaque française, et la vignette de la DGT n'existe que pour une plaque espagnole ; l'enregistrement en ligne ville par ville existe, mais son détail reste à vérifier. La règle pour le voyage tient au carrefour : voir ZBE, ne pas entrer. Se garer dehors et faire les derniers mètres à pied revient toujours moins cher que chercher une place à l'intérieur.",
+        "titulo": "I cartelli che costano soldi: S.M., SOLO EFECTIVO e la ZBE",
+        "corpo": "Tre affissi a cui è agganciato un importo, e tutti e tre arrivano senza importo. «S.M.» o «según mercado» è nella riga del pesce e dei frutti di mare: prezzo del giorno a peso, si paga il pezzo che ti mostrano, non la porzione. Due domande lo disinnescano, poste prima del sì — quanto costa il chilo, e quanto pesa il pezzo che ha in mano. Per una ración a prezzo esposto o un menu del giorno la domanda non si pone: la cifra è lì. «SOLO EFECTIVO» è il secondo, e per te la sorpresa è più piccola che per altri: sei più abituato ai contanti di un vicino del Nord Europa, quindi il cartello non ti spiazza — a patto di leggerlo entrando, perché dietro certi banchi non c'è terminale e non ne arriverà. (Una parola da riporre, senza affermarla: efectivo sono i contanti, non «effettivo».) Il terzo non è una faccenda di portafogli ma di posta: ZBE, zona de bajas emisiones, con «acceso restringido» e «cámaras». Dal 1º gennaio 2026 tutti i comuni oltre i cinquantamila abitanti e i territori insulari devono avere una zona così. Controllo con telecamera di targa, infrazione grave fino a duecento euro — la metà se paghi subito —, e con un'auto a noleggio la fattura arriva settimane dopo tramite l'autonoleggio, con spese di pratica in più. Tu arrivi soprattutto in aereo, ma se noleggi l'auto sappi che il bollino della DGT esiste solo per una targa spagnola (che l'auto a noleggio ha già); la registrazione online città per città esiste, ma il dettaglio resta da verificare. La regola per il viaggio sta all'incrocio: vedi ZBE, non entrare. Parcheggiare fuori e fare gli ultimi metri a piedi costa sempre meno che cercare posto dentro.",
         "exemplos": [
           {
             "es": "¿Cuánto cuesta el kilo?",
-            "pt": "KWAN-to KWESS-ta el KI-lo — Combien coûte le kilo ? La première des deux questions face à S.M."
+            "pt": "KWAN-to KWES-ta el KI-lo — Quanto costa il chilo? La prima delle due domande davanti a S.M."
           },
           {
             "es": "¿Dónde puedo aparcar sin entrar?",
-            "pt": "DON-dé POUÉ-do a-par-KAR sin en-TRAR — Où puis-je me garer sans entrer ?"
+            "pt": "DON-de PUE-do a-par-KAR sin en-TRAR — Dove posso parcheggiare senza entrare?"
           }
         ]
       },
       {
-        "titulo": "Le catalan à la porte, et la frontière qui n'en est pas une",
-        "corpo": "En Catalogne et à Valence, sur beaucoup de portes, ce n'est pas de l'espagnol qui est affiché mais du catalan — le plus souvent à côté, parfois seul. Trois mots suffisent pour la journée : «obert» c'est ouvert, «tancat» c'est fermé, «sortida» c'est la sortie — et «sortida», c'est le cousin exact de salida, le même mot que «sortie». Vous n'avez rien à produire ; reconnaître suffit. Et pour vous, cette langue n'est pas tout à fait étrangère : on la parle aussi de l'autre côté de la frontière, en Roussillon, dans les Pyrénées-Orientales — «bon dia», «si us plau», «gràcies», «adéu» ne vous tombent pas du ciel. C'est la différence de ce voyage : la frontière est contiguë, la langue de trente pour cent de votre destination se parle chez vous. Une particularité, enfin, que vous croiserez surtout si vous poussez jusqu'aux îles : sur les panneaux des Baléares, «Sa Coma», «Es Trenc», «Ses Illetes» — ce «sa», «es», «ses» n'est ni une faute ni un «la» abrégé, c'est l'article défini du majorquin (l'article salat), vivant là où le catalan du continent dit «el» et «la». Sur la côte continentale, celle où vous arriverez le plus souvent, c'est «el» et «la», comme au sud de la frontière. Plus loin dans le cours, cette langue aura son propre chapitre ; ici, on s'en tient à la reconnaître à la porte.",
+        "titulo": "Il catalano alla porta, una lingua da riconoscere",
+        "corpo": "In Catalogna e a Valencia, su molte porte, non è spagnolo quello che è affisso ma catalano — il più delle volte accanto, a volte da solo. Tre parole bastano per la giornata: «obert» è aperto, «tancat» è chiuso, «sortida» è l'uscita — e «sortida» è la cugina esatta di salida, la stessa radice. Non hai nulla da produrre; riconoscere basta. E qui va detta una cosa onesta: per te il catalano è un filo più straniero dello spagnolo — «obert» non è «aperto», «tancat» non è «chiuso», e nemmeno «sortida» somiglia alla tua «uscita». Sono parole da imparare a vista, non da indovinare per parentela. Una particolarità, infine, che incontrerai soprattutto se spingi fino alle isole: sui cartelli delle Baleari, «Sa Coma», «Es Trenc», «Ses Illetes» — quel «sa», «es», «ses» non è un errore né un «la» abbreviato, è l'articolo determinativo del maiorchino (l'article salat), vivo lì dove il catalano del continente dice «el» e «la». Sulla costa continentale, quella dove arriverai più spesso, è «el» e «la». Più avanti nel corso questa lingua avrà il suo capitolo; qui ci si ferma a riconoscerla alla porta.",
         "exemplos": [
           {
             "es": "OBERT · TANCAT · SORTIDA",
-            "pt": "ou-BÉRT · tan-KAT · sour-TI-da — ouvert · fermé · sortie. Du catalan, pas de l'espagnol."
+            "pt": "u-BERT · tan-KAT · sur-TI-da — aperto · chiuso · uscita. Catalano, non spagnolo."
           },
           {
             "es": "Bon dia · Si us plau · Gràcies",
-            "pt": "Bonjour · s'il vous plaît · merci. À reconnaître ; et de l'autre côté, en Roussillon, on les dit aussi."
+            "pt": "Buongiorno · per favore · grazie. Da riconoscere in catalano — niente da produrre."
           }
         ]
       }
     ]
   },
-  "cena": "Deux heures et quart, devant une porte fermée : le verrou est mis, le commerce non, et le mot sur la vitre ressemble au français sans le dire."
+  "cena": "Le due e un quarto, davanti a una porta chiusa a chiave: la bottega non ha chiuso, e la parola sul vetro somiglia all'italiano senza esserlo."
 }

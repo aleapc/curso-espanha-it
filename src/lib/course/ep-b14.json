@@ -4,71 +4,71 @@
   "nivel": "basico",
   "numero": 14,
   "parte": "14",
-  "titulo": "L'addition et les six mots",
-  "subtitulo": "Pourquoi elle ne vient jamais toute seule, ce qui a le droit d'y figurer et ce qui n'y a pas droit — et la phrase après laquelle personne ne discute plus",
+  "titulo": "Il conto e le sei parole",
+  "subtitulo": "Perché non arriva mai da solo, cosa ha il diritto di comparirci e cosa no — e la frase dopo la quale nessuno discute più",
   "moldura": "protege",
 
-  "cena": "Onze heures du soir, les assiettes ont disparu depuis vingt minutes, le serveur ne regarde pas de votre côté — et sur l'addition qui ne vient pas, deux lignes qui n'étaient pas affichées à la porte tout à l'heure.",
+  "cena": "Le undici di sera, i piatti spariti da venti minuti, il cameriere non guarda dalla tua parte — e sul conto che non arriva, due righe che poco fa non erano esposte alla porta.",
 
   "moldes": ["YA-ESTA"],
 
   "clique": {
     "contagem": [
-      "la table au restaurant",
-      "la réception de l'hôtel",
-      "le guichet de l'excursion en bateau",
-      "le comptoir du loueur de voitures"
+      "il tavolo del ristorante",
+      "la reception dell'hotel",
+      "lo sportello dell'escursione in barca",
+      "il bancone dell'autonoleggio"
     ],
-    "desconto": "Ces quatre phrases, personne ne vous les a données. Vous les avez bâties à partir de deux mots et d'une liste de quatre.",
-    "piso": "Vous réglerez une addition espagnole au prix qui était affiché à la porte. La plupart des visiteurs ne lisent jamais la liste, et ne s'en aperçoivent jamais."
+    "desconto": "Queste quattro frasi, nessuno te le ha date. Le hai costruite tu, a partire da due parole e da un elenco di quattro.",
+    "piso": "Pagherai un conto spagnolo al prezzo che era esposto alla porta. La maggior parte dei visitatori non legge mai l'elenco, e non se ne accorge mai."
   },
   "cliqueAudioKey": "b14-n52",
 
-  "frasePiso": "Vous réglerez une addition espagnole au prix qui était affiché à la porte. La plupart des visiteurs ne lisent jamais la liste, et ne s'en aperçoivent jamais.",
+  "frasePiso": "Pagherai un conto spagnolo al prezzo che era esposto alla porta. La maggior parte dei visitatori non legge mai l'elenco, e non se ne accorge mai.",
 
-  "permissao": "«Sin propina», vous l'appuyez sans le moindre remords — un pourboire proposé est ici facultatif, chaque fois, et ne rien laisser est un montant tout à fait ordinaire. Arrondir, c'est tout le système, et vous le faites déjà chez vous. Et demander le formulaire de réclamation n'est pas une scène : c'est la chose la plus calme de votre soirée.",
+  "permissao": "«Sin propina», lo premi senza il minimo rimorso — una mancia proposta qui è facoltativa, ogni volta, e non lasciare niente è un importo del tutto normale. Arrotondare è tutto il sistema, e a casa lo fai già. E chiedere il modulo di reclamo non è una scena: è la cosa più tranquilla della tua serata.",
   "permissaoAudioKey": "b14-n51",
 
-  "espelho": "Partager ligne par ligne une fois l'addition close, voilà ce qui se remarque là-bas — pas le partage lui-même, seulement le moment. Et rester assis quarante minutes à attendre qu'on apporte l'addition, personne ici ne le lit comme de la patience.",
+  "espelho": "Dividere riga per riga una volta chiuso il conto, ecco cosa si nota là — non la divisione in sé, solo il momento. E restare seduti quaranta minuti ad aspettare che portino il conto, qui nessuno lo legge come pazienza.",
 
   "fichasCulturais": [
     {
-      "sinal": "À la porte ou près de la caisse, une liste de prix est affichée, et en bas de l'addition il y a une ligne de plus que prévu.",
-      "suaLeitura": "On m'a ajouté quelque chose parce que je suis touriste — et je ne peux pas le prouver.",
-      "oQueEAli": "La terrasse, la table et le comptoir peuvent coûter des prix différents, et le pain, la glace et le lait du café peuvent être facturés — mais seulement si c'était écrit d'avance sur la liste affichée. Le prix affiché est le prix final, taxe comprise.",
-      "oQueVoceFaz": "En entrant, deux secondes sur la liste. Si c'est là, vous le payez. Si ce n'est pas là, vous le dites au moment de payer, assis et à voix normale.",
-      "oQueMelhora": "Vous savez avant de vous asseoir ce que coûte la soirée, et la seule ligne dont vous parlez encore est celle qui, vraiment, n'a rien à y faire.",
-      "ondeNaoVale": "Pas au kiosque ni à la buvette de plage, où il n'y a ni terrasse ni comptoir ; et pas devant «S.M.» sur la carte — là le prix va au poids et se demande avant de commander, pas après.",
+      "sinal": "Alla porta o vicino alla cassa è esposto un listino prezzi, e in fondo al conto c'è una riga in più del previsto.",
+      "suaLeitura": "Mi hanno aggiunto qualcosa perché sono turista — e non posso dimostrarlo.",
+      "oQueEAli": "La terrazza, il tavolo e il bancone possono costare prezzi diversi, e il pane, il gelato e il latte del caffè possono essere addebitati — ma solo se era scritto prima sul listino esposto. Il prezzo esposto è il prezzo finale, tasse comprese.",
+      "oQueVoceFaz": "Entrando, due secondi sul listino. Se c'è, lo paghi. Se non c'è, lo dici al momento di pagare, seduto e a voce normale.",
+      "oQueMelhora": "Sai prima di sederti quanto costa la serata, e l'unica riga di cui parli ancora è quella che, davvero, non c'entra niente.",
+      "ondeNaoVale": "Non al chiosco né al baracchino di spiaggia, dove non c'è né terrazza né bancone; e non davanti a «S.M.» sul menù — lì il prezzo va al peso e si chiede prima di ordinare, non dopo.",
       "evidencia": "FATO",
       "audioKeys": ["b14-n11", "b14-n12", "b14-n13", "b14-n47", "b14-n48"]
     },
     {
-      "sinal": "Les assiettes ont disparu depuis vingt minutes, la table voisine est vide, et personne ne vient vers vous.",
-      "suaLeitura": "On nous a oubliés — ou on est vexé, et je ne fais pas signe à un inconnu.",
-      "oQueEAli": "Poser l'addition sans qu'on la demande, ici, c'est prier quelqu'un de partir. Personne ne le fait, et la table reste la vôtre jusqu'à la phrase qui met fin au repas.",
-      "oQueVoceFaz": "Accrocher le regard, dire à voix normale ; si la salle est bruyante, ajouter le petit geste de gribouiller dans l'air d'une main.",
-      "oQueMelhora": "On vous offre l'heure d'après le repas, et vous partez à la minute que vous choisissez, pas à celle où on vous libère.",
-      "ondeNaoVale": "Pas là où vous avez bu debout au comptoir — là on paie à la tournée ; et pas au café de gare ou d'aéroport, où elle arrive souvent avec le café.",
+      "sinal": "I piatti sono spariti da venti minuti, il tavolo accanto è vuoto, e nessuno viene verso di te.",
+      "suaLeitura": "Ci hanno dimenticati — o si sono offesi, e io non faccio cenno a uno sconosciuto.",
+      "oQueEAli": "Posare il conto senza che lo si chieda, qui, è come pregare qualcuno di andarsene. Nessuno lo fa, e il tavolo resta tuo fino alla frase che chiude il pasto.",
+      "oQueVoceFaz": "Aggancia lo sguardo, di' a voce normale; se la sala è rumorosa, aggiungi il piccolo gesto di scarabocchiare nell'aria con una mano.",
+      "oQueMelhora": "Ti viene offerta l'ora dopo il pasto, e te ne vai al minuto che scegli tu, non a quello in cui ti liberano.",
+      "ondeNaoVale": "Non dove hai bevuto in piedi al bancone — lì si paga a giro; e non al bar di stazione o d'aeroporto, dove spesso arriva col caffè.",
       "evidencia": "CONSENSO",
       "audioKeys": ["b14-n04", "b14-n05"]
     },
     {
-      "sinal": "Vous êtes six, le serveur apporte une seule addition, et personne n'a demandé comment vous vouliez faire.",
-      "suaLeitura": "Il va falloir recompter qui a pris quoi, sinon l'un paie pour les autres.",
-      "oQueEAli": "Diviser à parts égales est ici le cas normal — et pour vous, ce n'est pas si loin de la table de chez vous. Séparé, ligne par ligne, se fait aussi et ne choque personne : c'est seulement une demande qui doit venir avant que l'addition ne soit close, pas après.",
-      "oQueVoceFaz": "Décider avant de demander l'addition, et dire les deux d'un souffle : l'addition, et comment on partage.",
-      "oQueMelhora": "La «sobremesa», l'heure qui continue à table après le repas, ne se dépense pas en calcul mental.",
-      "ondeNaoVale": "Pas au comptoir debout : là il n'y a souvent aucune addition jusqu'au bout, et les tournées alternent. Payer séparé y règle un problème qui n'existe pas.",
+      "sinal": "Siete in sei, il cameriere porta un solo conto, e nessuno ha chiesto come volete fare.",
+      "suaLeitura": "Toccherà ricontare chi ha preso cosa, altrimenti uno paga per gli altri.",
+      "oQueEAli": "Dividere in parti uguali è qui il caso normale — e per te non è così lontano dal tavolo di casa. Separato, riga per riga, si fa anche e non scandalizza nessuno: è solo una richiesta che deve arrivare prima che il conto sia chiuso, non dopo.",
+      "oQueVoceFaz": "Decidi prima di chiedere il conto, e di' le due cose in un fiato: il conto, e come si divide.",
+      "oQueMelhora": "La «sobremesa», l'ora che continua a tavola dopo il pasto, non si spende in calcolo mentale.",
+      "ondeNaoVale": "Non al bancone in piedi: lì spesso non c'è alcun conto fino alla fine, e i giri si alternano. Pagare separato lì risolve un problema che non esiste.",
       "evidencia": "CONSENSO",
       "audioKeys": ["b14-n07", "b14-n08", "b14-n09"]
     },
     {
-      "sinal": "L'appareil se tourne vers vous et affiche dix, quinze et vingt pour cent, et tout le comptoir voit sur quelle touche vous appuyez.",
-      "suaLeitura": "La plus basse a l'air radin, alors je prends celle du milieu et je m'en vais.",
-      "oQueEAli": "Cet affichage est un import récent, dans les zones touristiques. Un pourboire proposé sur un ticket ou sur l'appareil est facultatif ; le personnel est sous convention collective, et le pourboire est un extra, pas le salaire.",
-      "oQueVoceFaz": "Appuyer sur «Sin propina», ou sur «Otra cantidad» et taper le montant arrondi. Ou poser des billets et dire la courte phrase.",
-      "oQueMelhora": "On vous lit comme quelqu'un qui sait où il est — et à ce comptoir, cela vaut plus que l'argent.",
-      "ondeNaoVale": "Pas avec le guide d'une «free tour» : là, le pourboire est le salaire, et celui-là, vous le payez pour de bon.",
+      "sinal": "L'apparecchio si gira verso di te e mostra dieci, quindici e venti per cento, e tutto il bancone vede su quale tasto premi.",
+      "suaLeitura": "Il più basso sembra tirchio, allora prendo quello di mezzo e me ne vado.",
+      "oQueEAli": "Questa schermata è un'importazione recente, nelle zone turistiche. Una mancia proposta su uno scontrino o sull'apparecchio è facoltativa; il personale è sotto contratto collettivo, e la mancia è un extra, non lo stipendio.",
+      "oQueVoceFaz": "Premi «Sin propina», oppure «Otra cantidad» e digita l'importo arrotondato. Oppure posa delle banconote e di' la frase corta.",
+      "oQueMelhora": "Ti leggono come qualcuno che sa dov'è — e a quel bancone, questo vale più del denaro.",
+      "ondeNaoVale": "Non con la guida di un «free tour»: lì la mancia è lo stipendio, e quella la paghi davvero.",
       "evidencia": "FATO",
       "audioKeys": ["b14-n28", "b14-n29", "b14-n30"]
     }
@@ -77,7 +77,7 @@
   "fatosDatados": [
     {
       "id": "precio-anunciado-final",
-      "afirmacao": "Un établissement peut pratiquer des prix différents au comptoir, à la table et en terrasse, mais doit l'indiquer clairement sur la liste de prix ; le prix affiché est le prix final, taxe comprise.",
+      "afirmacao": "Un locale può praticare prezzi diversi al bancone, al tavolo e in terrazza, ma deve indicarlo chiaramente sul listino prezzi; il prezzo esposto è il prezzo finale, tasse comprese.",
       "fonte": "RDL 1/2007 (Texto Refundido de la Ley General para la Defensa de los Consumidores) + regulação autonômica de consumo — síntese em docs/pesquisa-espanha.md §7.2",
       "ano": 2026,
       "revisarAte": "2027-07-01",
@@ -87,7 +87,7 @@
     },
     {
       "id": "sobretaxa-legal-se-informada",
-      "afirmacao": "Le supplément de terrasse, le pain, la glace et le lait du café peuvent être facturés s'ils étaient affichés d'avance. Ne sont pas permis : des prix carte hors taxe, un QR-code comme seul moyen de lire la carte, et le refus de servir gratuitement l'eau du robinet.",
+      "afirmacao": "Il supplemento di terrazza, il pane, il gelato e il latte del caffè possono essere addebitati se erano esposti prima. Non sono permessi: prezzi a menù al netto delle tasse, un QR-code come unico modo di leggere il menù, e il rifiuto di servire gratuitamente l'acqua del rubinetto.",
       "fonte": "OCU, julho de 2026 (via Infobae) — citado em docs/pesquisa-espanha.md §7.2",
       "ano": 2026,
       "revisarAte": "2027-07-01",
@@ -97,7 +97,7 @@
     },
     {
       "id": "servicio-e-cubierto",
-      "afirmacao": "«Servicio» et «cubierto» ne peuvent être facturés que là où la norme régionale l'autorise et où le client a été informé d'avance — sur la carte ou sur la liste affichée, jamais seulement à la fin.",
+      "afirmacao": "«Servicio» e «cubierto» possono essere addebitati solo dove la norma regionale lo consente e dove il cliente è stato informato prima — sul menù o sul listino esposto, mai solo alla fine.",
       "fonte": "OCU jul/2026 + normativa autonômica de consumo — síntese em docs/pesquisa-espanha.md §7.3",
       "ano": 2026,
       "revisarAte": "2027-07-01",
@@ -107,7 +107,7 @@
     },
     {
       "id": "propina-sugerida-voluntaria",
-      "afirmacao": "Un pourboire proposé sur le ticket ou sur le terminal de carte est en Espagne facultatif, toujours ; l'affichage 10/15/20 pour cent est un import récent de la pratique américaine et apparaît dans les zones touristiques.",
+      "afirmacao": "Una mancia proposta sullo scontrino o sul terminale di pagamento è in Spagna facoltativa, sempre; la schermata 10/15/20 per cento è un'importazione recente della pratica americana e compare nelle zone turistiche.",
       "fonte": "OCU, julho de 2026 — citado em docs/pesquisa-espanha.md §7.3",
       "ano": 2026,
       "revisarAte": "2027-07-01",
@@ -117,7 +117,7 @@
     },
     {
       "id": "hoja-de-reclamaciones-obrigatoria",
-      "afirmacao": "Tout établissement qui vend au consommateur final doit tenir des formulaires de réclamation officiels, les remettre immédiatement et gratuitement sur demande, et le signaler par une affiche visible ; le formulaire est en triple exemplaire, et une copie va à l'autorité de consommation de la région.",
+      "afirmacao": "Ogni locale che vende al consumatore finale deve tenere moduli di reclamo ufficiali, consegnarli immediatamente e gratuitamente su richiesta, e segnalarlo con un cartello visibile; il modulo è in triplice copia, e una copia va all'autorità di consumo della regione.",
       "fonte": "normativa autonômica de consumo — Consumo Responde (Junta de Andalucía) e Consumo Región de Murcia, via docs/pesquisa-espanha.md §7.6",
       "ano": 2026,
       "revisarAte": "2028-01-01",
@@ -127,7 +127,7 @@
     },
     {
       "id": "negar-a-hoja-e-infracao",
-      "afirmacao": "Refuser de le remettre est en soi une infraction, indépendamment de qui a raison sur le fond. On ne cite aucun montant : les amendes sont fixées par région et ne sont pas harmonisées.",
+      "afirmacao": "Rifiutarsi di consegnarlo è di per sé un'infrazione, indipendentemente da chi abbia ragione nel merito. Non si cita alcun importo: le sanzioni sono fissate per regione e non sono armonizzate.",
       "fonte": "fontes jurídicas secundárias (Legálitas) citando faixas não harmonizadas por CCAA — docs/pesquisa-espanha.md §7.6 marca o número como NÃO USAR no áudio",
       "ano": 2026,
       "revisarAte": "2027-07-01",
@@ -136,9 +136,9 @@
       "audioKeys": ["b14-n23"]
     },
     {
-      "id": "ecc-net-comprador-frances",
-      "afirmacao": "En tant que consommateur d'un pays de l'UE, vous avez chez vous un Centre Européen des Consommateurs, qui traite gratuitement et dans votre langue les litiges transfrontaliers venus d'Espagne. Le Royaume-Uni est sorti de ce réseau depuis le Brexit.",
-      "fonte": "ECC-Net (Comissão Europeia) e UKICC — docs/pesquisa-espanha.md §7.6; o centro nacional francês da rede é o Centre Européen des Consommateurs France (CEC France, em Kehl), citado em docs/DERIVACAO-FR.md §3.3 item 1 e §4.2",
+      "id": "ecc-net-comprador-italiano",
+      "afirmacao": "In quanto consumatore di un paese UE, hai a casa un Centro Europeo dei Consumatori, che tratta gratuitamente e nella tua lingua le controversie transfrontaliere provenienti dalla Spagna. Il Regno Unito è uscito da questa rete dopo la Brexit.",
+      "fonte": "ECC-Net (Comissão Europeia) e UKICC — docs/pesquisa-espanha.md §7.6; o centro nacional italiano da rede é o Centro Europeo Consumatori Italia (ECC-Net Italia, Roma), coerente com docs/DERIVACAO-IT.md §3.3 item 1 e §4.2",
       "ano": 2026,
       "revisarAte": "2028-01-01",
       "evidencia": "FATO",
@@ -147,7 +147,7 @@
     },
     {
       "id": "sem-obrigacao-de-cartao",
-      "afirmacao": "Il n'y a en Espagne aucune obligation d'accepter les cartes : un bar avec l'écriteau SOLO EFECTIVO travaille tout à fait légalement, et un montant minimum pour payer par carte est permis, à condition d'être affiché.",
+      "afirmacao": "In Spagna non c'è alcun obbligo di accettare le carte: un bar con il cartello SOLO EFECTIVO lavora del tutto legalmente, e un importo minimo per pagare con carta è permesso, a condizione che sia esposto.",
       "fonte": "guias de campo convergentes 2026 (Euro Weekly, abr/2026) — síntese em docs/pesquisa-espanha.md §8.2",
       "ano": 2026,
       "revisarAte": "2027-07-01",
@@ -158,19 +158,19 @@
   ],
 
   "_notasDeAutoria": {
-    "_": "Narração FRANCESA de B14 derivada em 2026-07-28 contra a DERIVACAO-FR.md (§3.3 item 1, §4.2 linha B14) e o molde YA-ESTA do moldes.json FR. NENHUMA linha alemã sobreviveu. Fala espanhola: nenhum `es`/`tts`/`audioKey` de clipe REUSADO foi alterado — custo de crédito espanhol ZERO. Vozes-guia trocadas para os placeholders franceses do audio.config: Juli→GuiaFem (educadora), Thomas→GuiaMasc (o GUIRI-ALARM/alerta). Carmen/Emilio intactas. Campo `pinyin` RE-DERIVADO para o olho francês (convenção de B10).",
-    "o_que_esta_parte_e": "A conta e as seis palavras (`la hoja de reclamaciones`). Moldura `protege`: o poder, não a perda. B14 é TOTAL na DERIVACAO, mas o motor da re-derivação é MENOS a fonética e MAIS a economia do balcão: o DCC (conversão dinâmica) NÃO existe para o comprador francês porque a França é Eurozona — paga em euros com cartão em euros, o aparelho não oferece conversão. IGUAL AO ALEMÃO, que também é Eurozona: o `aprofundar` §1 alemão («por que esta parte não fala de câmbio») PORTA quase inteiro. O que muda vs o alemão é a REPOSIÇÃO: o alemão repõe o buraco do DCC com `con tarjeta` apoiado no fato de que 45% dos pagamentos alemães são em espécie (a surpresa de que o cartão é rotina na Espanha). Para o francês esse argumento é MAIS FRACO — a França é país de cartão, o francês já paga com plástico sem pensar. Então a surpresa INVERTE (como em b10-n14): é o `SOLO EFECTIVO` do bar de bairro que o pega desprevenido.",
-    "delta_vs_alemao": "TRÊS mudanças concretas sobre a moldura alemã. (1) REMOVIDO o fatoDatado `espécie-na-alemanha-2025` (os 45% em espécie do Bundesbank): é fato ALEMÃO, não porta, e NÃO se fabrica uma estatística francesa de uso de cartão (não coletada — DERIVACAO §5, mesma decisão de b10). Os steps que ele lastreava (b14-n43/n44) permanecem, re-derivados: o cartão é HÁBITO seu, o `SOLO EFECTIVO` surpreende. (2) `ecc-net-comprador-alemao` → `ecc-net-comprador-frances`: o centro nacional da rede ECC-Net vira o Centre Européen des Consommateurs France (CEC France, em Kehl); o Reino Unido saiu no Brexit (o gancho continua sendo «o francês tem canal, o britânico não»). (3) O BLOCO DOS NÚMEROS (b14-n31→n34) ALIVIOU: o alemão ensinava `c`/`z`≠[ts] (o erro alemão) e a INVERSÃO dos numerais (`einundzwanzig`); no francês AMBOS são brinde — o francês diz [s] (seseo aceito, inteligível) e os numerais NÃO invertem (`vingt et un`=`veintiuno`, DERIVACAO §3.3 item 2). O bloco vira `ganha`: a consoante é de graça, o trabalho é só segurar a FINAL (o `-s` de `euros`, o `-e` de `doce`).",
-    "gag_e_falso_amigo": "FALSO AMIGO DE ASSINATURA: NENHUM. O molde da casa (YA-ESTA) tem `falsos_amigos: []` no moldes.json, e a cena da conta não morde um falso amigo lexical limpo (o eixo mora em B10/I07/B11/B17). `factura`=`facture` e `la carta`=`la carte` BATEM (brinde, não se gasta aviso). CANDIDATO NÃO CONFERIDO, nomeado para ninguém escrever sem fonte: `efectivo` (espécie) × `effectif` (eficaz/real) — em `e05a-aceptan-e` glossei `efectivo`=espèces corretamente e marquei «rien à voir avec effectif» no registro «à ranger» de b10, SEM afirmar o falso amigo. Se um revisor FR-L1 confirmar, o endereço é este slot ou B10 (mesma decisão do par alemão e de b10).",
-    "fonetica_desta_parte": "A carga do molde YA-ESTA (moldes.json): `hecho` carrega o `ch`=[tʃ] (o francês diz «esho», quer [ʃ] — «étcho» no respelling) e o `h` mudo (brinde); `reservado` traz o `s` intervocálico que o francês SONORIZA para [z] («rezervado») — o respelling escreve `ss` para forçar [s] surdo. Mais: a JOTA de `hoja` é o pico fonético da parte e vira o GUIRI-ALARM da GuiaMasc (b14-t01→t04), som NOVO [x] que o francês não tem (diz [ʒ], o `j` de «jour»); âncora = o `r` uvular do francês, mesmo fundo de garganta (callback de B01). E o `euro` de `e05a-sc1-e`: o francês lê `eu`=[ø] («peur»), mas o espanhol quer duas vogais e+u — o respelling escreve `É-ou-ross`. BRINDES declarados e NÃO gastos em áudio (copiá-los é o anti-padrão 9): `h` mudo (`hay`, `hoja`, `hecho`), `qu`=[k] (`quince`), a distinção b≠v (mata a gag alemã), e o `c`/`z`≠[ts] (erro do olho ALEMÃO, não do francês).",
-    "respelling_convencao": "Herdada de B10, INFERÊNCIA e PENDÊNCIA de revisor: MAIÚSCULA=tônica · `ou`=`u` espanhol [u] (nunca o [y] francês) · `kh`=jota [x] (`hoja`→O-kha, `tarjeta`→tar-KHÉ-ta) · `tch`=`ch` espanhol [tʃ] (`hecho`→É-tcho) · `b`=`v`/`b` espanhol (`vale`→BA-lé, `voy`→boï) · `ss`=z, c+e/i e s intervocálico, sempre duro [s] (`doce`→DO-ssé, `reservado`→rré-sser-BA-do) · `y`=ll/y espanhol [ʝ] (`llamo`→YA-mo, `detallada`→dé-ta-YA-da — NUNCA o `j` alemão, que o francês leria [ʒ]) · `h` mudo cai · `qu`=k · finais escritas = a pronunciar; `-e` final → `-é`.",
-    "vozes_g14": "GuiaFem e GuiaMasc CITAM espanhol dentro da narração francesa (trabalho da guia, INV-5) e nunca o falam; Carmen/Emilio não dizem uma palavra de francês. As duas vozes-guia são PLACEHOLDER no audio.config (voiceId «TODO-FR-...») — o áudio-guia NÃO se gera até o casting fechar. G14 (voz × língua) = conferência HUMANA obrigatória.",
+    "_": "Narração ITALIANA de B14 RE-DERIVADA em 2026-08-01 a partir do NÚCLEO IT (moldes.json, molde YA-ESTA: casa B14, `falsos_amigos: []`, `fonetica: [ch, doppie]`, termo `lo stampo`) e da DERIVACAO-IT.md (§3.3 item 1 = o DCC não existe na Eurozona; §4.2 linha B14 = TOTAL, `con tarjeta` argumento MÉDIO). NÃO é tradução do andaime francês — o andaime trazia a narração em FRANCÊS e ela foi INTEIRA re-derivada ao italiano; NENHUMA linha francesa sobreviveu (grep `vous`/`l'addition`/`é`-francês = 0). Fala espanhola: nenhum `es`/`tts`/`audioKey` de clipe REUSADO foi alterado — custo de crédito espanhol ZERO. Vozes-guia apontam para os PLACEHOLDERS ITALIANOS do audio.config: GuiaFem (educadora) e GuiaMasc (o GUIRI-ALARM), ambos voiceId «TODO-IT-...», áudio-guia NÃO grava até o casting fechar; `guiaLingua` do audio.config = «it». Carmen/Emilio (peninsulares) intactas. Campo `pinyin` RE-DERIVADO para o olho ITALIANO (convenção nova, ver `respelling_convencao`).",
+    "o_que_esta_parte_e": "A conta e as seis palavras (`la hoja de reclamaciones`). Moldura `protege`: o poder, não a perda. B14 é TOTAL na DERIVACAO-IT, mas o motor da re-derivação é MENOS a fonética e MAIS a economia do balcão: o DCC (conversão dinâmica) NÃO existe para o comprador italiano porque a Itália é Eurozona — paga em euros com cartão em euros, o aparelho não oferece conversão. IGUAL AO FRANCÊS e ao ALEMÃO, que também são Eurozona: o `aprofundar` §1 («por que esta parte não fala de câmbio») PORTA quase inteiro. O que muda vs o francês é a REPOSIÇÃO do buraco do DCC: o alemão repõe com `con tarjeta` forte (45% dos pagamentos alemães em espécie — a surpresa de que o cartão é rotina na Espanha); o francês repõe FRACO (país de cartão, o plástico já é reflexo); o italiano fica no MEIO — usa espécie mais que a França, menos que a Alemanha —, então `con tarjeta` é argumento MÉDIO e a surpresa do `SOLO EFECTIVO` do bar de bairro é REAL mas moderada (nem choque, como no francês, nem alívio, como no alemão).",
+    "delta_vs_frances": "QUATRO mudanças concretas sobre a moldura francesa herdada no andaime. (1) `ecc-net-comprador-frances` → `ecc-net-comprador-italiano`: o centro nacional da rede ECC-Net vira o Centro Europeo Consumatori Italia (ECC-Net Italia, Roma); o Reino Unido saiu no Brexit (o gancho continua «o comprador da UE tem canal, o britânico não»). (2) A REPOSIÇÃO do DCC passa de FRACA (francês, país de cartão) a MÉDIA (italiano, mais espécie que a França): b14-n43/n44 re-derivados — o cartão é rotina mas a espécie não sumiu do bolso do italiano, então `solo efectivo` lê-se como sinal a conferir, não como emboscada. Estatística italiana de uso de cartão NÃO fabricada (Turespaña-Itália pendente, DERIVACAO-IT §6 item 3), o argumento fica comportamental, sem número. (3) O BLOCO DOS NÚMEROS (b14-n31→n34) INVERTE de sinal vs o francês: no francês o `c`/`z` era BRINDE (o francês diz [s], seseo aceito, de graça); no ITALIANO o `ce_ci_z` é CUSTO REAL, porque o reflexo italiano é africar (`doce`→«do-tche», `cinco`→«tchinco», o `ci` de `ciao`). O bloco deixa de ser «ganha de graça» e vira «segura o reflexo»: o som-alvo [θ]/[s] o italiano PRODUZ fácil, mas tem de matar a africada — uma linha, âncora «nunca o `ci` de `ciao`». (4) O `euro` deixa de ser trap: o francês penava com `eu`=[ø] («peur») e gastava a nota «e+u, não peur»; o italiano diz `euro` IGUAL (mesma palavra, `eu`=[ɛu] com as duas vogais) — BRINDE, a nota francesa foi REMOVIDA.",
+    "gag_e_falso_amigo": "FALSO AMIGO DE ASSINATURA: NENHUM. O molde da casa (YA-ESTA) tem `falsos_amigos: []` no moldes.json IT, e a cena da conta não morde um falso amigo IT↔ES limpo (o eixo mora em B10/I07/B13/B17, e a gag-âncora `burro` mora em ME-PONE). `factura`=`fattura` e `la carta`=`la carta`/`alla carta` BATEM (brinde-espelho declarado no moldes.json, não se gasta aviso). CANDIDATO NÃO CONFERIDO, nomeado para ninguém escrever sem fonte: `efectivo` (espécie/contanti) × `effettivo` (efetivo/real) — em `e05a-aceptan-e` glossei `efectivo`=contanti corretamente e marquei «niente a che vedere con effettivo», SEM afirmar o falso amigo. Se um revisor IT-L1 confirmar, o endereço é este slot ou B10. Espelho do candidato francês `efectivo`×`effectif` (mesma raiz latina, mesmo desenho), re-conferido no italiano.",
+    "fonetica_desta_parte": "A carga do molde YA-ESTA (moldes.json IT: `fonetica: [ch, doppie]`): `hecho` carrega o `ch`=[k] — o italiano lê ⟨ch⟩ como [k] (`chiesa`→«kieza»), diz «eko», e o espanhol quer [tʃ], que é NATIVO do italiano (o `ci` de `ciao`); o respelling escreve `ci`/`c`+e/i para trazer o [tʃ] («É-cio») — problema de LETRA, não de som; e o `h` mudo (brinde). `reservado` traz o `s` intervocálico que o Norte da Itália SONORIZA para [z] («rezervado», item `doppie`); o respelling escreve `ss` para forçar [s] surdo, e o `v` vira `b` (`reservado`→rre-sser-BA-do). A JOTA de `hoja` é o pico fonético da parte e vira o GUIRI-ALARM da GuiaMasc (b14-t01→t04), som NOVO [x] que o italiano NÃO tem (lê ⟨j⟩=[j] «ieri» ou puxa ⟨g+e,i⟩ para [dʒ] «gente»); e aqui está a INVERSÃO vs o francês: o francês ancorava a jota pelo `r` uvular (mesmo fundo de garganta); o italiano NÃO TEM uvular — o `r` italiano é tap/vibrante na PONTA da língua, âncora ERRADA. Sem âncora limpa: só a gorgia toscana (`la casa`→«la hasa») ou o `ach` alemão/`loch` — som genuinamente novo, uma linha + treino. E o `ce_ci_z` dos números (`doce`, `cincuenta`, `servicio`): o italiano AFRICA (`ci`=[tʃ]), tem de aplanar para [θ]/[s]. BRINDES declarados e NÃO gastos em áudio (copiá-los é o anti-padrão 9): `h` mudo (`hay`, `hoja`, `hecho`, `ahora`), `qu`=[k] (`quince`), a distinção b≠v (não há gag `vino`/`fino`), a tônica paroxítona (`quería`, `factura` batem), os FINAIS plenos (o italiano não come `-s`/`-e`, ao contrário do francês), o `u`=[u] (não o `ou` francês), o `r` tap nativo, o `euro` (mesma palavra), e os numerais que NÃO invertem (`ventuno`=`veintiuno`).",
+    "respelling_convencao": "RE-DERIVADA para o olho ITALIANO (não herda a francesa), INFERÊNCIA e PENDÊNCIA de revisor IT-L1 + peninsular: MAIÚSCULA=tônica · `u`=`u` espanhol [u] SEM `ou` (o `u` italiano já é [u], ao contrário do `u`=[y] francês — some o dígrafo `ou`) · finais escritas COMO SE PRONUNCIAM e o `-e` final fica `-e` (não `-é`: o italiano pronuncia toda vogal final, não a apaga como o francês) · `kh`=jota [x] (`hoja`→O-kha, `tarjeta`→tar-KHE-ta) — som novo sem grafema italiano, marcador ad hoc, NÃO ler [k] · `c`+e/i e `ci`+vogal = ⟨ch⟩ espanhol [tʃ], o `ci` de `ciao` (`hecho`→É-cio) · `ss`, `s`, `si`+vogal = z, c+e/i e s intervocálico, sempre surdo [s]/[θ] (`doce`→DO-se, `servicio`→ser-BI-sio, `reservado`→rre-sser-BA-do) — MATA o reflexo africado italiano [tʃ]/[ts] e a sonorização [z] do Norte · `b`=`v`/`b` espanhol (`vale`→BA-le, `voy`→boi) · `i`+vogal = ll/y espanhol [ʝ] no yeísmo peninsular (`llamo`→IA-mo, `detallada`→de-ta-IA-da, `ya`→ia) — âncora de ensino na narração é o `gl` de `figlio`, mas o respelling usa `i`-glide (native `ieri`/`piano`), consistente entre ⟨ll⟩ e ⟨y⟩ · `gu`+a=[gwa] (`iguales`→i-GUA-les) · `h` mudo cai · `qu`=k · `eu`=`eu` (`euros`→EU-ros, mesma palavra do italiano, NÃO é o `eu`=[ø] francês).",
+    "vozes_g14": "GuiaFem e GuiaMasc CITAM espanhol dentro da narração italiana (trabalho da guia, INV-5) e nunca o falam; Carmen/Emilio não dizem uma palavra de italiano. As duas vozes-guia são PLACEHOLDER no audio.config (voiceId «TODO-IT-...») — o áudio-guia NÃO se gera até o casting fechar. G14 (voz × língua) = conferência HUMANA obrigatória (o repositório já teve o acidente do mp3 na língua errada). A narração-guia trata o aluno por `tu` (registro amistoso de curso, coerente com o beat de recalibragem `Lei`/`tu` bidirecional do par), nunca `vous` francês nem `Lei`.",
     "pendencias": [
-      "REVISOR FR-L1 + espanhol PENINSULAR: toda projeção fonológica desta parte é INFERÊNCIA (a jota como som novo, o `ch`=[tʃ], o `s` intervocálico surdo, os finais apagados, o `eu`≠e+u). Está no áudio e no respelling e precisa de conferência ANTES da gravação. Nada NÃO CONFERIDO vira áudio (PRODUTO §preâmbulo).",
-      "FALSO AMIGO NÃO CONFERIDO `efectivo`×`effectif`: glossei corretamente e não afirmei; decisão do revisor se vira nota de falso amigo ou fica só glossa.",
-      "ESTATÍSTICA FRANCESA DE USO DE CARTÃO: a narração (b14-n43/n44) afirma o hábito de cartão do comprador francês SEM número, porque não havia fonte primária à mão (a Alemanha tinha o Bundesbank; a França não foi coletada). Fato datado só entra com fonte — por isso o fatoDatado alemão foi removido, não traduzido.",
-      "VOZ-GUIA FRANCESA (casting) e COMPONENTE `GestoRitmoFR.svelte`: placeholders/pendências herdadas do SKU; o gerador não emite job de narração-guia até os voiceId saírem de «TODO-FR-...».",
-      "AUTO-CHECK feito só neste arquivo (partição): `es`/`tts`/`audioKey` conferidos verbatim contra ep-b14 alemão nos steps reusados; grep de resíduo alemão = 0; maior clipe de narração ≤320. NÃO rodei valida-tom completo nem toquei em moldes.json ou outro ep-*.json."
+      "REVISOR IT-L1 + espanhol PENINSULAR: toda projeção fonológica desta parte é INFERÊNCIA (a jota como som novo SEM âncora de `r`, o `ch`=[tʃ] contra o reflexo [k], o `ce_ci_z` contra a africada italiana, o `s` intervocálico surdo contra a sonorização do Norte). Está no áudio e no respelling e precisa de conferência ANTES da gravação. Nada NÃO CONFERIDO vira áudio (PRODUTO §preâmbulo).",
+      "FALSO AMIGO NÃO CONFERIDO `efectivo`×`effettivo`: glossei corretamente `efectivo`=contanti e não afirmei o falso amigo; decisão do revisor se vira nota de falso amigo ou fica só glossa. Espelho do candidato francês `efectivo`×`effectif`.",
+      "ESTATÍSTICA ITALIANA DE USO DE CARTÃO: a narração (b14-n43/n44) afirma o hábito misto de espécie+cartão do comprador italiano SEM número, porque não há fonte primária à mão (a ficha Turespaña-Itália está pendente, DERIVACAO-IT §6 item 3). Fato datado só entra com fonte — por isso NÃO se fabricou estatística e o argumento `con tarjeta` ficou MÉDIO e comportamental.",
+      "VOZ-GUIA ITALIANA (casting) e COMPONENTE de gesto/ritmo: placeholders/pendências herdadas do SKU; o gerador não emite job de narração-guia até os voiceId saírem de «TODO-IT-...».",
+      "AUTO-CHECK feito só neste arquivo (partição): `es`/`tts`/`audioKey` conferidos verbatim contra o andaime nos steps reusados; grep de resíduo francês = 0; maior clipe de narração ≤320. NÃO rodei valida-tom completo nem toquei em moldes.json ou outro ep-*.json."
     ]
   },
 
@@ -181,13 +181,13 @@
       "audioKey": "b14-n01",
       "bloco": "aquecimento",
       "gesto": 1,
-      "pt": "Échauffement, dix secondes. Re-cla-ma-cio-nes : cinq syllabes, égales, et la dernière qui sonne jusqu'au -s. Ne l'avalez pas."
+      "pt": "Riscaldamento, dieci secondi. Re-cla-ma-sio-nes: cinque sillabe, uguali, e l'ultima che suona fino alla -s. Non mangiartela."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n02",
-      "pt": "Et la main à plat sur le dernier son : la cuenta. Le -a de la fin reste un a plein. Et le u sonne «ou», pas le u de «tu»."
+      "pt": "E la mano piatta sull'ultimo suono: la cuenta. La `ue` è un dittongo, «kuen», in un fiato, e la -a finale resta piena."
     },
     {
       "tipo": "responde",
@@ -196,41 +196,41 @@
       "bloco": "callback",
       "molde": "LLEVA",
       "encaixe": "jamón",
-      "encaixeGloss": "du jambon",
+      "encaixeGloss": "prosciutto",
       "promptAudioKey": "b14-p01",
-      "promptPt": "La carte disait «haricots verts» et rien d'autre. L'assiette arrive, et entre les haricots il y a de petits morceaux rouges. Demandez ce qu'il y a dedans. Parlez maintenant.",
+      "promptPt": "Il menù diceva «fagiolini» e nient'altro. Il piatto arriva, e tra i fagiolini ci sono pezzetti rossi. Chiedi cosa c'è dentro. Parla adesso.",
       "audioKey": "e04b-jamon-c",
       "es": "¿Lleva jamón o chorizo?",
-      "pinyin": "YÉ-ba kha-MON o tcho-RI-sso",
-      "pt": "ce qu'il y a dedans"
+      "pinyin": "IE-ba kha-MON o cio-RI-so",
+      "pt": "cosa c'è dentro"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n03",
       "bloco": "cena",
-      "pt": "Onze heures du soir. Les assiettes ont disparu depuis vingt minutes. Le serveur est à trois mètres et ne regarde pas de votre côté."
+      "pt": "Le undici di sera. I piatti sono spariti da venti minuti. Il cameriere è a tre metri e non guarda dalla tua parte."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n04",
-      "pt": "Chez vous, il viendrait maintenant demander : ensemble ou séparé ? Ici personne ne vient, et ce n'est pas un oubli."
+      "pt": "A casa tua, verrebbe adesso a chiedere: insieme o separato? Qui non viene nessuno, e non è una dimenticanza."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n05",
       "tom": "ganha",
-      "pt": "Poser l'addition sans qu'on la demande veut dire ici : vous pouvez partir. La table est à vous jusqu'à ce que vous disiez quelque chose."
+      "pt": "Posare il conto senza che lo si chieda vuol dire qui: puoi andare. Il tavolo è tuo finché non dici qualcosa."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e03c-cuenta-c",
       "es": "La cuenta, por favor.",
-      "pinyin": "la KOUÉN-ta, por fa-BOR",
-      "pt": "L'addition, s'il vous plaît.",
+      "pinyin": "la KUEN-ta, por fa-BOR",
+      "pt": "Il conto, per favore.",
       "tts": "La cuenta, por favor."
     },
     {
@@ -239,47 +239,47 @@
       "voz": "Carmen",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b14-p02",
-      "promptPt": "Vingt-cinq minutes que la dernière assiette a été débarrassée. Chez vous, quelqu'un aurait déjà demandé si vous vouliez autre chose. Ici toute la salle attend que vous commenciez. Parlez maintenant.",
+      "promptPt": "Venticinque minuti da quando hanno sparecchiato l'ultimo piatto. A casa tua qualcuno avrebbe già chiesto se volevi altro. Qui tutta la sala aspetta che cominci tu. Parla adesso.",
       "audioKey": "e03c-cuenta-c",
       "es": "La cuenta, por favor.",
-      "pinyin": "la KOUÉN-ta, por fa-BOR",
-      "pt": "toute seule, elle ne vient pas"
+      "pinyin": "la KUEN-ta, por fa-BOR",
+      "pt": "da solo, non arriva"
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e03c-noscobras-e",
       "es": "¿Nos cobras?",
-      "pinyin": "noss KO-brass",
-      "pt": "👂 «Tu nous encaisses ?» — ce qu'on dit vraiment au comptoir, et c'est la forme tu.",
-      "acao": "Si vous entendez «cobras» et non «cobra» : restez au tu, ne basculez pas d'un coup sur usted.",
+      "pinyin": "nos KO-bras",
+      "pt": "👂 «Ci fai il conto?» — quello che si dice davvero al bancone, ed è la forma del tu.",
+      "acao": "Se senti «cobras» e non «cobra»: resta al tu, non passare di colpo al usted.",
       "tts": "¿Nos cobras?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n06",
-      "pt": "Deux mots, la forme tu, et personne ne trouve ça trop familier. Au comptoir, c'est justement le ton normal."
+      "pt": "Due parole, la forma del tu, e nessuno la trova troppo confidenziale. Al bancone è proprio il tono normale."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n07",
-      "pt": "Maintenant le partage, et le moment fait tout : vous le dites quand vous commandez l'addition. Pas après."
+      "pt": "Ora la divisione, e il momento fa tutto: lo dici quando chiedi il conto. Non dopo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n08",
-      "pt": "Après, elle est close, et d'une demande naissent dix minutes de calcul mental à table, pour tous les six."
+      "pt": "Dopo, è chiuso, e da una richiesta nascono dieci minuti di calcolo mentale a tavola, per tutti e sei."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e03c-separado-e",
       "es": "Pagamos por separado, por favor.",
-      "pinyin": "pa-GA-moss por sé-pa-RA-do, por fa-BOR",
-      "pt": "Nous payons séparément, s'il vous plaît.",
+      "pinyin": "pa-GA-mos por se-pa-RA-do, por fa-BOR",
+      "pt": "Paghiamo separati, per favore.",
       "tts": "Pagamos por separado, por favor."
     },
     {
@@ -288,19 +288,19 @@
       "voz": "Emilio",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b14-p03",
-      "promptPt": "Vous êtes quatre, et vous avez déjà recompté dans votre tête qui a pris quoi — ça se fait tout seul chez vous. Il est encore à la caisse. Réglez-le maintenant, pas après. Parlez maintenant.",
+      "promptPt": "Siete in quattro, e hai già ricontato in testa chi ha preso cosa — a casa tua viene automatico. Lui è ancora alla cassa. Sistemalo adesso, non dopo. Parla adesso.",
       "audioKey": "e03c-separado-e",
       "es": "Pagamos por separado, por favor.",
-      "pinyin": "pa-GA-moss por sé-pa-RA-do, por fa-BOR",
-      "pt": "chacun le sien"
+      "pinyin": "pa-GA-mos por se-pa-RA-do, por fa-BOR",
+      "pt": "ognuno il suo"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "b14-iguales-c",
       "es": "Pagamos a partes iguales.",
-      "pinyin": "pa-GA-moss a PAR-téss i-GWA-léss",
-      "pt": "Nous partageons à parts égales. (La demande la plus simple pour lui : une somme, divisée.)",
+      "pinyin": "pa-GA-mos a PAR-tes i-GUA-les",
+      "pt": "Dividiamo in parti uguali. (La richiesta più semplice per lui: una somma, divisa.)",
       "tts": "Pagamos a partes iguales."
     },
     {
@@ -308,56 +308,56 @@
       "voz": "Carmen",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b14-p04",
-      "promptPt": "Six personnes, une longue soirée, et plus personne ne sait qui a pris le deuxième verre de vin. Facilitez la tâche au serveur. Parlez maintenant.",
+      "promptPt": "Sei persone, una lunga serata, e nessuno sa più chi ha preso il secondo bicchiere di vino. Facilita il compito al cameriere. Parla adesso.",
       "audioKey": "b14-iguales-c",
       "es": "Pagamos a partes iguales.",
-      "pinyin": "pa-GA-moss a PAR-téss i-GWA-léss",
-      "pt": "une somme, divisée entre tous"
+      "pinyin": "pa-GA-mos a PAR-tes i-GUA-les",
+      "pt": "una somma, divisa tra tutti"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n09",
-      "pt": "Ligne par ligne se fait aussi — c'est seulement la demande qui se remarque ici, et la soirée reste en suspens le temps qu'elle dure."
+      "pt": "Riga per riga si fa anche — è solo la richiesta che si nota qui, e la serata resta sospesa per tutto il tempo che dura."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n10",
       "tom": "protege",
-      "pt": "Maintenant l'addition elle-même. Le plus souvent elle est juste. Sinon, il s'agit de petite monnaie — et la petite monnaie s'additionne."
+      "pt": "Ora il conto vero e proprio. Il più delle volte è giusto. Se no, si tratta di spiccioli — e gli spiccioli si sommano."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n11",
-      "pt": "La règle à emporter : ce qui n'était pas sur la liste de prix avant que vous vous asseyiez n'a rien à faire sur votre addition."
+      "pt": "La regola da portar via: ciò che non era sul listino prima che ti sedessi non c'entra niente sul tuo conto."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n12",
-      "pt": "La liste est à l'entrée, visible — c'est une obligation. Et ce qui y figure est le prix final, taxe déjà comprise."
+      "pt": "Il listino è all'ingresso, visibile — è un obbligo. E ciò che c'è scritto è il prezzo finale, tasse già comprese."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n13",
-      "pt": "Supplément de terrasse, pain, glace, lait du café : tout permis, si c'était affiché d'avance. Sinon, non."
+      "pt": "Supplemento di terrazza, pane, gelato, latte del caffè: tutto permesso, se era esposto prima. Se no, no."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n58",
-      "pt": "«Servicio» et «cubierto» ne sont, eux aussi, que des lignes. Au pluriel, d'ailleurs, «los servicios», ce sont les toilettes."
+      "pt": "«Servicio» e «cubierto» sono anche loro solo righe. Al plurale, tra l'altro, «los servicios», sono i bagni."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e03c-servicio-c",
       "es": "¿Está incluido el servicio?",
-      "pinyin": "es-TA in-klou-I-do el ser-BI-ssio",
-      "pt": "Le service est-il compris ?",
+      "pinyin": "es-TA in-klu-I-do el ser-BI-sio",
+      "pt": "Il servizio è compreso?",
       "tts": "¿Está incluido el servicio?"
     },
     {
@@ -366,37 +366,37 @@
       "voz": "Carmen",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b14-p18",
-      "promptPt": "Nappe blanche, une vraie soirée, et tout en bas une ligne avec exactement le mot qui, au pluriel, veut dire les toilettes. Demandez si c'était déjà dans le prix des plats. Parlez maintenant.",
+      "promptPt": "Tovaglia bianca, una vera serata, e in fondo una riga con esattamente la parola che, al plurale, vuol dire i bagni. Chiedi se era già nel prezzo dei piatti. Parla adesso.",
       "audioKey": "e03c-servicio-c",
       "es": "¿Está incluido el servicio?",
-      "pinyin": "es-TA in-klou-I-do el ser-BI-ssio",
-      "pt": "était-ce déjà dans le prix"
+      "pinyin": "es-TA in-klu-I-do el ser-BI-sio",
+      "pt": "era già nel prezzo"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n14",
-      "pt": "Alors lisez la liste en entrant. Ce qui était affiché, vous ne le récupérez pas après."
+      "pt": "Allora leggi il listino entrando. Ciò che era esposto, non lo recuperi dopo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n15",
-      "pt": "Et si quelque chose cloche : trois échelons, et entre eux, rien ne change dans votre voix. Vous restez assis."
+      "pt": "E se qualcosa non torna: tre gradini, e tra uno e l'altro, niente cambia nella tua voce. Resti seduto."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n16",
-      "pt": "L'échelon un n'accuse personne. Vous demandez à voir l'addition ligne par ligne."
+      "pt": "Il primo gradino non accusa nessuno. Chiedi di vedere il conto riga per riga."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "c02a-22",
       "es": "Perdone, ¿me trae la cuenta detallada?",
-      "pinyin": "per-DO-né, mé TRA-é la KOUÉN-ta dé-ta-YA-da",
-      "pt": "Pardon, vous m'apportez l'addition détaillée ?",
+      "pinyin": "per-DO-ne, me TRA-e la KUEN-ta de-ta-IA-da",
+      "pt": "Scusi, mi porta il conto dettagliato?",
       "tts": "Perdone, ¿me trae la cuenta detallada?"
     },
     {
@@ -405,35 +405,35 @@
       "voz": "Emilio",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b14-p05",
-      "promptPt": "Vous avez compté au fur et à mesure, comme toujours, et le total du bas dépasse de neuf euros ce que vous avez en tête. N'accusez personne — demandez à le voir détaillé. Parlez maintenant.",
+      "promptPt": "Hai contato man mano, come sempre, e il totale in fondo supera di nove euro quello che hai in testa. Non accusare nessuno — chiedi di vederlo dettagliato. Parla adesso.",
       "audioKey": "c02a-22",
       "es": "Perdone, ¿me trae la cuenta detallada?",
-      "pinyin": "per-DO-né, mé TRA-é la KOUÉN-ta dé-ta-YA-da",
-      "pt": "ligne par ligne, s'il vous plaît"
+      "pinyin": "per-DO-ne, me TRA-e la KUEN-ta de-ta-IA-da",
+      "pt": "riga per riga, per favore"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e05a-algunproblema-c",
       "es": "¿Hay algún problema?",
-      "pinyin": "aï al-GOUN pro-BLÉ-ma",
-      "pt": "👂 «Il y a un problème ?» — la porte est ouverte. Nommez la ligne, jamais la personne. (Et le h se tait : aï.)",
-      "acao": "S'il pose cette question, la porte est ouverte : le doigt sur la ligne, et nommez la ligne, pas la personne.",
+      "pinyin": "ai al-GUN pro-BLE-ma",
+      "pt": "👂 «C'è qualche problema?» — la porta è aperta. Nomina la riga, mai la persona. (E la h è muta: ai.)",
+      "acao": "Se fa questa domanda, la porta è aperta: il dito sulla riga, e nomina la riga, non la persona.",
       "tts": "¿Hay algún problema?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n17",
-      "pt": "La moitié s'évapore en chemin vers la caisse. L'échelon deux nomme le fait, jamais la faute."
+      "pt": "La metà evapora lungo la strada verso la cassa. Il secondo gradino nomina il fatto, mai la colpa."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "c02a-23",
       "es": "Aquí hay un cargo que no estaba en la carta. ¿Qué es?",
-      "pinyin": "a-KI aï oun KAR-go ké no es-TA-ba en la KAR-ta. ké ess",
-      "pt": "Il y a ici une ligne qui n'était pas sur la carte. C'est quoi ?",
+      "pinyin": "a-KI ai un KAR-go ke no es-TA-ba en la KAR-ta. ke es",
+      "pt": "Qui c'è un addebito che non era sul menù. Cos'è?",
       "tts": "Aquí hay un cargo que no estaba en la carta. ¿Qué es?"
     },
     {
@@ -442,35 +442,35 @@
       "voz": "Carmen",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b14-p06",
-      "promptPt": "Tout en bas, une ligne qui n'était visible ni à la porte ni parmi les plats tout à l'heure. Dites ce que vous voyez, et demandez. Parlez maintenant.",
+      "promptPt": "In fondo, una riga che poco fa non si vedeva né alla porta né tra i piatti. Di' quello che vedi, e chiedi. Parla adesso.",
       "audioKey": "c02a-23",
       "es": "Aquí hay un cargo que no estaba en la carta. ¿Qué es?",
-      "pinyin": "a-KI aï oun KAR-go ké no es-TA-ba en la KAR-ta. ké ess",
-      "pt": "le fait, pas la faute"
+      "pinyin": "a-KI ai un KAR-go ke no es-TA-ba en la KAR-ta. ke es",
+      "pt": "il fatto, non la colpa"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e05a-esdelpan-c",
       "es": "Ah, eso es el pan. El pan va aparte.",
-      "pinyin": "a, É-sso ess el pan. el pan ba a-PAR-té",
-      "pt": "👂 «Ah, c'est le pain. Le pain se compte à part.» — permis, si c'était sur la liste. Donc : regardez la liste.",
-      "acao": "Si la réponse est une ligne qui peut être permise : coup d'œil à la liste affichée. Si elle y était, payez et remerciez.",
+      "pinyin": "a, E-so es el pan. el pan ba a-PAR-te",
+      "pt": "👂 «Ah, è il pane. Il pane si conta a parte.» — permesso, se era sul listino. Quindi: guarda il listino.",
+      "acao": "Se la risposta è una riga che può essere permessa: un'occhiata al listino esposto. Se c'era, paga e ringrazia.",
       "tts": "Ah, eso es el pan. El pan va aparte."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n18",
-      "pt": "Et parfois il a raison. Alors vous remerciez, vous payez, et la prochaine fois vous lisez avant de vous asseoir."
+      "pt": "E a volte ha ragione. Allora ringrazi, paghi, e la prossima volta leggi prima di sederti."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e03c-nopedido-e",
       "es": "Esto no lo hemos pedido.",
-      "pinyin": "ÉS-to no lo É-moss pé-DI-do",
-      "pt": "Ça, nous ne l'avons pas commandé. (Le même échelon deux, quand la ligne n'a jamais été sur la table.)",
+      "pinyin": "ES-to no lo E-mos pe-DI-do",
+      "pt": "Questo non l'abbiamo ordinato. (Lo stesso secondo gradino, quando la riga non è mai stata sul tavolo.)",
       "tts": "Esto no lo hemos pedido."
     },
     {
@@ -479,32 +479,32 @@
       "voz": "Emilio",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b14-p07",
-      "promptPt": "Sur l'addition, un plat qui n'est jamais arrivé. Il dit que c'est bien ça. Même voix, même volume, toujours assis. Parlez maintenant.",
+      "promptPt": "Sul conto, un piatto che non è mai arrivato. Lui dice che è proprio così. Stessa voce, stesso volume, sempre seduto. Parla adesso.",
       "audioKey": "e03c-nopedido-e",
       "es": "Esto no lo hemos pedido.",
-      "pinyin": "ÉS-to no lo É-moss pé-DI-do",
-      "pt": "ça n'est jamais arrivé à la table"
+      "pinyin": "ES-to no lo E-mos pe-DI-do",
+      "pt": "non è mai arrivato al tavolo"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n19",
       "tom": "ganha",
-      "pt": "Échelon trois. Six mots, et presque aucun visiteur ne sait qu'ils existent. La plupart des discussions s'arrêtent là."
+      "pt": "Terzo gradino. Sei parole, e quasi nessun visitatore sa che esistono. La maggior parte delle discussioni si ferma lì."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n20",
-      "pt": "Tout établissement qui vend au consommateur final doit tenir des formulaires de réclamation officiels et les remettre gratuitement."
+      "pt": "Ogni locale che vende al consumatore finale deve tenere moduli di reclamo ufficiali e consegnarli gratuitamente."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e03c-hoja-c",
       "es": "La hoja de reclamaciones, por favor.",
-      "pinyin": "la O-kha dé rré-kla-ma-SSIO-néss, por fa-BOR",
-      "pt": "Le formulaire de réclamation officiel, s'il vous plaît.",
+      "pinyin": "la O-kha de rre-kla-ma-SSIO-nes, por fa-BOR",
+      "pt": "Il modulo di reclamo ufficiale, per favore.",
       "tts": "La hoja de reclamaciones, por favor."
     },
     {
@@ -513,117 +513,117 @@
       "voz": "Carmen",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b14-p08",
-      "promptPt": "Il a regardé la ligne, haussé les épaules et dit que c'est comme ça. Le réflexe, maintenant, c'est de monter le ton. Restez assis et demandez la seule chose qui met fin à tout ça. Parlez maintenant.",
+      "promptPt": "Ha guardato la riga, alzato le spalle e detto che è così. Il riflesso, adesso, è alzare la voce. Resta seduto e chiedi l'unica cosa che chiude tutto. Parla adesso.",
       "audioKey": "e03c-hoja-c",
       "es": "La hoja de reclamaciones, por favor.",
-      "pinyin": "la O-kha dé rré-kla-ma-SSIO-néss, por fa-BOR",
-      "pt": "les six mots"
+      "pinyin": "la O-kha de rre-kla-ma-SSIO-nes, por fa-BOR",
+      "pt": "le sei parole"
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b14-t01",
-      "pt": "ALERTE GUIRI. Une seule lettre se met entre vous et la phrase la plus forte de la soirée."
+      "pt": "ALLARME GUIRI. Una sola lettera si mette tra te e la frase più forte della serata."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b14-t02",
-      "pt": "Vous lisez h-o-j-a. Le h, vous le taisez déjà — c'est gagné. Mais le j, si vous le dites comme dans «jour», il n'entend rien."
+      "pt": "Leggi h-o-j-a. La h la fai già muta — è vinta. Ma la j, se la dici come la `i` di «ieri» o la `gi` di «Giovanni», lui non sente niente."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b14-t03",
-      "pt": "Le j gratte au fond de la gorge, à l'endroit même de votre r. Partez de votre r, et rendez-le sourd. O-kha."
+      "pt": "La j raschia in fondo alla gola. Non è la tua r, che sta sulla punta della lingua — è più indietro, come schiarirsi la voce. O-kha."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b14-t04",
-      "pt": "Et ce n'est pas une scène. Rester assis, voix normale, pas de sourire d'excuse. O-kha."
+      "pt": "E non è una scena. Resta seduto, voce normale, niente sorriso di scuse. O-kha."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e05a-llamoencargado-e",
       "es": "Espere un momento, que llamo al encargado.",
-      "pinyin": "es-PÉ-ré oun mo-MÉN-to, ké YA-mo al en-kar-GA-do",
-      "pt": "👂 «Un instant, j'appelle le responsable.» — c'est là que finissent la plupart des litiges. Restez assis.",
-      "acao": "S'il va chercher le chef : rester assis, mains sur la table, ne rien ajouter. La phrase a déjà agi.",
+      "pinyin": "es-PE-re un mo-MEN-to, ke IA-mo al en-kar-GA-do",
+      "pt": "👂 «Un momento, chiamo il responsabile.» — è qui che finiscono la maggior parte delle controversie. Resta seduto.",
+      "acao": "Se va a chiamare il capo: resta seduto, mani sul tavolo, non aggiungere niente. La frase ha già agito.",
       "tts": "Espere un momento, que llamo al encargado."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n21",
-      "pt": "Un vrai formulaire, en triple : un pour vous, un pour l'établissement, un pour l'autorité de consommation de la région."
+      "pt": "Un vero modulo, in triplice copia: uno per te, uno per il locale, uno per l'autorità di consumo della regione."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n22",
-      "pt": "Donc pour l'instance qui contrôle et autorise l'établissement. C'est pour ça qu'il agit avant qu'un mot n'y soit écrit."
+      "pt": "Cioè per l'ente che controlla e autorizza il locale. È per questo che agisce prima ancora che ci si scriva una parola."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n23",
-      "pt": "Et ne pas le remettre est en soi une infraction, indépendamment de qui a raison sur l'addition."
+      "pt": "E non consegnarlo è di per sé un'infrazione, indipendentemente da chi abbia ragione sul conto."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e03c-obligatorio-e",
       "es": "Es obligatorio tenerla. Si no, llamo a la policía local.",
-      "pinyin": "ess o-bli-ga-TO-rio té-NÉR-la. si no, YA-mo a la po-li-SSI-a lo-KAL",
-      "pt": "👂 Vous êtes obligés de le tenir. Sinon, j'appelle la police locale. (Le dernier échelon. Vous n'en aurez presque sûrement jamais besoin.)",
-      "acao": "Seulement si le formulaire est refusé : dire cette phrase, puis composer vraiment le 092. Sinon, jamais.",
+      "pinyin": "es o-bli-ga-TO-rio te-NER-la. si no, IA-mo a la po-li-SI-a lo-KAL",
+      "pt": "👂 Siete obbligati a tenerlo. Altrimenti chiamo la polizia locale. (L'ultimo gradino. Quasi di sicuro non ti servirà mai.)",
+      "acao": "Solo se il modulo viene rifiutato: di' questa frase, poi componi davvero il 092. Altrimenti, mai.",
       "tts": "Es obligatorio tenerla. Si no, llamo a la policía local."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n24",
-      "pt": "Et puis l'échelon qu'aucun guide ne mentionne, parce qu'il n'est pas ouvert à la plupart des visiteurs."
+      "pt": "E poi il gradino che nessuna guida menziona, perché non è aperto alla maggior parte dei visitatori."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n25",
-      "pt": "Comme consommateur dans l'UE, vous avez chez vous un Centre Européen des Consommateurs. Gratuit, en français."
+      "pt": "Come consumatore nell'UE, hai a casa un Centro Europeo dei Consumatori. Gratuito, in italiano."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n26",
-      "pt": "Le litige ne s'arrête donc pas à la porte d'embarquement. Avec la copie dans la poche, il rentre à la maison avec vous."
+      "pt": "La controversia non si ferma quindi al gate d'imbarco. Con la copia in tasca, torna a casa con te."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n27",
-      "pt": "Vous n'en aurez presque jamais besoin. L'important, c'est de le savoir tant que vous êtes encore à table."
+      "pt": "Quasi mai ti servirà. L'importante è saperlo mentre sei ancora a tavola."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n28",
-      "pt": "Le pourboire, ici, c'est un arrondi, pas un pourcentage. Chez vous, c'est déjà exactement ce que vous faites."
+      "pt": "La mancia, qui, è un arrotondamento, non una percentuale. A casa tua è già esattamente quello che fai."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n29",
-      "pt": "Nouveau, seulement la façon de le dire : ne pas nommer la somme, mais quatre mots, pendant qu'il compte la monnaie."
+      "pt": "Nuovo, solo il modo di dirlo: non nominare la somma, ma quattro parole, mentre conta il resto."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "c02a-08",
       "es": "Está bien así, gracias.",
-      "pinyin": "es-TA bien a-SSI, GRA-ssiass",
-      "pt": "Ça va comme ça, merci. (= c'est bon ainsi — et ça ne vous range ni en tú ni en usted.)",
+      "pinyin": "es-TA bien a-SI, GRA-sias",
+      "pt": "Va bene così, grazie. (= è a posto così — e non ti colloca né in tú né in usted.)",
       "tts": "Está bien así, gracias."
     },
     {
@@ -632,11 +632,11 @@
       "voz": "Carmen",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b14-p09",
-      "promptPt": "Le chauffeur de taxi compte déjà la monnaie, et le rendu ne vous intéresse pas. Arrêtez-le, en quatre mots. Parlez maintenant.",
+      "promptPt": "Il tassista sta già contando il resto, e quel resto non ti interessa. Fermalo, in quattro parole. Parla adesso.",
       "audioKey": "c02a-08",
       "es": "Está bien así, gracias.",
-      "pinyin": "es-TA bien a-SSI, GRA-ssiass",
-      "pt": "c'est bon ainsi"
+      "pinyin": "es-TA bien a-SI, GRA-sias",
+      "pt": "è a posto così"
     },
     {
       "tipo": "ouvir",
@@ -644,8 +644,8 @@
       "audioKey": "c02a-15",
       "es": "SIN PROPINA",
       "pinyin": "sin pro-PI-na",
-      "pt": "👂 sur l'appareil : PAS DE POURBOIRE — une touche que vous avez le droit d'appuyer.",
-      "acao": "Si cette ligne s'affiche sur l'appareil : appuyer sur la touche, si vous ne voulez rien laisser.",
+      "pt": "👂 sull'apparecchio: NIENTE MANCIA — un tasto che hai il diritto di premere.",
+      "acao": "Se questa riga compare sull'apparecchio: premi il tasto, se non vuoi lasciare niente.",
       "tts": "Sin propina."
     },
     {
@@ -654,52 +654,52 @@
       "audioKey": "c02a-16",
       "es": "OTRA CANTIDAD",
       "pinyin": "O-tra kan-ti-DAD",
-      "pt": "👂 sur l'appareil : AUTRE MONTANT — c'est là que va votre arrondi.",
-      "acao": "Si vous voulez arrondir : appuyer sur cette touche et taper le montant rond.",
+      "pt": "👂 sull'apparecchio: ALTRO IMPORTO — è qui che va il tuo arrotondamento.",
+      "acao": "Se vuoi arrotondare: premi questo tasto e digita l'importo tondo.",
       "tts": "Otra cantidad."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n30",
-      "pt": "Un pourboire proposé est ici facultatif, chaque fois. Ne rien laisser est un montant tout à fait ordinaire."
+      "pt": "Una mancia proposta qui è facoltativa, ogni volta. Non lasciare niente è un importo del tutto normale."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n31",
-      "pt": "Les chiffres de cette addition, à l'oreille. Le c et le z les remplissent — et ce son-là, pour vous, c'est presque un cadeau."
+      "pt": "I numeri di questo conto, all'orecchio. La c e la z li riempiono — e il tuo istinto è la `c` di «ciao», ma qui è un soffio, mai un «ci»."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e05a-sc1-e",
       "es": "Son doce euros con cincuenta.",
-      "pinyin": "son DO-ssé É-ou-ross kon ssin-KOUÉN-ta",
-      "pt": "👂 «Ça fait douze euros cinquante.» — et «euro», ce sont deux voyelles, e puis u, pas le «eu» de «peur».",
-      "acao": "Quand un prix est dit : garder le chiffre en tête et ne pas retourner les dizaines.",
+      "pinyin": "son DO-se EU-ros kon sin-KUEN-ta",
+      "pt": "👂 «Fa dodici euro e cinquanta.» — «euro» lo dici uguale; il lavoro è la `c` di «doce», un soffio e non un «ci».",
+      "acao": "Quando dicono un prezzo: tieni la cifra in testa e non invertire le decine.",
       "tts": "Son doce euros con cincuenta."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n32",
-      "pt": "Ce son du c et du z, vous le dites déjà : un s entre les dents, ou un s tout court comme aux Canaries. Le «ts» n'est pas votre réflexe."
+      "pt": "Il suono giusto sai già farlo: una s tra i denti, o una s semplice come alle Canarie. Da togliere è solo il «ci» che ti viene istintivo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n33",
-      "pt": "Écoutez Carmen : la langue entre les dents. Si vous la manquez, un s suffit. Le seul vrai travail, c'est de tenir la fin."
+      "pt": "Ascolta Carmen: la lingua tra i denti. Se la manchi, basta una s. L'unico vero lavoro è tenere la fine."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e05b-12a15-c",
       "es": "doce · trece · catorce · quince",
-      "pinyin": "DO-ssé · TRÉ-ssé · ka-TOR-ssé · KIN-ssé",
-      "pt": "👂 douze · treize · quatorze · quinze — quatre chiffres sur toute addition de bar, tous avec ce son.",
-      "acao": "Si l'un de ces quatre tombe : hocher la tête. Vous n'avez jamais à les dire.",
+      "pinyin": "DO-se · TRE-se · ka-TOR-se · KIN-se",
+      "pt": "👂 dodici · tredici · quattordici · quindici — quattro numeri su ogni conto da bar, tutti con quel suono.",
+      "acao": "Se uno di questi quattro cade: annuisci. Non devi mai dirli.",
       "tts": "Doce. Trece. Catorce. Quince."
     },
     {
@@ -707,9 +707,9 @@
       "voz": "Emilio",
       "audioKey": "e05b-5060-e",
       "es": "cincuenta · sesenta",
-      "pinyin": "ssin-KOUÉN-ta · sé-SSÉN-ta",
-      "pt": "👂 cinquante · soixante. Deux fois presque pareil, et l'écart tombe en bas de votre addition.",
-      "acao": "Si vous hésitez entre les deux : regarder l'addition, au lieu de deviner.",
+      "pinyin": "sin-KUEN-ta · se-SEN-ta",
+      "pt": "👂 cinquanta · sessanta. Due volte quasi uguali, e la differenza cade in fondo al tuo conto.",
+      "acao": "Se esiti tra i due: guarda il conto, invece di indovinare.",
       "tts": "Cincuenta. Sesenta."
     },
     {
@@ -717,29 +717,29 @@
       "voz": "GuiaFem",
       "audioKey": "b14-n34",
       "tom": "ganha",
-      "pt": "Jamais à les dire, seulement à les entendre. Et les dizaines gardent votre ordre — vingt et un, veintiuno — comme au guichet."
+      "pt": "Mai da dirli, solo da sentirli. E le decine tengono il tuo ordine — ventuno, veintiuno — come allo sportello."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n35",
       "bloco": "molde",
-      "pt": "Deux mots que vous avez déjà dits deux fois, au guichet des billets. Aujourd'hui, ils reçoivent un nom."
+      "pt": "Due parole che hai già detto due volte, allo sportello dei biglietti. Oggi ricevono un nome."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n36",
-      "pt": "Le moule s'appelle «Ya está». Devant, rien ne bouge ; derrière, une liste de quatre. Quatre, pas cinq."
+      "pt": "Lo stampo si chiama «Ya está». Davanti non si muove niente; dietro, un elenco di quattro. Quattro, non cinque."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "b14-cobroahora-e",
       "es": "¿Se lo cobro ahora?",
-      "pinyin": "sé lo KO-bro a-O-ra",
-      "pt": "👂 «Je vous l'encaisse maintenant ?» — la question à laquelle ce moule répond en trois mots.",
-      "acao": "S'il pose cette question et que c'est déjà payé : lever la main et répondre avant qu'il n'appuie sur la touche.",
+      "pinyin": "se lo KO-bro a-O-ra",
+      "pt": "👂 «Glielo faccio pagare adesso?» — la domanda a cui questo stampo risponde in tre parole.",
+      "acao": "Se fa questa domanda ed è già pagato: alza la mano e rispondi prima che prema il tasto.",
       "tts": "¿Se lo cobro ahora?"
     },
     {
@@ -747,8 +747,8 @@
       "voz": "Carmen",
       "audioKey": "b14-yapagado-c",
       "es": "Ya está pagado.",
-      "pinyin": "ya es-TA pa-GA-do",
-      "pt": "C'est déjà payé.",
+      "pinyin": "ia es-TA pa-GA-do",
+      "pt": "È già pagato.",
       "tts": "Ya está pagado."
     },
     {
@@ -758,21 +758,21 @@
       "promptVoz": "GuiaFem",
       "molde": "YA-ESTA",
       "encaixe": "pagado",
-      "encaixeGloss": "payé",
+      "encaixeGloss": "pagato",
       "promptAudioKey": "b14-p10",
-      "promptPt": "La table du restaurant, juste avant minuit : votre amie était à la caisse il y a vingt minutes et a tout réglé. Le serveur vous tend l'appareil et demande «¿se lo cobro ahora?». Parlez maintenant.",
+      "promptPt": "Il tavolo del ristorante, poco prima di mezzanotte: la tua amica era alla cassa venti minuti fa e ha saldato tutto. Il cameriere ti porge l'apparecchio e chiede «¿se lo cobro ahora?». Parla adesso.",
       "audioKey": "b14-yapagado-c",
       "es": "Ya está pagado.",
-      "pinyin": "ya es-TA pa-GA-do",
-      "pt": "c'est réglé"
+      "pinyin": "ia es-TA pa-GA-do",
+      "pt": "è saldato"
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "b14-yareservado-e",
       "es": "Ya está reservado.",
-      "pinyin": "ya es-TA rré-sser-BA-do",
-      "pt": "C'est déjà réservé.",
+      "pinyin": "ia es-TA rre-sser-BA-do",
+      "pt": "È già prenotato.",
       "tts": "Ya está reservado."
     },
     {
@@ -781,21 +781,21 @@
       "promptVoz": "GuiaFem",
       "molde": "YA-ESTA",
       "encaixe": "reservado",
-      "encaixeGloss": "réservé",
+      "encaixeGloss": "prenotato",
       "promptAudioKey": "b14-p11",
-      "promptPt": "Au guichet de l'excursion en bateau, l'homme tend déjà la main vers le lecteur — mais votre hôtel a fait inscrire vos deux noms sur sa liste hier soir et a pris l'argent. Parlez maintenant.",
+      "promptPt": "Allo sportello dell'escursione in barca, l'uomo tende già la mano verso il lettore — ma il tuo hotel ha fatto scrivere i vostri due nomi sulla sua lista ieri sera e ha preso i soldi. Parla adesso.",
       "audioKey": "b14-yareservado-e",
       "es": "Ya está reservado.",
-      "pinyin": "ya es-TA rré-sser-BA-do",
-      "pt": "vos noms sont depuis longtemps sur sa liste"
+      "pinyin": "ia es-TA rre-sser-BA-do",
+      "pt": "i vostri nomi sono da un pezzo sulla sua lista"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "b14-yaincluido-c",
       "es": "Ya está incluido.",
-      "pinyin": "ya es-TA in-klou-I-do",
-      "pt": "C'est déjà inclus.",
+      "pinyin": "ia es-TA in-klu-I-do",
+      "pt": "È già incluso.",
       "tts": "Ya está incluido."
     },
     {
@@ -805,21 +805,21 @@
       "promptVoz": "GuiaFem",
       "molde": "YA-ESTA",
       "encaixe": "incluido",
-      "encaixeGloss": "inclus",
+      "encaixeGloss": "incluso",
       "promptAudioKey": "b14-p12",
-      "promptPt": "À la réception de l'hôtel, ils veulent onze euros par personne pour le petit-déjeuner, et votre réservation dit noir sur blanc qu'il était dans le prix de la chambre. Dites-le. Parlez maintenant.",
+      "promptPt": "Alla reception dell'hotel, vogliono undici euro a persona per la colazione, e la tua prenotazione dice nero su bianco che era nel prezzo della camera. Dillo. Parla adesso.",
       "audioKey": "b14-yaincluido-c",
       "es": "Ya está incluido.",
-      "pinyin": "ya es-TA in-klou-I-do",
-      "pt": "c'était dans le prix de la chambre"
+      "pinyin": "ia es-TA in-klu-I-do",
+      "pt": "era nel prezzo della camera"
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "b14-yahecho-e",
       "es": "Ya está hecho.",
-      "pinyin": "ya es-TA É-tcho",
-      "pt": "C'est déjà fait.",
+      "pinyin": "ia es-TA E-cio",
+      "pt": "È già fatto.",
       "tts": "Ya está hecho."
     },
     {
@@ -828,39 +828,39 @@
       "promptVoz": "GuiaFem",
       "molde": "YA-ESTA",
       "encaixe": "hecho",
-      "encaixeGloss": "fait",
+      "encaixeGloss": "fatto",
       "promptAudioKey": "b14-p13",
-      "promptPt": "Au comptoir du loueur de voitures, elle vous glisse une feuille pour le deuxième conducteur — et c'est exactement ce que vous avez rempli mardi sur leur site. Parlez maintenant.",
+      "promptPt": "Al bancone dell'autonoleggio, lei ti passa un foglio per il secondo conducente — ed è esattamente quello che hai compilato martedì sul loro sito. Parla adesso.",
       "audioKey": "b14-yahecho-e",
       "es": "Ya está hecho.",
-      "pinyin": "ya es-TA É-tcho",
-      "pt": "ça s'est fait dès mardi"
+      "pinyin": "ia es-TA E-cio",
+      "pt": "è stato fatto già martedì"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n37",
-      "pt": "Deux pièges dans ces quatre mots : dans «reservado», le s reste sourd — pas «rezervado» — et le v sonne comme un b. Dans «hecho», le h se tait, et le ch est un «tch»."
+      "pt": "Due trappole in queste quattro parole: in «reservado» la s resta sorda — non «rezervado» — e la v suona come una b. In «hecho» la h è muta, e il ch non è «eko»: è «écio», la `c` di «ciao»."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n38",
-      "pt": "Quatre terminaisons, quatre discussions que vous ne menez jamais. Rien d'autre ne s'accroche là — la liste, c'est la liste."
+      "pt": "Quattro finali, quattro discussioni che non fai mai. Nient'altro si attacca lì — l'elenco è l'elenco."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n39",
-      "pt": "Dernier morceau : le papier. «Un tique», c'est le ticket de caisse. «La factura» porte votre nom — c'est celle que l'assurance réclame."
+      "pt": "Ultimo pezzo: la carta. «Un tique» è lo scontrino. «La factura» porta il tuo nome — è quella che l'assicurazione chiede."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "b14-factura-e",
       "es": "¿Me puede dar la factura, por favor?",
-      "pinyin": "mé POUÉ-dé dar la fak-TOU-ra, por fa-BOR",
-      "pt": "Vous pouvez me donner la facture à mon nom, s'il vous plaît ?",
+      "pinyin": "me PUE-de dar la fak-TU-ra, por fa-BOR",
+      "pt": "Mi può dare la fattura a mio nome, per favore?",
       "tts": "¿Me puede dar la factura, por favor?"
     },
     {
@@ -870,44 +870,44 @@
       "promptVoz": "GuiaFem",
       "molde": "ME-PUEDE",
       "encaixe": "dar la factura",
-      "encaixeGloss": "la facture à votre nom",
+      "encaixeGloss": "la fattura a tuo nome",
       "promptAudioKey": "b14-p14",
-      "promptPt": "Vous venez de payer au comptoir de la pharmacie quelque chose que votre assurance voyage rembourse, et elle vous tend le petit ticket de caisse. Demandez le bon papier. Parlez maintenant.",
+      "promptPt": "Hai appena pagato al bancone della farmacia qualcosa che la tua assicurazione di viaggio rimborsa, e lei ti porge il piccolo scontrino. Chiedi il documento giusto. Parla adesso.",
       "audioKey": "b14-factura-e",
       "es": "¿Me puede dar la factura, por favor?",
-      "pinyin": "mé POUÉ-dé dar la fak-TOU-ra, por fa-BOR",
-      "pt": "le papier à votre nom"
+      "pinyin": "me PUE-de dar la fak-TU-ra, por fa-BOR",
+      "pt": "il documento a tuo nome"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e05a-factura-c",
       "es": "¿Me da la factura, por favor?",
-      "pinyin": "mé da la fak-TOU-ra, por fa-BOR",
-      "pt": "La forme courte, quand vous êtes sûr. (Pour le ticket de caisse : «¿Me da un tique?»)",
+      "pinyin": "me da la fak-TU-ra, por fa-BOR",
+      "pt": "La forma corta, quando sei sicuro. (Per lo scontrino: «¿Me da un tique?»)",
       "tts": "¿Me da la factura, por favor?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n40",
-      "pt": "Demandez au comptoir, tant que c'est encore à l'écran. Dix secondes maintenant, ou vingt courriels depuis chez vous."
+      "pt": "Chiedila al bancone, finché è ancora sullo schermo. Dieci secondi adesso, o venti email da casa."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n41",
       "tom": "protege",
-      "pt": "Une question vient avant tout ça : rien n'oblige un bar à accepter les cartes."
+      "pt": "Una domanda viene prima di tutto questo: niente obbliga un bar ad accettare le carte."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e05a-soloefectivo-e",
       "es": "SOLO EFECTIVO",
-      "pinyin": "SO-lo é-fek-TI-bo",
-      "pt": "👂 à la porte ou à la caisse : ESPÈCES SEULEMENT. Lisez-le en entrant, pas en sortant.",
-      "acao": "Si cet écriteau est à la porte : compter les espèces avant de vous asseoir.",
+      "pinyin": "SO-lo e-fek-TI-bo",
+      "pt": "👂 alla porta o alla cassa: SOLO CONTANTI. Leggilo entrando, non uscendo.",
+      "acao": "Se questo cartello è alla porta: conta i contanti prima di sederti.",
       "tts": "Solo efectivo."
     },
     {
@@ -915,8 +915,8 @@
       "voz": "Emilio",
       "audioKey": "e05a-aceptan-e",
       "es": "¿Aceptan tarjeta o solo efectivo?",
-      "pinyin": "a-SSÉP-tan tar-KHÉ-ta o SO-lo é-fek-TI-bo",
-      "pt": "👂 Vous prenez la carte, ou espèces seulement ? («efectivo» = espèces, rien à voir avec «effectif».)",
+      "pinyin": "a-SEP-tan tar-KHE-ta o SO-lo e-fek-TI-bo",
+      "pt": "👂 Accettate la carta, o solo contanti? («efectivo» = contanti, niente a che vedere con «effettivo».)",
       "tts": "¿Aceptan tarjeta o solo efectivo?"
     },
     {
@@ -926,21 +926,21 @@
       "promptVoz": "GuiaFem",
       "molde": "PUEDO",
       "encaixe": "pagar con tarjeta",
-      "encaixeGloss": "payer par carte",
+      "encaixeGloss": "pagare con carta",
       "promptAudioKey": "b14-p15",
-      "promptPt": "Un tout petit bar de l'arrière-pays, à une demi-heure de la côte, une assiette de jambon à votre nom — et dans le portefeuille, rien que du plastique. Vérifiez avant de commander. Parlez maintenant.",
+      "promptPt": "Un piccolissimo bar dell'entroterra, a mezz'ora dalla costa, un piatto di prosciutto a tuo nome — e nel portafoglio, solo plastica. Verifica prima di ordinare. Parla adesso.",
       "audioKey": "e05a-pagartarjeta-c",
       "es": "¿Puedo pagar con tarjeta?",
-      "pinyin": "POUÉ-do pa-GAR kon tar-KHÉ-ta",
-      "pt": "est-ce que le plastique sert à quelque chose ici"
+      "pinyin": "PUE-do pa-GAR kon tar-KHE-ta",
+      "pt": "se qui la carta serve a qualcosa"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e05a-minimo-c",
       "es": "¿Hay un mínimo para pagar con tarjeta?",
-      "pinyin": "aï oun MI-ni-mo PA-ra pa-GAR kon tar-KHÉ-ta",
-      "pt": "Y a-t-il un minimum pour payer par carte ? (Les petits bars en fixent un — permis, s'il est affiché.)",
+      "pinyin": "ai un MI-ni-mo PA-ra pa-GAR kon tar-KHE-ta",
+      "pt": "C'è un minimo per pagare con carta? (I bar piccoli ne fissano uno — permesso, se è esposto.)",
       "tts": "¿Hay un mínimo para pagar con tarjeta?"
     },
     {
@@ -950,40 +950,40 @@
       "promptVoz": "GuiaFem",
       "molde": "HAY",
       "encaixe": "un mínimo",
-      "encaixeGloss": "un minimum",
+      "encaixeGloss": "un minimo",
       "promptAudioKey": "b14-p19",
-      "promptPt": "Deux cafés au comptoir, trois euros quatre-vingts, et dans le portefeuille rien que du plastique. À la caisse, un mot écrit à la main que vous ne déchiffrez pas. Demandez. Parlez maintenant.",
+      "promptPt": "Due caffè al bancone, tre euro e ottanta, e nel portafoglio solo plastica. Alla cassa, una scritta a mano che non riesci a decifrare. Chiedi. Parla adesso.",
       "audioKey": "e05a-minimo-c",
       "es": "¿Hay un mínimo para pagar con tarjeta?",
-      "pinyin": "aï oun MI-ni-mo PA-ra pa-GAR kon tar-KHÉ-ta",
-      "pt": "y a-t-il un seuil ici"
+      "pinyin": "ai un MI-ni-mo PA-ra pa-GAR kon tar-KHE-ta",
+      "pt": "c'è una soglia qui"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n42",
-      "pt": "Espèces seulement est permis, un montant minimum aussi, tant qu'il est affiché. Donc : lire la porte en entrant."
+      "pt": "Solo contanti è permesso, un importo minimo anche, purché sia esposto. Quindi: leggi la porta entrando."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n43",
-      "pt": "Chez vous, la carte passe partout, sans y penser. Ici, c'est le petit bar de quartier qui n'affiche que «solo efectivo» qui vous prend au dépourvu."
+      "pt": "A casa tua carta e contanti convivono, così nessuno dei due ti spiazza. In Spagna la carta passa quasi ovunque; è il bar di quartiere con «solo efectivo» che si legge alla porta, non alla cassa."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n44",
       "tom": "ganha",
-      "pt": "Au comptoir, dans le bus, dans le taxi, la carte est la routine — la vôtre. Une phrase d'avance, et l'appareil arrive prêt à table."
+      "pt": "Al bancone, sul bus, in taxi, la carta è la norma — più che a casa tua. Una frase in anticipo, e l'apparecchio arriva pronto al tavolo."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "b14-voytarjeta-c",
       "es": "Voy a pagar con tarjeta.",
-      "pinyin": "boï a pa-GAR kon tar-KHÉ-ta",
-      "pt": "Je vais payer par carte. (Dit tôt, comme une annonce — pas une question.)",
+      "pinyin": "boi a pa-GAR kon tar-KHE-ta",
+      "pt": "Pago con la carta. (Detto presto, come un annuncio — non una domanda.)",
       "tts": "Voy a pagar con tarjeta."
     },
     {
@@ -993,35 +993,35 @@
       "promptVoz": "GuiaFem",
       "molde": "SIN-CON-PARA",
       "encaixe": "con tarjeta",
-      "encaixeGloss": "par carte",
+      "encaixeGloss": "con carta",
       "promptAudioKey": "b14-p16",
-      "promptPt": "Il compte encore à la caisse, et le petit appareil est éteint derrière lui sur l'étagère. Annoncez ce qui va se passer. Parlez maintenant.",
+      "promptPt": "Sta ancora facendo i conti alla cassa, e il piccolo apparecchio è spento dietro di lui sullo scaffale. Annuncia cosa succederà. Parla adesso.",
       "audioKey": "b14-voytarjeta-c",
       "es": "Voy a pagar con tarjeta.",
-      "pinyin": "boï a pa-GAR kon tar-KHÉ-ta",
-      "pt": "l'annonce, avant qu'il ne prépare quoi que ce soit"
+      "pinyin": "boi a pa-GAR kon tar-KHE-ta",
+      "pt": "l'annuncio, prima che prepari qualsiasi cosa"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n45",
-      "pt": "Le «con» est le même que dans «con leche». Sauf qu'ici c'est un moyen de paiement qui s'accroche derrière, pas un café au lait."
+      "pt": "Il «con» è lo stesso di «con leche». Solo che qui dietro si attacca un modo di pagare, non un caffè col latte."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "b14-tarjetano-e",
       "es": "La tarjeta no ha funcionado.",
-      "pinyin": "la tar-KHÉ-ta no a foun-ssio-NA-do",
-      "pt": "👂 «La carte n'est pas passée.» — à entendre une fois par voyage. C'est presque toujours l'appareil.",
-      "acao": "Si vous entendez ça : donner une deuxième carte ou poser des billets, sans discuter.",
+      "pinyin": "la tar-KHE-ta no a fun-sio-NA-do",
+      "pt": "👂 «La carta non è passata.» — da sentire una volta a viaggio. È quasi sempre l'apparecchio.",
+      "acao": "Se lo senti: dai una seconda carta o posa delle banconote, senza discutere.",
       "tts": "La tarjeta no ha funcionado."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n46",
-      "pt": "C'est la machine, pas un jugement. Deuxième carte, ou les billets que vous aviez glissés justement pour ça."
+      "pt": "È la macchina, non un giudizio. Seconda carta, o le banconote che avevi messo da parte proprio per questo."
     },
     {
       "tipo": "intro",
@@ -1029,13 +1029,13 @@
       "audioKey": "b14-n47",
       "bloco": "capsula",
       "tom": "protege",
-      "pt": "La prochaine fois, regardez la liste à la porte avant de vous asseoir. Elle est là parce qu'elle doit y être."
+      "pt": "La prossima volta, guarda il listino alla porta prima di sederti. È lì perché deve esserci."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n48",
-      "pt": "La terrasse plus chère que le comptoir ? Permis, si c'est écrit là. Si ce n'est pas écrit là, ça n'a rien à faire sur l'addition."
+      "pt": "La terrazza più cara del bancone? Permesso, se è scritto lì. Se non è scritto lì, non c'entra niente sul conto."
     },
     {
       "tipo": "intro",
@@ -1043,99 +1043,99 @@
       "audioKey": "b14-n49",
       "bloco": "espelho",
       "tom": "ganha",
-      "pt": "Et partager ligne par ligne une fois l'addition close, voilà la part qui se remarque ici."
+      "pt": "E dividere riga per riga una volta chiuso il conto, ecco la parte che si nota qui."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n50",
-      "pt": "Pas le partage lui-même. Seulement le moment. Demander avant coûte quatre mots et ne coûte rien à personne."
+      "pt": "Non la divisione in sé. Solo il momento. Chiederlo prima costa quattro parole e non costa niente a nessuno."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n51",
       "bloco": "permissao",
-      "pt": "Appuyer sur «Sin propina», demander le formulaire : ici, l'un et l'autre sont un geste tout à fait ordinaire."
+      "pt": "Premere «Sin propina», chiedere il modulo: qui, l'uno e l'altro sono un gesto del tutto normale."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n52",
       "bloco": "clique",
-      "pt": "Comptez les endroits : la table au restaurant, la réception de l'hôtel, le guichet de l'excursion en bateau."
+      "pt": "Conta i posti: il tavolo del ristorante, la reception dell'hotel, lo sportello dell'escursione in barca."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n53",
-      "pt": "Et le comptoir du loueur de voitures. Quatre phrases que personne ne vous a données — vous les avez bâties à partir de deux."
+      "pt": "E il bancone dell'autonoleggio. Quattro frasi che nessuno ti ha dato — le hai costruite a partire da due."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n54",
       "bloco": "piso",
-      "pt": "Vous réglerez une addition espagnole au prix qui était affiché à la porte."
+      "pt": "Pagherai un conto spagnolo al prezzo che era esposto alla porta."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n55",
-      "pt": "La plupart des visiteurs ne lisent jamais la liste, et ne s'en aperçoivent jamais. Vous, vous avez l'avantage deux semaines durant."
+      "pt": "La maggior parte dei visitatori non legge mai il listino, e non se ne accorge mai. Tu hai il vantaggio per due settimane intere."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n56",
-      "pt": "Tout ensemble. Déjeuner dans un bar, l'addition arrive, l'appareil arrive. Vous comprenez chaque morceau."
+      "pt": "Tutto insieme. Pranzo in un bar, arriva il conto, arriva l'apparecchio. Capisci ogni pezzo."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e03c-cuenta-c",
       "es": "La cuenta, por favor.",
-      "pinyin": "la KOUÉN-ta, por fa-BOR",
-      "pt": "— L'addition, s'il vous plaît."
+      "pinyin": "la KUEN-ta, por fa-BOR",
+      "pt": "— Il conto, per favore."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e05a-sc1-e",
       "es": "Son doce euros con cincuenta.",
-      "pinyin": "son DO-ssé É-ou-ross kon ssin-KOUÉN-ta",
-      "pt": "— Ça fait douze euros cinquante."
+      "pinyin": "son DO-se EU-ros kon sin-KUEN-ta",
+      "pt": "— Fa dodici euro e cinquanta."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "b14-voytarjeta-c",
       "es": "Voy a pagar con tarjeta.",
-      "pinyin": "boï a pa-GAR kon tar-KHÉ-ta",
-      "pt": "— Je vais payer par carte. (assez tôt, et personne ne demande plus rien)"
+      "pinyin": "boi a pa-GAR kon tar-KHE-ta",
+      "pt": "— Pago con la carta. (abbastanza presto, e nessuno chiede più niente)"
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e05a-sc2-e",
       "es": "Vale. Aquí tiene el tique.",
-      "pinyin": "BA-lé. a-KI TIÉ-né el TI-ké",
-      "pt": "— D'accord. Voici votre ticket. (et «vale» commence par un b)",
+      "pinyin": "BA-le. a-KI TIE-ne el TI-ke",
+      "pt": "— Va bene. Ecco lo scontrino. (e «vale» comincia con una b)",
       "tts": "Vale. Aquí tiene el tique."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-s00",
-      "pt": "Shadowing. Fort, avec eux, mêmes coups, la dernière voyelle aussi pleine que la première. Les deux qui comptent aujourd'hui :"
+      "pt": "Shadowing. Forte, con loro, stessi colpi, l'ultima vocale piena come la prima. Le due che contano oggi:"
     },
     {
       "tipo": "shadow",
       "voz": "Carmen",
       "audioKey": "e03c-hoja-c",
       "es": "La hoja de reclamaciones, por favor.",
-      "pinyin": "la O-kha dé rré-kla-ma-SSIO-néss, por fa-BOR",
-      "pt": "Le formulaire de réclamation officiel, s'il vous plaît."
+      "pinyin": "la O-kha de rre-kla-ma-SSIO-nes, por fa-BOR",
+      "pt": "Il modulo di reclamo ufficiale, per favore."
     },
     {
       "tipo": "shadow",
@@ -1143,133 +1143,133 @@
       "audioKey": "b14-yapagado-c",
       "molde": "YA-ESTA",
       "es": "Ya está pagado.",
-      "pinyin": "ya es-TA pa-GA-do",
-      "pt": "C'est déjà payé."
+      "pinyin": "ia es-TA pa-GA-do",
+      "pt": "È già pagato."
     },
     {
       "tipo": "recap",
       "voz": "GuiaFem",
       "audioKey": "b14-rend",
       "bloco": "recap",
-      "pt": "Encore une fois, à voix haute, dans un endroit où on n'a rien payé aujourd'hui — et personne ne vous a rien demandé."
+      "pt": "Ancora una volta, ad alta voce, in un posto dove oggi non hai pagato niente — e nessuno ti ha chiesto niente."
     },
     {
       "tipo": "responde",
       "voz": "Emilio",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b14-p17",
-      "promptPt": "Nouvelle ville, premier matin, la femme de la réception vous pose une feuille avec une ligne qui n'était pas dans votre réservation. Premier échelon, aimable. Parlez maintenant.",
+      "promptPt": "Città nuova, primo mattino, la donna della reception ti posa un foglio con una riga che non era nella tua prenotazione. Primo gradino, gentile. Parla adesso.",
       "audioKey": "c02a-22",
       "es": "Perdone, ¿me trae la cuenta detallada?",
-      "pinyin": "per-DO-né, mé TRA-é la KOUÉN-ta dé-ta-YA-da",
-      "pt": "ligne par ligne, s'il vous plaît"
+      "pinyin": "per-DO-ne, me TRA-e la KUEN-ta de-ta-IA-da",
+      "pt": "riga per riga, per favore"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b14-n57",
-      "pt": "C'est tout. Commandé, partagé, vérifié, et un formulaire à portée de main. Hasta luego."
+      "pt": "È tutto. Ordinato, diviso, verificato, e un modulo a portata di mano. Hasta luego."
     }
   ],
 
   "aprofundar": {
-    "titulo": "L'addition, la liste et le formulaire (lecture facultative)",
+    "titulo": "Il conto, il listino e il modulo (lettura facoltativa)",
     "secoes": [
       {
-        "titulo": "Pourquoi cette partie ne dit rien sur la conversion de devise",
-        "corpo": "Le cours d'anglais passe ici plusieurs minutes sur la conversion dynamique de devise : le terminal propose de compter en livres au lieu d'euros, la majoration tourne autour de dix à treize pour cent, et la règle dit «l'option dans votre propre monnaie est la mauvaise». Pour vous, cette scène n'existe pas. La conversion dynamique ne naît que si la monnaie de la carte diffère de celle de la transaction — vous payez avec une carte en euros, en euros, et le terminal ne vous proposera rien. Voilà pourquoi cette partie n'est pas la version traduite du cours anglais, mais une autre : l'argent qui part vraiment ici n'est pas dans le taux de change, il est dans des lignes qui n'étaient affichées nulle part avant que vous vous asseyiez. Et la phrase la plus forte de la soirée n'est pas le refus d'un taux, c'est la demande d'un formulaire.",
+        "titulo": "Perché questa parte non dice niente sulla conversione di valuta",
+        "corpo": "Il corso d'inglese passa qui diversi minuti sulla conversione dinamica di valuta: il terminale propone di calcolare in sterline invece che in euro, il sovrapprezzo si aggira sul dieci-tredici per cento, e la regola dice «l'opzione nella tua moneta è quella sbagliata». Per te questa scena non esiste. La conversione dinamica nasce solo se la moneta della carta è diversa da quella della transazione — tu paghi con una carta in euro, in euro, e il terminale non ti proporrà niente. Ecco perché questa parte non è la versione tradotta del corso inglese, ma un'altra: i soldi che se ne vanno davvero qui non sono nel tasso di cambio, sono in righe che non erano esposte da nessuna parte prima che ti sedessi. E la frase più forte della serata non è il rifiuto di un tasso, è la richiesta di un modulo.",
         "exemplos": [
           {
             "es": "Aquí hay un cargo que no estaba en la carta. ¿Qué es?",
-            "pt": "a-KI aï oun KAR-go — échelon deux : nommer le fait, jamais la faute"
+            "pt": "a-KI ai un KAR-go — secondo gradino: nomina il fatto, mai la colpa"
           },
           {
             "es": "La hoja de reclamaciones, por favor.",
-            "pt": "la O-kha — six mots, dits assis"
+            "pt": "la O-kha — sei parole, dette da seduto"
           }
         ]
       },
       {
-        "titulo": "Ce qui a le droit de figurer sur l'addition — et ce qui n'y a pas droit",
-        "corpo": "Un établissement peut pratiquer des prix différents au comptoir, à la table et en terrasse ; il doit seulement l'indiquer clairement sur la liste, et le prix affiché est le prix final, taxe comprise. Également permis, si affiché d'avance : le pain, la glace, le lait du café, un acompte de réservation (qui se déduit de l'addition), une durée limite à la table et un montant minimum pour la carte. Pas permis : des prix carte hors taxe, un QR-code comme seule façon de lire la carte, le refus de servir gratuitement l'eau du robinet, et «servicio» ou «cubierto» là où la norme régionale ne l'autorise pas ou sans que le client ait été informé d'avance. La différence entre le prix du comptoir et celui de la terrasse est petite par consommation ; sur deux semaines elle s'additionne, et c'est justement pour ça que le coup d'œil à la liste en entrant est un geste du corps, pas un calcul. Un mot de prudence : «los servicios» au pluriel, ce sont les toilettes — qui demande «el servicio» au serveur avec un air plein d'espoir peut recevoir un plan pour s'y rendre.",
+        "titulo": "Cosa ha il diritto di comparire sul conto — e cosa no",
+        "corpo": "Un locale può praticare prezzi diversi al bancone, al tavolo e in terrazza; deve solo indicarlo chiaramente sul listino, e il prezzo esposto è il prezzo finale, tasse comprese. Ugualmente permessi, se esposti prima: il pane, il gelato, il latte del caffè, un acconto di prenotazione (che si detrae dal conto), un limite di tempo al tavolo e un importo minimo per la carta. Non permessi: prezzi a menù al netto delle tasse, un QR-code come unico modo di leggere il menù, il rifiuto di servire gratuitamente l'acqua del rubinetto, e «servicio» o «cubierto» dove la norma regionale non lo consente o senza che il cliente sia stato informato prima. La differenza tra il prezzo del bancone e quello della terrazza è piccola per consumazione; su due settimane si somma, ed è proprio per questo che l'occhiata al listino entrando è un gesto del corpo, non un calcolo. Una parola di prudenza: «los servicios» al plurale sono i bagni — chi chiede «el servicio» al cameriere con aria piena di speranza può ricevere le indicazioni per andarci.",
         "exemplos": [
           {
             "es": "¿Está incluido el servicio?",
-            "pt": "es-TA in-klou-I-do el ser-BI-ssio — c'était déjà dans le prix ?"
+            "pt": "es-TA in-klu-I-do el ser-BI-sio — era già nel prezzo?"
           },
           {
             "es": "Perdone, ¿me trae la cuenta detallada?",
-            "pt": "dé-ta-YA-da — échelon un, et il laisse à tous une sortie élégante"
+            "pt": "de-ta-IA-da — primo gradino, e lascia a tutti un'uscita elegante"
           }
         ]
       },
       {
-        "titulo": "Payer séparé : possible, mais le moment décide",
-        "corpo": "Diviser à parts égales est, sur la table méditerranéenne, tout près de ce que vous faites déjà : l'Espagne dit «a partes iguales», une somme partagée entre les présents, et cela ne vous dépayse guère. Séparé, ligne par ligne, reste possible et ne scandalisera personne — c'est seulement une demande un peu moins courante, et elle doit venir avant que l'addition ne soit close. Après, elle veut dire que quelqu'un, à la caisse, défait tout à l'envers pendant que six personnes attendent. En pratique : décidez-le à table, avant même de demander l'addition, et dites les deux d'un souffle. Au comptoir debout, la question ne se pose souvent pas — il n'y a pas d'addition jusqu'au bout, et les tournées alternent. Cette observation est un consensus de terrain, pas une statistique : nous n'avons pas de chiffre à mettre dessous.",
+        "titulo": "Pagare separato: possibile, ma il momento decide",
+        "corpo": "Dividere in parti uguali è, sul tavolo mediterraneo, molto vicino a quello che fai già: la Spagna dice «a partes iguales», una somma divisa tra i presenti, e questo non ti spaesa affatto. Separato, riga per riga, resta possibile e non scandalizza nessuno — è solo una richiesta un po' meno comune, e deve arrivare prima che il conto sia chiuso. Dopo, vuol dire che qualcuno, alla cassa, disfa tutto a ritroso mentre sei persone aspettano. In pratica: decidilo a tavola, prima ancora di chiedere il conto, e di' le due cose in un fiato. Al bancone in piedi, la domanda spesso non si pone — non c'è un conto fino alla fine, e i giri si alternano. Questa osservazione è un consenso di campo, non una statistica: non abbiamo un numero da metterci sotto.",
         "exemplos": [
           {
             "es": "Pagamos por separado, por favor.",
-            "pt": "pa-GA-moss por sé-pa-RA-do — dit avant que l'addition soit close"
+            "pt": "pa-GA-mos por se-pa-RA-do — detto prima che il conto sia chiuso"
           },
           {
             "es": "Pagamos a partes iguales.",
-            "pt": "a PAR-téss i-GWA-léss — la plus simple des deux demandes"
+            "pt": "a PAR-tes i-GUA-les — la più semplice delle due richieste"
           }
         ]
       },
       {
-        "titulo": "Le pourboire en un paragraphe",
-        "corpo": "Café ou petite bière au comptoir : rien, ou la monnaie. Bar de quartier ou menu du jour : arrondir, cinquante centimes à un euro. Restaurant plus soigné : cinq à dix pour cent si c'était vraiment bon, et la plupart laissent moins ou rien. Taxi : arrondir. Porteur ou ménage de la chambre : un à deux euros en espèces. Le seul rôle avec une vraie attente, c'est le guide d'une «free tour», parce que là le pourboire est le salaire. La raison de fond pour laquelle les montants restent petits : le personnel est sous convention collective, le pourboire est un extra et non le salaire, et ne rien laisser ne nuit à personne. Pour vous, ce n'est pas un changement d'habitude — arrondir, c'est ce que vous faites déjà. Nouveau, seulement la forme : vous ne nommez pas la somme que vous voulez payer, vous dites «Está bien así, gracias» pendant qu'il compte la monnaie. Et l'affichage à dix, quinze et vingt pour cent est un import récent des zones touristiques ; l'organisation de consommateurs espagnole OCU a rappelé en juillet 2026 qu'un pourboire proposé sur un ticket ou un terminal est facultatif.",
+        "titulo": "La mancia in un paragrafo",
+        "corpo": "Caffè o piccola birra al bancone: niente, o il resto. Bar di quartiere o menù del giorno: arrotondare, cinquanta centesimi a un euro. Ristorante più curato: cinque-dieci per cento se era davvero buono, e la maggior parte lascia meno o niente. Taxi: arrotondare. Facchino o pulizia della camera: uno-due euro in contanti. L'unico ruolo con una vera aspettativa è la guida di un «free tour», perché lì la mancia è lo stipendio. Il motivo di fondo per cui gli importi restano piccoli: il personale è sotto contratto collettivo, la mancia è un extra e non lo stipendio, e non lasciare niente non danneggia nessuno. Per te non è un cambio di abitudine — arrotondare è quello che fai già. Nuova, solo la forma: non nomini la somma che vuoi pagare, dici «Está bien así, gracias» mentre conta il resto. E la schermata a dieci, quindici e venti per cento è un'importazione recente delle zone turistiche; l'organizzazione dei consumatori spagnola OCU ha ricordato a luglio 2026 che una mancia proposta su uno scontrino o un terminale è facoltativa.",
         "exemplos": [
           {
             "es": "Está bien así, gracias.",
-            "pt": "es-TA bien a-SSI — «ça va comme ça», et ça ne vous range ni en tú ni en usted"
+            "pt": "es-TA bien a-SI — «va bene così», e non ti colloca né in tú né in usted"
           },
           {
             "es": "SIN PROPINA · OTRA CANTIDAD",
-            "pt": "👂 les deux touches de l'appareil : PAS DE POURBOIRE · AUTRE MONTANT"
+            "pt": "👂 i due tasti dell'apparecchio: NIENTE MANCIA · ALTRO IMPORTO"
           }
         ]
       },
       {
-        "titulo": "«Ya está…» — quatre terminaisons, quatre discussions qui n'ont pas lieu",
-        "corpo": "Le moule tient en deux mots et une liste fermée de quatre : pagado (payé), reservado (réservé), incluido (inclus), hecho (fait). Fermée, c'est voulu. Devant une liste ouverte, un apprenant invente au pire moment ; avec quatre terminaisons, il n'y a rien à calculer, et chacune bouche un trou précis. «Ya está pagado» évite de payer deux fois — le repas qu'un ami a réglé, le transfert que l'organisateur a déjà prélevé, la caution partie de la carte en avril. «Ya está reservado» évite qu'un guichet vous vende ce qui est déjà à vous. «Ya está incluido» vaut pour le petit-déjeuner, la taxe de séjour et le deuxième conducteur. «Ya está hecho» vaut pour le formulaire rempli en ligne. Grammaticalement, c'est presque gratuit pour vous : le français parlé dit «c'est déjà payé», un état au présent, exactement comme l'espagnol, là où d'autres langues cherchent un passé. Ce qu'il vous faut, ce n'est pas le concept, c'est la liste. Deux phrases voisines à reconnaître, pas à produire : «¿Se lo cobro ahora?» et «La tarjeta no ha funcionado» — cette dernière, c'est presque toujours l'appareil, pas votre banque.",
+        "titulo": "«Ya está…» — quattro finali, quattro discussioni che non avvengono",
+        "corpo": "Lo stampo tiene in due parole e un elenco chiuso di quattro: pagado (pagato), reservado (prenotato), incluido (incluso), hecho (fatto). Chiuso, di proposito. Davanti a un elenco aperto, chi impara inventa nel momento peggiore; con quattro finali non c'è niente da calcolare, e ognuna tappa un buco preciso. «Ya está pagado» evita di pagare due volte — il pasto che un amico ha saldato, il transfer che l'organizzatore ha già addebitato, la cauzione partita dalla carta ad aprile. «Ya está reservado» evita che uno sportello ti venda ciò che è già tuo. «Ya está incluido» vale per la colazione, la tassa di soggiorno e il secondo conducente. «Ya está hecho» vale per il modulo compilato online. Grammaticalmente è quasi gratis per te: l'italiano parlato dice «è già pagato», uno stato al presente, esattamente come lo spagnolo, dove altre lingue cercano un passato. Quello che ti serve non è il concetto, è l'elenco. Due frasi vicine da riconoscere, non da produrre: «¿Se lo cobro ahora?» e «La tarjeta no ha funcionado» — quest'ultima è quasi sempre l'apparecchio, non la tua banca.",
         "exemplos": [
           {
             "es": "Ya está pagado.",
-            "pt": "ya es-TA pa-GA-do — c'est déjà payé"
+            "pt": "ia es-TA pa-GA-do — è già pagato"
           },
           {
             "es": "Ya está incluido.",
-            "pt": "ya es-TA in-klou-I-do — petit-déjeuner, taxe de séjour, deuxième conducteur"
+            "pt": "ia es-TA in-klu-I-do — colazione, tassa di soggiorno, secondo conducente"
           }
         ]
       },
       {
-        "titulo": "La «hoja de reclamaciones» et l'échelon d'après",
-        "corpo": "Un formulaire officiel en triple exemplaire : un pour vous, un pour l'établissement, un pour l'autorité de consommation de la région autonome — c'est-à-dire pour l'instance qui contrôle et autorise l'établissement. C'est réglé au niveau régional, le formulaire n'a donc pas partout le même aspect, mais les obligations sont partout les mêmes : le tenir, le remettre immédiatement et gratuitement sur demande, et le signaler par une affiche visible. Refuser de le remettre est une infraction en soi, indépendamment de qui a raison sur le fond. Nous ne citons volontairement aucun montant d'amende : ils sont fixés par région, ne sont pas harmonisés, et les fourchettes qui circulent dans les sources juridiques secondaires sont trop larges pour être prononcées. Idem pour le délai de réponse de dix jours souvent cité. L'échelle est toujours la même, de la même voix calme, assis : addition détaillée, nommer la ligne, demander le formulaire. Elle fonctionne bien au-delà des restaurants — un hôtel qui ne donne pas la chambre réservée, une excursion qui n'était pas ce qui était annoncé, une boutique qui refuse un retour, un taxi sans compteur, un bar qui refuse l'eau du robinet. Et une ligne qui existe pour vous et pas pour beaucoup d'autres visiteurs : en tant que consommateur d'un pays de l'UE, vous avez chez vous un Centre Européen des Consommateurs, qui traite gratuitement et dans votre langue les litiges transfrontaliers. Le Royaume-Uni est sorti de ce réseau depuis le Brexit. Le litige ne s'arrête donc pas à la porte d'embarquement — il rentre à la maison avec vous, et c'est la raison pour laquelle les six mots peuvent se dire si calmement à table.",
+        "titulo": "La «hoja de reclamaciones» e il gradino successivo",
+        "corpo": "Un modulo ufficiale in triplice copia: una per te, una per il locale, una per l'autorità di consumo della regione autonoma — cioè per l'ente che controlla e autorizza il locale. È regolato a livello regionale, quindi il modulo non ha ovunque lo stesso aspetto, ma gli obblighi sono ovunque gli stessi: tenerlo, consegnarlo immediatamente e gratuitamente su richiesta, e segnalarlo con un cartello visibile. Rifiutarsi di consegnarlo è un'infrazione di per sé, indipendentemente da chi abbia ragione nel merito. Non citiamo volutamente alcun importo di sanzione: sono fissati per regione, non sono armonizzati, e le fasce che circolano nelle fonti giuridiche secondarie sono troppo ampie per essere pronunciate. Lo stesso per il termine di risposta di dieci giorni spesso citato. La scala è sempre la stessa, con la stessa voce calma, da seduto: conto dettagliato, nominare la riga, chiedere il modulo. Funziona ben oltre i ristoranti — un hotel che non dà la camera prenotata, un'escursione che non era quella annunciata, un negozio che rifiuta un reso, un taxi senza tassametro, un bar che rifiuta l'acqua del rubinetto. E una riga che esiste per te e non per molti altri visitatori: in quanto consumatore di un paese UE, hai a casa un Centro Europeo dei Consumatori, che tratta gratuitamente e nella tua lingua le controversie transfrontaliere. Il Regno Unito è uscito da questa rete dopo la Brexit. La controversia non si ferma quindi al gate d'imbarco — torna a casa con te, ed è la ragione per cui le sei parole si possono dire così tranquillamente a tavola.",
         "exemplos": [
           {
             "es": "La hoja de reclamaciones, por favor.",
-            "pt": "la O-kha dé rré-kla-ma-SSIO-néss — le h se tait, le j gratte au fond de la gorge"
+            "pt": "la O-kha de rre-kla-ma-SSIO-nes — la h è muta, la j raschia in fondo alla gola"
           },
           {
             "es": "Es obligatorio tenerla. Si no, llamo a la policía local.",
-            "pt": "o-bli-ga-TO-rio — le dernier échelon, celui dont vous n'aurez presque jamais besoin"
+            "pt": "o-bli-ga-TO-rio — l'ultimo gradino, quello che quasi mai ti servirà"
           }
         ]
       },
       {
-        "titulo": "Les sons de cette addition qui vous trahissent — et ceux qui ne vous coûtent rien",
-        "corpo": "Cette addition met en jeu quelques sons, et il vaut la peine de trier ceux qui vous coûtent de ceux qui vous sont offerts. D'abord ce qui est gratuit, pour ne pas y perdre une minute : le h se tait — «hay», «hoja», «hecho», la lettre est là et ne sonne pas, exactement comme chez vous ; le qu se lit k — «quince» ; et le c devant e/i comme le z ne sont jamais un «ts» : «doce», «trece», «cincuenta», «gracias», «servicio» se disent avec un s, entre les dents à la péninsule, un s tout simple aux Canaries — et ce s tout simple vous est offert. Ce qui vous coûte, maintenant, et c'est ailleurs. Le premier, décisif, est la jota : le j de «hoja», de «tarjeta», de «reclamaciones» — un son que vous n'avez pas. Ce n'est pas le j de «jour» ; ça gratte au fond de la gorge, à l'endroit même de votre r. Qui lit «hoja» comme «oja» perd justement la phrase qui clôt la discussion. Le deuxième, le ch : en espagnol c'est un «tch», avec un t devant — «hecho» se dit «étcho», pas «écho». Le troisième, les fins de mots : le français avale le -e final et le -s ; ici «doce» garde son -e et «euros» son -s. La transcription sous chaque ligne écrit donc kh pour la jota, tch pour le ch et b pour le v — c'est une aide pour l'œil, elle ne va jamais à l'enregistrement ; ce qui fait foi, c'est toujours Carmen et Emilio. Un cas à part, qui n'est pas une consonne : «euro». Chez vous, «eu» fait le son de «peur» ; en espagnol, ce sont deux voyelles, e puis u, et c'est pourquoi la transcription écrit É-ou-ross et non EU-ross.",
+        "titulo": "I suoni di questo conto che ti tradiscono — e quelli che non ti costano niente",
+        "corpo": "Questo conto mette in gioco qualche suono, e vale la pena separare quelli che ti costano da quelli che ti sono regalati. Prima ciò che è gratis, per non perderci un minuto: la h è muta — «hay», «hoja», «hecho», la lettera c'è e non suona, esattamente come da te; il qu si legge k — «quince»; le vocali finali si dicono tutte, la -e di «doce» e la -s di «euros» restano intere, perché tu non mangi le finali come fa il francese; e «euro» lo dici uguale, è la stessa parola, «eu» con le due vocali. Poi ciò che ti costa. Il primo, decisivo, è la jota: la j di «hoja», di «tarjeta», di «reclamaciones» — un suono che non hai. Non è la `i` di «ieri» né la `gi` di «Giovanni»; raschia in fondo alla gola — e attento, non dove sta la tua r, che è sulla punta della lingua: è più indietro, come il «ch» del tedesco «Bach» o come schiarirsi la voce. Chi legge «hoja» come «oia» perde proprio la frase che chiude la discussione. Il secondo, il ch: in spagnolo è un «tch», il suono che hai già nel `ci` di «ciao» — è solo la lettera che inganna, perché in italiano ⟨ch⟩ vale [k]; «hecho» si dice «écio», non «eko». Il terzo non è una consonante nuova, è un riflesso da spegnere: la c davanti a e/i e la z non sono mai un «ci» né un «ts». «doce», «trece», «cincuenta», «gracias», «servicio» si dicono con un soffio — una s tra i denti nella penisola, una s semplice alle Canarie —, e quel soffio sai già farlo; il lavoro è solo togliere l'affricata che ti viene istintiva. Un'ultima, la s tra due vocali: al Nord la fai suonare come una z («rezervado»), ma qui resta sorda, «reservado». La trascrizione sotto ogni riga scrive quindi kh per la jota, `ci` per il ch e b per la v — è un aiuto per l'occhio, non va mai alla registrazione; a fare fede sono sempre Carmen ed Emilio.",
         "exemplos": [
           {
             "es": "doce · trece · catorce · quince",
-            "pt": "DO-ssé · TRÉ-ssé · ka-TOR-ssé · KIN-ssé — un s, jamais un «ts»"
+            "pt": "DO-se · TRE-se · ka-TOR-se · KIN-se — un soffio, mai un «ci»"
           },
           {
             "es": "Ya está hecho.",
-            "pt": "ya es-TA É-tcho — le h se tait, et le ch est un «tch»"
+            "pt": "ia es-TA E-cio — la h è muta, e il ch è il `ci` di «ciao», non «eko»"
           }
         ]
       }

@@ -4,50 +4,50 @@
   "nivel": "avancado",
   "numero": 30,
   "parte": "30",
-  "titulo": "De quoi ils rient — et la blague que vous, vous pouvez faire",
-  "subtitulo": "L'insulte par-dessus la table est de l'affection, la politesse soudaine est une barrière — et la blague la plus sûre du voyage, c'est celle sur vous-même",
+  "titulo": "Di che cosa ridono — e la battuta che potete fare voi",
+  "subtitulo": "L'insulto sopra il tavolo è affetto, la cortesia improvvisa è una barriera — e la battuta più sicura del viaggio è quella su voi stessi",
   "moldura": "ganha",
 
-  "cena": "Dix heures du soir, six autour d'une table ; l'homme en face de vous vient de traiter son plus vieil ami d'âne, en pleine figure, tout le monde rit — et le seul qu'ils regardent en riant, c'est vous.",
+  "cena": "Le dieci di sera, sei persone attorno a un tavolo; l'uomo di fronte a voi ha appena dato dell'asino al suo amico più vecchio, in piena faccia, ridono tutti — e l'unico che guardano mentre ridono siete voi.",
 
-  "decisao": "si les deux prochaines secondes sont un rire ou une excuse — la table lit cette seule réaction et règle le reste de la soirée dessus, et deux semaines de tablées en dépendent",
+  "decisao": "se i prossimi due secondi sono una risata o una scusa — il tavolo legge solo quella reazione e ci regola sopra il resto della serata, e due settimane di tavolate dipendono da lì",
   "emJogo": "tempo",
 
-  "frasePiso": "Vous entendez une insulte tomber sur une table espagnole et vous savez que c'était de l'affection. La plupart des convives y voient une dispute et se taisent pour le reste de la soirée.",
+  "frasePiso": "Sentite un insulto cadere su un tavolo spagnolo e sapete che era affetto. La maggior parte dei commensali ci vede un litigio e sta zitta per il resto della serata.",
 
-  "permissao": "Vous avez le droit de rire de quelque chose que vous n'avez pas compris — le rire est la réponse, et personne ne vérifie si vous avez saisi la blague. Vous avez le droit de faire la blague sur vous-même, dès le premier jour, dans n'importe quel bar, et elle ne rate jamais. Et personne n'attend que vous rendiez l'insulte : sauter ce tour ne vous coûte rien du tout.",
+  "permissao": "Avete il diritto di ridere di qualcosa che non avete capito — la risata è la risposta, e nessuno controlla se avete afferrato la battuta. Avete il diritto di fare la battuta su voi stessi, dal primo giorno, in qualunque bar, e non fa mai cilecca. E nessuno si aspetta che restituiate l'insulto: saltare quel giro non vi costa proprio nulla.",
   "permissaoAudioKey": "a02-n27",
 
-  "espelho": "Rendre la vanne trop tôt, comme si vous étiez déjà de la maison, c'est ça qui se remarque là-bas. Sortie d'une bouche sans histoire derrière, la même phrase arrive comme ce qu'elle dit, pas comme le jeu — et l'histoire qui voulait grandir meurt en une phrase.",
+  "espelho": "Restituire lo sfottò troppo presto, come se foste già di casa, è questo che si nota laggiù. Uscita da una bocca senza una storia dietro, la stessa frase arriva come ciò che dice, non come il gioco — e la storia che voleva crescere muore in una frase.",
 
   "fichasCulturais": [
     {
-      "sinal": "Deux amis à la table d'à côté s'insultent par-dessus les assiettes, fort, et quatre minutes plus tard ils partagent l'addition et sortent bras dessus, bras dessous.",
-      "suaLeitura": "Ça a dégénéré. L'un des deux va sortir en trombe, et je suis assis à un mètre.",
-      "oQueEAli": "Entre gens qui se connaissent déjà, l'insulte est la preuve de la proximité : elle va à celui dont on est le plus sûr, et elle se rend au lieu de se prendre mal. Ce qui la porte se voit — le volume monte, les yeux restent doux, et quelqu'un embraie en moins d'une seconde.",
-      "oQueVoceFaz": "Rire avec eux, continuer à manger, et ne rendre le mot à personne.",
-      "oQueMelhora": "Vous cessez de prendre la chaleur pour une dispute, et vous ne vous taisez pas au moment précis où la table a décidé que vous en êtes.",
-      "ondeNaoVale": "Pas de votre bouche et pas la première semaine : le même mot, d'un visiteur, n'a aucune histoire derrière et arrive comme ce qu'il dit. Et pas au comptoir, au guichet ou à la pharmacie, où la personne devant vous fait un travail et n'est pas votre ami.",
+      "sinal": "Due amici al tavolo accanto si insultano sopra i piatti, forte, e quattro minuti dopo dividono il conto ed escono a braccetto.",
+      "suaLeitura": "È degenerata. Uno dei due si alzerà di scatto, e io sono seduto a un metro.",
+      "oQueEAli": "Tra persone che già si conoscono, l'insulto è la prova della vicinanza: va a quello di cui si è più sicuri, e si restituisce invece di prendersela. Quello che lo regge si vede — il volume sale, gli occhi restano dolci, e qualcuno rilancia in meno di un secondo.",
+      "oQueVoceFaz": "Ridere con loro, continuare a mangiare, e non restituire la parola a nessuno.",
+      "oQueMelhora": "Smettete di scambiare il calore per un litigio, e non state zitti proprio nel momento in cui il tavolo ha deciso che ci siete anche voi.",
+      "ondeNaoVale": "Non dalla vostra bocca e non la prima settimana: la stessa parola, da un visitatore, non ha nessuna storia dietro e arriva come ciò che dice. E non al bancone, allo sportello o in farmacia, dove chi avete davanti fa un lavoro e non è vostro amico.",
       "evidencia": "CONSENSO",
       "audioKeys": ["a02-n24", "a02-n25", "a02-n26"]
     },
     {
-      "sinal": "La voix s'aplatit, les phrases raccourcissent, et quelqu'un qui vous tutoyait encore quatre minutes plus tôt se met soudain à vous vouvoyer.",
-      "suaLeitura": "Il est devenu formel, donc respectueux, et je continue simplement comme avant.",
-      "oQueEAli": "La politesse qui arrive d'un coup, au milieu d'une conversation détendue, c'est une porte qui se referme sans bruit. La formalité est le message ; les mots posés dessus ne le sont pas.",
-      "oQueVoceFaz": "Changez de sujet à la phrase suivante, gardez la voix et le visage exactement là où ils étaient, et ne vous excusez pas de la dernière phrase.",
-      "oQueMelhora": "La température revient en une minute et la soirée repart, parce que vous l'avez lu du premier coup plutôt que du troisième.",
-      "ondeNaoVale": "Pas chez quelqu'un qui vous vouvoie depuis le bonjour — la pharmacie, un serveur plus âgé, la réception de l'hôtel. Là, c'est le ton dans lequel il travaille, et ça ne veut rien dire.",
+      "sinal": "La voce si appiattisce, le frasi si accorciano, e qualcuno che quattro minuti prima vi dava del tu, di colpo comincia a darvi dell'«usted».",
+      "suaLeitura": "È diventato formale, quindi rispettoso, e io continuo semplicemente come prima.",
+      "oQueEAli": "La cortesia che arriva di colpo, in mezzo a una conversazione rilassata, è una porta che si richiude senza rumore. La formalità è il messaggio; le parole che ci mette sopra non lo sono.",
+      "oQueVoceFaz": "Cambiate argomento alla frase dopo, tenete la voce e la faccia esattamente dov'erano, e non scusatevi dell'ultima frase.",
+      "oQueMelhora": "La temperatura torna in un minuto e la serata riparte, perché l'avete letta al primo colpo invece che al terzo.",
+      "ondeNaoVale": "Non con chi vi dà dell'«usted» fin dal saluto — la farmacia, un cameriere più anziano, la reception dell'hotel. Lì è il tono in cui lavora, e non vuol dire niente.",
       "evidencia": "CONSENSO",
       "audioKeys": ["a02-n11", "a02-n12", "a02-n13"]
     },
     {
-      "sinal": "Quelqu'un à la table dit le mot guiri à votre sujet, et il se fait une pause d'environ une seconde où tout le monde regarde comment vous le prenez.",
-      "suaLeitura": "On vient de me traiter de quelque chose et je n'ai aucune idée de sa gravité.",
-      "oQueEAli": "C'est le mot de tous les jours pour un visiteur du nord de l'Europe, décerné pour les sandales et le coup de soleil, pas pour la personne, et la pause, c'est la table qui vérifie si vous le prenez avec humour.",
-      "oQueVoceFaz": "Dites-le d'abord sur vous-même, avec un haussement d'épaules, et continuez à parler tout droit.",
-      "oQueMelhora": "Une phrase, et la table ne vous traite plus avec précaution — et c'est la seule blague du premier jour où il n'y a pas d'histoire que vous pourriez viser à côté.",
-      "ondeNaoVale": "Pas d'un inconnu qui vous le lance dans la rue : le même mot, pas de table, pas de pause, rien à rendre. Là, vous passez votre chemin.",
+      "sinal": "Qualcuno al tavolo dice la parola guiri a proposito di voi, e si fa una pausa di circa un secondo in cui tutti guardano come la prendete.",
+      "suaLeitura": "Mi hanno appena dato di qualcosa e non ho idea di quanto sia grave.",
+      "oQueEAli": "È la parola di tutti i giorni per un visitatore del nord Europa, appioppata per i sandali e la scottatura, non per la persona, e la pausa è il tavolo che controlla se la prendete con ironia.",
+      "oQueVoceFaz": "Ditelo prima voi su voi stessi, con un'alzata di spalle, e andate avanti a parlare dritti.",
+      "oQueMelhora": "Una frase, e il tavolo non vi tratta più con i guanti — ed è l'unica battuta del primo giorno in cui non c'è nessuna storia che potreste mancare.",
+      "ondeNaoVale": "Non da uno sconosciuto che ve la lancia per strada: la stessa parola, nessun tavolo, nessuna pausa, niente da restituire. Lì tirate dritto.",
       "evidencia": "CONSENSO",
       "audioKeys": ["a02-guiri-e", "a02-n21"]
     }
@@ -56,8 +56,8 @@
   "fatosDatados": [
     {
       "id": "guiri-registro",
-      "afirmacao": "Guiri est le mot de tous les jours pour un visiteur du nord de l'Europe. Il se dit le plus souvent sans hostilité et souvent avec affection, et ce n'est pas une insulte.",
-      "fonte": "docs/pesquisa-espanha.md §7.8 — «Guiri : argot pour les touristes d'Europe du Nord, normalement sans hostilité, parfois affectueux» ; et §3, qui enregistre le même terme comme taquinerie, pas comme insulte",
+      "afirmacao": "«Guiri» è la parola di tutti i giorni per un visitatore del nord Europa. Si dice il più delle volte senza ostilità e spesso con affetto, e non è un insulto.",
+      "fonte": "docs/pesquisa-espanha.md §7.8 — «Guiri: gergo per i turisti del Nord Europa, normalmente senza ostilità, a volte affettuoso»; e §3, che registra lo stesso termine come presa in giro, non come insulto",
       "ano": 2026,
       "revisarAte": "2029-01-01",
       "evidencia": "CONSENSO",
@@ -66,8 +66,8 @@
     },
     {
       "id": "insulto-jocoso-peninsular",
-      "afirmacao": "Insulter un ami en face, devant d'autres, est décrit pour l'espagnol péninsulaire comme une marque de proximité et non comme une offense — et les mêmes mots, venant de quelqu'un hors du groupe, ne portent pas cette lecture.",
-      "fonte": "Recherche en pragmatique sur des corpus de conversations espagnoles courantes, connue sous le nom de mock impoliteness ; synthèse secondaire sans source primaire vérifiée. La recherche du SKU ne couvre PAS ceci : la taquinerie attestée en §3 porte sur le mot guiri, pas sur l'insulte entre amis. JAMAIS citée dans l'audio, seulement dans l'aprofundar",
+      "afirmacao": "Insultare un amico in faccia, davanti ad altri, è descritto per lo spagnolo peninsulare come un segno di vicinanza e non come un'offesa — e le stesse parole, da qualcuno fuori dal gruppo, non portano questa lettura.",
+      "fonte": "Ricerca di pragmatica su corpus di conversazioni spagnole correnti, nota come mock impoliteness; sintesi secondaria senza fonte primaria verificata. La ricerca dello SKU NON copre questo: la presa in giro attestata in §3 riguarda la parola guiri, non l'insulto tra amici. MAI citata nell'audio, solo nell'approfondimento",
       "ano": 2026,
       "revisarAte": "2029-01-01",
       "evidencia": "CONSENSO",
@@ -76,8 +76,8 @@
     },
     {
       "id": "usted-como-distancia",
-      "afirmacao": "En Espagne, tú est le réglage par défaut dans les scènes touristiques, et usted est ce qui marque la distance — un passage à usted au milieu d'une conversation détendue se lit donc comme une distance rétablie, pas comme un respect qui arrive.",
-      "fonte": "docs/pesquisa-espanha.md §4.1 — «`tú` est le réglage par défaut en Espagne» et le `usted` scolaire «ne vexe pas, mais crée de la distance». La lecture du CHANGEMENT en pleine conversation est une extension de ce registre attesté, par synthèse secondaire de la pragmatique, sans source primaire vérifiée — jamais dit comme une étude dans l'audio, et aucun nom d'universitaire ne passe à l'antenne",
+      "afirmacao": "In Spagna, «tú» è l'impostazione di default nelle scene turistiche, e «usted» è ciò che segna la distanza — un passaggio a «usted» in mezzo a una conversazione rilassata si legge quindi come una distanza ristabilita, non come un rispetto che arriva.",
+      "fonte": "docs/pesquisa-espanha.md §4.1 — «`tú` è l'impostazione di default in Spagna» e l'`usted` scolastico «non offende, ma crea distanza». La lettura del CAMBIO in piena conversazione è un'estensione di questo registro attestato, per sintesi secondaria della pragmatica, senza fonte primaria verificata — mai detto come uno studio nell'audio, e nessun nome di accademico va in onda",
       "ano": 2026,
       "revisarAte": "2029-01-01",
       "evidencia": "CONSENSO",
@@ -87,16 +87,16 @@
   ],
 
   "_notas": {
-    "_": "PARTE ESCRITA EM FRANCÊS (o andaime alemão saiu). A fala espanhola é ativo de DESTINO: nenhum campo `es`, `audioKey` ou `tts` foi tocado — os 14 audioKey espanhóis herdados do par base (`e03a-cana-e` e os treze `a02-*-c/e`) e os mp3 em disco continuam intactos, zero clipe espanhol novo, zero dependência cross-part. O que este SKU paga aqui é a narração-guia FRANCESA (GuiaFem educadora + GuiaMasc de alertas) e os 6 prompts. LEIO A SALA: esta parte NÃO produz molde nenhum (relação com o roster é auditiva), então `moldes[]` fica AUSENTE e nenhum step declara `molde` — correto, e mantém o G15 (naming da casa) fora, porque A02 não é casa de molde algum.",
-    "voz_guia_renomeada": "As vozes-guia dos steps passaram de `Juli`/`Thomas` (resíduo do scaffold alemão) para `GuiaFem`/`GuiaMasc`, os nomes que o audio.config.json._g14.guia declara para este SKU (guiaLingua `fr`). NÃO é cosmético: o G14 (voz × língua) só confere um clipe cuja `voz` está no conjunto `guia` ou `alvo`; com `Juli`/`Thomas` a narração francesa passaria SEM SER CHECADA. GuiaFem carrega a educadora; GuiaMasc é o masculino de alertas (o bloco t01/t02/t03). Carmen e Emilio (peninsulares, alvo) intocados — não dizem uma palavra de francês.",
-    "recalibragem_do_eixo": "O eixo alemão desta parte era o comprador de OUVIDO LITERAL: o humor alemão é mais literal, então a ironia espanhola de afeto podia soar como ofensa, e o reflexo alemão era ERRAR PARA A DEFENSIVA — congelar ao ouvir, ou checar/corrigir a história ao responder. Para o francês esse eixo NÃO porta e se INVERTE (DERIVACAO-FR §4.0, §3.2; A02 = PEQUENA, `dono: destino`, porta). O francês já tem a máquina do humor de fricção — charrier/vanne/second degré é cultura de casa —, e a língua é irmã: a mesma proximidade que engana o resto do curso engana aqui pela TRANSPARÊNCIA FALSA da CULTURA. O erro do francês não é congelar, é a SOBRE-CONFIANÇA: como a cena parece exatamente a mesa dele em casa, ele se acha já dentro do jogo e é tentado a RENDER a vanne cedo demais — antes de ter a história comum que faz o insulto pousar como afeto e não como o que as palavras dizem. Por isso o ESPELHO (trava C) foi RE-DERIVADO: alemão = levar ao pé da letra e responder a sério; francês = devolver a vanne cedo demais, como se já fosse da casa. O bloco da GuiaMasc (t01/t02/t03), preso ao momento do `juro por mi madre`, carrega a mesma virada: a história pede para CRESCER, não para ser corrigida nem transformada num `discuter` de verdade; e a familiaridade de irmã é justamente o que precisa ser segurado.",
-    "falso_amigo_leve": "Nível LEIO A SALA: mais CULTURAL que ME VIRO, o peso está no reenquadre do comprador, não no falso amigo. NÃO há falso amigo lexical ancorado neste slot — `discutir`≠`discuter` (ES `discutir`=brigar) é candidato de APOIO de A04, dono do item (DERIVACAO-FR §4.2), e NÃO foi puxado para cá (não se rouba o falso amigo do vizinho). Registrado como brinde-espelho sem gastar áudio, porque encosta na cena: uma troca acalorada que o francês leria como `discuter` (conversar) o AJUDA a não ler briga — mas isso é A04. Aqui a parte é cultural + fonética brinde.",
-    "fonetica_brinde": "Toque LEVE, no aquecimento (gesto 1, o metrônomo, que para o francês é LEVE — ele já é silábico). O que a parte trai, grudado a palavras que ela já diz: (1) a TÔNICA — o francês puxa o soco para o fim, e em `BOU-rro`/`TI-o` a forte NÃO cai no fim; (2) o `ch`=[tʃ] de `cachondeo` — o `ch` francês é [ʃ] («cashondeo»), o espanhol quer [tʃ] («Tchad»); é a leitura-armadilha francesa mais limpa (moldes `interferencia_fonetica.ch`), e mora no aquecimento; (3) o `u`=[u] de `burro`, não o [y] de `tu`. A JOTA como som novo [ʒ]→[x] aparece só em clipes RECEPTIVOS (`juro`→`KHOU-ro`, `dejaste`→`dé-KHASS-té`) e é resolvida pelo respelling, não por narração: o que o aluno PRODUZ (`caña`, `anda ya`, `soy el guiri`, `hablo un poco de español muy poco`) não tem jota — `guiri` é `gui`=[gi] brinde e `español` é `ñ`=[ɲ] nativo brinde. Por isso nenhuma linha gasta áudio com jota de produção, e o G4 fica enxuto.",
-    "respelling_para_leitor_frances": "O campo `pinyin` é RE-DERIVADO para o OLHO FRANCÊS e nunca vai ao TTS (INV-6). Esquema dos modelos i07/b10: MAIÚSCULA = tônica (marca-se onde o soco NÃO cai no fim, o erro nº1 do francês) · ⟨u⟩→«ou» (o `u` francês é [y]: `una`→OU-na, `tú`→tou, `juro`→KHOU-ro, `muy`→moui) · ⟨s⟩ intervocálico, ⟨z⟩, ⟨c⟩+e,i e o `s` do [s] em geral→«ss» (bloqueia o [z] francês: `eres`→E-ress, `este`→ESS-té) · ⟨j⟩ e ⟨g⟩+e,i→«kh», souffle de gorge (`juro`→KHOU-ro, `dejaste`→dé-KHASS-té) · ⟨ch⟩→«tch» (`coche`→KO-tché, `cachondeo`→ka-tchon-DE-o) · ⟨ll⟩/⟨y⟩→«y» de `yaourt` (`llaves`→YA-bess, `ya`→ya) · ⟨v⟩→«b» (`llaves`→YA-bess, `ven`→ben) · ⟨h⟩ some (`hombre`→OM-bré) · ⟨qu⟩→«k» brinde (`quiera`→KYÉ-ra, `aquí`→a-KI) · ⟨ñ⟩→«gn» (`español`→ess-pa-GNOL, `caña`→KA-gna) · finais `-s`/`-r`/`-d`/`-e` MOSTRADOS, porque o francês os apaga (`-e` final→`-é`: `de`→dé, `coche`→KO-tché). Saíram as marcas alemãs (tsch, «ss porque s alemão é [z]», «ch de Bach»). É INFERÊNCIA e PENDÊNCIA de revisor FR-L1 + espanhol peninsular antes do áudio (DERIVACAO-FR §1, §5), em especial a jota e a tônica.",
-    "pendencia_gn_vs_nj": "Adotei `gn`=ñ (convenção DOCUMENTADA em b10 `_notas.respelling`, e o grafema francês nativo de [ɲ] — `montagne`, `agneau`), contra o `NJ` que o modelo i07 usou de fato em `ess-pa-NJOL` sem documentá-lo. Para o olho francês `gn`=[ɲ] certo, `nj`=[nʒ] errado. RECONCILIAÇÃO FLEET pendente: alinhar i07 ou este arquivo quando o revisor fechar a convenção do SKU.",
-    "g6_zero_estereotipo": "Nenhuma linha diz «os franceses são…» nem «typiquement français»: a familiaridade do francês com o charrier entra só como COMPORTAMENTO/REGISTRO («ça ressemble à votre façon de charrier», «vous vous croyez déjà dedans»), sobre `vous` e sobre a mesa, que é o que o G6 verifica. O espelho é obrigatório e está presente (campo + bloco n17/n18 + ondeNaoVale nas 3 fichas): o turista que se mete cedo demais na fricção alheia é o mesmo em toda fronteira.",
-    "pendencia_G14": "INV-5 continua exigindo conferência humana: GuiaFem e GuiaMasc narram em francês e CITAM história/palavra espanhola (é o trabalho da guia — `guiri`, `usted`, `cachondeo`), nunca a FALAM; Carmen e Emilio não dizem uma palavra de francês. Este repositório já teve o acidente do mp3 na língua errada.",
-    "metricas_estimadas": "ESTIMADO (não rodei valida-tom completo — 30 partes sendo escritas em paralelo; auto-check só neste arquivo). G4: maior clipe de narração ≈ 215 chars (prompt a02-p05), teto individual 320 — OK; média estimada ~105 chars/clipe, teto 120 — OK. G2 ganha:protege ≥2:1 (moldura `ganha`, um beat `protege` em n11). G3 6 responde (mín 4). G5 permissao presente (n27). G6 0 estereótipo. G7 espelho presente. G12: 9 pares ouvir→agir `receptivo` com `acao`, na mesma distribuição do par alemão. G14 0 divergência voz×língua. G16 gesto 1 só no 1º step. 14 chaves espanholas intactas / 0 clipe espanhol novo. Nenhum molde produzido (LEIO A SALA)."
+    "_": "PARTE RE-DERIVADA ao ITALIANO a partir do NÚCLEO (moldes.json IT + DERIVACAO-IT.md), NÃO traduzida do francês. O scaffold saiu do par FRANCÊS (narração-guia em francês); aqui a narração-guia (`pt`), a `cena`, o `pinyin` (olho italiano), a moldura, as fichas, os fatos e o `aprofundar` foram reescritos em ITALIANO. A fala espanhola é ativo de DESTINO: NENHUM campo `es`, `audioKey` ou `tts` foi tocado — os 14 audioKey espanhóis herdados do par base (`e03a-cana-e` + os treze `a02-*-c/e`) e os mp3 em disco continuam intactos, ZERO clipe espanhol novo, ZERO dependência cross-part. LEIO A SALA: esta parte NÃO produz molde (relação com o roster é auditiva), então `moldes[]` fica AUSENTE e nenhum step declara `molde` — correto, e mantém o G15 (naming da casa) fora, porque A02 não é casa de molde algum.",
+    "clipe_espanhol_novo": "NENHUM. Os 14 audioKey já existem em mp3 (`e03a-cana-e`, `a02-marchando-e`, `a02-burro-e`, `a02-llaves-c`, `a02-cachondeo-c`, `a02-usted-c`, `a02-andaya-e`, `a02-defiende-c`, `a02-contando-c`, `a02-juro-e`, `a02-guiri-e`, `a02-sientate-c`, `a02-muypoco-c`, `a02-queva-e`), herdados verbatim do par base. As narrações `a02-n*`, `a02-t*`, `a02-p*`, `a02-s00`, `a02-r01` são REGRAVAÇÃO da voz-guia em italiano (casting pendente).",
+    "vozes": "Vozes-guia = placeholders `GuiaFem` (educadora) + `GuiaMasc` (masculino de alertas, bloco t01/t02/t03), guiaLingua «it» (audio.config já em «it»; casting da voz italiana PENDENTE — áudio só grava depois). Carmen e Emilio (peninsulares, alvo) intocados e nunca falam italiano; a guia italiana CITA a palavra/história espanhola (`guiri`, `usted`, `cachondeo`, `anda ya`) e nunca a FALA. G14 (integridade voz × língua) PENDENTE — conferência humana obrigatória (este repositório já teve o acidente do mp3 na língua errada).",
+    "recalibragem_do_eixo": "O eixo alemão desta parte era o comprador de OUVIDO LITERAL: o humor alemão é mais literal, então a ironia espanhola de afeto podia soar ofensa, e o reflexo era ERRAR PARA A DEFENSIVA (congelar ao ouvir, ou corrigir a história ao responder). Para o italiano o eixo NÃO porta e se INVERTE (como no francês — DERIVACAO-IT §4.0), e AINDA MAIS FORTE: o italiano é o primo MAIS próximo do espanhol (~82% cognato) e partilha não só a máquina do humor de fricção (`sfottò`/`prendere in giro`/`battuta`) como os gestos e a mesa mediterrânea. A mesma proximidade que engana o curso inteiro engana aqui pela TRANSPARÊNCIA FALSA da CULTURA. O erro do italiano não é congelar, é a SOBRE-CONFIANÇA levada ao extremo: como a cena parece EXATAMENTE a mesa dele em casa, ele se acha já dentro do jogo — mais tentado que qualquer par a RENDER a `battuta`/`sfottò` cedo demais, antes de ter a história comum que faz o insulto pousar como afeto. Por isso o ESPELHO (trava C) foi RE-DERIVADO: alemão = levar ao pé da letra e responder a sério; italiano = devolver o sfottò cedo demais, como se já fosse da casa. O bloco da GuiaMasc (t01/t02/t03), preso ao `juro por mi madre`, carrega a virada: a história pede para CRESCER, não para ser corrigida; e a familiaridade de primo é justamente o que precisa ser segurado (t03: «assomiglia al modo in cui prendete in giro voi, vi credete già dentro»).",
+    "falso_amigo": "Nível LEIO A SALA: mais CULTURAL que ME VIRO, o peso está no reenquadre do comprador, não no falso amigo lexical. NÃO há falso amigo ancorado neste slot — `discutir`≠`discutere` (IT `discutere`=conversar/discutir neutro; ES `discutir`=BRIGAR) é candidato de APOIO de A04, dono do item (DERIVACAO-IT §4.2, moldes `falsos_amigos.discutir`), e NÃO foi puxado para cá (não se rouba o falso amigo do vizinho). Registrado como brinde-espelho sem gastar áudio, porque encosta na cena: uma troca acalorada que o italiano leria como `discutere` (conversar) o AJUDA a não ler briga — mas isso é A04. A GAG-ÂNCORA `burro` (manteiga→jumento) tem casa em ME-PONE/B11; A02 é só onde a PALAVRA `burro`=jumento aparece GRAVADA como insulto (`¡Pero qué burro eres, tío!`, a02-burro-e) — o CRÉDITO ES da gag —, mas A02 NÃO roda a gag da manteiga (não se antecipa ME-PONE). Aqui a parte é cultural + fonética brinde.",
+    "fonetica_brinde": "Toque LEVE, só no aquecimento (gesto 1, o metrônomo, que para o italiano é LEVE — ele já é silábico e paroxítono). O que a parte trai, grudado a palavras que ela já diz: (1) o `ch`=[tʃ] de `cachondeo`/`marchando`/`coche` — o italiano lê ⟨ch⟩=[k] («ka-kon-DE-o», «marKANdo», «KO-ke»); o SOM [tʃ] é NATIVO (é o `ci` de `ciao`), só a LETRA engana; é a leitura-armadilha ITALIANÍSSIMA (moldes `interferencia_fonetica.ch`) e mora no aquecimento. A JOTA [x] (som novo, sem âncora uvular) aparece só em clipes RECEPTIVOS (`juro`→KHU-ro, `dejaste`→de-KHAS-te) e é resolvida pelo respelling, não por narração: o que o aluno PRODUZ (`caña`, `anda ya`, `soy el guiri`, `hablo un poco de español muy poco`) não tem jota. BRINDES que NÃO gastam áudio (ao contrário do francês): a TÔNICA (paroxítona, cai onde o espanhol quer — `BUR-ro`/`TI-o`/`ka-cion-DE-o` batem), os FINAIS (o italiano não os come), o `u`=[u] (não o [y] francês), o `r` tap/vibrante NATIVO. Por isso o G4 fica enxuto.",
+    "respelling_para_olho_italiano": "O campo `pinyin` foi RE-DERIVADO para o OLHO ITALIANO (INFERÊNCIA — exige revisor IT-L1 + espanhol peninsular antes do áudio; DERIVACAO-IT §1). Esquema alinhado ao modelo aprovado i07: MAIÚSCULA = tônica (marcada por consistência da casa; a tônica italiana quase sempre bate) · ⟨u⟩→«u» (o u italiano já é [u]; SAIU o «ou» francês: `tú`→tu, `juro`→KHU-ro, `muy`→mui) · ⟨j⟩,⟨g+e,i⟩→«kh» (força o [x], som novo: `juro`→KHU-ro, `dejaste`→de-KHAS-te) · ⟨z⟩,⟨c+e,i⟩→«ss» (seseo aceito; bloqueia o [ts]/[tʃ] italiano) · ⟨ch⟩→«ci/ce» À ITALIANA (o [tʃ] de `ciao`; bloqueia o ⟨ch⟩=[k]: `coche`→KO-ce, `cachondeo`→ka-cion-DE-o, `marchando`→mar-CIAN-do) · ⟨ll⟩/⟨y⟩→«y» (yeísmo [ʝ]; âncora `gl` de `figlio`; bloqueia a geminada [ll]: `calla`→KA-ya, `llaves`→YA-bes) · ⟨v⟩→«b» (o ⟨v⟩ espanhol é [b]/[β]: `ven`→ben, `favor`→fa-BOR) · ⟨h⟩ some (`hombre`→OM-bre, `hablo`→A-blo) · ⟨qu⟩→«k» (`quiera`→KYE-ra, `aquí`→a-KI) · ⟨ñ⟩→«gn» (`español`→es-pa-GNOL, `caña`→KA-gna) · ⟨s⟩ inicial→«s», ⟨s⟩ intervocálico→«ss» (bloqueia o [z] do Norte) · finais MOSTRADOS por inteiro (o italiano NÃO os apaga — SAIU o «-é» francês: `de`→de, `coche`→KO-ce, `sé`→se). PEGADINHA ITALIANA CORRIGIDA vs o scaffold francês: `guiri`=[giɾi] com g DURO antes de i — o olho italiano lê ⟨gi⟩=[dʒi] (mole), então respelo «GHI-ri» (⟨gh⟩=[g] italiano de `ghiro`), NÃO o «GI-ri» francês.",
+    "g6_zero_estereotipo": "Nenhuma linha diz «os italianos são…» nem «tipicamente italiano»: a familiaridade do italiano com o `sfottò`/`prendere in giro` entra só como COMPORTAMENTO/REGISTRO («assomiglia al modo in cui prendete in giro voi», «vi credete già dentro»), sobre `voi` e sobre a mesa, que é o que o G6 verifica. O espelho é obrigatório e está presente (campo `espelho` + bloco n17/n18 + `ondeNaoVale` nas 3 fichas): o turista que se mete cedo demais na fricção alheia é o mesmo em toda fronteira, e o espanhol faz igual numa mesa em Roma.",
+    "recalibragem_lei_tu": "A barreira do `usted` (ficha 2, fato usted-como-distancia, a02-usted-c) aqui é LEITURA DE SALA (cultural), NÃO drill de tratamento: reconhecer a virada `tú`→`usted` como porta que fecha. O italiano roda a máquina `tu`/`Lei` desde criança, então a leitura está disponível de graça. NÃO é o bloco anti-`Sie` do curso alemão (isso seria o anti-padrão 9) — a recalibragem `Lei`≠`usted`, fraca e BIDIRECIONAL, vive em B02/I02, não aqui. A02 só ESCUTA a virada.",
+    "metricas_estimadas": "ESTIMADO (não rodei valida-tom — 18 partes em paralelo, auto-check só neste arquivo). G4: maior clipe de narração ≈ 200 chars (prompt a02-p01), teto individual 320 — OK; média estimada ~105 chars/clipe, teto 120 — OK. G2 ganha:protege ≥2:1 (moldura `ganha`, um beat `protege` em n11). G3 6 responde (mín 4). G5 permissao presente (n27). G6 0 estereótipo. G7 espelho presente. G14 0 divergência voz×língua (guia cita ES, não fala). G16 gesto 1 só no 1º step. 14 chaves espanholas intactas / 0 clipe espanhol novo. Nenhum molde produzido (LEIO A SALA)."
   },
 
   "steps": [
@@ -107,7 +107,7 @@
       "bloco": "aquecimento",
       "gesto": 1,
       "tom": "ganha",
-      "pt": "Échauffement : syllabes égales, une plus forte. BOU-rro. TI-o. ka-tchon-DE-o — le «ch» claque en «tch», pas le «ch» de «chat». La forte tombe où Carmen la met."
+      "pt": "Riscaldamento, dieci secondi: sillabe uguali, una più forte. BUR-ro. TI-o. ka-cion-DE-o. La «ch» spagnola è il «ci» di «ciao», mai il «ch» di «chiesa»."
     },
     {
       "tipo": "responde",
@@ -115,11 +115,11 @@
       "promptVoz": "GuiaFem",
       "bloco": "callback",
       "promptAudioKey": "a02-p01",
-      "promptPt": "Une partie entière, vous avez écouté un bar du Sud qui avale la moitié de ses sons. Le même bar, le même homme, et il vous regarde. Commandez ce que toute la rangée tient déjà en main. Parlez maintenant.",
+      "promptPt": "Per un'intera parte avete ascoltato un bar del Sud che si mangia metà dei suoni. Lo stesso bar, lo stesso uomo, e vi guarda. Ordinate quello che tutta la fila tiene già in mano. Parlate adesso.",
       "audioKey": "e03a-cana-e",
       "es": "¿Me pones una caña, por favor?",
-      "pinyin": "mé PO-ness OU-na KA-gna, por fa-BOR",
-      "pt": "le petit verre, comme toujours",
+      "pinyin": "me PO-nes U-na KA-gna, por fa-BOR",
+      "pt": "il bicchiere piccolo, come sempre",
       "consulta": ["chegar/balcao"]
     },
     {
@@ -127,10 +127,10 @@
       "voz": "Emilio",
       "audioKey": "a02-marchando-e",
       "receptivo": true,
-      "acao": "Reconnaître que le oui et l'offre sont venus ensemble. Ne pas se laisser presser — commander ou décliner au prochain souffle.",
+      "acao": "Riconoscere che il sì e l'offerta sono arrivati insieme. Non lasciarsi mettere fretta — ordinare o rifiutare al respiro dopo.",
       "es": "Marchando. ¿Algo de picar?",
-      "pinyin": "mar-TCHAN-do. AL-go dé pi-KAR",
-      "pt": "👂 «Ça arrive. Quelque chose à manger ?» — la deuxième question, avant même que le porte-monnaie soit sorti.",
+      "pinyin": "mar-CIAN-do. AL-go de pi-KAR",
+      "pt": "👂 «Arriva subito. Qualcosa da mangiare?» — la seconda domanda, prima ancora di aver tirato fuori il portafoglio.",
       "tts": "Marchando. ¿Algo de picar?"
     },
     {
@@ -138,23 +138,23 @@
       "voz": "GuiaFem",
       "audioKey": "a02-n02",
       "bloco": "cena",
-      "pt": "Dix heures du soir. Six autour d'une table, et le ton est monté depuis presque une heure."
+      "pt": "Le dieci di sera. Sei persone attorno a un tavolo, e il tono è salito da quasi un'ora."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n03",
-      "pt": "L'homme en face se tourne vers son plus vieil ami. Écoutez la salle, pas les mots."
+      "pt": "L'uomo di fronte si gira verso il suo amico più vecchio. Ascoltate la sala, non le parole."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "a02-burro-e",
       "receptivo": true,
-      "acao": "Ne pas se figer. Continuer à manger et regarder ce qui se passe dans les quatre minutes qui viennent.",
+      "acao": "Non irrigidirsi. Continuare a mangiare e guardare cosa succede nei quattro minuti che vengono.",
       "es": "¡Pero qué burro eres, tío!",
-      "pinyin": "PE-ro ké BOU-rro E-ress, TI-o",
-      "pt": "👂 pas de traduction — écoutez le volume et les visages.",
+      "pinyin": "PE-ro ke BUR-ro E-res, TI-o",
+      "pt": "👂 nessuna traduzione — ascoltate il volume e le facce.",
       "tts": "¡Pero qué burro eres, tío!"
     },
     {
@@ -162,107 +162,107 @@
       "voz": "Carmen",
       "audioKey": "a02-llaves-c",
       "receptivo": true,
-      "acao": "Ne rien renvoyer. La table observe comment vous le prenez — pas ce que vous dites.",
+      "acao": "Non restituire niente. Il tavolo osserva come la prendete — non cosa dite.",
       "es": "Anda, calla, que tú te dejaste las llaves dentro del coche.",
-      "pinyin": "AN-da, KA-ya, ké tou té dé-KHASS-té lass YA-bess DEN-tro del KO-tché",
-      "pt": "👂 toujours pas de traduction — regardez ce qui va se passer.",
+      "pinyin": "AN-da, KA-ya, ke tu te de-KHAS-te las YA-bes DEN-tro del KO-ce",
+      "pt": "👂 ancora nessuna traduzione — guardate cosa succede.",
       "tts": "Anda, calla, que tú te dejaste las llaves dentro del coche."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n04",
-      "pt": "Personne ne se dispute. Dans quatre minutes, ils partagent l'addition et sortent bras dessus, bras dessous."
+      "pt": "Nessuno litiga. Tra quattro minuti dividono il conto ed escono a braccetto."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n05",
-      "pt": "Le mot est allé à celui dont il est le plus sûr. C'est la preuve du lien, pas une blessure."
+      "pt": "La parola è andata a quello di cui è più sicuro. È la prova del legame, non una ferita."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n06",
-      "pt": "Votre première tâche ici n'est donc pas une phrase. C'est distinguer l'affection d'une barrière — et les deux ne se ressemblent pas du tout."
+      "pt": "Il vostro primo compito qui non è quindi una frase. È distinguere l'affetto da una barriera — e le due cose non si somigliano per niente."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "a02-cachondeo-c",
       "receptivo": true,
-      "acao": "Épaules qui descendent, riez avec eux. C'était le feu vert, dit tout haut, pour vous.",
+      "acao": "Spalle giù, ridete con loro. Era il via libera, detto ad alta voce, per voi.",
       "es": "Que está de cachondeo, hombre.",
-      "pinyin": "ké ess-TA dé ka-tchon-DE-o, OM-bré",
-      "pt": "👂 «Il te charrie» — quelqu'un à la table le dit tout haut, pour vous.",
+      "pinyin": "ke es-TA de ka-cion-DE-o, OM-bre",
+      "pt": "👂 «Ti sta prendendo in giro» — qualcuno al tavolo lo dice ad alta voce, per voi.",
       "tts": "Que está de cachondeo, hombre."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n07",
-      "pt": "Au pied de la lettre, ces mots sonnent comme une attaque. Ici, ce n'en est pas une."
+      "pt": "Alla lettera, quelle parole suonano come un attacco. Qui non lo sono."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n08",
-      "pt": "Trois choses voyagent avec la vanne, et vous les voyez toutes les trois depuis votre place."
+      "pt": "Tre cose viaggiano con lo sfottò, e le vedete tutte e tre dal vostro posto."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n09",
-      "pt": "Le volume monte. Les yeux restent doux. Et quelqu'un embraie en moins d'une seconde."
+      "pt": "Il volume sale. Gli occhi restano dolci. E qualcuno rilancia in meno di un secondo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n10",
-      "pt": "Si vous entendez ça, le coup est petit : rire avec eux, continuer à manger, et ne pas rendre le mot."
+      "pt": "Se sentite questo, il colpo è piccolo: ridere con loro, continuare a mangiare, e non restituire la parola."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n11",
       "tom": "protege",
-      "pt": "Maintenant l'autre cas, et il arrive tout doucement. La voix s'aplatit, les phrases raccourcissent."
+      "pt": "Adesso l'altro caso, e arriva pian piano. La voce si appiattisce, le frasi si accorciano."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "a02-usted-c",
       "receptivo": true,
-      "acao": "Pas un mot là-dessus. Changer de sujet à la phrase suivante, la voix là où elle était.",
+      "acao": "Non una parola in merito. Cambiare argomento alla frase dopo, la voce dov'era.",
       "es": "Como usted quiera.",
-      "pinyin": "KO-mo ouss-TÉD KYÉ-ra",
-      "pt": "👂 «Comme vous voudrez» — de quelqu'un qui vous tutoyait encore quatre minutes plus tôt.",
+      "pinyin": "KO-mo us-TED KYE-ra",
+      "pt": "👂 «Come desidera» — da qualcuno che quattro minuti prima vi dava ancora del tu.",
       "tts": "Como usted quiera."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n12",
-      "pt": "La politesse en plein milieu d'une conversation détendue, c'est une porte qui se referme sans bruit. La politesse est le message."
+      "pt": "La cortesia proprio in mezzo a una conversazione rilassata è una porta che si richiude senza rumore. La cortesia è il messaggio."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n13",
-      "pt": "Le coup est encore plus petit : changez de sujet, et ne vous excusez pas de la dernière phrase."
+      "pt": "Il colpo è ancora più piccolo: cambiate argomento, e non scusatevi dell'ultima frase."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n14",
       "tom": "ganha",
-      "pt": "En une minute, c'est de nouveau chaleureux — parce que vous l'avez lu du premier coup, pas du troisième."
+      "pt": "In un minuto è di nuovo caloroso — perché l'avete letto al primo colpo, non al terzo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n15",
-      "pt": "Bien. Voilà ce que vous dites quand on vous charrie par-dessus la table. Deux mots."
+      "pt": "Bene. Ecco cosa dite quando vi prendono in giro sopra il tavolo. Due parole."
     },
     {
       "tipo": "ouvir",
@@ -270,25 +270,25 @@
       "audioKey": "a02-andaya-e",
       "es": "Anda ya.",
       "pinyin": "AN-da ya",
-      "pt": "«Allez, arrête.» — plat, un demi-sourire, et vous continuez à manger.",
+      "pt": "«Ma dai.» — piatto, un mezzo sorriso, e continuate a mangiare.",
       "tts": "Anda ya."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n15b",
-      "pt": "Plat. Pas fâché, pas fort — la voix de quelqu'un qui savoure la soirée."
+      "pt": "Piatto. Non arrabbiato, non forte — la voce di chi si sta godendo la serata."
     },
     {
       "tipo": "responde",
       "voz": "Emilio",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "a02-p02",
-      "promptPt": "La table a décidé que vous ne tenez pas la chaleur, et l'homme en face vous sourit par-dessus son verre. Deux mots, plats, puis vous continuez à manger. Parlez maintenant.",
+      "promptPt": "Il tavolo ha deciso che non reggete il calore, e l'uomo di fronte vi sorride sopra il bicchiere. Due parole, piatte, poi continuate a mangiare. Parlate adesso.",
       "audioKey": "a02-andaya-e",
       "es": "Anda ya.",
       "pinyin": "AN-da ya",
-      "pt": "deux mots, et vous continuez à manger",
+      "pt": "due parole, e continuate a mangiare",
       "consulta": ["simpatia/puxar-conversa"]
     },
     {
@@ -296,43 +296,43 @@
       "voz": "Carmen",
       "audioKey": "a02-defiende-c",
       "receptivo": true,
-      "acao": "Ne rien faire. La table vient de décider que vous en êtes.",
+      "acao": "Non fare niente. Il tavolo ha appena deciso che ci siete anche voi.",
       "es": "¡Ah, que este se defiende!",
-      "pinyin": "a, ké ESS-té sé dé-FYEN-dé",
-      "pt": "👂 «Ah, il sait se défendre !» — quelqu'un d'autre, une seconde plus tard.",
+      "pinyin": "a, ke ES-te se de-FYEN-de",
+      "pt": "👂 «Ah, questo si difende!» — qualcun altro, un secondo dopo.",
       "tts": "¡Ah, que este se defiende!"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n16",
-      "pt": "Le plus grand, pour quand l'histoire s'est trouvé une troisième jambe et que toute la table le sait."
+      "pt": "Quella più grossa, per quando la storia si è gonfiata e tutto il tavolo lo sa."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "a02-contando-c",
       "es": "¡Qué me estás contando!",
-      "pinyin": "ké mé ess-TASS kon-TAN-do",
-      "pt": "«Non mais qu'est-ce que tu racontes !» — ça vise l'histoire, jamais la personne.",
+      "pinyin": "ke me es-TAS kon-TAN-do",
+      "pt": "«Ma cosa mi racconti!» — punta alla storia, mai alla persona.",
       "tts": "¡Qué me estás contando!"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n16b",
-      "pt": "Quatre mots, et ils tombent sur l'histoire. Tout le monde le dit, et personne n'en pense un mot."
+      "pt": "Quattro parole, e cadono sulla storia. Lo dicono tutti, e nessuno lo pensa davvero."
     },
     {
       "tipo": "responde",
       "voz": "Carmen",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "a02-p03",
-      "promptPt": "Un autre soir, une cour intérieure, et la femme à côté de vous jure que son oncle a servi un jour un plat de riz à un roi. Quatre mots, et savourez. Parlez maintenant.",
+      "promptPt": "Un'altra sera, un cortile interno, e la donna accanto a voi giura che suo zio una volta ha servito un piatto di riso a un re. Quattro parole, e godetevela. Parlate adesso.",
       "audioKey": "a02-contando-c",
       "es": "¡Qué me estás contando!",
-      "pinyin": "ké mé ess-TASS kon-TAN-do",
-      "pt": "sur l'histoire, pas sur elle",
+      "pinyin": "ke me es-TAS kon-TAN-do",
+      "pt": "sulla storia, non su di lei",
       "consulta": ["simpatia/puxar-conversa"]
     },
     {
@@ -340,81 +340,81 @@
       "voz": "Emilio",
       "audioKey": "a02-juro-e",
       "receptivo": true,
-      "acao": "Ne pas rectifier. Enchérir ou rire avec eux — c'est ça, le coup.",
+      "acao": "Non correggere. Rilanciare o ridere con loro — è quello il colpo.",
       "es": "Te lo juro por mi madre.",
-      "pinyin": "té lo KHOU-ro por mi MA-dré",
-      "pt": "👂 «Je te le jure sur ma mère.» — l'histoire ne rapetisse pas, elle grandit.",
+      "pinyin": "te lo KHU-ro por mi MA-dre",
+      "pt": "👂 «Te lo giuro su mia madre.» — la storia non si rimpicciolisce, cresce.",
       "tts": "Te lo juro por mi madre."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "a02-t01",
-      "pt": "ATTENTION. «Son oncle a servi du riz à un roi.» L'histoire enfle, et une envie monte : la corriger, ou renchérir pour de vrai."
+      "pt": "ATTENZIONE. «Suo zio ha servito il riso a un re.» La storia si gonfia, e sale una voglia: correggerla, o rilanciare sul serio."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "a02-t02",
-      "pt": "Le réflexe dit : ce n'est pas vrai. Le dire tout haut, et le jeu s'arrête. L'histoire ne demande pas à être vérifiée — elle demande à grandir."
+      "pt": "Il riflesso dice: non è vero. Dirlo ad alta voce, e il gioco si ferma. La storia non chiede di essere verificata — chiede di crescere."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "a02-t03",
-      "pt": "Et comme ça ressemble à votre façon de charrier, vous vous croyez déjà dedans. Votre réponse n'est pas un verdict, c'est le coup suivant. Riez avec eux."
+      "pt": "E siccome assomiglia al modo in cui prendete in giro voi, vi credete già dentro. La vostra risposta non è un verdetto, è il colpo dopo. Ridete con loro."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n17",
       "bloco": "espelho",
-      "pt": "Rendre la vanne trop tôt, comme si vous étiez déjà de la maison, c'est ça qui se remarque là-bas."
+      "pt": "Restituire lo sfottò troppo presto, come se foste già di casa, è questo che si nota laggiù."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n18",
-      "pt": "Sortie d'une bouche sans histoire derrière, la même phrase arrive comme ce qu'elle dit — et le jeu qui voulait grandir meurt en une phrase."
+      "pt": "Uscita da una bocca senza una storia dietro, la stessa frase arriva come ciò che dice — e il gioco che voleva crescere muore in una frase."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n19",
       "tom": "ganha",
-      "pt": "Et voici la blague qui est à vous pendant deux semaines, et bien la faire ne coûte rien."
+      "pt": "Ed ecco la battuta che è vostra per due settimane, e farla bene non costa niente."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n20",
-      "pt": "Elle passe sur vous. Pas sur les autres, pas sur la nourriture, pas sur un gouvernement quelconque."
+      "pt": "Passa su di voi. Non sugli altri, non sul cibo, non su un governo qualsiasi."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "a02-guiri-e",
       "es": "Soy el guiri, ya lo sé.",
-      "pinyin": "ssoy el GI-ri, ya lo ssé",
-      "pt": "«Je suis le guiri, je sais.» — dit sur soi-même, avec un haussement d'épaules.",
+      "pinyin": "soy el GHI-ri, ya lo se",
+      "pt": "«Il guiri sono io, lo so.» — detto su se stessi, con un'alzata di spalle.",
       "tts": "Soy el guiri, ya lo sé."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n21",
-      "pt": "Le mot du milieu, c'est le mot de tous les jours pour un visiteur venu du Nord. Sandales, coup de soleil, indice cinquante."
+      "pt": "La parola in mezzo è quella di tutti i giorni per un visitatore venuto dal Nord. Sandali, scottatura, protezione cinquanta."
     },
     {
       "tipo": "responde",
       "voz": "Emilio",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "a02-p04",
-      "promptPt": "Vous êtes entré dans le bar en short et indice cinquante, en octobre, et toute la rangée vous a repéré. Prenez tout le monde de vitesse. Parlez maintenant.",
+      "promptPt": "Siete entrati nel bar in pantaloncini e protezione cinquanta, a ottobre, e tutta la fila vi ha adocchiato. Battete tutti sul tempo. Parlate adesso.",
       "audioKey": "a02-guiri-e",
       "es": "Soy el guiri, ya lo sé.",
-      "pinyin": "ssoy el GI-ri, ya lo ssé",
-      "pt": "sur vous-même, avec un haussement d'épaules",
+      "pinyin": "soy el GHI-ri, ya lo se",
+      "pt": "su voi stessi, con un'alzata di spalle",
       "consulta": ["simpatia/puxar-conversa", "chegar/entrar"]
     },
     {
@@ -422,43 +422,43 @@
       "voz": "Carmen",
       "audioKey": "a02-sientate-c",
       "receptivo": true,
-      "acao": "Y aller et s'asseoir. La blague a ouvert la porte.",
+      "acao": "Andarci e sedersi. La battuta ha aperto la porta.",
       "es": "Anda, ven, siéntate aquí.",
-      "pinyin": "AN-da, ben, SSYEN-ta-té a-KI",
-      "pt": "👂 «Allez, viens, assieds-toi ici.» — une phrase, et personne ne vous traite plus avec précaution.",
+      "pinyin": "AN-da, ben, SYEN-ta-te a-KI",
+      "pt": "👂 «Dai, vieni, siediti qui.» — una frase, e nessuno vi tratta più con i guanti.",
       "tts": "Anda, ven, siéntate aquí."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n22",
-      "pt": "Il y en a une deuxième, et le plus gros, vous l'avez depuis la partie trois. Deux mots à la fin."
+      "pt": "Ce n'è una seconda, e la più grossa, ce l'avete dalla parte tre. Due parole in fondo."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "a02-muypoco-c",
       "es": "Hablo un poco de español. Muy poco.",
-      "pinyin": "A-blo oun PO-ko dé ess-pa-GNOL. moui PO-ko",
-      "pt": "«Je parle un peu espagnol. Très peu.» — votre phrase, avec le petit ajout.",
+      "pinyin": "A-blo un PO-ko de es-pa-GNOL. mui PO-ko",
+      "pt": "«Parlo un po' di spagnolo. Molto poco.» — la vostra frase, con la piccola aggiunta.",
       "tts": "Hablo un poco de español. Muy poco."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n23",
-      "pt": "Le même début que vous portez depuis la partie trois. Les deux mots de la fin font tout le travail."
+      "pt": "Lo stesso inizio che vi portate dalla parte tre. Le due parole finali fanno tutto il lavoro."
     },
     {
       "tipo": "responde",
       "voz": "Carmen",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "a02-p05",
-      "promptPt": "Quelqu'un vient de dire à toute la table que votre accent est magnifique, ce qu'il n'est pas, et six visages se tournent vers vous. Rabaissez-vous vous-même avant que les autres aient à le faire. Parlez maintenant.",
+      "promptPt": "Qualcuno ha appena detto a tutto il tavolo che il vostro accento è magnifico, cosa che non è, e sei facce si girano verso di voi. Sminuitevi da soli prima che tocchi agli altri. Parlate adesso.",
       "audioKey": "a02-muypoco-c",
       "es": "Hablo un poco de español. Muy poco.",
-      "pinyin": "A-blo oun PO-ko dé ess-pa-GNOL. moui PO-ko",
-      "pt": "la vieille phrase, avec l'ajout",
+      "pinyin": "A-blo un PO-ko de es-pa-GNOL. mui PO-ko",
+      "pt": "la vecchia frase, con l'aggiunta",
       "consulta": ["simpatia/puxar-conversa", "reparo/ingles"]
     },
     {
@@ -466,10 +466,10 @@
       "voz": "Emilio",
       "audioKey": "a02-queva-e",
       "receptivo": true,
-      "acao": "Accepter le compliment et continuer à parler. C'est exactement ce qu'achète la blague.",
+      "acao": "Accettare il complimento e continuare a parlare. È esattamente quello che compra la battuta.",
       "es": "Qué va, hombre, si te entiendo perfectamente.",
-      "pinyin": "ké ba, OM-bré, ssi té en-TYEN-do per-fek-ta-MEN-té",
-      "pt": "👂 «Mais non, je te comprends parfaitement.» — c'est exactement ce qu'achète la blague, à chaque fois.",
+      "pinyin": "ke ba, OM-bre, si te en-TYEN-do per-fek-ta-MEN-te",
+      "pt": "👂 «Ma va', ti capisco benissimo.» — è esattamente quello che compra la battuta, ogni volta.",
       "tts": "Qué va, hombre, si te entiendo perfectamente."
     },
     {
@@ -477,32 +477,32 @@
       "voz": "GuiaFem",
       "audioKey": "a02-n24",
       "bloco": "capsula",
-      "pt": "Retour aux deux de la table d'à côté. Personne n'était vexé, et personne ne tient les comptes."
+      "pt": "Torniamo ai due del tavolo accanto. Nessuno era offeso, e nessuno tiene i conti."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n25",
-      "pt": "Si vous dites le mot vous-même la première semaine, il n'a pas d'histoire derrière. Il arrive comme ce qu'il dit."
+      "pt": "Se dite voi la parola la prima settimana, non ha una storia dietro. Arriva come ciò che dice."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n26",
-      "pt": "Et jamais au comptoir ni au guichet. Qui vous sert fait son travail, n'est pas votre vieil ami."
+      "pt": "E mai al bancone né allo sportello. Chi vi serve fa il suo lavoro, non è il vostro vecchio amico."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n27",
       "bloco": "permissao",
-      "pt": "Vous avez le droit de rire de quelque chose que vous n'avez pas compris. Le rire est la réponse, et personne ne le note."
+      "pt": "Avete il diritto di ridere di qualcosa che non avete capito. La risata è la risposta, e nessuno la annota."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n28",
-      "pt": "Et personne n'attend que vous ripostiez. Sauter ce tour ne vous coûte exactement rien."
+      "pt": "E nessuno si aspetta che rilanciate. Saltare quel giro non vi costa esattamente niente."
     },
     {
       "tipo": "intro",
@@ -510,13 +510,13 @@
       "audioKey": "a02-n29",
       "bloco": "piso",
       "tom": "ganha",
-      "pt": "Vous entendez une insulte tomber sur la table et vous savez que c'était de l'affection. La plupart y voient une dispute."
+      "pt": "Sentite un insulto cadere sul tavolo e sapete che era affetto. La maggior parte ci vede un litigio."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-s00",
-      "pt": "Répétez. Fort, avec eux, voyelles franches. Les deux que vous allez utiliser :"
+      "pt": "Ripetete. Forte, con loro, vocali piene. Le due che userete:"
     },
     {
       "tipo": "shadow",
@@ -524,112 +524,112 @@
       "audioKey": "a02-andaya-e",
       "es": "Anda ya.",
       "pinyin": "AN-da ya",
-      "pt": "Allez, arrête."
+      "pt": "Ma dai."
     },
     {
       "tipo": "shadow",
       "voz": "Emilio",
       "audioKey": "a02-guiri-e",
       "es": "Soy el guiri, ya lo sé.",
-      "pinyin": "ssoy el GI-ri, ya lo ssé",
-      "pt": "Je suis le guiri, je sais."
+      "pinyin": "soy el GHI-ri, ya lo se",
+      "pt": "Il guiri sono io, lo so."
     },
     {
       "tipo": "recap",
       "voz": "GuiaFem",
       "audioKey": "a02-r01",
       "bloco": "recap",
-      "pt": "Encore une fois à voix haute, à un endroit où l'on ne s'est pas encore trouvés — et cette fois personne ne vous a dit un mot."
+      "pt": "Ancora una volta ad alta voce, in un posto dove non ci si è ancora incontrati — e stavolta nessuno vi ha detto una parola."
     },
     {
       "tipo": "responde",
       "voz": "Emilio",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "a02-p06",
-      "promptPt": "Jour neuf. La femme de l'étal vous a regardé peser deux tomates pendant une minute et vous sourit, les bras croisés. Dites-le sur vous-même. Parlez maintenant.",
+      "promptPt": "Giorno nove. La donna del banco vi ha guardato pesare due pomodori per un minuto e vi sorride, le braccia conserte. Ditelo su voi stessi. Parlate adesso.",
       "audioKey": "a02-guiri-e",
       "es": "Soy el guiri, ya lo sé.",
-      "pinyin": "ssoy el GI-ri, ya lo ssé",
-      "pt": "vous d'abord, avant que quelqu'un d'autre le fasse"
+      "pinyin": "soy el GHI-ri, ya lo se",
+      "pt": "prima voi, prima che lo faccia qualcun altro"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "a02-n30",
-      "pt": "C'est tout. Entendu, pas répété, et la blague que vous avez faite passait sur vous. Hasta luego."
+      "pt": "È tutto. Sentito, non ripetuto, e la battuta che avete fatto passava su di voi. Hasta luego."
     }
   ],
 
   "aprofundar": {
-    "titulo": "Charrier, barrières et la blague qui est à vous (lecture optionnelle)",
+    "titulo": "Sfottò, barriere e la battuta che è vostra (lettura facoltativa)",
     "secoes": [
       {
-        "titulo": "Pourquoi l'insulte est le compliment",
-        "corpo": "Les linguistes qui travaillent sur des enregistrements de conversations espagnoles courantes ont un nom pour ce qui se passe à cette table : mock impoliteness, l'impolitesse feinte. La forme de l'énoncé est une attaque — tu es un âne, tu n'es bon à rien, tais-toi — et la fonction est le contraire d'une attaque. Elle dit : notre lien est assez solide pour que je te lance ça en pleine figure devant cinq personnes, et toi comme tous les autres savez qu'il tient. Voilà pourquoi elle va à celui dont on est le plus sûr, et pourquoi la réponse polie, c'est de rendre la monnaie de la pièce, pas de se taire. Deux conséquences en découlent, et seule la seconde compte à votre table. D'abord : les mots ne sont pas une liste de vocabulaire à apprendre, parce que le sens n'est pas dedans. Ensuite, et c'est toute la raison d'être de cette partie : la lecture tient entièrement à l'histoire commune entre les deux, et un visiteur en semaine une n'en a aucune. Mêmes mots, même ton, un atterrissage tout à fait différent. Pour vous, une troisième s'ajoute, et c'est la vraie raison pour laquelle cette partie sonne autrement en français : ça ressemble tellement à votre propre façon de charrier entre amis que vous vous croyez déjà dans le jeu — et vous seriez tenté de rendre la vanne avant d'en avoir le droit. La seule chose qui manque, c'est justement cette histoire commune, et aucune semaine ne la fabrique. Qui veut lire la littérature de pragmatique cherche sous «mock impoliteness» et «descortesía de fustigación» ; l'audio n'en dit rien, parce que c'est le comportement qui est utile, pas l'étiquette.",
+        "titulo": "Perché l'insulto è il complimento",
+        "corpo": "I linguisti che lavorano su registrazioni di conversazioni spagnole correnti hanno un nome per quello che succede a quel tavolo: mock impoliteness, la scortesia finta. La forma dell'enunciato è un attacco — sei un asino, non sei buono a niente, stai zitto — e la funzione è l'opposto di un attacco. Dice: il nostro legame è abbastanza solido perché io ti lanci questo in piena faccia davanti a cinque persone, e tu come tutti gli altri sapete che tiene. Ecco perché va a quello di cui si è più sicuri, e perché la risposta educata è rendere pan per focaccia, non stare zitti. Ne discendono due conseguenze, e solo la seconda conta al vostro tavolo. Primo: le parole non sono una lista di vocaboli da imparare, perché il senso non è lì dentro. Poi, ed è tutta la ragion d'essere di questa parte: la lettura sta interamente nella storia comune tra i due, e un visitatore alla prima settimana non ne ha nessuna. Stesse parole, stesso tono, un atterraggio completamente diverso. Per voi se ne aggiunge una terza, ed è la vera ragione per cui questa parte suona diversa: assomiglia così tanto al modo in cui prendete in giro gli amici che vi credete già nel gioco — e sareste tentati di restituire lo sfottò prima di averne il diritto. La sola cosa che manca è proprio quella storia comune, e nessuna settimana la fabbrica. Chi vuole leggere la letteratura di pragmatica cerca sotto «mock impoliteness» e «descortesía de fustigación»; l'audio non ne dice niente, perché quello che serve è il comportamento, non l'etichetta.",
         "exemplos": [
           {
             "es": "¡Pero qué burro eres, tío!",
-            "pt": "PE-ro ké BOU-rro E-ress, TI-o — 👂 littéralement «quel âne tu fais», et entre vieux amis, plus proche de «espèce d'idiot, je t'adore»."
+            "pt": "PE-ro ke BUR-ro E-res, TI-o — 👂 alla lettera «che asino che sei», e tra vecchi amici, più vicino a «sei un cretino, ti voglio bene»."
           },
           {
             "es": "Anda, calla.",
-            "pt": "AN-da, KA-ya — 👂 «allez, tais-toi» — la réponse standard, en même monnaie, et le son de quelqu'un qui n'est pas vexé."
+            "pt": "AN-da, KA-ya — 👂 «ma dai, taci» — la risposta standard, pan per focaccia, e il suono di chi non è offeso."
           }
         ]
       },
       {
-        "titulo": "Anda ya, venga ya et la famille des deux mots",
-        "corpo": "«Anda ya», c'est ce que vous vous appropriez. C'est l'incrédulité avec un sourire dessus, et ça couvre tout, de l'histoire gonflée à la vanne qui vous vise : allez arrête, doucement, tu n'y crois pas toi-même. Les voisines sont «venga ya» (même travail, un peu plus appuyé), «no me digas» (non mais tu rigoles — vraie surprise plutôt qu'incrédulité) et «qué va» (mais pas du tout, pour écarter une proposition et non une personne). «¡Qué me estás contando!» est la grande, et elle vise l'histoire, jamais celui qui la raconte, ce qui la rend justement sûre : vous vous étonnez, vous n'accusez pas. Remarquez ce qu'elles ont toutes en commun : elles sont courtes, elles se disent vite, et aucune n'exige que vous ayez compris toute l'histoire. C'est ça, le point. Elles sont le son de quelqu'un qui est dans la conversation — ce qui n'est pas la même chose que quelqu'un qui l'a suivie.",
+        "titulo": "Anda ya, venga ya e la famiglia delle due parole",
+        "corpo": "«Anda ya» è ciò che fate vostro. È l'incredulità con sopra un sorriso, e copre tutto, dalla storia gonfiata allo sfottò che punta a voi: ma dai, piano, non ci credi nemmeno tu. Le vicine sono «venga ya» (stesso lavoro, un po' più marcato), «no me digas» (ma no, davvero? — vera sorpresa più che incredulità) e «qué va» (ma no, per niente, per scartare una proposta e non una persona). «¡Qué me estás contando!» è quella grossa, e punta alla storia, mai a chi la racconta, il che la rende proprio sicura: vi stupite, non accusate. Notate cosa hanno tutte in comune: sono corte, si dicono in fretta, e nessuna esige che abbiate capito tutta la storia. È questo il punto. Sono il suono di chi è dentro la conversazione — che non è la stessa cosa di chi l'ha seguita.",
         "exemplos": [
           {
             "es": "Venga ya, hombre.",
-            "pt": "BEN-ga ya, OM-bré — 👂 allez, arrête — le même mouvement avec un peu plus d'élan."
+            "pt": "BEN-ga ya, OM-bre — 👂 ma dai — lo stesso movimento con un po' più di slancio."
           },
           {
             "es": "¿No me digas?",
-            "pt": "no mé DI-gass — 👂 non mais tu rigoles ? — vraie surprise, et une réponse tout à fait bonne pour n'importe qui."
+            "pt": "no me DI-gas — 👂 ma no, davvero? — vera sorpresa, e una risposta perfettamente buona per chiunque."
           }
         ]
       },
       {
-        "titulo": "Guiri, et ce que vous en faites",
-        "corpo": "Guiri est le mot ordinaire pour un visiteur du nord de l'Europe. Ce n'est pas une insulte, il se dit le plus souvent sans hostilité et très souvent avec affection — il vit dans le même registre que «touriste» quand votre ami le dit sur vous dans la file. Il vise un look et quelques habitudes, pas une nationalité : le short en octobre, les épaules couleur boîte aux lettres, la bière à onze heures du matin, les sandales avec des chaussettes. C'est exactement pour ça que la phrase «soy el guiri, ya lo sé» marche si bien : vous ne revendiquez aucune identité, vous acquiescez à une observation sur votre short, et vous arrivez le premier. Dite une fois, en entrant, elle fait plus que des tonnes d'espagnol soigné, parce qu'elle dit à la salle que vous n'avez pas besoin d'être géré. Deux choses qu'elle ne fait pas. Ce n'est pas une excuse, donc n'y accrochez pas de «lo siento». Et ce n'est pas un permis d'employer le mot sur quelqu'un d'autre — sur un autre visiteur ça fait bizarre, et sur celui qui vous sert ça n'a aucun sens.",
+        "titulo": "Guiri, e cosa ne fate",
+        "corpo": "«Guiri» è la parola ordinaria per un visitatore del nord Europa. Non è un insulto, si dice il più delle volte senza ostilità e molto spesso con affetto — vive nello stesso registro di «turista» quando il vostro amico lo dice su di voi in fila. Punta a un look e a qualche abitudine, non a una nazionalità: i pantaloncini a ottobre, le spalle color cassetta della posta, la birra alle undici di mattina, i sandali con i calzini. È esattamente per questo che la frase «soy el guiri, ya lo sé» funziona così bene: non rivendicate nessuna identità, date ragione a un'osservazione sui vostri pantaloncini, e arrivate primi. Detta una volta, entrando, fa più di tonnellate di spagnolo curato, perché dice alla sala che non avete bisogno di essere gestiti. Due cose che non fa. Non è una scusa, quindi non attaccateci un «lo siento». E non è un permesso di usare la parola su qualcun altro — su un altro visitatore suona strano, e su chi vi serve non ha senso.",
         "exemplos": [
           {
             "es": "Soy el guiri, ya lo sé.",
-            "pt": "ssoy el GI-ri, ya lo ssé — Je suis le guiri, je sais. Une fois en entrant, avec un haussement d'épaules."
+            "pt": "soy el GHI-ri, ya lo se — Il guiri sono io, lo so. Una volta, entrando, con un'alzata di spalle."
           },
           {
             "es": "Hablo un poco de español. Muy poco.",
-            "pt": "A-blo oun PO-ko dé ess-pa-GNOL, moui PO-ko — la phrase de la partie trois, avec la blague au bout."
+            "pt": "A-blo un PO-ko de es-pa-GNOL, mui PO-ko — la frase della parte tre, con la battuta in fondo."
           }
         ]
       },
       {
-        "titulo": "Tío, hombre et les mots qui n'en sont pas",
-        "corpo": "Trois des sons les plus fréquents à une table espagnole ne portent aucun sens, et les prendre pour du sens, c'est ce qui fait sonner une conversation ordinaire comme une dispute. «Tío» et «tía» veulent dire oncle et tante dans une famille et ne veulent rien dire du tout entre amis — ce sont l'appendice en fin de phrase, à peu près le rôle de «mec», et ils sont partout. «Hombre» ne s'adresse à aucun homme : «¡hombre!» tout seul est la surprise joyeuse que quelqu'un arrive, «hombre, no» est un désaccord tout doux, et ça se dit sans arrêt à des femmes. «Venga» est la clôture passe-partout — bon d'accord, allez, c'est parti, à bientôt — et elle termine près d'un tiers des coups de fil du pays. Aucun ne vaut la peine d'être produit exprès dans les deux premières semaines ; tous valent la peine d'être reconnus, car dès que vous cessez de les entendre comme du contenu, les phrases en dessous deviennent nettement plus courtes et plus claires. Et un mot sur le volume, parce que sa place est ici : une table espagnole à plein régime est plus bruyante qu'une table de chez vous, et que plusieurs parlent en même temps n'est pas s'interrompre. Attendre poliment un trou, c'est le chemin par lequel un visiteur ne dit rien pendant deux heures.",
+        "titulo": "Tío, hombre e le parole che non lo sono",
+        "corpo": "Tre dei suoni più frequenti a un tavolo spagnolo non portano nessun senso, e prenderli per senso è ciò che fa suonare come un litigio una conversazione normale. «Tío» e «tía» vogliono dire zio e zia in una famiglia e non vogliono dire niente tra amici — sono l'appendice a fine frase, più o meno il ruolo di «bello», e sono dappertutto. «Hombre» non si rivolge a nessun uomo: «¡hombre!» da solo è la sorpresa contenta che qualcuno arrivi, «hombre, no» è un dissenso tutto morbido, e si dice in continuazione anche alle donne. «Venga» è la chiusura passe-partout — va bene, dai, andiamo, a presto — e chiude quasi un terzo delle telefonate del paese. Nessuno vale la pena di essere prodotto apposta nelle prime due settimane; tutti valgono la pena di essere riconosciuti, perché appena smettete di sentirli come contenuto, le frasi sotto diventano molto più corte e più chiare. E una parola sul volume, perché il suo posto è qui: un tavolo spagnolo a pieno regime è più rumoroso di un tavolo di casa vostra, e che parlino in più contemporaneamente non è interrompersi. Aspettare educatamente un buco è la strada per cui un visitatore non dice niente per due ore.",
         "exemplos": [
           {
             "es": "Que está de cachondeo, hombre.",
-            "pt": "ké ess-TA dé ka-tchon-DE-o, OM-bré — 👂 il te charrie — la phrase que quelqu'un de bienveillant dit pour vous."
+            "pt": "ke es-TA de ka-cion-DE-o, OM-bre — 👂 ti sta prendendo in giro — la frase che qualcuno di benevolo dice per voi."
           },
           {
             "es": "Venga, hasta luego.",
-            "pt": "BEN-ga, ASS-ta LWE-go — 👂 bon, à bientôt — la clôture standard de presque tout."
+            "pt": "BEN-ga, AS-ta LWE-go — 👂 dai, a presto — la chiusura standard di quasi tutto."
           }
         ]
       },
       {
-        "titulo": "La barrière, et comment s'en éloigner sans boiter",
-        "corpo": "L'autre moitié de cette partie, c'est celle contre laquelle personne ne vous met en garde, parce qu'elle a l'air de bonnes manières. Quelqu'un qui vous a tutoyé toute la soirée passe au vouvoiement ; les phrases deviennent courtes et correctes ; la voix s'aplatit ; «como usted quiera» et «lo que usted diga» font surface. Ce n'est pas du respect qui arrive, c'est une porte qui se referme poliment, et dans une conversation qui était détendue une minute plus tôt, le changement lui-même est le message. La plupart du temps, ce n'est pas contre vous personnellement : vous êtes tombé sur un sujet que la table considère comme clos pour ce soir — ce dont parle de bout en bout la partie sur la vieille querelle, plus loin dans ce module. Ce qu'il faut faire est petit et doit être rapide — changez de sujet dès la phrase suivante, gardez le volume et le visage exactement là où ils étaient, et ne vous excusez pas, car une excuse nomme la chose et la grossit. Donnez-lui une minute, et la température revient d'elle-même. Le reflet vaut aussi la peine d'être retenu : si quelqu'un vous a vouvoyé dès le premier mot — la pharmacie, un serveur plus âgé, la réception de l'hôtel, quelqu'un en uniforme —, alors «usted» est simplement le registre dans lequel il travaille, et il ne porte aucun message. Le signal, c'est le changement, jamais la forme.",
+        "titulo": "La barriera, e come allontanarsene senza zoppicare",
+        "corpo": "L'altra metà di questa parte è quella contro cui nessuno vi mette in guardia, perché ha l'aria di buone maniere. Qualcuno che vi ha dato del tu tutta la serata passa all'«usted»; le frasi diventano corte e corrette; la voce si appiattisce; «como usted quiera» e «lo que usted diga» affiorano. Non è rispetto che arriva, è una porta che si richiude educatamente, e in una conversazione che era rilassata un minuto prima, il cambiamento in sé è il messaggio. Il più delle volte non è contro di voi personalmente: siete finiti su un argomento che il tavolo considera chiuso per stasera — ciò di cui parla da cima a fondo la parte sulla vecchia lite, più avanti in questo modulo. Quello che c'è da fare è piccolo e dev'essere rapido — cambiate argomento già alla frase dopo, tenete il volume e la faccia esattamente dov'erano, e non scusatevi, perché una scusa nomina la cosa e la ingrandisce. Dategli un minuto, e la temperatura torna da sola. Vale la pena tenere a mente anche il riflesso: se qualcuno vi ha dato dell'«usted» fin dalla prima parola — la farmacia, un cameriere più anziano, la reception dell'hotel, qualcuno in divisa —, allora «usted» è semplicemente il registro in cui lavora, e non porta nessun messaggio. Il segnale è il cambiamento, mai la forma.",
         "exemplos": [
           {
             "es": "Como usted quiera.",
-            "pt": "KO-mo ouss-TÉD KYÉ-ra — 👂 comme vous voudrez — poli, correct, et une porte qui se referme quand ça surgit en pleine conversation."
+            "pt": "KO-mo us-TED KYE-ra — 👂 come desidera — educato, corretto, e una porta che si richiude quando spunta in piena conversazione."
           },
           {
             "es": "Bueno, cambiando de tema…",
-            "pt": "BWE-no, kam-BYAN-do dé TE-ma — 👂 bon, pour changer de sujet — vous entendez quelqu'un le faire pour vous, et vous pouvez le faire aussi."
+            "pt": "BWE-no, kam-BYAN-do de TE-ma — 👂 be', cambiando argomento — sentite qualcuno farlo per voi, e potete farlo anche voi."
           }
         ]
       }

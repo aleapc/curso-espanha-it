@@ -4,59 +4,59 @@
   "nivel": "intermediario",
   "numero": 28,
   "parte": "28",
-  "titulo": "Personne ne calcule à table",
-  "subtitulo": "Comment on partage, on arrondit et on invite ici — les quatre mots qui laissent les pièces sur la petite assiette, et le seul rôle du voyage où le pourboire est le salaire",
+  "titulo": "Nessuno fa i conti a tavola",
+  "subtitulo": "Come si divide, si arrotonda e si offre qui — le quattro parole che lasciano le monete sul piattino, e l'unico ruolo del viaggio in cui la mancia è lo stipendio",
   "moldura": "ganha",
 
-  "cena": "Seize heures dix, un dimanche : à trois, à la fin d'un long déjeuner, vingt-huit euros soixante sur la petite assiette — et tout le monde s'est tu, à attendre ce que quelqu'un posera dessus.",
+  "cena": "Le quattro del pomeriggio, una domenica: in tre, alla fine di un lungo pranzo, ventotto euro e sessanta sul piattino — e sono tutti zitti, ad aspettare cosa qualcuno ci poserà sopra.",
 
-  "decisao": "Combien se pose au-dessus de l'addition et qui le pose — l'arrondi que laisse la table d'à côté contre le pourcentage que votre main veut calculer, sur quatorze jours et un repas sur deux ; si vous dites «séparément» avant qu'il encaisse, ou si vous calculez dix minutes après ; et s'il vous reste des pièces pour la petite assiette le jour où trois adresses sur quatre préfèrent la carte.",
+  "decisao": "Quanto si posa sopra il conto e chi lo posa — l'arrotondamento che lascia il tavolo accanto contro la percentuale che la tua mano vuole calcolare, su quattordici giorni e un pasto su due; se dici «separato» prima che incassi, o se calcoli dieci minuti dopo; e se ti restano monete per il piattino il giorno in cui tre locali su quattro preferiscono la carta.",
   "emJogo": "dinheiro",
 
   "moldes": [],
 
   "clique": {
-    "contagem": ["la terrasse", "le comptoir", "le taxi", "la place"],
-    "desconto": "Ces phrases, personne ne vous les a données. Vous avez posé une pièce et dit deux mots, sans calculer une seule fois.",
-    "piso": "Vous laissez ce que laisse la table d'à côté, sans un calcul de tête. La plupart des visiteurs paient un peu trop pendant deux semaines sur l'un des trois — pourboire, partage, carte — et ne s'en aperçoivent jamais."
+    "contagem": ["la terrazza", "il bancone", "il taxi", "la piazza"],
+    "desconto": "Queste frasi, nessuno te le ha date. Hai posato una moneta e detto due parole, senza fare i conti nemmeno una volta.",
+    "piso": "Lasci quello che lascia il tavolo accanto, senza un conto a mente. La maggior parte dei visitatori paga un po' troppo per due settimane su uno dei tre — mancia, divisione, carta — e non se ne accorge mai."
   },
   "cliqueAudioKey": "i10-n34",
 
-  "frasePiso": "Vous laissez ce que laisse la table d'à côté, sans un calcul de tête. La plupart des visiteurs paient un peu trop pendant deux semaines sur l'un des trois — pourboire, partage, carte — et ne s'en aperçoivent jamais.",
+  "frasePiso": "Lasci quello che lascia il tavolo accanto, senza un conto a mente. La maggior parte dei visitatori paga un po' troppo per due settimane su uno dei tre — mancia, divisione, carta — e non se ne accorge mai.",
 
-  "permissao": "Arrondissez. C'est tout le système, et ne rien laisser est un montant parfaitement ordinaire — ici le pourboire est un extra, pas le salaire, et personne ne repart lésé à cause de vous. Vous avez le droit de ranger le portefeuille quand une main arrête la vôtre, et de poser des billets en disant une phrase courte, sans calculer un seul pourcentage.",
+  "permissao": "Arrotonda. È tutto il sistema, e non lasciare niente è un importo perfettamente normale — qui la mancia è un extra, non lo stipendio, e nessuno se ne va rimesso per colpa tua. Hai il diritto di rimettere via il portafoglio quando una mano ferma la tua, e di posare delle banconote dicendo una frase corta, senza calcolare una sola percentuale.",
   "permissaoAudioKey": "i10-n32",
 
-  "espelho": "Calculer un pourcentage à table, c'est ça qui détonne là-bas — et chez vous aussi : personne ne sort une calculatrice au dessert. Qui calcule est celui qu'on regarde.",
+  "espelho": "Calcolare una percentuale a tavola, è quello che stona lì — e anche da te: nessuno tira fuori la calcolatrice al dolce. Chi fa i conti è quello che si guarda.",
 
   "fichasCulturais": [
     {
-      "sinal": "Les billets vont sur la petite assiette, les pièces de la monnaie restent dessus, et personne à table ne les compte ni n'en parle.",
-      "suaLeitura": "Chez moi le service est compris et c'est écrit noir sur blanc ; ici je ne trouve pas la ligne, donc je ne sais pas si j'ai déjà payé la personne ou pas.",
-      "oQueEAli": "Le personnel de salle a ici un salaire et une convention collective : ce qui reste sur l'assiette est un arrondi, pas un revenu. Sur un ticket ordinaire il n'y a pas de ligne «service» à chercher — le montant affiché est le montant, et l'arrondi est ce que vous ajoutez, ou pas.",
-      "oQueVoceFaz": "Arrondir la somme au chiffre rond, laisser, et se lever. Pas de calcul, pas d'annonce, pas d'excuse.",
-      "oQueMelhora": "Vous laissez ce que laisse la table d'à côté, et l'argent que votre main voulait donner par réflexe paie la dernière soirée.",
-      "ondeNaoVale": "Pas pour la visite vendue comme gratuite. Là, ce qui tombe dans la main à la fin est le salaire — et celui-là, on le paie bien.",
+      "sinal": "Le banconote vanno sul piattino, le monete del resto restano lì sopra, e nessuno a tavola le conta né ne parla.",
+      "suaLeitura": "Da me c'è il coperto sul conto e il servizio è dentro il prezzo; qui non trovo la riga, quindi non so se ho già pagato la persona o no.",
+      "oQueEAli": "Il personale di sala qui ha uno stipendio e un contratto collettivo: quello che resta sul piattino è un arrotondamento, non un reddito. Su uno scontrino normale non c'è una riga «servizio» da cercare — la cifra scritta è la cifra, e l'arrotondamento è quello che aggiungi, o no.",
+      "oQueVoceFaz": "Arrotondare la somma alla cifra tonda, lasciare, e alzarsi. Niente conti, niente annunci, niente scuse.",
+      "oQueMelhora": "Lasci quello che lascia il tavolo accanto, e i soldi che la tua mano voleva dare per riflesso pagano l'ultima serata.",
+      "ondeNaoVale": "Non per la visita venduta come gratuita. Lì, quello che cade nella mano alla fine è lo stipendio — e quello, si paga bene.",
       "evidencia": "CONSENSO",
       "audioKeys": ["i10-n12", "i10-n13", "i10-n30"]
     },
     {
-      "sinal": "Six à table, le serveur apporte une seule addition, et vous vous dites qu'on va couper en parts égales.",
-      "suaLeitura": "On divise à parts égales, comme à la maison — donc il n'y a rien de spécial à faire.",
-      "oQueEAli": "Sur le partage vous avez raison, et c'est rare : «a partes iguales» est aussi le défaut ici, et détailler poste par poste est un frottement qui arrive peu. Ce qui change est le MOMENT — «por separado» se dit en commandant l'addition, pas une fois qu'il a encaissé.",
-      "oQueVoceFaz": "Décider avant qu'il encaisse, et le dire en une phrase — «¿Podemos pagar por separado?» — au moment où vous demandez l'addition.",
-      "oQueMelhora": "La table ne gèle pas dix minutes en fin de soirée, et le dessert ne part pas en calcul mental.",
-      "ondeNaoVale": "Au comptoir, souvent il n'y a pas d'addition avant la fin : on paie à la tournée, chacun son tour, et demander «séparément» règle un problème qui n'existe pas.",
+      "sinal": "In sei a tavola, il cameriere porta un conto solo, e ti dici che si divide in parti uguali.",
+      "suaLeitura": "Si divide in parti uguali, come a casa — quindi non c'è niente di speciale da fare.",
+      "oQueEAli": "Sulla divisione hai ragione, ed è raro: «a partes iguales» è anche il default qui, e spacchettare voce per voce è un attrito che capita poco. Quello che cambia è il MOMENTO — «por separado» si dice ordinando il conto, non dopo che ha incassato.",
+      "oQueVoceFaz": "Decidere prima che incassi, e dirlo in una frase — «¿Podemos pagar por separado?» — nel momento in cui chiedi il conto.",
+      "oQueMelhora": "Il tavolo non si blocca per dieci minuti a fine serata, e il dolce non finisce in calcoli a mente.",
+      "ondeNaoVale": "Al bancone, spesso non c'è un conto fino alla fine: si paga a giro, ognuno il suo, e chiedere «separato» risolve un problema che non esiste.",
       "evidencia": "CONSENSO",
       "audioKeys": ["i10-n04", "i10-n06"]
     },
     {
-      "sinal": "Vous payez par carte depuis le départ, sans y penser, et à la fin du déjeuner il n'y a rien à poser sur la petite assiette.",
-      "suaLeitura": "La carte passe partout, donc je n'ai pas besoin d'espèces de tout le voyage.",
-      "oQueEAli": "Carte et sans-contact sont la routine au comptoir et dans les transports ici aussi : sur ce point, aucune surprise ne vous attend. Mais la carte, elle, ne laisse rien sur l'assiette — et un bar de quartier peut n'accepter que les espèces.",
-      "oQueVoceFaz": "Garder un peu de monnaie pour l'assiette et les petits bars, et répondre net — espèces ou carte.",
-      "oQueMelhora": "Vous n'êtes pas pris de court à la caisse, et il vous reste des pièces pour le pourboire.",
-      "ondeNaoVale": "«SOLO EFECTIVO» existe dans les bars de quartier, sur les marchés et dans le taxi de rue ; et un billet de cinquante bloque le petit comptoir.",
+      "sinal": "Paghi con la carta dall'inizio, senza pensarci, e alla fine del pranzo non c'è niente da posare sul piattino.",
+      "suaLeitura": "La carta passa dappertutto, quindi non mi servono contanti per tutto il viaggio.",
+      "oQueEAli": "Carta e contactless sono la norma al bancone e sui mezzi anche qui: su questo, nessuna sorpresa ti aspetta. Ma la carta non lascia niente sul piattino — e un bar di quartiere può accettare solo i contanti.",
+      "oQueVoceFaz": "Tenere un po' di spiccioli per il piattino e i bar piccoli, e rispondere netto — contanti o carta.",
+      "oQueMelhora": "Non ti fai trovare impreparato alla cassa, e ti restano monete per la mancia.",
+      "ondeNaoVale": "«SOLO EFECTIVO» esiste nei bar di quartiere, ai mercati e nel taxi di strada; e una banconota da cinquanta blocca il piccolo bancone.",
       "evidencia": "CONSENSO",
       "audioKeys": ["i10-n19", "i10-n20"]
     }
@@ -65,7 +65,7 @@
   "fatosDatados": [
     {
       "id": "propina-pratica-por-situacao",
-      "afirmacao": "Pratique espagnole selon la situation : café ou caña au comptoir, rien ou les pièces qui reviennent avec la monnaie ; bar de quartier ou menu du jour, arrondir de cinquante centimes à un euro ; un établissement moyen qui vous a plu, cinq à dix pour cent, et la plupart des tables laissent moins ou rien ; taxi, arrondir ; porteur de valises ou personne qui fait la chambre, un à deux euros en espèces.",
+      "afirmacao": "Pratica spagnola secondo la situazione: caffè o caña al bancone, niente o le monete che tornano col resto; bar di quartiere o menù del giorno, arrotondare da cinquanta centesimi a un euro; un locale medio che ti è piaciuto, dal cinque al dieci per cento, e la maggior parte dei tavoli lascia meno o niente; taxi, arrotondare; chi porta le valigie o chi fa la camera, uno o due euro in contanti.",
       "fonte": "consenso de guias de viagem 2025–2026, registrado em docs/pesquisa-espanha.md §7.3 — a mesma seção marca o valor médio de gorjeta na Espanha como NÃO PÚBLICO (§11.3), e por isso nenhum número médio é afirmado aqui",
       "ano": 2026,
       "revisarAte": "2028-01-01",
@@ -75,7 +75,7 @@
     },
     {
       "id": "propina-nao-e-o-salario",
-      "afirmacao": "Le personnel de salle en Espagne a un salaire et une convention collective ; le pourboire est un extra, pas le revenu — c'est pourquoi ne rien laisser ne lèse personne et ne se lit pas comme une impolitesse.",
+      "afirmacao": "Il personale di sala in Spagna ha uno stipendio e un contratto collettivo; la mancia è un extra, non il reddito — per questo non lasciare niente non danneggia nessuno e non si legge come una maleducazione.",
       "fonte": "docs/pesquisa-espanha.md §7.3, apoiada no salário mínimo interprofesional (RD 126/2026) e nos convênios coletivos de hostelaria",
       "ano": 2026,
       "revisarAte": "2027-06-01",
@@ -85,7 +85,7 @@
     },
     {
       "id": "datafono-sugere-propina",
-      "afirmacao": "Les pourboires suggérés sur le ticket ou sur le terminal de carte sont facultatifs, jamais obligatoires ; l'affichage 10/15/20 pour cent est un import récent de la pratique américaine et apparaît dans les zones touristiques. Qui ne veut rien donner cherche «Otra cantidad» ou «Sin propina».",
+      "afirmacao": "Le mance suggerite sullo scontrino o sul terminale della carta sono facoltative, mai obbligatorie; la schermata 10/15/20 per cento è un'importazione recente della pratica americana e compare nelle zone turistiche. Chi non vuole dare niente cerca «Otra cantidad» o «Sin propina».",
       "fonte": "OCU, via Infobae, jul/2026 — citado em docs/pesquisa-espanha.md §7.3",
       "ano": 2026,
       "revisarAte": "2027-07-01",
@@ -95,8 +95,8 @@
     },
     {
       "id": "tarjeta-y-efectivo-en-espana",
-      "afirmacao": "En Espagne, la carte et le sans-contact sont la routine au comptoir et dans les transports, et un établissement peut légalement n'accepter que les espèces (affiche «SOLO EFECTIVO»). Une conséquence pratique tient debout toute seule : les espèces laissent quelque chose sur la petite assiette, la carte non.",
-      "fonte": "guias de campo 2026 convergentes, docs/pesquisa-espanha.md §8.2. O FATO DATADO restringe-se DELIBERADAMENTE ao lado espanhol: o par alemão apoiava a outra metade no Bundesbank (45% das transações em espécie na Alemanha, 2025), e NÃO há estatística FRANCESA de meio de pagamento coletada neste repositório — o hábito de cartão do comprador francês fica só na narração, sem número, que é a mesma decisão tomada em ep-b10.json. DERIVACAO-FR §3.3 item 1",
+      "afirmacao": "In Spagna, la carta e il contactless sono la norma al bancone e sui mezzi, e un locale può legalmente accettare solo i contanti (cartello «SOLO EFECTIVO»). Una conseguenza pratica sta in piedi da sola: i contanti lasciano qualcosa sul piattino, la carta no.",
+      "fonte": "guias de campo 2026 convergentes, docs/pesquisa-espanha.md §8.2. O FATO DATADO restringe-se DELIBERADAMENTE ao lado espanhol: o par alemão apoiava a outra metade no Bundesbank (45% das transações em espécie na Alemanha, 2025); NÃO há estatística ITALIANA de meio de pagamento coletada neste repositório — a Itália usa MAIS espécie que a França (DERIVACAO-IT §3.3 item 1), mas o número exato não foi coletado, então o hábito do comprador italiano fica só na narração, sem número, a mesma decisão tomada em ep-b10.json. DERIVACAO-IT §3.3 item 1",
       "ano": 2026,
       "revisarAte": "2028-01-01",
       "evidencia": "FATO",
@@ -105,7 +105,7 @@
     },
     {
       "id": "guia-de-tour-a-unica-expectativa-real",
-      "afirmacao": "La visite proposée comme gratuite est le seul rôle en Espagne où il existe une attente réelle : sur une visite annoncée gratuite, le pourboire est le salaire.",
+      "afirmacao": "La visita proposta come gratuita è l'unico ruolo in Spagna in cui esiste un'aspettativa reale: su una visita annunciata gratuita, la mancia è lo stipendio.",
       "fonte": "consenso de fontes secundárias 2025–2026 sobre gorjeta na Espanha, registrado em docs/pesquisa-espanha.md §7.3",
       "ano": 2026,
       "revisarAte": "2028-01-01",
@@ -116,22 +116,22 @@
   ],
 
   "_notas": {
-    "_": "PARTE ESCRITA EM FRANCÊS (o andaime alemão saiu inteiro; `cena` declarado, zero resíduo alemão). A fala espanhola é ativo de DESTINO: NENHUM campo `es`, `audioKey` ou `tts` foi tocado — os 12 audioKey espanhóis e os mp3 em disco continuam idênticos aos da parte alemã. O que este SKU paga aqui é a narração FRANCESA (GuiaFem + GuiaMasc, ambos placeholder de casting) e o respelling `pinyin` re-derivado para o olho francês.",
-    "clipe_espanhol_novo": "NENHUM, e nenhuma dependência cross-part. Os 12 audioKey espanhóis já existem em mp3 no disco, herdados do par base pelas mesmas chaves: b14-iguales-c, i10-vajunto-c, i10-todojunto-e, i10-tarjetaoefectivo-c, c02a-08, c02a-09, i10-tarjetaefectivo-e, i10-efectivo-c, i10-cambio-c, i07-graciasverdad-c, i10-invitoyo-e, i10-proxima-c. Continua NÃO se usando `Sin conversión.`/DCC: a França é Eurozona e a maquininha não oferece conversão (DERIVACAO-FR §3.3 item 1), exatamente como no par alemão.",
-    "voz_guia_renomeada": "Os steps saíram de `Juli` (resíduo do andaime alemão) para `GuiaFem`/`GuiaMasc`, que são os nomes declarados em audio.config.json._g14.guia. Não é cosmético: o G14 só confere clipe cuja `voz` está no conjunto `guia` ou `alvo` — com `Juli` a narração francesa passaria SEM SER CHECADA (mesma correção feita em ep-b10.json e ep-i07.json). A parte alemã não tinha NENHUM clipe do masculino de alertas; aqui GuiaMasc ganha DOIS steps, e sem inventar audioKey novo: reaproveita `i10-n14` (o aviso do datáfono, que já era `tom: protege`) e `i10-n19` (a precisão sobre `cambio`). É a função dele no SKU — alerta e nota de palavra (ep-b10 b10-t01/t02, ep-i07 i07-t01/t03).",
-    "reenquadre_do_comprador_FR": "O conteúdo do destino é COMPARTILHADO (gorjeta, rachar, cartão, free tour são fatos da Espanha e não mudam); o que se re-derivou é a NARRAÇÃO e cada COMPARAÇÃO com o comprador. Três inversões contra o alemão, todas com endereço na DERIVACAO-FR: (1) RACHAR DESCE DE PESO — §3.4 item 3: o cálculo item a item é controvérsia doméstica ALEMÃ; o francês já está no default espanhol de dividir `a partes iguales`, então a ficha 2 vira RECONHECIMENTO («vous avez raison sur le partage») e o que sobra de operacional é só o CALENDÁRIO da frase (`por separado` AO PEDIR a conta, não depois). Copiar o bloco alemão de `getrennt zahlen` aqui seria o anti-padrão 9. (2) A TOURNÉE SOBE no lugar — `Invito yo` / `La próxima invito yo` ganham o peso que rachar perdeu, porque o francês JÁ TEM o gesto e a aritmética em casa («c'est ma tournée», «je t'invite»): é brinde de reconhecimento, e o único trabalho é pegar a vez de verdade no dia seguinte. (3) ESPÉCIE × CARTÃO INVERTE DUAS VEZES — o alemão esperava pagar em espécie e encontrava cartão (surpresa); o francês paga com cartão por reflexo e NÃO tem surpresa nenhuma no balcão, então o beat migra para o que o cartão não faz: ele não deixa nada na assiette, e o bar de bairro com `SOLO EFECTIVO` (plantado em ep-b10, b10-n14) é que o pega. A gorjeta continua sem conflito, como no alemão, mas por outro motivo declarado: o `service compris` francês já é «arredondar / pequeno» (§3.4 item 4), então o reflexo do comprador está CERTO e o que se corrige é só o ritual de conferência — não existe linha «service» num ticket comum, e num lugar mais fino o olhar procura `servicio`.",
-    "falso_amigo_e_o_que_NAO_se_afirmou": "Esta parte é dos níveis culturais e o falso amigo aqui é LEVE, por decisão e não por esquecimento. O que ENTROU é uma PRECISÃO DE GLOSA na voz do GuiaMasc (i10-n19) e no `aprofundar` §4: «cambio», ao balcão, é a MOEDA que volta, não o «change» do bureau de change — e `Quería cambio, por favor` pede trocado, mais nada. Isso é uma afirmação sobre o que a palavra espanhola SIGNIFICA (sempre segura), não uma alegação de falso amigo catalogado: `cambio`×`change` NÃO está na lista de candidatos da DERIVACAO-FR §1.6 nem em `moldes.json._regras.falsos_amigos`, e por isso NÃO foi rotulado como faux ami no áudio. Fica NOMEADO aqui como CANDIDATO NÃO CONFERIDO para o inventário de B10, se um revisor FR-L1 o confirmar. O que se RECUSOU escrever, pelo mesmo motivo: `efectivo`×`effectif`, que ep-b10.json já nomeou e declinou — glosei `en efectivo` como «en espèces» (correto) e não afirmei o falso amigo. E `demandar`≠`demander`, que `moldes.json` pendura em QUERIA, NÃO foi gasto aqui: a cena dele é o balcão de B11/B12, e queimá-lo num redisparo roubaria a primeira aparição. O BRINDE-ESPELHO desta parte — o cognato que AJUDA, no molde de `TIRAR`=`tirer` em B10 — é `invito yo` = «c'est moi qui invite», que bate traço a traço e por isso não gasta áudio de aviso, só de reconhecimento (i10-n29).",
-    "fonetica_desta_parte": "Brinde declarado + resquício francês, como o foco do slot pede. BRINDE que a parte NOMEIA no aquecimento, porque o aluno tem de saber que não vai pagar por ele: o ⟨qu⟩=[k] — `Quédese`, `Quería` saem limpos, onde o alemão penava («kvedese») e onde a parte alemã gastava a regra de leitura inteira. Copiar aquela nota aqui é o anti-padrão 9, e ela saiu. O RESQUÍCIO que fica é o erro nº 1 do francês, a TÔNICA: `Quédese` é esdrúxula (KÉ-dé-ssé) — o pior caso possível para quem soca sempre a última sílaba — e `a partes iguales` tem o soco no meio. Por isso o `gesto` é o 3, o SOCO, que a DERIVACAO-FR §1.3 põe no centro deste par (o alemão o tinha rebaixado). Segundo resquício, só no respelling: os FINAIS apagados (`gracias`→«gracia», `a partes iguales`→«a part igual», `por favor`→«por favó»), que matam o plural. A JOTA de `junto`/`tarjeta` aparece grafada `kh` mas NÃO vira treino: a casa dela é B13 (`jamón`), e forçá-la aqui roubaria a primeira aparição de peso — mesma decisão de ep-b10.json.",
-    "respelling_para_leitor_frances": "`pinyin` RE-DERIVADO para o OLHO FRANCÊS, na convenção fixada por ep-b10 e ep-i07 (INFERÊNCIA — exige revisor FR-L1 + espanhol peninsular antes do áudio, DERIVACAO-FR §1 e §5). MAIÚSCULA = tônica · `ou` = o ⟨u⟩ espanhol [u], nunca o [y] francês (`junto`→KHOUN-to, `muchas`→MOU-tchass) · `kh` = a jota [x] (`tarjeta`→tar-KHÉ-ta) · `ss` = ⟨z⟩, ⟨c⟩+e,i e ⟨s⟩ intervocálico, sempre duro, para bloquear o [z] francês (`así`→a-SSI, `quédese`→KÉ-dé-ssé) · `b` = ⟨v⟩ (`efectivo`→é-fek-TI-bo) · `y` = ⟨ll⟩/⟨y⟩, o y de «yaourt» (`yo`→yo) · `tch` = ⟨ch⟩, nunca o «ch» de «chat» · `qu`→k (brinde) · ⟨h⟩ some · finais ESCRITOS porque o francês os come (`-s`→«ss», `-e` final→«-é»). Saíram as marcas alemãs (tsch, «ch de Bach», o ⟨v⟩=[f]). Alvo de ⟨z⟩/⟨c⟩ é [θ]; [s] aceito, [z] proibido.",
-    "redisparo_QUERIA": "QUERIA redispara aqui com encaixe NOVO `cambio` (`Quería cambio, por favor.`, i10-cambio-c), para trocar o billet de cinquante antes do fim da visita — é o que `moldes.json` promete (`QUERIA.redisparos` inclui I10, e `QUERIA.exemplos` traz «cambio, por favor»). Casa é B12 e vem antes (G9d ok); é RECALL, não casa. A raiz `moldes` fica vazia de propósito: I10 não é casa de molde nenhum, e o G16 só cobra `clique` de casa — o `clique` incluído é o fecho de três batidas do §5.2. O step do molde (i10-n24) NOMEIA a peça em francês: «le moule» (`moldes.json._regras.vocabulario_molde`), no masculino sempre, que é o cuidado de gênero que o próprio arquivo registra.",
-    "tratamento": "A recalibragem `vous`→`usted` mora em B02/I02 e NÃO se reabre aqui — o bloco anti-`Sie` do curso alemão é de OUTRO par e copiá-lo é o anti-padrão 9 (DERIVACAO-FR §3.4 item 2). Nota de par gravada na própria fala espanhola: `Quédese con el cambio` é a forma usted, certa para o cliente mais provável dela (senhor mais velho no hotel fino, motorista que desceu para o porta-malas); num bar jovem `quédate` circula e nada quebra. Isso vai no `aprofundar` §1 em UMA frase e BIDIRECIONAL, porque para o francês o tratamento é erro de segunda ordem e mole nos dois sentidos.",
-    "G6_G14": "Zero adjetivo de povo. A leitura da ficha 1 é do COMPRADOR (é o campo `suaLeitura`, por design a crença dele), a da ficha 2 é reconhecimento, e o `service compris` entra como o que ELE tem em casa — nunca como «os franceses são…». O espelho (trava C) devolve o gesto para os dois lados: ninguém saca calculadora na sobremesa, nem lá nem aqui. Nenhuma estatística de povo foi afirmada; a única que o par alemão tinha (Bundesbank) SAIU, e a francesa equivalente não foi inventada. G14: a guia francesa CITA espanhol dentro da narração francesa («Otra cantidad», «Sin propina», «a partes iguales», «por separado», «cambio», «servicio», «Hasta luego») e nunca o FALA como clipe; Carmen e Emilio não dizem uma palavra de francês. INV-5 = conferência humana obrigatória.",
+    "_": "PARTE ESCRITA EM ITALIANO (o andaime francês saiu inteiro; `cena` declarado, zero resíduo francês). A fala espanhola é ativo de DESTINO: NENHUM campo `es`, `audioKey` ou `tts` foi tocado — os 12 audioKey espanhóis e os mp3 em disco continuam idênticos aos do andaime francês (que já os herdava do par base). O que este SKU paga aqui é a narração ITALIANA (GuiaFem + GuiaMasc, ambos placeholder de casting) e o respelling `pinyin` re-derivado para o OLHO ITALIANO.",
+    "clipe_espanhol_novo": "NENHUM, e nenhuma dependência cross-part de fala espanhola nova. Os 12 audioKey espanhóis já existem em mp3 no disco, herdados do par base pelas mesmas chaves: b14-iguales-c, i10-vajunto-c, i10-todojunto-e, i10-tarjetaoefectivo-c, c02a-08, c02a-09, i10-tarjetaefectivo-e, i10-efectivo-c, i10-cambio-c, i07-graciasverdad-c, i10-invitoyo-e, i10-proxima-c. Continua NÃO se usando `Sin conversión.`/DCC: a Itália é Eurozona e a maquininha não oferece conversão (DERIVACAO-IT §3.3 item 1), exatamente como no par alemão e no francês.",
+    "voz_guia": "Os steps usam `GuiaFem`/`GuiaMasc`, os nomes declarados em audio.config.json._g14.guia para este SKU. Não é cosmético: o G14 só confere clipe cuja `voz` está no conjunto `guia` ou `alvo`. GuiaFem carrega a educadora; GuiaMasc é o masculino de alertas e ganha DOIS steps sem inventar audioKey novo — reaproveita `i10-n14` (o aviso do datáfono, `tom: protege`) e `i10-n19` (a precisão sobre `cambio`), como no par francês. Carmen e Emilio (peninsulares, alvo) intocados.",
+    "reenquadre_do_comprador_IT": "O conteúdo do destino é COMPARTILHADO (gorjeta, rachar, cartão, free tour são fatos da Espanha e não mudam); o que se re-derivou é a NARRAÇÃO ITALIANA e cada COMPARAÇÃO com o comprador. O italiano é QUASE DE DENTRO — primo mediterrâneo, com o giro (`offro io`/`la prossima tocca a me`), o dividir `a partes iguales` e o `coperto` que já cobre o serviço. NÃO é o francês traduzido: os três reenquadres contra o alemão têm endereço na DERIVACAO-IT. (1) RACHAR DESCE AINDA MAIS que no francês (§3.4): o cálculo item a item é atrito ALEMÃO; o italiano já está no default espanhol de `a partes iguales`, então a ficha 2 é RECONHECIMENTO («hai ragione sulla divisione») e o que sobra de operacional é só o CALENDÁRIO da frase (`por separado` AO PEDIR a conta). (2) O GIRO (A RODADA) SOBE no lugar — `Invito yo`/`La próxima invito yo` ganham o peso que rachar perdeu, porque o italiano JÁ TEM o gesto e a aritmética em casa (`offro io`), e o cognato bate quase idêntico: é brinde-espelho, e o único trabalho é pegar a vez de verdade no dia seguinte. (3) ESPÉCIE × CARTÃO: o italiano usa MAIS espécie que o francês (§3.3 item 1), então a surpresa do balcão é AINDA MAIS FRACA — ele não é o reflexo-cartão puro do francês; o beat migra para o que o cartão NÃO faz (não deixa nada no piattino) e para o `SOLO EFECTIVO` do bar de bairro. A gorjeta segue sem conflito, mas por motivo declarado próprio: o `coperto` italiano já cobre o serviço (§3.4), então o reflexo do comprador está CERTO e o que se corrige é só o ritual de conferência — não existe linha «servizio» num scontrino comum, e num lugar mais fino o olhar procura `servicio`.",
+    "falso_amigo_e_o_que_NAO_se_afirmou": "Esta é uma parte dos níveis CULTURAIS e o falso amigo aqui é LEVE, por decisão (I10 não está na lista de partes de falso amigo forte). O que ENTROU é uma PRECISÃO DE GLOSA na voz do GuiaMasc (i10-n19): `cambio`, ao balcão, são as MOEDAS/o resto que voltam, não «il cambio» do cambiavalute — e o italiano diz `il resto` para o troco e reserva `il cambio` para a divisa; `Quería cambio, por favor` pede `spiccioli`, mais nada. Isso é afirmação sobre o que a palavra espanhola SIGNIFICA (sempre segura), não alegação de falso amigo catalogado. CANDIDATO NÃO CONFERIDO nomeado para o inventário de B10, se um revisor IT-L1 o confirmar: `efectivo` (espécie) × `effettivo` (eficaz/real) — glosei `en efectivo`=«in contanti» (correto) e NÃO rotulei o falso amigo no áudio; é o espelho da mesma decisão que ep-b10.json tomou no francês. O BRINDE-ESPELHO desta parte — o cognato que AJUDA — é `invito yo` = `invito io`, que bate traço a traço e por isso não gasta áudio de aviso, só de reconhecimento (i10-n29). `demandar`≠`domandare` (moldes.json pendura em QUERIA) NÃO foi gasto aqui: a cena dele é o balcão de B12, e queimá-lo num redisparo roubaria a primeira aparição.",
+    "fonetica_desta_parte": "BRINDE declarado, como o foco do slot pede — e a maior inversão contra o francês. O MOTOR do B01 francês era a TÔNICA (o «soco», a oxítona que o francês trai); para o italiano isso é BRINDE PURO: a tônica é paroxítona default e o italiano lê o acento escrito, então `Quédese` (esdrúxula, KE-de-sse) e `iguales` caem certo sem programa. Copiar aquela nota é o anti-padrão 9, e ela saiu. Também são brinde o `qu`=[k] (`Quería`/`Quédese` limpos, onde o alemão penava «kveria»), o `u`=[u] (não o `ou` francês) e os FINAIS PLENOS (o italiano não come `-s`/`-e`). O RESQUÍCIO, curto: a JOTA [x] (som novo, sem âncora) em `junto`/`tarjeta` — o aquecimento reativa a MÃO DA JOTA, que é o gesto do B01 italiano (DERIVACAO-IT §1.3); o `ce_ci_z` em `gracias`/`así`; o `ch`=[k] em `muchas` (`Muchas gracias` — o ⟨ch⟩ é o `ci` de `ciao`, NUNCA o `ch`=[k] de `chiesa`); e a doppia residual (`efectivo`→tendência «effettivo»), que «soa italiano» e não vira treino. O `gesto` 3 re-deriva de SOCO (tônica, francês) para a JOTA (o motor italiano), do mesmo modo que o par alemão pôs `Gleiten` na vaga do soco — número herdado do andaime, sentido re-derivado; o número canônico da jota mora no B01 italiano, ainda por escrever (cross-part).",
+    "respelling_para_leitor_italiano": "`pinyin` RE-DERIVADO para o OLHO ITALIANO (INFERÊNCIA — exige revisor IT-L1 + espanhol peninsular antes do áudio, DERIVACAO-IT §1 e §6). Convenção: MAIÚSCULA = tônica (a paroxítona é brinde, mas a marcação ajuda o display) · `u` = o ⟨u⟩ espanhol [u], escrito DIRETO — SEM o `ou` francês, porque o u italiano já é [u] (`junto`→KHUN-to, `muchas`→MU-tchas) · `kh` = a jota [x] (som novo, âncora só regional na gorgia toscana; `tarjeta`→tar-KHE-ta) · `ss` = ⟨z⟩, ⟨c⟩+e,i e ⟨s⟩ intervocálico, sempre [s] duro, para bloquear o [ts]/[tʃ] italiano E o [z] do Norte (`gracias`→GRA-ssias, `así`→a-SSI) · `tch` = ⟨ch⟩ [tʃ], o `ci` de `ciao`, nunca o [k] de `chiesa` (`muchas`→MU-tchas) · `b` = ⟨v⟩ (o italiano distingue b/v e diria [v]; o glifo puxa ao [b] espanhol — `efectivo`→e-fek-TI-bo, `favor`→fa-BOR) · `y` = ⟨ll⟩/⟨y⟩ (`yo`→yo) · ⟨qu⟩ escrito `k`/`ke`/`ki`, DROPANDO o u, para bloquear o [kw] italiano (`Quédese`→KE-de-sse, `Quería`→ke-RI-a) · finais MANTIDOS (o italiano não come finais — brinde). Saíram as marcas francesas (`ou`, o forçar dos finais com `ss`). Alvo de ⟨z⟩/⟨c⟩ é [θ]; [s] seseo aceito, [ts]/[tʃ] proibidos.",
+    "redisparo_QUERIA": "QUERIA redispara aqui com encaixe NOVO `cambio` (`Quería cambio, por favor.`, i10-cambio-c), para trocar a nota de cinquenta antes do fim da visita — é o que `moldes.json` promete (`QUERIA.redisparos` inclui I10, e `QUERIA.exemplos` traz «cambio, por favor»). Casa é B12 e vem antes (G9d ok); é RECALL, não casa. A raiz `moldes` fica vazia de propósito: I10 não é casa de molde nenhum, e o G16 só cobra `clique` de casa — o `clique` incluído é o fecho de três batidas. O step do molde (i10-n24) NOMEIA a peça em italiano: «lo stampo» (`moldes.json._regras.vocabulario_molde`), no masculino (`lo stampo`, não `la stampa`=imprensa).",
+    "tratamento": "A recalibragem `Lei`→`usted` mora em B02/I02 e NÃO se reabre aqui — copiar o bloco anti-`Sie` do curso alemão é o anti-padrão 9 (DERIVACAO-IT §3.4). Nota de par gravada na própria fala espanhola: `Quédese con el cambio` é a forma usted, certa para o cliente mais provável dela (senhor mais velho no hotel fino, motorista que desceu para o porta-malas); num bar jovem `quédate` circula e nada quebra. Isso vai no `aprofundar` em UMA frase e BIDIRECIONAL, porque para o italiano o tratamento é erro de segunda ordem e mole nos dois sentidos (moldes.json._regras.recalibragem).",
+    "G6_G14": "Zero adjetivo de povo. A leitura da ficha 1 é do COMPRADOR (campo `suaLeitura`, por design a crença dele), a da ficha 2 é reconhecimento, e o `coperto` entra como o que ELE tem em casa — nunca como «os italianos são…». O espelho (trava C) devolve o gesto para os dois lados: ninguém saca calculadora na sobremesa, nem lá nem aqui. Nenhuma estatística de povo foi afirmada; a única que o par alemão tinha (Bundesbank) SAIU, e a italiana equivalente não foi inventada (pendência). G14: a guia italiana CITA espanhol dentro da narração italiana («Otra cantidad», «Sin propina», «a partes iguales», «por separado», «cambio», «servicio», «Hasta luego») e nunca o FALA como clipe; Carmen e Emilio não dizem uma palavra de italiano. guiaLingua `it`. INV-5 = conferência humana obrigatória.",
     "pendencias": [
-      "REVISOR FR-L1 + espanhol peninsular: todo o `pinyin` desta parte é INFERÊNCIA, em especial o glifo `kh` da jota e a marcação de tônica por MAIÚSCULA (mesma pendência aberta em ep-b10.json).",
-      "CANDIDATO NÃO CONFERIDO, nomeado para que ninguém o escreva sem fonte: `cambio` (moeda que volta) × `le change` (câmbio de divisas). Tratado aqui só como precisão de glosa, nunca rotulado faux ami no áudio. Endereço natural do inventário, se confirmado: B10.",
-      "ESTATÍSTICA FRANCESA DE MEIO DE PAGAMENTO: a narração afirma o hábito de cartão do comprador (i10-n20) SEM número, porque nenhuma fonte primária francesa foi coletada neste repositório. Se um número for desejado, é fato datado e só entra com fonte.",
-      "CASTING das duas vozes-guia francesas: enquanto `GuiaFem`/`GuiaMasc` forem `TODO-FR-…` no audio.config, nenhum clipe de narração desta parte pode ser gerado.",
-      "CROSS-PART: as referências a «la partie douze» (casa de QUERIA), «la partie quatorze» (onde `por separado` foi dado — o clipe `b14-iguales-c` confirma o endereço) e «la partie vingt-cinq» (`Muchas gracias, de verdad`, conferido em ep-i07.json) só se fecham quando B12 e B14 estiverem escritas em francês."
+      "REVISOR IT-L1 + espanhol peninsular: todo o `pinyin` desta parte é INFERÊNCIA, em especial o glifo `kh` da jota, o `tch` de `muchas` e a marcação de tônica por MAIÚSCULA (mesma pendência aberta para o esquema italiano em geral, DERIVACAO-IT §6 item 2).",
+      "CANDIDATO NÃO CONFERIDO, nomeado para que ninguém o escreva sem fonte: `efectivo` (espécie) × `effettivo` (eficaz/real). Tratado aqui só como precisão de glosa («in contanti»), nunca rotulado faux ami no áudio. Endereço natural do inventário, se confirmado: B10.",
+      "ESTATÍSTICA ITALIANA DE MEIO DE PAGAMENTO: a narração afirma que a Itália usa mais espécie que a França (i10-n20, sem número), porque nenhuma fonte primária italiana de meio de pagamento foi coletada neste repositório. Se um número for desejado, é fato datado e só entra com fonte (DERIVACAO-IT §6 item 3).",
+      "CASTING das duas vozes-guia italianas: enquanto `GuiaFem`/`GuiaMasc` forem placeholder no audio.config, nenhum clipe de narração desta parte pode ser gerado.",
+      "CROSS-PART: as referências a «la parte dodici» (casa de QUERIA), «la parte quattordici» (onde `por separado` foi dado — o clipe `b14-iguales-c` confirma o endereço) e «la parte venticinque» (`Muchas gracias, de verdad`, conferido pelo clipe `i07-graciasverdad-c`) só se fecham quando B12, B14 e I07 estiverem escritas em italiano; e o número do gesto da jota no B01 italiano confirma o `gesto: 3` reusado aqui."
     ]
   },
 
@@ -143,13 +143,13 @@
       "bloco": "aquecimento",
       "gesto": 3,
       "tom": "ganha",
-      "pt": "Échauffement, dix secondes. L'appui ne tombe pas au bout : KÉ-dé-ssé, i-GWA-less. Le «qu» se dit k : ça, c'est cadeau."
+      "pt": "Riscaldamento, dieci secondi. L'accento cade dove lo vedi, e il «qu» si dice k: KE-de-sse, ke-RI-a — tutto regalo. L'unica che paghi è la jota, dal fondo della gola: KHUN-to."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n01b",
-      "pt": "Le poing frappe une fois, sur la syllabe forte. Trois de plus, à voix haute : KÉ-dé-ssé, KÉ-dé-ssé."
+      "pt": "La mano raschia la gola una volta, sulla jota. Altre tre, a voce alta: KHUN-to, tar-KHE-ta."
     },
     {
       "tipo": "responde",
@@ -159,61 +159,61 @@
       "consulta": ["pagar/rachar"],
       "tom": "ganha",
       "promptAudioKey": "i10-p01",
-      "promptPt": "Vous êtes trois, une seule addition, et personne ne veut recompter qui a pris la deuxième bière. Dites-lui comment la faire. Parlez maintenant.",
+      "promptPt": "Siete in tre, un conto solo, e nessuno vuole rimettersi a contare chi ha preso la seconda birra. Digli come farlo. Parla adesso.",
       "audioKey": "b14-iguales-c",
       "es": "Pagamos a partes iguales.",
-      "pinyin": "pa-GA-moss a PAR-tess i-GWA-less",
-      "pt": "une seule somme, coupée en parts égales"
+      "pinyin": "pa-GA-mos a PAR-tes i-GWA-les",
+      "pt": "una somma sola, divisa in parti uguali"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n02",
       "bloco": "cena",
-      "pt": "Seize heures dix, dimanche. À trois, un long déjeuner, et la petite assiette avec le ticket vient d'atterrir."
+      "pt": "Le quattro del pomeriggio, domenica. In tre, un lungo pranzo, e il piattino con lo scontrino è appena atterrato."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n03",
-      "pt": "Vingt-huit euros soixante. Tout le monde s'est tu, et une main sort déjà le téléphone pour calculer quelque chose."
+      "pt": "Ventotto euro e sessanta. Sono tutti zitti, e una mano tira già fuori il telefono per calcolare qualcosa."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n04",
-      "pt": "À la table d'à côté, personne ne fait ça. Ce qu'ils font, c'est quelques mots — et ils arrivent tout de suite."
+      "pt": "Al tavolo accanto, nessuno lo fa. Quello che fanno sono poche parole — e arrivano subito."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n05",
-      "pt": "D'abord une question qu'il pose en arrivant. Elle a deux réponses, et vous en avez une depuis la partie quatorze."
+      "pt": "Prima una domanda che fa arrivando. Ha due risposte, e tu ne hai una dalla parte quattordici."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "i10-vajunto-c",
       "receptivo": true,
-      "acao": "Répondre exprès, avant que l'addition arrive.",
+      "acao": "Rispondere apposta, prima che arrivi il conto.",
       "es": "¿Va todo junto o por separado?",
-      "pinyin": "ba TO-do KHOUN-to o por sé-pa-RA-do",
-      "pt": "👂 «Tout ensemble ou séparément ?» — demandé avant qu'il ait tapé quoi que ce soit.",
+      "pinyin": "ba TO-do KHUN-to o por se-pa-RA-do",
+      "pt": "👂 «Tutto insieme o separato?» — chiesto prima che abbia battuto qualsiasi cosa.",
       "tts": "¿Va todo junto o por separado?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n06",
-      "pt": "L'autre réponse veut dire : c'est vous qui invitez. C'est celle-là que vous allez vous entendre dire."
+      "pt": "L'altra risposta vuol dire: offri tu. È quella che ti sentirai dire."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "i10-todojunto-e",
       "es": "Todo junto, por favor.",
-      "pinyin": "TO-do KHOUN-to, por fa-BOR",
-      "pt": "Tout ensemble, s'il vous plaît.",
+      "pinyin": "TO-do KHUN-to, por fa-BOR",
+      "pt": "Tutto insieme, per favore.",
       "tts": "Todo junto, por favor."
     },
     {
@@ -223,98 +223,98 @@
       "consulta": ["pagar/pedir"],
       "tom": "ganha",
       "promptAudioKey": "i10-p02",
-      "promptPt": "À quatre en terrasse, les assiettes sont parties, et il demande comment il fait l'addition. Aujourd'hui, c'est vous qui invitez. Parlez maintenant.",
+      "promptPt": "In quattro in terrazza, i piatti sono spariti, e chiede come fare il conto. Oggi offri tu. Parla adesso.",
       "audioKey": "i10-todojunto-e",
       "es": "Todo junto, por favor.",
-      "pinyin": "TO-do KHOUN-to, por fa-BOR",
-      "pt": "une seule addition, et elle est pour vous"
+      "pinyin": "TO-do KHUN-to, por fa-BOR",
+      "pt": "un conto solo, ed è per te"
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "i10-tarjetaoefectivo-c",
       "receptivo": true,
-      "acao": "Être prêt : les deux réponses sont ordinaires.",
+      "acao": "Essere pronto: le due risposte sono normali.",
       "es": "¿Con tarjeta o en efectivo?",
-      "pinyin": "kon tar-KHÉ-ta o en é-fek-TI-bo",
-      "pt": "👂 «Carte ou espèces ?» — décidez avant qu'il revienne avec le terminal.",
+      "pinyin": "kon tar-KHE-ta o en e-fek-TI-bo",
+      "pt": "👂 «Carta o contanti?» — decidi prima che torni col terminale.",
       "tts": "¿Con tarjeta o en efectivo?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n07",
-      "pt": "Maintenant, ce qui reste vraiment, endroit par endroit. Café au comptoir : rien, ou les pièces de la monnaie."
+      "pt": "Adesso, quello che si lascia davvero, posto per posto. Caffè al bancone: niente, o le monete del resto."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n08",
-      "pt": "Bar de quartier, menu du jour : arrondir — cinquante centimes, un euro. Personne ne compte, personne ne tique."
+      "pt": "Bar di quartiere, menù del giorno: arrotondare — cinquanta centesimi, un euro. Nessuno conta, nessuno fa una piega."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n09",
-      "pt": "Une soirée que vous avez vraiment aimée : cinq à dix pour cent. La plupart des tables laissent moins, ou rien."
+      "pt": "Una serata che ti è piaciuta davvero: dal cinque al dieci per cento. La maggior parte dei tavoli lascia meno, o niente."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n10",
-      "pt": "Taxi : arrondir. Celui qui monte les valises trois étages : un ou deux euros, en espèces, dans la main."
+      "pt": "Taxi: arrotondare. Chi porta su le valigie per tre piani: uno o due euro, in contanti, in mano."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n11",
-      "pt": "Un seul rôle du voyage échappe à cette table, et c'est le dernier point du jour. Retenez-le."
+      "pt": "Un solo ruolo del viaggio sfugge a questo tavolo, ed è l'ultimo punto di oggi. Tienilo a mente."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n12",
-      "pt": "La phrase qui remet la tête à l'endroit : ici, le personnel de salle a un salaire et une convention collective."
+      "pt": "La frase che rimette la testa a posto: qui, il personale di sala ha uno stipendio e un contratto collettivo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n13",
-      "pt": "Le pourboire est un extra, pas le revenu — comme chez vous. Ne rien laisser ne lèse personne, et ne choque pas."
+      "pt": "La mancia è un extra, non il reddito — come da te. Non lasciare niente non danneggia nessuno, e non scandalizza."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "i10-n14",
       "tom": "protege",
-      "pt": "Le terminal propose parfois 10, 15, 20. C'est facultatif : cherchez «Otra cantidad» ou «Sin propina»."
+      "pt": "Il terminale a volte propone 10, 15, 20. È facoltativo: cerca «Otra cantidad» o «Sin propina»."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n15",
-      "pt": "Mais c'est rare. L'ordinaire, ce sont les pièces sur l'assiette : arrondir, ou rien. Pas de calcul, pas d'annonce."
+      "pt": "Ma è raro. Il normale sono le monete sul piattino: arrotondare, o niente. Niente conti, niente annunci."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n16",
-      "pt": "Comment ça se passe, physiquement ? Vous posez l'argent et vous dites une phrase courte. C'est toute l'affaire."
+      "pt": "Come funziona, fisicamente? Posi i soldi e dici una frase corta. È tutto qui."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "c02a-08",
       "es": "Está bien así, gracias.",
-      "pinyin": "ess-TA byen a-SSI, GRA-syass",
-      "pt": "Ça va comme ça, merci. — quatre mots qui laissent les pièces où elles sont.",
+      "pinyin": "es-TA byen a-SSI, GRA-ssias",
+      "pt": "Va bene così, grazie. — quattro parole che lasciano le monete dove sono.",
       "tts": "Está bien así, gracias."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n17",
-      "pt": "Elle ne dit rien de qui vous avez en face. C'est pour ça qu'elle passe à tous les comptoirs du voyage."
+      "pt": "Non dice niente su chi hai davanti. Per questo va bene a ogni bancone del viaggio."
     },
     {
       "tipo": "responde",
@@ -323,11 +323,11 @@
       "consulta": ["pagar/gorjeta"],
       "tom": "ganha",
       "promptAudioKey": "i10-p03",
-      "promptPt": "Café du matin au comptoir, un euro quarante, vous avez posé deux euros, et il se retourne vers la caisse. Parlez maintenant.",
+      "promptPt": "Caffè del mattino al bancone, un euro e quaranta, hai posato due euro, e lui si gira verso la cassa. Parla adesso.",
       "audioKey": "c02a-08",
       "es": "Está bien así, gracias.",
-      "pinyin": "ess-TA byen a-SSI, GRA-syass",
-      "pt": "les soixante restent là"
+      "pinyin": "es-TA byen a-SSI, GRA-ssias",
+      "pt": "i sessanta restano lì"
     },
     {
       "tipo": "responde",
@@ -335,25 +335,25 @@
       "promptVoz": "GuiaFem",
       "tom": "ganha",
       "promptAudioKey": "i10-p04",
-      "promptPt": "Celui qui a monté les deux valises trois étages est dans votre porte, vous lui avez donné deux euros, et il fouille déjà sa poche. Parlez maintenant.",
+      "promptPt": "Quello che ha portato su le due valigie per tre piani è sulla tua porta, gli hai dato due euro, e fruga già in tasca. Parla adesso.",
       "audioKey": "c02a-08",
       "es": "Está bien así, gracias.",
-      "pinyin": "ess-TA byen a-SSI, GRA-syass",
-      "pt": "les mêmes quatre mots, dans une porte"
+      "pinyin": "es-TA byen a-SSI, GRA-ssias",
+      "pt": "le stesse quattro parole, sulla porta"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n18",
-      "pt": "Il y en a une deuxième — pour un monsieur âgé dans un bel hôtel, ou un chauffeur qui descend ouvrir le coffre."
+      "pt": "Ce n'è una seconda — per un signore anziano in un bell'albergo, o un autista che scende ad aprire il bagagliaio."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "c02a-09",
       "es": "Quédese con el cambio.",
-      "pinyin": "KÉ-dé-ssé kon el KAM-byo",
-      "pt": "Gardez la monnaie. — une phrase entière à qui rien ne manque (la forme usted).",
+      "pinyin": "KE-de-sse kon el KAM-byo",
+      "pt": "Tenga il resto. — una frase intera a cui non manca niente (la forma usted).",
       "tts": "Quédese con el cambio."
     },
     {
@@ -363,27 +363,27 @@
       "consulta": ["taxi/parar"],
       "tom": "ganha",
       "promptAudioKey": "i10-p05",
-      "promptPt": "Onze quarante au compteur, vous avez donné douze, et il a déjà la main sur l'appareil pour vous rendre soixante centimes. Parlez maintenant.",
+      "promptPt": "Undici e quaranta al tassametro, hai dato dodici, e ha già la mano sull'apparecchio per renderti sessanta centesimi. Parla adesso.",
       "audioKey": "c02a-09",
       "es": "Quédese con el cambio.",
-      "pinyin": "KÉ-dé-ssé kon el KAM-byo",
-      "pt": "les soixante sont à lui"
+      "pinyin": "KE-de-sse kon el KAM-byo",
+      "pt": "i sessanta sono suoi"
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "i10-n19",
-      "pt": "«Cambio», ici, c'est la monnaie qui revient — pas le change du bureau. Et la petite assiette, elle, ne prend que ça."
+      "pt": "«Cambio», qui, sono le monete che tornano — non «il cambio» del cambiavalute. E il piattino prende solo quelle."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "i10-tarjetaefectivo-e",
       "receptivo": true,
-      "acao": "Répondre net : aucune des deux n'est la mauvaise.",
+      "acao": "Rispondere netto: nessuna delle due è quella sbagliata.",
       "es": "¿Con tarjeta o en efectivo?",
-      "pinyin": "kon tar-KHÉ-ta o en é-fek-TI-bo",
-      "pt": "👂 «Carte ou espèces ?» — demandé à la caisse, et les deux réponses sont tout à fait ordinaires.",
+      "pinyin": "kon tar-KHE-ta o en e-fek-TI-bo",
+      "pt": "👂 «Carta o contanti?» — chiesto alla cassa, e le due risposte sono del tutto normali.",
       "tts": "¿Con tarjeta o en efectivo?"
     },
     {
@@ -391,15 +391,15 @@
       "voz": "Carmen",
       "audioKey": "i10-efectivo-c",
       "es": "En efectivo, por favor.",
-      "pinyin": "en é-fek-TI-bo, por fa-BOR",
-      "pt": "En espèces, s'il vous plaît. — la réponse qui laisse quelque chose sur l'assiette.",
+      "pinyin": "en e-fek-TI-bo, por fa-BOR",
+      "pt": "In contanti, per favore. — la risposta che lascia qualcosa sul piattino.",
       "tts": "En efectivo, por favor."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n20",
-      "pt": "Chez vous la carte fait tout, et ici aussi — sauf que la carte, elle, ne laisse rien sur la petite assiette."
+      "pt": "Da te la carta passa quasi ovunque, e anche qui — solo che la carta, lei, non lascia niente sul piattino."
     },
     {
       "tipo": "responde",
@@ -407,11 +407,11 @@
       "promptVoz": "GuiaFem",
       "tom": "ganha",
       "promptAudioKey": "i10-p06",
-      "promptPt": "Le déjeuner du dimanche est fini, il a demandé laquelle des deux ce sera, et les pièces sont déjà dans votre poche. Parlez maintenant.",
+      "promptPt": "Il pranzo della domenica è finito, ha chiesto quale delle due sarà, e le monete sono già in tasca tua. Parla adesso.",
       "audioKey": "i10-efectivo-c",
       "es": "En efectivo, por favor.",
-      "pinyin": "en é-fek-TI-bo, por fa-BOR",
-      "pt": "celle qui a des pièces dedans"
+      "pinyin": "en e-fek-TI-bo, por fa-BOR",
+      "pt": "quella che ha le monete dentro"
     },
     {
       "tipo": "intro",
@@ -419,28 +419,28 @@
       "audioKey": "i10-n21",
       "bloco": "capsula",
       "tom": "protege",
-      "pt": "Le rôle hors de la table, maintenant. La visite finit sur une place, la guide remercie et s'écarte."
+      "pt": "Il ruolo fuori dal tavolo, adesso. La visita finisce in una piazza, la guida ringrazia e si fa da parte."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n22",
-      "pt": "Sur une visite annoncée gratuite, ce qui tombe dans sa main, c'est le salaire. S'éclipser, ça rate."
+      "pt": "Su una visita annunciata gratuita, quello che cade nella sua mano è lo stipendio. Svignarsela non va bene."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n23",
       "tom": "ganha",
-      "pt": "Donc réglez ça tôt. Vous êtes au comptoir où vous avez pris le café, et vous n'avez qu'un billet de cinquante."
+      "pt": "Quindi risolvilo presto. Sei al bancone dove hai preso il caffè, e hai solo una banconota da cinquanta."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "i10-cambio-c",
       "es": "Quería cambio, por favor.",
-      "pinyin": "ké-RI-a KAM-byo, por fa-BOR",
-      "pt": "Je voudrais de la monnaie, s'il vous plaît.",
+      "pinyin": "ke-RI-a KAM-byo, por fa-BOR",
+      "pt": "Vorrei degli spiccioli, per favore.",
       "tts": "Quería cambio, por favor."
     },
     {
@@ -448,7 +448,7 @@
       "voz": "GuiaFem",
       "audioKey": "i10-n24",
       "bloco": "molde",
-      "pt": "Ce début, c'est le moule de la partie douze. Aujourd'hui il porte de quoi remplir une main."
+      "pt": "Questo inizio è lo stampo della parte dodici. Oggi porta di che riempire una mano."
     },
     {
       "tipo": "responde",
@@ -456,29 +456,29 @@
       "promptVoz": "GuiaFem",
       "molde": "QUERIA",
       "encaixe": "cambio",
-      "encaixeGloss": "de la monnaie",
+      "encaixeGloss": "degli spiccioli",
       "consulta": ["pagar/dinheiro"],
       "tom": "ganha",
       "promptAudioKey": "i10-p07",
-      "promptPt": "La visite finit dans dix minutes, et vous n'avez qu'un billet de cinquante. Personne ne pose cinquante euros dans la main d'un guide. Parlez maintenant.",
+      "promptPt": "La visita finisce tra dieci minuti, e hai solo una banconota da cinquanta. Nessuno posa cinquanta euro nella mano di una guida. Parla adesso.",
       "audioKey": "i10-cambio-c",
       "es": "Quería cambio, por favor.",
-      "pinyin": "ké-RI-a KAM-byo, por fa-BOR",
-      "pt": "ce qu'un billet de cinquante doit devenir"
+      "pinyin": "ke-RI-a KAM-byo, por fa-BOR",
+      "pt": "quello che una banconota da cinquanta deve diventare"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n25",
-      "pt": "Ensuite vous allez vers elle, vous posez ça dans sa main, et vous prenez la phrase de la partie vingt-cinq."
+      "pt": "Poi vai da lei, le posi questo nella mano, e prendi la frase della parte venticinque."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "i07-graciasverdad-c",
       "es": "Muchas gracias, de verdad.",
-      "pinyin": "MOU-tchass GRA-syass, dé ber-DAD",
-      "pt": "Merci, vraiment. — ce sont les deux derniers mots qui portent.",
+      "pinyin": "MU-tchas GRA-ssias, de ber-DAD",
+      "pt": "Grazie, davvero. — sono le ultime due parole che contano.",
       "tts": "Muchas gracias, de verdad."
     },
     {
@@ -487,49 +487,49 @@
       "promptVoz": "GuiaFem",
       "tom": "ganha",
       "promptAudioKey": "i10-p08",
-      "promptPt": "Le groupe se disperse sur la place, quatre personnes la remercient en même temps, et vous avez les billets pliés dans la paume. Parlez maintenant.",
+      "promptPt": "Il gruppo si disperde nella piazza, quattro persone la ringraziano insieme, e tu hai le banconote piegate nel palmo. Parla adesso.",
       "audioKey": "i07-graciasverdad-c",
       "es": "Muchas gracias, de verdad.",
-      "pinyin": "MOU-tchass GRA-syass, dé ber-DAD",
-      "pt": "à elle, pas au groupe"
+      "pinyin": "MU-tchas GRA-ssias, de ber-DAD",
+      "pt": "a lei, non al gruppo"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n26",
       "tom": "ganha",
-      "pt": "Et vous gagnez les dix minutes que personne n'attend : où dîner ce soir, par celle qui marche ici tous les jours."
+      "pt": "E guadagni i dieci minuti che nessuno si aspetta: dove cenare stasera, da chi cammina qui tutti i giorni."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n27",
-      "pt": "Pour finir, le seul endroit où l'argent fait presque une scène. Vous sortez le portefeuille, une main arrête la vôtre."
+      "pt": "Per finire, l'unico posto dove i soldi fanno quasi una scena. Tiri fuori il portafoglio, una mano ferma la tua."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "i10-invitoyo-e",
       "receptivo": true,
-      "acao": "Ne pas lutter : la prochaine tournée sera la vôtre.",
+      "acao": "Non lottare: il prossimo giro sarà il tuo.",
       "es": "Invito yo.",
       "pinyin": "in-BI-to yo",
-      "pt": "👂 «C'est moi qui invite.» — dit vite, et comme un fait, pas comme une offre.",
+      "pt": "👂 «Offro io.» — detto veloce, e come un fatto, non come un'offerta.",
       "tts": "Invito yo."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n28",
-      "pt": "Ne luttez pas. C'est la bagarre au-dessus de l'assiette qui gêne, jamais l'addition. Quatre mots la ferment."
+      "pt": "Non lottare. È la lotta sopra il piattino che dà fastidio, mai il conto. Quattro parole la chiudono."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "i10-proxima-c",
       "es": "La próxima invito yo.",
-      "pinyin": "la PROK-ssi-ma in-BI-to yo",
-      "pt": "La prochaine, c'est moi. — ça règle celle-ci et réserve le café de demain.",
+      "pinyin": "la PROK-si-ma in-BI-to yo",
+      "pt": "La prossima offro io. — risolve questa e prenota il caffè di domani.",
       "tts": "La próxima invito yo."
     },
     {
@@ -539,18 +539,18 @@
       "consulta": ["simpatia/convite"],
       "tom": "ganha",
       "promptAudioKey": "i10-p09",
-      "promptPt": "Vous avez tous les deux la main sur la même assiette, et il a déjà tendu un billet au patron. Lâchez, et mettez votre nom sur demain. Parlez maintenant.",
+      "promptPt": "Avete tutti e due la mano sullo stesso piattino, e lui ha già allungato una banconota al padrone. Molla, e metti il tuo nome su domani. Parla adesso.",
       "audioKey": "i10-proxima-c",
       "es": "La próxima invito yo.",
-      "pinyin": "la PROK-ssi-ma in-BI-to yo",
-      "pt": "lâcher, et réserver demain"
+      "pinyin": "la PROK-si-ma in-BI-to yo",
+      "pt": "mollare, e prenotare domani"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n29",
       "tom": "ganha",
-      "pt": "Et faites-le. La tournée qui tourne, c'est tout l'intérêt — vous connaissez déjà la mécanique par cœur."
+      "pt": "E fallo. Il giro che gira è tutto il senso — la meccanica la conosci già a memoria, ce l'hai anche a casa."
     },
     {
       "tipo": "responde",
@@ -558,24 +558,24 @@
       "promptVoz": "GuiaFem",
       "tom": "ganha",
       "promptAudioKey": "i10-p10",
-      "promptPt": "Le lendemain matin, même comptoir, même homme, et sa main repart vers sa poche. Prenez-le de vitesse, en deux mots. Parlez maintenant.",
+      "promptPt": "La mattina dopo, stesso bancone, stesso uomo, e la sua mano riparte verso la tasca. Battilo sul tempo, in due parole. Parla adesso.",
       "audioKey": "i10-invitoyo-e",
       "es": "Invito yo.",
       "pinyin": "in-BI-to yo",
-      "pt": "deux mots, dits en premier"
+      "pt": "due parole, dette per prime"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n30",
       "bloco": "capsula",
-      "pt": "Retour à la petite assiette. Les billets vont dessus, les pièces de la monnaie restent, personne ne compte."
+      "pt": "Torniamo al piattino. Le banconote ci vanno sopra, le monete del resto restano, nessuno conta."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n31",
-      "pt": "Sauf la visite gratuite : là, c'est le salaire, et un salaire, on le paie bien, dans une main."
+      "pt": "Tranne la visita gratuita: lì è lo stipendio, e uno stipendio si paga bene, in una mano."
     },
     {
       "tipo": "intro",
@@ -583,14 +583,14 @@
       "audioKey": "i10-n32",
       "bloco": "permissao",
       "tom": "ganha",
-      "pt": "Arrondissez. C'est tout le système. Vous n'aurez plus jamais à calculer un pourcentage à une table d'ici."
+      "pt": "Arrotonda. È tutto il sistema. Non dovrai mai più calcolare una percentuale a un tavolo di qui."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n33",
       "bloco": "espelho",
-      "pt": "Et calculer à table, c'est ça qui se remarque — là-bas comme chez vous. Qui calcule est celui qu'on regarde."
+      "pt": "E fare i conti a tavola, è quello che si nota — lì come da te. Chi fa i conti è quello che si guarda."
     },
     {
       "tipo": "intro",
@@ -598,49 +598,49 @@
       "audioKey": "i10-n34",
       "bloco": "clique",
       "tom": "ganha",
-      "pt": "Comptez les endroits. La terrasse. Le comptoir. Le taxi. La place, au bout de la visite. Une phrase courte, chaque fois."
+      "pt": "Conta i posti. La terrazza. Il bancone. Il taxi. La piazza, alla fine della visita. Una frase corta, ogni volta."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n35",
-      "pt": "Ces phrases, personne ne vous les a données. Vous avez posé une pièce, dit deux mots, et jamais calculé."
+      "pt": "Queste frasi, nessuno te le ha date. Hai posato una moneta, detto due parole, e non hai mai fatto i conti."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n36",
       "bloco": "piso",
-      "pt": "Vous laissez ce que laisse la table d'à côté, sans calculer — et le 20 de l'écran, vous ne le touchez pas."
+      "pt": "Lasci quello che lascia il tavolo accanto, senza calcolare — e il 20 dello schermo, non lo tocchi."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-s00",
-      "pt": "À répéter. Fort, avec eux, l'appui au bon endroit. Les deux qui reviennent chaque jour :"
+      "pt": "Da ripetere. Forte, con loro, la jota dal fondo della gola. Le due che tornano ogni giorno:"
     },
     {
       "tipo": "shadow",
       "voz": "Carmen",
       "audioKey": "c02a-08",
       "es": "Está bien así, gracias.",
-      "pinyin": "ess-TA byen a-SSI, GRA-syass",
-      "pt": "Ça va comme ça, merci."
+      "pinyin": "es-TA byen a-SSI, GRA-ssias",
+      "pt": "Va bene così, grazie."
     },
     {
       "tipo": "shadow",
       "voz": "Emilio",
       "audioKey": "i10-todojunto-e",
       "es": "Todo junto, por favor.",
-      "pinyin": "TO-do KHOUN-to, por fa-BOR",
-      "pt": "Tout ensemble, s'il vous plaît."
+      "pinyin": "TO-do KHUN-to, por fa-BOR",
+      "pt": "Tutto insieme, per favore."
     },
     {
       "tipo": "recap",
       "voz": "GuiaFem",
       "audioKey": "i10-rend",
       "bloco": "recap",
-      "pt": "Encore une fois, à voix haute, à un comptoir où l'on ne s'est pas arrêté — et cette fois, il est six heures du matin."
+      "pt": "Ancora una volta, a voce alta, a un bancone dove non ci si è fermati — e stavolta sono le sei del mattino."
     },
     {
       "tipo": "responde",
@@ -648,72 +648,72 @@
       "promptVoz": "GuiaFem",
       "tom": "ganha",
       "promptAudioKey": "i10-p11",
-      "promptPt": "Le bar de la gare, le dernier matin, un café et un bout de tortilla, et vous avez posé cinq euros pour quatre soixante. Parlez maintenant.",
+      "promptPt": "Il bar della stazione, l'ultima mattina, un caffè e un pezzo di tortilla, e hai posato cinque euro per quattro e sessanta. Parla adesso.",
       "audioKey": "c02a-08",
       "es": "Está bien así, gracias.",
-      "pinyin": "ess-TA byen a-SSI, GRA-syass",
-      "pt": "les quarante restent là"
+      "pinyin": "es-TA byen a-SSI, GRA-ssias",
+      "pt": "i quaranta restano lì"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "i10-n37",
-      "pt": "C'est tout. Vous avez payé, laissé ce qu'on laisse, et personne à table ne l'a remarqué. Hasta luego."
+      "pt": "È tutto. Hai pagato, lasciato quello che si lascia, e nessuno a tavola se n'è accorto. Hasta luego."
     }
   ],
 
   "aprofundar": {
-    "titulo": "La table, le partage, et le seul rôle qui est vraiment un salaire (lecture optionnelle)",
+    "titulo": "Il tavolo, la divisione, e l'unico ruolo che è davvero uno stipendio (lettura facoltativa)",
     "secoes": [
       {
-        "titulo": "La table, mise par écrit",
-        "corpo": "Café ou caña debout au comptoir : rien, ou les pièces qui reviennent avec la monnaie. Bar de quartier ou menu du jour : arrondir la somme — cinquante centimes, un euro. Un établissement moyen où la soirée a vraiment été bonne : cinq à dix pour cent, et il vaut la peine de savoir que la plupart des tables autour de vous laissent moins, ou rien du tout. Quelque chose de plus chic : jusqu'à dix pour cent, après un coup d'œil pour voir si «servicio» figure déjà sur l'addition. Taxi : arrondir. Le porteur de valises ou la personne qui fait votre chambre : un à deux euros, en espèces. Ce coup d'œil, vous le faites déjà chez vous, à un mot près : chez vous le service est compris et c'est écrit ; ici, sur un ticket ordinaire, il n'y a pas de ligne à chercher — le montant affiché est le montant, et l'arrondi est ce que vous ajoutez, ou pas. Une restriction honnête, et c'est la raison pour laquelle aucun chiffre moyen n'est écrit ici : il n'existe pas de série publiée sur ce qui est réellement laissé en Espagne — ni de l'institut statistique, ni de la fédération d'hôtellerie. Ce que vous avez, c'est le conseil concordant des guides de terrain : une forme, pas un chiffre. Un mot enfin sur la formule elle-même : «Quédese con el cambio» est la forme usted — celle du monsieur âgé dans un bel hôtel, ou du chauffeur qui est descendu ouvrir le coffre. Dans un bar jeune, «quédate» circule, et rien ne casse dans un sens comme dans l'autre : la machine tu/vous, vous la faites tourner depuis l'enfance, elle pointe juste ailleurs.",
+        "titulo": "Il tavolo, messo per iscritto",
+        "corpo": "Caffè o caña in piedi al bancone: niente, o le monete che tornano col resto. Bar di quartiere o menù del giorno: arrotondare la cifra — cinquanta centesimi, un euro. Un locale medio dove la serata è stata davvero buona: dal cinque al dieci per cento, e vale la pena sapere che la maggior parte dei tavoli intorno a te lascia meno, o niente del tutto. Qualcosa di più elegante: fino al dieci per cento, dopo un'occhiata per vedere se «servicio» è già sul conto. Taxi: arrotondare. Chi porta le valigie o chi fa la tua camera: uno o due euro, in contanti. Quell'occhiata la fai già a casa, a una parola di distanza: da te c'è il coperto sul conto e il servizio è dentro il prezzo; qui, su uno scontrino normale, non c'è una riga da cercare — la cifra scritta è la cifra, e l'arrotondamento è quello che aggiungi, o no. Una restrizione onesta, ed è il motivo per cui qui non si scrive nessuna cifra media: non esiste una serie pubblicata su quanto si lascia davvero in Spagna — né dall'istituto di statistica, né dalla federazione dell'ospitalità. Quello che hai è il consiglio concorde delle guide sul campo: una forma, non un numero. Un'ultima parola sulla formula stessa: «Quédese con el cambio» è la forma usted — quella del signore anziano in un bell'albergo, o dell'autista sceso ad aprire il bagagliaio. In un bar giovane «quédate» circola, e non si rompe niente né in un senso né nell'altro: la macchina tu/Lei la fai girare dall'infanzia, punta solo altrove.",
         "exemplos": [
           {
             "es": "Está bien así, gracias.",
-            "pt": "ess-TA byen a-SSI — ça va comme ça, merci. Quatre mots, et ils passent à tous les comptoirs"
+            "pt": "es-TA byen a-SSI — va bene così, grazie. Quattro parole, e vanno bene a ogni bancone"
           },
           {
             "es": "Quédese con el cambio.",
-            "pt": "KÉ-dé-ssé kon el KAM-byo — gardez la monnaie, pour le porteur ou le chauffeur qui est descendu"
+            "pt": "KE-de-sse kon el KAM-byo — tenga il resto, per chi porta le valigie o l'autista sceso"
           }
         ]
       },
       {
-        "titulo": "Pourquoi ça reste petit — et le chiffre sur l'écran",
-        "corpo": "La raison sous toute cette table, c'est que le personnel de salle a en Espagne un salaire et une convention collective. Le pourboire est un extra posé par-dessus, pas le revenu, et cette seule phrase fait plus que n'importe quelle règle de savoir-vivre : ne rien laisser ne lèse personne et ne se lit pas comme de la pingrerie. C'est aussi ce qui explique que trop payer n'achète pas ici ce qu'une main attendrait — personne n'attendait, donc un pourcentage généreux ne peut pas arriver comme de la générosité ; il arrive comme quelqu'un qui ne sait pas encore où il est. Vous partez, sur ce point, avec le bon réflexe : chez vous le service est compris et le pourboire est déjà un petit extra, pas un dû. Ce n'est donc pas votre geste qu'il faut corriger, c'est seulement le rituel de vérification, qui n'a plus de ligne où se poser. La seule marche où ce voyageur-là peut quand même payer trop, c'est le terminal de carte : l'affichage 10/15/20 pour cent est un import récent de la pratique américaine, et il est bien réel dans les zones touristiques. Il est facultatif. Qui ne veut rien donner appuie sur «Otra cantidad» ou «Sin propina», et n'a pas à s'en excuser.",
+        "titulo": "Perché resta piccola — e il numero sullo schermo",
+        "corpo": "La ragione sotto tutto questo tavolo è che il personale di sala in Spagna ha uno stipendio e un contratto collettivo. La mancia è un extra posato sopra, non il reddito, e questa sola frase fa più di qualsiasi regola di galateo: non lasciare niente non danneggia nessuno e non si legge come tirchieria. È anche ciò che spiega perché pagare troppo non compra qui quello che una mano si aspetterebbe — nessuno si aspettava niente, quindi una percentuale generosa non può arrivare come generosità; arriva come qualcuno che non sa ancora dov'è. Su questo parti con il riflesso giusto: da te c'è il coperto e la mancia è già un piccolo extra, non un dovuto. Non è quindi il tuo gesto da correggere, è solo il rituale di verifica, che qui non ha più una riga dove posarsi. L'unico gradino dove questo viaggiatore può comunque pagare troppo è il terminale della carta: la schermata 10/15/20 per cento è un'importazione recente della pratica americana, ed è ben reale nelle zone turistiche. È facoltativa. Chi non vuole dare niente preme «Otra cantidad» o «Sin propina», e non deve scusarsi.",
         "exemplos": [
           {
             "es": "¿Está incluido el servicio?",
-            "pt": "ess-TA in-klou-I-do el ser-BI-ssyo — 👂 le service est-il compris ? Le coup d'œil, dans un lieu plus chic"
+            "pt": "es-TA in-klu-I-do el ser-BI-ssio — 👂 il servizio è incluso? L'occhiata, in un posto più elegante"
           }
         ]
       },
       {
-        "titulo": "Todo junto, por separado, a partes iguales — et la tournée",
-        "corpo": "Trois façons de solder une addition, et le serveur demande le plus souvent laquelle avant de taper quoi que ce soit. «Todo junto», c'est tout sur une seule — vous prenez. «Pagamos por separado», c'est chacun la sienne, et la moitié importante, celle de la partie quatorze, c'est que ça se dit avant qu'il encaisse, pas après. «Pagamos a partes iguales», c'est une somme partagée en parts égales : le plus simple pour lui, et le plus fréquent à une table d'amis. Sur ce point vous n'avez presque rien à apprendre, et c'est assez rare pour le dire : couper en parts égales est aussi le réflexe de votre table, et détailler poste par poste est ici un frottement qui arrive peu. Ce qui demande une seconde d'attention, c'est le calendrier de la phrase, pas la phrase. À côté, il y a la tournée : quelqu'un solde le tout, et le suivant y passe la fois d'après. «Invito yo» s'entend, dit vite et comme un fait — et ce mot-là, vous l'avez déjà chez vous : «c'est ma tournée», «je t'invite», même geste et même arithmétique. La réponse honnête n'est donc pas de sortir le portefeuille, mais «la próxima invito yo» — et de le faire vraiment le lendemain matin. Deux endroits où ça ne vaut pas : quelqu'un que vous venez de rencontrer et que vous ne reverrez pas, et une addition assez grosse pour faire mal — là, «por separado», tôt et gaiement.",
+        "titulo": "Todo junto, por separado, a partes iguales — e il giro",
+        "corpo": "Tre modi di saldare un conto, e il cameriere chiede il più delle volte quale prima di battere qualsiasi cosa. «Todo junto» è tutto su uno solo — lo prendi. «Pagamos por separado» è ognuno il suo, e la metà importante, quella della parte quattordici, è che si dice prima che incassi, non dopo. «Pagamos a partes iguales» è una somma divisa in parti uguali: il più semplice per lui, e il più frequente a un tavolo di amici. Su questo non hai quasi niente da imparare, ed è abbastanza raro da dirlo: dividere in parti uguali è anche il riflesso del tuo tavolo, e spacchettare voce per voce è qui un attrito che capita poco. Quello che chiede un secondo di attenzione è il momento della frase, non la frase. Accanto c'è il giro: qualcuno salda tutto, e il prossimo ci passa la volta dopo. «Invito yo» si sente, detto veloce e come un fatto — e questa parola ce l'hai già a casa: «offro io», «la prossima tocca a me», stesso gesto e stessa aritmetica. La risposta onesta non è quindi tirare fuori il portafoglio, ma «la próxima invito yo» — e farlo davvero la mattina dopo. Due posti dove non vale: qualcuno appena conosciuto che non rivedrai, e un conto abbastanza grosso da far male — lì, «por separado», presto e allegramente.",
         "exemplos": [
           {
             "es": "¿Podemos pagar por separado?",
-            "pt": "po-DÉ-moss pa-GAR por sé-pa-RA-do — pouvons-nous payer séparément ? En commandant l'addition, pas après"
+            "pt": "po-DE-mos pa-GAR por se-pa-RA-do — possiamo pagare separati? Ordinando il conto, non dopo"
           },
           {
             "es": "La próxima invito yo.",
-            "pt": "la PROK-ssi-ma in-BI-to yo — la prochaine, c'est moi. Ça règle celle-ci et réserve la suivante"
+            "pt": "la PROK-si-ma in-BI-to yo — la prossima offro io. Risolve questa e prenota la prossima"
           }
         ]
       },
       {
-        "titulo": "Carte ou espèces — et la pièce qui manque sur l'assiette",
-        "corpo": "Ici, l'histoire ne se passe pas comme pour d'autres visiteurs. Vous payez par carte sans y penser, et le comptoir espagnol, la boulangerie et les transports prennent la carte et le sans-contact depuis longtemps ; l'ancien minimum de cinq euros a le plus souvent disparu des villes. Autrement dit : sur la carte, aucune surprise ne vous attend, et la surprise arrive par l'autre bout. D'abord la petite assiette, où la carte ne laisse rien — c'est la seule différence pratique entre les deux réponses à «¿con tarjeta o en efectivo?», et elle suffit à justifier une petite réserve de monnaie, non pour la somme, mais pour l'assiette, le bar de quartier et le marché. Ensuite «SOLO EFECTIVO» sur la vitre, qui est parfaitement légal : aucun établissement n'est tenu d'accepter la carte, et c'est ce panneau-là, pas la machine, qui vous prendra de court. Un billet de cinquante, enfin, bloque le petit comptoir où le café coûte trois euros : les petites coupures sont ici la politesse qu'on fait à la caisse. Et un mot à ne pas traduire trop vite au passage : «cambio», au comptoir, c'est la monnaie qui revient — pas le change du bureau de change. «Quería cambio, por favor» demande de la petite monnaie, rien d'autre.",
+        "titulo": "Carta o contanti — e la moneta che manca sul piattino",
+        "corpo": "Qui la storia non va come per altri visitatori. Paghi con la carta senza pensarci — anche se, più del francese, un po' di contante lo tieni in tasca per abitudine — e il bancone spagnolo, il forno e i mezzi prendono la carta e il contactless da tempo; il vecchio minimo di cinque euro è per lo più sparito dalle città. Detto altrimenti: sulla carta nessuna sorpresa ti aspetta, e la sorpresa arriva dall'altro capo. Prima il piattino, dove la carta non lascia niente — è l'unica differenza pratica tra le due risposte a «¿con tarjeta o en efectivo?», e basta a giustificare una piccola riserva di monete, non per la somma, ma per il piattino, il bar di quartiere e il mercato. Poi «SOLO EFECTIVO» sul vetro, perfettamente legale: nessun locale è tenuto ad accettare la carta, ed è quel cartello, non la macchina, che ti coglierà alla sprovvista. Una banconota da cinquanta, infine, blocca il piccolo bancone dove il caffè costa tre euro: i tagli piccoli sono qui la cortesia che si fa alla cassa. E una parola da non tradurre troppo in fretta: «cambio», al bancone, sono le monete che tornano — non «il cambio» del cambiavalute. «Quería cambio, por favor» chiede degli spiccioli, niente di più. (Un'altra da mettere via senza affermarla: «en efectivo» sono i contanti — non «effettivo».)",
         "exemplos": [
           {
             "es": "¿Aceptan tarjeta?",
-            "pt": "a-SSEP-tan tar-KHÉ-ta — acceptez-vous la carte ? La question avant de commander une tournée"
+            "pt": "a-SSEP-tan tar-KHE-ta — accettate la carta? La domanda prima di ordinare un giro"
           },
           {
             "es": "En efectivo, por favor.",
-            "pt": "en é-fek-TI-bo, por fa-BOR — en espèces, s'il vous plaît. La réponse qui a des pièces pour l'assiette"
+            "pt": "en e-fek-TI-bo, por fa-BOR — in contanti, per favore. La risposta che ha monete per il piattino"
           }
         ]
       }

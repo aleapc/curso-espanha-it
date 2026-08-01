@@ -4,33 +4,33 @@
   "nivel": "basico",
   "numero": 5,
   "parte": "5",
-  "titulo": "Les trois questions ne sont pas du douanier",
-  "subtitulo": "Pas de tampon, pas de fonctionnaire — mais trois comptoirs veulent savoir : pourquoi, combien de temps, où vous dormez",
+  "titulo": "Le tre domande non sono del doganiere",
+  "subtitulo": "Niente timbro, niente funzionario — ma tre banchi vogliono sapere: perché, per quanto tempo, dove dormi",
+  "cena": "Aeroporto spagnolo, primo pomeriggio: chi scende dal volo interno passa senza un solo controllo, nessuno vuole vedere i documenti — e due ore dopo, dietro un banco, qualcuno vuole sapere perché, per quanto tempo e dove dormi.",
   "moldura": "ganha",
-  "cena": "Frontière de La Jonquère, début d'après-midi : les voitures passent sans un seul contrôle, personne ne veut voir vos papiers — et deux heures plus tard, derrière un comptoir, on veut savoir pourquoi, combien de temps et où vous dormez.",
   "moldes": [],
-  "permissao": "Vous n'avez pas à comprendre le formulaire. Posez la pièce d'identité et la réservation, et si quelque chose vous échappe, redemandez, tout simplement — il y a une phrase pour ça, et vous l'avez depuis la partie trois.",
+  "permissao": "Non devi capire il modulo. Posa la carta d'identità e la prenotazione, e se qualcosa ti sfugge, richiedi, semplicemente — c'è una frase per questo, e ce l'hai dalla terza parte.",
   "permissaoAudioKey": "b05-n15",
-  "espelho": "Ce qui se remarque là-bas, ce n'est pas l'accent, c'est la réponse préparée : on demande trois choses, et celui qui les explique fait attendre la file.",
-  "frasePiso": "Vous répondez à trois questions en espagnol, à un comptoir espagnol, sans papier. La plupart poussent la carte d'identité sur le comptoir et laissent l'autre deviner.",
+  "espelho": "Quello che si nota lì non è l'accento, è la risposta pronta: chiedono tre cose, e chi si mette a spiegarle fa aspettare la fila.",
+  "frasePiso": "Rispondi a tre domande in spagnolo, a un banco spagnolo, senza foglio. La maggior parte spinge la carta d'identità sul banco e lascia indovinare all'altro.",
   "clique": {
     "contagem": [
-      "la réception",
-      "le comptoir du loueur",
-      "l'appartement de location"
+      "la reception",
+      "il banco dell'autonoleggio",
+      "l'appartamento in affitto"
     ],
-    "desconto": "Aucune de ces phrases, vous n'aviez à la savoir hier. Trois fois le même comptoir, juste une autre enseigne au-dessus.",
-    "piso": "Trois réponses vous portent à travers chaque arrivée en Espagne — hôtel, appartement ou voiture de location."
+    "desconto": "Nessuna di queste frasi la dovevi sapere ieri. Tre volte lo stesso banco, solo un'altra insegna sopra.",
+    "piso": "Tre risposte ti portano attraverso ogni arrivo in Spagna — hotel, appartamento o auto a noleggio."
   },
   "cliqueAudioKey": "b05-n17",
   "fichasCulturais": [
     {
-      "sinal": "La personne à la réception demande date de naissance, téléphone, e-mail et adresse complète — et pour les enfants, votre lien de parenté avec eux.",
-      "suaLeitura": "Ça ne regarde pas un hôtel. Ou bien elle est curieuse, ou bien mes données vont être revendues dans la minute.",
-      "oQueEAli": "C'est une obligation de l'établissement, pas une question de l'établissement : hébergements, locations de vacances et loueurs de voitures collectent depuis décembre 2024 exactement cette liste et la transmettent aux forces de sécurité.",
-      "oQueVoceFaz": "Tout donner d'un coup — carte d'identité et adresse déjà en main avant d'arriver au comptoir.",
-      "oQueMelhora": "L'enregistrement prend deux minutes au lieu de dix, et la soirée est à vous.",
-      "ondeNaoVale": "Pas dans la chambre d'amis : l'obligation pèse sur l'établissement, et qui héberge en privé, sans louer, ne vous demande rien.",
+      "sinal": "La persona alla reception chiede data di nascita, telefono, e-mail e indirizzo completo — e per i bambini, il tuo grado di parentela con loro.",
+      "suaLeitura": "Non riguarda un hotel. O è curiosa, o i miei dati vengono rivenduti nel giro di un minuto.",
+      "oQueEAli": "È un obbligo della struttura, non una domanda della struttura: alloggi, case vacanza e autonoleggi raccolgono da dicembre 2024 esattamente questa lista e la trasmettono alle forze di sicurezza.",
+      "oQueVoceFaz": "Dare tutto in una volta — carta d'identità e indirizzo già in mano prima di arrivare al banco.",
+      "oQueMelhora": "La registrazione dura due minuti invece di dieci, e la serata è tua.",
+      "ondeNaoVale": "Non nella stanza degli amici: l'obbligo pesa sulla struttura, e chi ospita in privato, senza affittare, non ti chiede nulla.",
       "evidencia": "FATO",
       "audioKeys": [
         "e07a-ficha-c",
@@ -42,19 +42,19 @@
   "fatosDatados": [
     {
       "id": "schengen-interno-sem-controle",
-      "afirmacao": "Un vol ou une route depuis la France reste à l'intérieur de Schengen : là, aucune frontière n'est contrôlée, il n'y a ni tampon ni enregistrement d'entrée.",
-      "fonte": "Comissão Europeia, DG HOME — o controle documental e o EES valem para a fronteira EXTERNA do espaço Schengen; um voo ou travessia rodoviária França→Espanha é trecho interno. ⚠️ O Código das Fronteiras Schengen (arts. 25–27) permite reintrodução TEMPORÁRIA de controle interno, notificada país a país e por prazo determinado, e incide sobretudo em fronteira TERRESTRE — o que pesa mais neste par, 65% chega de carro (Turespaña): reconferir o estado das notificações antes de gravar e em cada revalidação.",
+      "afirmacao": "Un volo dall'Italia verso la Spagna resta dentro Schengen: lì nessuna frontiera si controlla, non c'è timbro né registrazione d'ingresso.",
+      "fonte": "Comissão Europeia, DG HOME — o controle documental e o EES valem para a fronteira EXTERNA do espaço Schengen; um voo Itália→Espanha é trecho INTERNO. A Itália não faz fronteira com a Espanha (a França está no meio), então este comprador chega majoritariamente de AVIÃO (voo Schengen interno) — INFERÊNCIA geográfica, pendente da ficha executiva Turespaña-Itália (DERIVACAO-IT §3.1, §6 item 5). ⚠️ O Código das Fronteiras Schengen (arts. 25–27) permite reintrodução TEMPORÁRIA de controle interno, notificada país a país e por prazo determinado, e incide sobretudo na fronteira TERRESTRE — logo PESA MENOS neste par que no francês (que entrava de carro): reconferir o estado das notificações antes de gravar e a cada revalidação.",
       "ano": 2026,
       "revisarAte": "2027-04-01",
       "evidencia": "FATO",
-      "risco": "medio",
+      "risco": "baixo",
       "audioKeys": [
         "b05-n03"
       ]
     },
     {
       "id": "rd-933-2021",
-      "afirmacao": "Depuis décembre 2024, hôtels, locations de vacances et loueurs de voitures doivent collecter date de naissance, téléphone, e-mail et adresse complète et les transmettre — et qui refuse les informations n'obtient pas de chambre.",
+      "afirmacao": "Da dicembre 2024, alberghi, case vacanza e autonoleggi devono raccogliere data di nascita, telefono, e-mail e indirizzo completo e trasmetterli — e chi rifiuta le informazioni non ottiene la stanza.",
       "fonte": "Real Decreto 933/2021 — BOE-A-2021-17461; obrigatório desde 02/dez/2024. Lista completa e a extensão a locadoras de veículos em docs/pesquisa-espanha.md §8.1",
       "ano": 2024,
       "revisarAte": "2027-06-01",
@@ -68,23 +68,23 @@
     }
   ],
   "_notasDeAutoria": {
-    "_": "Narração FRANCESA de B05 escrita em 2026-07-28, re-derivada da parte alemã (curso-espanha-de/ep-b05.json) contra a DERIVACAO-FR.md §4.1 e o moldes.json FR. NENHUM campo `es`, `tts` ou `audioKey` de clipe espanhol foi tocado — os 11 audioKeys espanhóis desta parte (e02b-control-c, e02b-auto-e, e07a-tasa-e, e07a-ficha-c, e02a-pasaporte-c, e07a-reserva-e, e02b-vacaciones-e, e02b-diez-c, e02b-alojo-e, e02b-reserva-c, e01c-repetir-c) continuam verbatim, custo de crédito ZERO. Só a narração-guia (pt), a `cena`, os campos de moldura, e o `pinyin` (respelling para o OLHO francês) se re-derivaram. Vozes-guia trocadas para os placeholders FR do audio.config: Juli→GuiaFem (educadora), Thomas→GuiaMasc (alertas). Carmen/Emilio (peninsulares) intactas. guiaLingua `fr`.",
-    "o_que_esta_parte_e": "A FUNÇÃO do slot sobrevive inteira e migra de balcão, exatamente como no alemão (DERIVACAO §4.1): o francês é cidadão da UE, então num voo/estrada Schengen interno NÃO há controle de fronteira — morrem o EES, as digitais, o carimbo, a regra 90/180, o quiosque biométrico. Sobrevivem MOTIVO, TEMPO e ONDE VOCÊ FICA, agora no check-in de hotel, no apartamento turístico e no balcão da locadora — os três obrigados pelo mesmo RD 933/2021. As três respostas gravadas (`Vengo de vacaciones.`, `Diez días.`, `Me alojo en el hotel Rialto, en Madrid.`) servem nos três balcões sem tocar no `es`.",
-    "o_eixo_do_slot_o_falso_amigo": "O falso amigo desta parte é `nombre`≠«nombre» (número em francês) → em espanhol NOME (DERIVACAO §1.6, §4.1; moldes.json `_regras.falsos_amigos.nombre`). Cai onde alguém pede o nome da reserva: plantado na glosa de `Tengo una reserva a nombre de Harper.` (e07a-reserva-e), GRUDADO à palavra e DEPOIS de o aluno já produzir a frase (regra que segura o G4). É a batida que substitui o `firma`≠`Firma` alemão — que era o falso amigo do comprador ALEMÃO (empresa) e NÃO porta para o francês. `firma` continua na parte (b05-n14) apenas como FATO LEXICAL do espanhol («nesta linha, é a sua assinatura»), sem afirmar nada sobre interferência francesa: `firme` (empresa) em francês não está na lista de candidatos CONFERIDOS da DERIVACAO §1.6, e nada NÃO CONFERIDO vira áudio.",
-    "regra_de_leitura_alema_trocada": "A carga de leitura alemã saiu inteira. (1) O ⟨j⟩ de `alojo`/`deja`/`viajeros` era «o ch de Bach» (o alemão TEM o som [x] e erra só a letra); no francês a JOTA é SOM NOVO [ʒ]→alvo [x], «se racle du fond de la gorge, pas le j de jour» — a mesma linha que a GuiaMasc dá em B10 (b10-t02). É o item fonético mais duro da parte e fica na voz de alertas (b05-n10, GuiaMasc, gesto 4). (2) O Gleiten alemão (`en el hotel`→e-ne-lo-TEL como PROGRAMA contra o Knacklaut) morre: o francês faz liaison naturalmente, não dá golpe de glote, então `en el hotel` é BRINDE (b05-n11 reescrito como brinde, SEM gesto — o programa do deslize não existe neste par, DERIVACAO §1.3). (3) O ⟨d⟩ final de `Madrid`: o alemão ENSURDECIA («ma-DRIT», Auslautverhärtung, brinde alemão); o francês APAGA («ma-DRI»), e isso COINCIDE com o peninsular coloquial `Madrí` — quase-brinde (DERIVACAO §1.2 linha 17). b05-n12 reescrito nesse sentido. (4) O ⟨s⟩ intervocálico de `pasaporte` continua a valer, e MAIS que no alemão: o francês SONORIZA o s entre vogais ([z]), então «pa-ssa-POR-té sem bourdonner» é aviso francês legítimo (DERIVACAO §1.2 linha 14).",
-    "fonetica_desta_parte": "TÔNICA (o soco, warmup em b05-n01, gesto 3 — a oxítona francesa desloca `pasaPORte` etc.), FINAIS apagados (o -s do plural em `días`/`pasaportes`, o -e de `nombre`/`pasaporte`), a JOTA (som novo, casa em B13 mas primeira mordida forte aqui: alojo/deja/viajeros, gesto 4), o ⟨s⟩ intervocálico que não pode bourdonner. NASAL (`vengo`/`vacaciones`/`nombre` — o francês nasaliza, o -n/-m espanhol é consoante plena): tocada de leve na glosa de `vacaciones`, e é INFERÊNCIA marcada como pendência de revisor. BRINDES declarados e NÃO gastos em áudio (copiá-los é o anti-padrão 9): o ⟨h⟩ mudo (`hotel`), o ⟨qu⟩ de `Aquí`, e a liaison de `en el hotel`.",
-    "convencao_pinyin_re_derivada": "O campo `pinyin` foi re-derivado do respelling alemão para o OLHO FRANCÊS, seguindo a convenção que B10 fixou neste SKU: MAIÚSCULA = tônica · `ou` = o `u` espanhol [u], nunca o `u` francês [y] (según→se-GOUN; incluida→in-klou-I-da) · `kh` = a jota [x] (alojo→a-LO-kho, deja→DÉ-kha, viajeros→bia-KHÉ-ross) · `tch` = o `ch` espanhol [tʃ], não [ʃ] (ficha→FI-tcha) · `b` = o v/b espanhol (vengo→BENG-go, reserva→rre-SSER-ba) · `ss` = z, c+e/i e s intervocálico, sempre duro [s] (alvo peninsular [θ], seseo [s] aceito; vacaciones→ba-ka-SSIO-ness, diez→DIÉSS, pasaporte→pa-ssa-POR-té) · finais escritas = a pronunciar, `-e` final→`-é` · h mudo cai · qu=k. UM ajuste próprio desta parte: `au` de `Autoservicio` → «a-ou», porque o `au` francês é [o] e faria o leitor dizer [oto-]; escrito «a-ou-to-ser-BI-ssio». TODA esta convenção é INFERÊNCIA e PENDÊNCIA de revisor FR-L1 + peninsular — o glifo da jota (`kh`) e a nasalização são os mais frágeis.",
-    "schengen_e_o_comprador_de_carro": "A cena migrou do aeroporto de Palma (alemão, que voa) para a fronteira terrestre de La Jonquère na AP-7 (francês: 65% chega de CARRO, litoral continental, Catalunha 30% — DERIVACAO §3.1). Os dois clipes de placa reusados servem os dois modos: `Control de pasaportes` é placa de AEROPORTO (tratada como «mesmo lá, essa fila não é sua» em b05-n03 e no aprofundar §1), e `Autoservicio` cai perfeito na estrada (a bomba de combustível self-service). O fato datado `schengen-interno-sem-controle` ganhou o ângulo francês (voo OU estrada) e a ressalva dos arts. 25–27 pesa mais aqui, porque a reintrodução temporária incide sobretudo em fronteira TERRESTRE — que é por onde este comprador entra.",
-    "o_molde_declarado": "UM step: `¿Me puede repetir, por favor?` (e01c-repetir-c) → `molde: \"ME-PUEDE\"`, `encaixe: \"repetir\"`. Redisparo puro — a casa é B03, que vem antes (G9d ok) — e por isso a raiz `moldes` continua VAZIA e o G16 não cobra clique. A peça é nomeada uma vez, no fecho (b05-n18, «le moule de la partie trois»), termo canônico do SKU (moldes.json `_regras.vocabulario_molde`). ⚠️ PENDÊNCIA DE ROSTER: o moldes.json FR lista `ME-PUEDE.redisparos` = [B04, B07, B09, B13, B14, B17, B18, I07] e NÃO inclui B05 (o roster alemão incluía). Declaro o molde no step porque o clipe reusado `¿Me puede repetir?` É a moldura ME-PUEDE reaparecendo, é a escotilha do slot, e casar a declaração com o clipe é o correto pedagógico; o autor do moldes.json precisa reconciliar B05 na lista de redisparos de ME-PUEDE. Enquanto não reconciliar, o G9 pode acusar mismatch step×roster — é aviso da obra em andamento, não regressão.",
-    "receptivo": "Três steps `ouvir` marcados com 👂 + `acao` (piso do G12), como no alemão: `Control de pasaportes` (a placa que deixou de ser fila dele), `Autoservicio` (a placa que diz que ninguém vem) e `¿Me deja el pasaporte?…` (o que ele VAI ouvir na recepção e não responde). Os demais `ouvir` são modelo antes do `responde`.",
-    "pergunta_so_de_cidadao_UE": "`¿Necesito el pasaporte?` (e02a-pasaporte-c) é a única pergunta desta parte que só um cidadão da UE faz — Carte nationale d'identité contra passeport (o francês viaja com a carteira de identidade, não precisa de passaporte intra-UE; DERIVACAO §4.1 B04). A resposta o aprofundar já traz («número de pièce d'identité ou de passeport»). Abre `bloco: corpo`, depois da cápsula do RD 933/2021.",
+    "_": "Narração ITALIANA de B05 RE-DERIVADA em 2026-07-31 a partir do NÚCLEO (moldes.json IT + DERIVACAO-IT.md §4.1), NÃO traduzida do andaime francês. NENHUM campo `es`, `tts` ou `audioKey` de clipe espanhol foi tocado — os 11 audioKeys espanhóis (e02b-control-c, e02b-auto-e, e07a-tasa-e, e07a-ficha-c, e02a-pasaporte-c, e07a-reserva-e, e02b-vacaciones-e, e02b-diez-c, e02b-alojo-e, e02b-reserva-c, e01c-repetir-c) continuam verbatim, custo de crédito ZERO. Re-derivaram-se: a narração-guia (pt), a `cena`, os campos de moldura, o `pinyin` (respelling para o OLHO ITALIANO) e este _notasDeAutoria. Vozes-guia = placeholders IT do audio.config (GuiaFem educadora, GuiaMasc alertas — voiceId «TODO-IT-...»); guiaLingua deve ser `it` no audio.config. Carmen/Emilio (peninsulares) intactas.",
+    "o_que_esta_parte_e": "A FUNÇÃO do slot sobrevive e migra de balcão (DERIVACAO-IT §4.1): o italiano é cidadão da UE, então num VOO Schengen interno Itália→Espanha NÃO há controle de fronteira — morrem EES, digitais, carimbo, 90/180, quiosque biométrico. Sobrevivem MOTIVO, TEMPO e ONDE FICA, agora no check-in do hotel, no apartamento e na locadora — os três obrigados pelo mesmo RD 933/2021. As três respostas gravadas (`Vengo de vacaciones.`, `Diez días.`, `Me alojo en el hotel Rialto, en Madrid.`) servem os três balcões sem tocar no `es`.",
+    "o_eixo_e_a_prova_de_derivacao": "O EIXO do SKU é o FALSO AMIGO (a proximidade que engana ao máximo). AQUI a prova de derivação genuína é NEGATIVA: o falso amigo `nombre`≠«nombre» (número em FRANCÊS) que carregava a batida central da B05 francesa NÃO PORTA ao italiano — `nombre`=`nome`=NOME nos dois, e `a nombre de` é BRINDE gravado (moldes.json `_regras.falsos_amigos._brinde_espelho`, ep-b05/b15/b16). Reescrevi a glosa de `Tengo una reserva a nombre de Harper.` como BRINDE explícito (chiedono a che nome, non quanti; il tuo va in fondo), desmontando a armadilha francesa em vez de forçá-la. Idem `firma`: em italiano `firma`=assinatura, mesmo sentido — BRINDE limpo (b05-n14), não fato lexical ambíguo como no francês. Não há falso amigo lexical que MORDA em B05; o que a parte ensina é a função + a fonética curta.",
+    "fonetica_desta_parte": "Quase tudo é BRINDE para a boca italiana (DERIVACAO-IT §1.2, `_onde_o_italiano_ganha_de_graca`): a TÔNICA paroxítona bate (some o «soco»/warmup de tônica que era o motor da B05 FRANCESA — b05-n01 reescrito como orientação, não como programa), os FINAIS são plenos (o italiano não come `-s`/`-e`), a NASAL evapora, o `u`=[u], o `r` é tap/vibrante NATIVO, o `h` é mudo, a liaison de `en el hotel` é natural (raddoppiamento, sem golpe de glote — b05-n11 fica BRINDE), o `au` de `Autoservicio` é [au] nativo (some o «a-ou» francês). O que SOBRA e vira áudio: (1) a JOTA [x] de `alojo`/`deja`/`viajeros` — SOM NOVO, o erro nº1 articulatório, sem âncora uvular (o italiano não tem uvular); voz de alertas, b05-n10 + e02b-alojo-e (gesto 4). (2) o `ce_ci_z` de `vacaciones`/`Necesito`/`Diez` — proibido [ts]/[tʃ] («vakaciònes», «diets»), alvo [θ], seseo [s] aceito. (3) o `ch`=[k] de `ficha` — ITALIANÍSSIMO (o italiano lê ⟨ch⟩=[k], «FI-ka»), âncora «o `ci` de `ciao`, não o `ch` de `chiesa`»; item NOVO que o francês (⟨ch⟩=[ʃ]) não tinha. (4) o `s` intervocálico de `pasaporte` — REGIONAL (Norte da Itália sonoriza [z]), MENOS sistemático que no francês (que era geral); aviso leve, [s] o modelo. (5) o `qu` de `Aquí` — TRAP MENOR: o italiano `qu`=[kw] («a-kwi»), mas o espanhol `Aquí`=[aki], u mudo (e02b-reserva-c).",
+    "gesto_pendencia": "O PRIMEIRO step (b05-n01, aquecimento) reativa a mão-âncora rítmica de B01 — o METRÔNOMO, `gesto:1` (o programa motor nº1, o mais leve de B01 IT; ver B01 `programas_motores`), coerente com «accento cadono al posto giusto» e com o warmup de b01-n01/b02-n01 (fecha o G16: o campo gesto do primeiro step torna a regra conferível). NÃO é o `gesto:3` francês (o «soco»/tônica), que continua REMOVIDO porque a tônica paroxítona é BRINDE no italiano (não há gesto de tônica a animar). Mantive `gesto:4` nos dois beats da JOTA (b05-n10 e e02b-alojo-e) porque a jota É gesto real do italiano — mas o NÚMERO (4) é herdado do andaime francês e precisa reconciliar com a numeração final dos programas motores de B01 IT (o mais leve do catálogo, <4 programas, DERIVACAO-IT §1.3): a jota pode não ser o programa nº4 no B01 italiano. Pendência do autor de B01 IT, não daqui.",
+    "molde_declarado": "UM step declara molde: `¿Me puede repetir, por favor?` (e01c-repetir-c) → `molde: ME-PUEDE`, `encaixe: repetir`, `encaixeGloss: ripetere`. Redisparo puro (a casa é B03, que vem antes — G9d ok), por isso a raiz `moldes` continua VAZIA e o G16 não cobra clique. A peça é nomeada uma vez no fecho (b05-n18, «lo stampo della terza parte»), termo canônico do SKU (moldes.json `_regras.vocabulario_molde` = «lo stampo»; G15). ⚠️ PENDÊNCIA DE ROSTER (idêntica à do FR): o moldes.json IT lista `ME-PUEDE.redisparos` = [B04,B07,B09,B13,B14,B17,B18,I07] e NÃO inclui B05. Declaro o molde no step porque o clipe reusado É a moldura ME-PUEDE reaparecendo; o autor do moldes.json reconcilia B05 na lista. Enquanto não reconciliar, o G9 pode acusar mismatch step×roster — obra em andamento, não regressão.",
+    "cena_meio_de_chegada": "A cena migrou da fronteira TERRESTRE francesa (La Jonquère, AP-7, 65% de carro) para um AEROPORTO — a Itália NÃO faz fronteira com a Espanha (a França está no meio), então o comprador chega majoritariamente de AVIÃO (voo Schengen interno); INFERÊNCIA geográfica, pendente da ficha Turespaña-Itália (DERIVACAO-IT §3.1, §6). Sem citar cidade (regra 4). Consequência no fato datado `schengen-interno-sem-controle`: reescrito para «voo Itália→Espanha», e a ressalva dos arts. 25–27 (reintrodução temporária, sobretudo TERRESTRE) PESA MENOS aqui que no francês — risco rebaixado de médio→baixo, com a INFERÊNCIA do avião marcada. Os dois clipes de placa reusados servem os dois modos: `Control de pasaportes` = placa de aeroporto («essa fila não é sua», voos de fora de Schengen), `Autoservicio` = self-service genérico (bomba/macchinetta).",
+    "receptivo": "Três `ouvir` com 👂 + `acao` (piso do G12): `Control de pasaportes` (a placa que deixou de ser sua), `Autoservicio` (a placa que diz que ninguém vem) e `¿Me deja el pasaporte?…` (o que ele OUVE na recepção e não responde). Os demais `ouvir` são modelo antes do `responde`.",
     "pendencias": [
-      "REVISOR FR-L1 + espanhol PENINSULAR: toda a fonética re-derivada (a tônica que o francês desloca, os finais apagados, a jota como som novo, o s intervocálico que não pode bourdonner, a NASALIZAÇÃO de vengo/vacaciones/nombre) é INFERÊNCIA e precisa de conferência ANTES da gravação. Nada NÃO CONFERIDO vira áudio.",
-      "VOZ-GUIA FRANCESA (casting): GuiaFem + GuiaMasc são placeholder no audio.config (voiceId «TODO-FR-...»); o gerador NÃO deve emitir job de narração-guia até os voiceId saírem do placeholder.",
-      "G14 (voz × língua) por conferência HUMANA: a guia francesa CITA espanhol na narração (b05-n01, n10, e as glosas) — citar é o trabalho dela (INV-5) — e nunca o FALA; Carmen/Emilio nunca falam francês. Este repositório já teve o acidente do mp3 na língua errada.",
-      "ROSTER: `ME-PUEDE.redisparos` no moldes.json FR não inclui B05, mas o step de `¿Me puede repetir?` declara `molde: ME-PUEDE`. Reconciliar no moldes.json (autor do roster), não aqui.",
-      "DEPENDÊNCIA VIVA DE B04: o callback `e07a-tasa-e` (¿La tasa turística está incluida?) só é recuperação enquanto B04 FR mantiver a tasa turística. Se B04 for reescrita e a soltar, o callback daqui vira novidade e tem de mudar.",
-      "CONVENÇÃO `pinyin` DO SKU: B05 segue a convenção de B10 (`ss` para z/c+e,i/s duro; `kh` para a jota; `ou` para [u]). Se o SKU consolidar outra grafia, alinhar B05 junto. B01 FR não usa `pinyin` em nenhum step, então a casa da convenção é B10.",
+      "REVISOR IT-L1 + espanhol PENINSULAR: toda a fonética re-derivada (a jota como SOM NOVO sem âncora, o `ce_ci_z` proibindo [ts]/[tʃ], o `ch`=[k] de `ficha`, o `s` intervocálico REGIONAL, o trap menor do `qu`=[kw] em `Aquí`) é INFERÊNCIA e precisa de conferência ANTES da gravação. Nada NÃO CONFERIDO vira áudio.",
+      "CONVENÇÃO `pinyin` DO OLHO ITALIANO (re-derivada do respelling francês, INFERÊNCIA): MAIÚSCULA=tônica · `u`=[u] (NÃO o `ou` francês — o italiano já lê u=[u]: incluida→in-klu-I-da) · `kh`=a jota [x] (raspatura do fundo da garganta, NÃO [k]: alojo→a-LO-kho) — GLIFO MAIS FRÁGIL, o italiano pode ler `kh` como [k], alinhar com B10 IT · `ss`=z/c+e,i/s duro, alvo [θ], seseo [s], nunca [ts]/[tʃ] (vacaciones→ba-ka-SSIO-nes) · `ci`/`ce`=o ⟨ch⟩ espanhol [tʃ], o `ci` de ciao (ficha→FI-cia) · `b`=v/b espanhol (vengo→BEN-go, reserva→rre-SSER-ba) · `rr`=vibrante forte · `y`=ll/y [ʝ] (rellenar→rre-ye-NAR) · `-e` final=[e] (BRINDE, o italiano já o diz) · h mudo cai · `au`=[au] nativo (Autoservicio→AU-to-) · `qu`=[k] com u mudo em espanhol (Aquí→a-KI, não a-kwi). A casa da convenção é B10 IT (escrita em paralelo); se B10 fixar outra grafia, alinhar B05 junto.",
+      "VOZ-GUIA ITALIANA (casting): GuiaFem + GuiaMasc são placeholder no audio.config (voiceId «TODO-IT-...»); o gerador NÃO deve emitir job de narração-guia até os voiceId saírem do placeholder. guiaLingua=`it`.",
+      "G14 (voz × língua) por conferência HUMANA: a guia italiana CITA espanhol na narração (as glosas, b05-n10) — citar é o trabalho dela (INV-5) — e nunca o FALA; Carmen/Emilio nunca falam italiano. Este repositório já teve o acidente do mp3 na língua errada.",
+      "ROSTER: `ME-PUEDE.redisparos` no moldes.json IT não inclui B05, mas o step de `¿Me puede repetir?` declara `molde: ME-PUEDE`. Reconciliar no moldes.json (autor do roster), não aqui.",
+      "GESTO: o primeiro step (b05-n01) recebeu `gesto:1` = o METRÔNOMO, a mão-âncora rítmica de B01 reativada como aquecimento (G16). O `gesto:3` (tônica) do andaime FR continua removido — não há gesto de tônica no italiano. O número 4 nos beats da jota é herdado do andaime FR e precisa reconciliar com a numeração dos programas motores de B01 IT (o mais leve do catálogo).",
+      "MEIO DE CHEGADA: «avião, não carro» é INFERÊNCIA geográfica (a Itália não faz fronteira com a Espanha), pendente da ficha executiva Turespaña-Itália (DERIVACAO-IT §6 item 5). Afeta a cena e o risco do fato datado.",
+      "DEPENDÊNCIA VIVA DE B04: o callback `e07a-tasa-e` (¿La tasa turística está incluida?) só é recuperação enquanto B04 IT mantiver a tasa turística. Se B04 for reescrita e a soltar, o callback daqui vira novidade e tem de mudar.",
       "O nome do hóspede gravado é `Harper`, e não pode mudar (áudio pago). A glosa manda o aluno pôr o próprio nome no lugar."
     ]
   },
@@ -93,23 +93,23 @@
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b05-n01",
-      "gesto": 3,
+      "gesto": 1,
       "bloco": "aquecimento",
       "tom": "ganha",
-      "pt": "Cinquième partie. Le coup d'abord : il ne tombe pas toujours au bout comme chez vous. pa-ssa-POR-té au milieu, es-TA à la fin. Écoutez où il tombe."
+      "pt": "Quinta parte. Qui leggi quasi tutto giusto: vocali, r, accento cadono al posto giusto. Un solo suono nuovo ti aspetta — la j di `alojo`. Ascoltala."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b05-n02",
       "bloco": "cena",
-      "pt": "Frontière de La Jonquère, après-midi. Vous entrez en Espagne sans un seul contrôle — personne ne veut voir vos papiers."
+      "pt": "Aeroporto spagnolo, pomeriggio. Entri in Spagna senza un solo controllo — nessuno vuole vedere i tuoi documenti."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b05-n03",
-      "pt": "Ni guichet, ni tampon, ni regard. Que vous arriviez par la route ou en avion, vous êtes resté dans Schengen : là, aucune frontière ne se contrôle."
+      "pt": "Niente banco, niente timbro, niente sguardo. Sei arrivato in volo, ma sei rimasto dentro Schengen: lì nessuna frontiera si controlla."
     },
     {
       "tipo": "ouvir",
@@ -117,9 +117,9 @@
       "audioKey": "e02b-control-c",
       "receptivo": true,
       "es": "Control de pasaportes",
-      "pinyin": "kon-TROL dé pa-ssa-POR-tess",
-      "pt": "👂 Panneau : contrôle des passeports. En venant de France, ce n'est pas votre file — elle est pour les vols de l'extérieur de Schengen.",
-      "acao": "Ne pas faire la queue. Passer devant le panneau, vers les bagages.",
+      "pinyin": "kon-TROL de pa-ssa-POR-tes",
+      "pt": "👂 Cartello: controllo passaporti. Arrivando dall'Italia non è la tua fila — è per i voli da fuori Schengen.",
+      "acao": "Non metterti in fila. Passa davanti al cartello, verso i bagagli.",
       "tts": "Control de pasaportes"
     },
     {
@@ -128,16 +128,16 @@
       "audioKey": "e02b-auto-e",
       "receptivo": true,
       "es": "Autoservicio",
-      "pinyin": "a-ou-to-ser-BI-ssio",
-      "pt": "👂 Panneau : libre-service. Là où c'est écrit, personne ne vient à vous — à la pompe comme au distributeur.",
-      "acao": "Ne pas attendre. Y aller soi-même et commencer soi-même.",
+      "pinyin": "AU-to-ser-BI-ssio",
+      "pt": "👂 Cartello: self-service. Dove è scritto, nessuno viene da te — alla pompa come alla macchinetta.",
+      "acao": "Non aspettare. Andarci da solo e cominciare da solo.",
       "tts": "Autoservicio"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b05-n04",
-      "pt": "Le premier qui veut quelque chose de vous se tient deux heures plus tard derrière un comptoir, et il tape à l'écran."
+      "pt": "Il primo che vuole qualcosa da te sta dietro un banco due ore più tardi, e batte sullo schermo."
     },
     {
       "consulta": [
@@ -149,11 +149,11 @@
       "promptVoz": "GuiaFem",
       "bloco": "callback",
       "promptAudioKey": "b05-p01",
-      "promptPt": "À la réception, tout est déjà payé en ligne. Elle tape quand même et annonce un montant. Demandez si c'était compris. Parlez maintenant.",
+      "promptPt": "Alla reception è già tutto pagato online. Lei batte lo stesso e annuncia una cifra. Chiedi se era compreso. Parla adesso.",
       "audioKey": "e07a-tasa-e",
       "es": "¿La tasa turística está incluida?",
-      "pinyin": "la TA-ssa tou-RISS-ti-ka ess-TA in-klou-I-da",
-      "pt": "La taxe de séjour est comprise ?",
+      "pinyin": "la TA-ssa tu-RIS-ti-ka es-TA in-klu-I-da",
+      "pt": "La tassa di soggiorno è compresa?",
       "tts": "¿La tasa turística está incluida?"
     },
     {
@@ -162,9 +162,9 @@
       "audioKey": "e07a-ficha-c",
       "receptivo": true,
       "es": "¿Me deja el pasaporte? Tengo que rellenar la ficha de viajeros.",
-      "pinyin": "mé DÉ-kha el pa-ssa-POR-té — TENG-go ké rré-yé-NAR la FI-tcha dé bia-KHÉ-ross",
-      "pt": "👂 « Vous me laissez la pièce d'identité ? Je dois remplir la fiche voyageurs. » — la première phrase à la réception, presque toujours.",
-      "acao": "Ne rien dire. Pousser la carte avant qu'elle demande deux fois.",
+      "pinyin": "me DE-kha el pa-ssa-POR-te — TEN-go ke rre-ye-NAR la FI-cia de bia-KHE-ros",
+      "pt": "👂 «Mi lascia il passaporto? Devo compilare la scheda viaggiatori.» — la prima frase alla reception, quasi sempre. E `ficha` è «FI-cia», il «ci» di ciao, mai con la k.",
+      "acao": "Non dire niente. Spingi la carta prima che chieda due volte.",
       "tts": "¿Me deja el pasaporte? Tengo que rellenar la ficha de viajeros."
     },
     {
@@ -172,27 +172,27 @@
       "voz": "GuiaFem",
       "audioKey": "b05-n05",
       "bloco": "capsula",
-      "pt": "Ce n'est pas sa curiosité. Depuis décembre 2024, hôtels, locations et loueurs de voitures doivent transmettre vos données."
+      "pt": "Non è la sua curiosità. Da dicembre 2024, hotel, case vacanza e autonoleggi devono trasmettere i tuoi dati."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b05-n06",
-      "pt": "Date de naissance, téléphone, e-mail, adresse complète — et pour les enfants, votre lien de parenté avec eux."
+      "pt": "Data di nascita, telefono, e-mail, indirizzo completo — e per i bambini, il tuo grado di parentela con loro."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b05-n07",
       "tom": "protege",
-      "pt": "Ici la voix des alertes. Qui refuse les informations n'a pas de chambre. L'établissement n'a aucune marge : c'est la règle."
+      "pt": "Qui la voce degli avvisi. Chi rifiuta le informazioni non ha la stanza. La struttura non ha margine: è la regola."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b05-n08",
       "tom": "ganha",
-      "pt": "Alors on pose tout d'un coup et c'est fini. La pièce d'identité sortie avant d'arriver au comptoir — et ça prend deux minutes."
+      "pt": "Allora posi tutto in una volta ed è finita. La carta d'identità fuori prima di arrivare al banco — e ci vogliono due minuti."
     },
     {
       "tipo": "ouvir",
@@ -200,8 +200,8 @@
       "audioKey": "e02a-pasaporte-c",
       "bloco": "corpo",
       "es": "¿Necesito el pasaporte?",
-      "pinyin": "né-ssé-SSI-to el pa-ssa-POR-té",
-      "pt": "Il me faut le passeport ? — Vous voyagez avec la carte d'identité ; son numéro suffit au formulaire. Le s du milieu reste dur : « pa-ssa-POR-té », sans bourdonner.",
+      "pinyin": "ne-sse-SSI-to el pa-ssa-POR-te",
+      "pt": "Mi serve il passaporto? — Viaggi con la carta d'identità; il suo numero basta per il modulo. La s in mezzo resta secca: «pa-ssa-POR-te», al Nord non sonorizzarla.",
       "tts": "¿Necesito el pasaporte?"
     },
     {
@@ -212,19 +212,19 @@
       "voz": "Carmen",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b05-p08",
-      "promptPt": "Vous n'avez que la carte d'identité, le passeport est resté chez vous. Il tend la main sans dire lequel des deux. Demandez. Parlez maintenant.",
+      "promptPt": "Hai solo la carta d'identità, il passaporto è rimasto a casa. Lui tende la mano senza dire quale dei due. Chiedi. Parla adesso.",
       "audioKey": "e02a-pasaporte-c",
       "es": "¿Necesito el pasaporte?",
-      "pinyin": "né-ssé-SSI-to el pa-ssa-POR-té",
-      "pt": "Il me faut le passeport ?"
+      "pinyin": "ne-sse-SSI-to el pa-ssa-POR-te",
+      "pt": "Mi serve il passaporto?"
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e07a-reserva-e",
       "es": "Tengo una reserva a nombre de Harper.",
-      "pinyin": "TENG-go ou-na rre-SSER-ba a NOM-bré dé …",
-      "pt": "J'ai une réservation au nom de Harper. — Piège : `nombre`, ce n'est pas « nombre », c'est le NOM. On vous demande à quel nom, pas combien. Le vôtre vient tout à la fin.",
+      "pinyin": "TEN-go u-na rre-SSER-ba a NOM-bre de …",
+      "pt": "Ho una prenotazione a nome di Harper. — Qui `nombre` è un regalo: vuol dire NOME, come da noi. Chiedono a che nome, non quanti. Il tuo viene proprio alla fine.",
       "tts": "Tengo una reserva a nombre de Harper."
     },
     {
@@ -235,25 +235,25 @@
       "voz": "Emilio",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b05-p02",
-      "promptPt": "Réception à Madrid, onze heures et demie du soir. L'homme derrière le comptoir lève les yeux, muet. Commencez, votre nom à la fin. Parlez maintenant.",
+      "promptPt": "Reception, undici e mezza di sera. L'uomo dietro il banco alza gli occhi, muto. Comincia, il tuo nome alla fine. Parla adesso.",
       "audioKey": "e07a-reserva-e",
       "es": "Tengo una reserva a nombre de Harper.",
-      "pinyin": "TENG-go ou-na rre-SSER-ba a NOM-bré dé …",
-      "pt": "J'ai une réservation au nom de …"
+      "pinyin": "TEN-go u-na rre-SSER-ba a NOM-bre de …",
+      "pt": "Ho una prenotazione a nome di …"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b05-n09",
-      "pt": "Puis viennent les trois choses qu'on demande à chacun de ces comptoirs : pourquoi, combien de temps, où vous dormez."
+      "pt": "Poi vengono le tre cose che a ognuno di questi banchi ti chiedono: perché, per quanto tempo, dove dormi."
     },
     {
       "tipo": "ouvir",
       "voz": "Emilio",
       "audioKey": "e02b-vacaciones-e",
       "es": "Vengo de vacaciones.",
-      "pinyin": "BENG-go dé ba-ka-SSIO-ness",
-      "pt": "Je viens en vacances. — Le v se dit comme un b (« BENG-go »), et le c de `vacaciones` est le son entre les dents.",
+      "pinyin": "BEN-go de ba-ka-SSIO-nes",
+      "pt": "Sono venuto in vacanza. — La v suona come una b («BEN-go»), e il c di `vacaciones` è il suono tra i denti, o una s — mai «vakaciònes».",
       "tts": "Vengo de vacaciones."
     },
     {
@@ -265,19 +265,19 @@
       "voz": "Emilio",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b05-p03",
-      "promptPt": "Autre comptoir, autre jour : vous prenez la voiture de location. Elle tape votre nom et demande ce qui vous amène. Trois mots. Parlez maintenant.",
+      "promptPt": "Altro banco, altro giorno: ritiri l'auto a noleggio. Lei batte il tuo nome e chiede cosa ti porta qui. Tre parole. Parla adesso.",
       "audioKey": "e02b-vacaciones-e",
       "es": "Vengo de vacaciones.",
-      "pinyin": "BENG-go dé ba-ka-SSIO-ness",
-      "pt": "Je viens en vacances."
+      "pinyin": "BEN-go de ba-ka-SSIO-nes",
+      "pt": "Sono venuto in vacanza."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e02b-diez-c",
       "es": "Diez días.",
-      "pinyin": "DIÉSS DI-ass",
-      "pt": "Dix jours. — Le z de `diez` n'est pas muet : c'est le son entre les dents, ou un simple s. Et le s de `días`, le pluriel, sonne jusqu'au bout."
+      "pinyin": "DIESS DI-as",
+      "pt": "Dieci giorni. — La z di `diez` non è «diets»: è il suono tra i denti, o una s. E la -s di `días`, il plurale, si sente fino in fondo."
     },
     {
       "consulta": [
@@ -287,24 +287,24 @@
       "voz": "Carmen",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b05-p04",
-      "promptPt": "Dans l'appartement de location, l'hôte remplit la fiche et arrive à la ligne : combien de nuits. Deux mots. Parlez maintenant.",
+      "promptPt": "Nell'appartamento in affitto, l'host compila la scheda e arriva alla riga: quante notti. Due parole. Parla adesso.",
       "audioKey": "e02b-diez-c",
       "es": "Diez días.",
-      "pinyin": "DIÉSS DI-ass",
-      "pt": "Dix jours."
+      "pinyin": "DIESS DI-as",
+      "pt": "Dieci giorni."
     },
     {
       "tipo": "intro",
       "voz": "GuiaMasc",
       "audioKey": "b05-n10",
       "gesto": 4,
-      "pt": "La voix des alertes. Le j de `alojo` et de `deja` se racle du fond de la gorge, au même endroit que votre r — jamais le j de « jour »."
+      "pt": "La voce degli avvisi. La j di `alojo` e di `deja` si raschia dal fondo della gola — mai la g di «gente», mai la j di «ieri»."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b05-n11",
-      "pt": "Et `en el hotel` se lie tout seul : é-né-lo-TEL, comme vous liez déjà en français. Rien à faire — et l'appui sur TEL, vous l'avez juste."
+      "pt": "E `en el hotel` si lega da solo: e-ne-lo-TEL, come già leghi in italiano. Niente da fare — e l'appoggio su TEL ce l'hai già."
     },
     {
       "tipo": "ouvir",
@@ -312,8 +312,8 @@
       "audioKey": "e02b-alojo-e",
       "gesto": 4,
       "es": "Me alojo en el hotel Rialto, en Madrid.",
-      "pinyin": "mé a-LO-kho é-né-lo-TEL rri-AL-to, en ma-DRI",
-      "pt": "Je loge à l'hôtel Rialto, à Madrid. — Le j de `alojo` se racle du fond de la gorge. Et `en el hotel` se lie d'un trait.",
+      "pinyin": "me a-LO-kho e-ne-lo-TEL rri-AL-to, en ma-DRI",
+      "pt": "Alloggio all'hotel Rialto, a Madrid. — La j di `alojo` si raschia dal fondo della gola. E `en el hotel` si lega d'un fiato.",
       "tts": "Me alojo en el hotel Rialto, en Madrid."
     },
     {
@@ -325,31 +325,31 @@
       "voz": "Emilio",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b05-p05",
-      "promptPt": "Madrid, le comptoir du loueur : pour le formulaire, il lui faut une adresse en Espagne, stylo en main. Dites-lui où vous dormez. Parlez maintenant.",
+      "promptPt": "Il banco dell'autonoleggio: per il modulo gli serve un indirizzo in Spagna, penna in mano. Digli dove dormi. Parla adesso.",
       "audioKey": "e02b-alojo-e",
       "es": "Me alojo en el hotel Rialto, en Madrid.",
-      "pinyin": "mé a-LO-kho é-né-lo-TEL rri-AL-to, en ma-DRI",
-      "pt": "Je loge à l'hôtel Rialto, à Madrid."
+      "pinyin": "me a-LO-kho e-ne-lo-TEL rri-AL-to, en ma-DRI",
+      "pt": "Alloggio all'hotel Rialto, a Madrid."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b05-n12",
-      "pt": "Le d au bout de `Madrid`, vous le laissez tomber — « ma-DRI ». Et ça tombe bien : c'est justement ainsi qu'on le dit là-bas. Offert."
+      "pt": "La -d finale di `Madrid` la lasci cadere — «ma-DRI». E càpita bene: è proprio così che lo dicono lì. Regalato."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b05-n13",
-      "pt": "Et montrer va plus vite que dire. La réservation déjà ouverte sur le téléphone, tendue, une phrase avec."
+      "pt": "E mostrare è più veloce che dire. La prenotazione già aperta sul telefono, tesa, una frase insieme."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e02b-reserva-c",
       "es": "Aquí tiene la reserva.",
-      "pinyin": "a-KI TIÉ-né la rre-SSER-ba",
-      "pt": "Voici la réservation. — La phrase qui clôt l'échange : l'écran plaide pour vous.",
+      "pinyin": "a-KI TIE-ne la rre-SSER-ba",
+      "pt": "Ecco la prenotazione. — La frase che chiude lo scambio: lo schermo parla per te. `Aquí` è «a-KI», la u dopo la q è muta, non «a-kwi».",
       "tts": "Aquí tiene la reserva."
     },
     {
@@ -361,32 +361,32 @@
       "voz": "Carmen",
       "promptVoz": "GuiaFem",
       "promptAudioKey": "b05-p06",
-      "promptPt": "Le nom dans son système ne colle pas avec votre téléphone, et il fronce les sourcils. Tendez-lui l'écran et dites la phrase. Parlez maintenant.",
+      "promptPt": "Il nome nel suo sistema non combacia con il tuo telefono, e aggrotta le sopracciglia. Tendigli lo schermo e di' la frase. Parla adesso.",
       "audioKey": "e02b-reserva-c",
       "es": "Aquí tiene la reserva.",
-      "pinyin": "a-KI TIÉ-né la rre-SSER-ba",
-      "pt": "Voici la réservation."
+      "pinyin": "a-KI TIE-ne la rre-SSER-ba",
+      "pt": "Ecco la prenotazione."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b05-n14",
-      "pt": "Puis il vous pousse la feuille, et sur la ligne il y a écrit `firma`. À ce comptoir, c'est votre signature."
+      "pt": "Poi ti spinge il foglio, e sulla riga c'è scritto `firma`. A questo banco è la tua firma — la stessa parola nelle due lingue."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b05-n15",
       "bloco": "permissao",
-      "pt": "Vous n'avez pas à comprendre le formulaire. Si quelque chose vous échappe, redemandez, tout simplement."
+      "pt": "Non devi capire il modulo. Se qualcosa ti sfugge, richiedi, semplicemente."
     },
     {
       "tipo": "ouvir",
       "voz": "Carmen",
       "audioKey": "e01c-repetir-c",
       "es": "¿Me puede repetir, por favor?",
-      "pinyin": "mé POUÉ-dé rré-pé-TIR, por fa-BOR",
-      "pt": "Vous pouvez répéter, s'il vous plaît ? — La phrase de la partie trois, et au comptoir elle gagne enfin son pain.",
+      "pinyin": "me PUE-de rre-pe-TIR, por fa-BOR",
+      "pt": "Me lo può ripetere, per favore? — La frase della terza parte, e al banco si guadagna finalmente il pane.",
       "tts": "¿Me puede repetir, por favor?"
     },
     {
@@ -399,96 +399,96 @@
       "promptVoz": "GuiaFem",
       "molde": "ME-PUEDE",
       "encaixe": "repetir",
-      "encaixeGloss": "répéter",
+      "encaixeGloss": "ripetere",
       "promptAudioKey": "b05-p07",
-      "promptPt": "Il vous donne l'heure du petit-déjeuner et un numéro de chambre, et les deux vous échappent. Arrêtez-le, gentiment. Parlez maintenant.",
+      "promptPt": "Ti dà l'ora della colazione e un numero di stanza, e ti sfuggono tutti e due. Fermalo, con garbo. Parla adesso.",
       "audioKey": "e01c-repetir-c",
       "es": "¿Me puede repetir, por favor?",
-      "pinyin": "mé POUÉ-dé rré-pé-TIR, por fa-BOR",
-      "pt": "Vous pouvez répéter, s'il vous plaît ?"
+      "pinyin": "me PUE-de rre-pe-TIR, por fa-BOR",
+      "pt": "Me lo può ripetere, per favore?"
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b05-n16",
       "bloco": "espelho",
-      "pt": "Ce qui se remarque là-bas, ce n'est pas l'accent. C'est la réponse préparée : on demande trois choses, on n'explique rien."
+      "pt": "Quello che si nota lì non è l'accento. È la risposta pronta: chiedono tre cose, non spieghi niente."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b05-n17",
       "bloco": "clique",
-      "pt": "Vous avez dit la même chose aujourd'hui à la réception, au comptoir du loueur et à l'appartement de location."
+      "pt": "Hai detto la stessa cosa oggi alla reception, al banco dell'autonoleggio e all'appartamento in affitto."
     },
     {
       "tipo": "intro",
       "voz": "GuiaFem",
       "audioKey": "b05-n18",
-      "pt": "Trois fois le même comptoir, juste une autre enseigne au-dessus. Et le moule de la partie trois a de nouveau travaillé."
+      "pt": "Tre volte lo stesso banco, solo un'altra insegna sopra. E lo stampo della terza parte ha lavorato di nuovo."
     },
     {
       "tipo": "recap",
       "voz": "GuiaFem",
       "audioKey": "b05-r01",
       "bloco": "recap",
-      "pt": "C'était la cinquième partie. Pas de douanier — mais trois réponses : pourquoi, combien de temps, où vous dormez."
+      "pt": "Era la quinta parte. Niente doganiere — ma tre risposte: perché, per quanto tempo, dove dormi."
     },
     {
       "tipo": "recap",
       "voz": "GuiaFem",
       "audioKey": "b05-r02",
-      "pt": "Une fois à voix haute, avant de continuer : l'hôte demande combien de temps vous restez. Que dites-vous ?"
+      "pt": "Una volta ad alta voce, prima di continuare: l'host chiede per quanto tempo resti. Cosa dici?"
     },
     {
       "tipo": "recap",
       "voz": "GuiaFem",
       "audioKey": "b05-r03",
-      "pt": "La suite en partie six : les soixante premières minutes — bagages, espèces, toilettes. À tout de suite."
+      "pt": "Il resto nella sesta parte: i primi sessanta minuti — bagagli, contanti, bagno. A tra poco."
     }
   ],
   "aprofundar": {
-    "titulo": "Arriver, en détail (lecture facultative)",
+    "titulo": "Arrivare, in dettaglio (lettura facoltativa)",
     "secoes": [
       {
-        "titulo": "Pourquoi rien ne se passe à la frontière",
-        "corpo": "Les contrôles dont les guides anglophones sont pleins — caméra, quatre empreintes, tampon, la règle des quatre-vingt-dix jours — appartiennent à la frontière EXTÉRIEURE de l'espace Schengen. Un trajet de la France vers l'Espagne est un trajet INTÉRIEUR à cet espace : là, pas de contrôle de frontière, pas de tampon, pas d'enregistrement. Et vous êtes nombreux à passer par la route, à La Jonquère ou au Perthus, où les voitures franchissent sans un arrêt. Il n'en reste qu'une chose pour vous, et elle relève de la compagnie ou de la route, pas de la frontière : sans document d'identité valable vous ne montez pas à bord, et un enfant a besoin du sien. Deux notes de bas de page, pour ne rien attendre de faux. Un : un État peut réintroduire des contrôles intérieurs pour un temps limité ; c'est annoncé, ce n'est pas permanent, et cela touche surtout les frontières terrestres. Deux : que personne ne veuille voir votre pièce d'identité ne veut pas dire que vous pouvez la laisser dans la valise — le premier comptoir après l'arrivée la voudra, à coup sûr.",
+        "titulo": "Perché alla frontiera non succede niente",
+        "corpo": "I controlli di cui sono piene le guide in inglese — telecamera, quattro impronte, timbro, la regola dei novanta giorni — appartengono alla frontiera ESTERNA dello spazio Schengen. Un volo dall'Italia verso la Spagna è un tragitto INTERNO a quello spazio: lì niente controllo di frontiera, niente timbro, niente registrazione. Resta una cosa sola per te, e dipende dalla compagnia, non dalla frontiera: senza un documento d'identità valido non sali a bordo, e un bambino ha bisogno del suo. Due note a piè di pagina, per non aspettarti niente di falso. Uno: uno Stato può reintrodurre controlli interni per un tempo limitato; è annunciato, non è permanente, e tocca soprattutto le frontiere di terra — non chi arriva in volo. Due: che nessuno voglia vedere il tuo documento non significa che puoi lasciarlo in valigia — il primo banco dopo l'arrivo lo vorrà, di sicuro.",
         "exemplos": [
           {
             "es": "Control de pasaportes",
-            "pt": "kon-TROL dé pa-ssa-POR-tess — contrôle des passeports : le panneau existe toujours, mais pas pour vous"
+            "pt": "kon-TROL de pa-ssa-POR-tes — controllo passaporti: il cartello esiste ancora, ma non per te"
           }
         ]
       },
       {
-        "titulo": "La liste, et d'où elle vient",
-        "corpo": "Real Decreto 933/2021, obligatoire depuis le 2 décembre 2024 : hébergements ET loueurs de voitures doivent collecter et transmettre aux forces de sécurité — nom et prénom, numéro de pièce d'identité ou de passeport, nationalité, sexe, date de naissance, téléphone, e-mail, l'adresse complète, le nombre de voyageurs et, s'il y a des mineurs, le lien de parenté. Cela vaut pour les hôtels, les locations de vacances et les comptoirs de location de voitures pareillement, le formulaire n'est parfois qu'en espagnol, et sans les informations il n'y a pas d'enregistrement. C'est toute la raison pour laquelle on demande à un comptoir de Gérone la même liste qu'à un comptoir de Madrid : ce n'est pas une règle de la maison, c'est un décret. Conséquence pratique : l'adresse et la pièce d'identité se tiennent en main avant votre tour — et qui vient avec sa propre voiture ou par le ferry s'épargne justement un de ces comptoirs, celui du loueur."
+        "titulo": "La lista, e da dove viene",
+        "corpo": "Real Decreto 933/2021, obbligatorio dal 2 dicembre 2024: alloggi E autonoleggi devono raccogliere e trasmettere alle forze di sicurezza — nome e cognome, numero di documento d'identità o di passaporto, nazionalità, sesso, data di nascita, telefono, e-mail, l'indirizzo completo, il numero di viaggiatori e, se ci sono minori, il grado di parentela. Vale per gli hotel, le case vacanza e i banchi dell'autonoleggio allo stesso modo, il modulo a volte è solo in spagnolo, e senza le informazioni non c'è registrazione. È tutta la ragione per cui a un banco chiedono la stessa lista di un altro banco lontano: non è una regola della casa, è un decreto. Conseguenza pratica: l'indirizzo e il documento si tengono in mano prima del tuo turno — e chi arriva con la propria auto o in traghetto si risparmia proprio uno di questi banchi, quello del noleggio."
       },
       {
-        "titulo": "«Me alojo en…» va avec n'importe quelle adresse",
-        "corpo": "`Me alojo en…` veut dire « je loge (pour un temps) à… » et accepte n'importe quel type d'hébergement. C'est pourquoi c'est la seule version de cette réponse à retenir : dire le début, accrocher l'hébergement. On vous la demande à la réception, au comptoir du loueur et partout où quelqu'un a un formulaire devant lui. En forme familière vous entendez `¿Dónde te alojas?`, en forme de politesse `¿Dónde se aloja?` — et le comptoir est l'un des rares endroits d'Espagne où la forme de politesse est bien la bonne.",
+        "titulo": "«Me alojo en…» va con qualsiasi indirizzo",
+        "corpo": "`Me alojo en…` vuol dire «alloggio (per un po') a…» e accetta qualsiasi tipo di sistemazione. Per questo è l'unica versione di questa risposta da tenere a mente: dire l'inizio, agganciare la sistemazione. Te la chiedono alla reception, al banco dell'autonoleggio e ovunque qualcuno abbia un modulo davanti. In forma familiare senti `¿Dónde te alojas?`, in forma di cortesia `¿Dónde se aloja?` — e il banco è uno dei pochi posti in Spagna dove la forma di cortesia è proprio quella giusta.",
         "exemplos": [
           {
             "es": "Me alojo en un apartamento, en el centro.",
-            "pt": "mé a-LO-kho en oun a-par-ta-MEN-to, en el SSEN-tro — Je loge dans un appartement, dans le centre."
+            "pt": "me a-LO-kho en un a-par-ta-MEN-to, en el SSEN-tro — Alloggio in un appartamento, in centro."
           },
           {
             "es": "Me alojo en casa de un amigo.",
-            "pt": "mé a-LO-kho en KA-ssa dé oun a-MI-go — Je loge chez un ami."
+            "pt": "me a-LO-kho en KA-ssa de un a-MI-go — Alloggio a casa di un amico."
           }
         ]
       },
       {
-        "titulo": "Les mots de cette partie qu'on lit de travers",
-        "corpo": "`pasaporte` — le s reste dur, « pa-ssa-POR-té », sans bourdonner au milieu ; c'est votre réflexe français de faire sonner le s entre deux voyelles qui trahit. `alojo`, `deja`, `viajeros` — le j se racle du fond de la gorge, au même endroit que votre r ; ce n'est pas le j de « jour » (qui donnerait « a-lo-jo », et ce n'est pas un mot espagnol). `ficha` — le ch n'est pas le « ch » de « chat » mais un « tch », avec un t devant : « FI-tcha ». Et deux cadeaux pour finir : le h de `hotel` est muet des deux côtés, et `en el hotel` se lie tout seul, « é-né-lo-TEL » — vous liez déjà ainsi en français. Quant au d de `Madrid`, vous le laissez tomber, « ma-DRI » ; là où un cours allemand doit le durcir, votre habitude tombe juste, parce que c'est aussi comme ça qu'on le dit sur place.",
+        "titulo": "Le parole di questa parte che si leggono storte",
+        "corpo": "`pasaporte` — la s resta secca, «pa-ssa-POR-te», senza sonorizzarla in mezzo; è l'abitudine del Nord Italia a farla suonare [z] che ti tradisce. `alojo`, `deja`, `viajeros` — la j si raschia dal fondo della gola, mai la j di «ieri» (che darebbe «a-lo-io») né la g di «gente» («a-lo-djo»). `ficha` — il ⟨ch⟩ non è la [k] di «chiesa» ma il «ci» di «ciao»: «FI-cia», non «FI-ca». E due regali per finire: la h di `hotel` è muta come da noi, e `en el hotel` si lega da solo, «e-ne-lo-TEL» — leghi già così in italiano. Quanto alla d di `Madrid`, la lasci cadere, «ma-DRI»; là dove un corso tedesco deve indurirla, la tua abitudine cade giusta, perché è anche così che lo dicono sul posto. E `Aquí` è «a-KI»: la u dopo la q è muta in spagnolo, non «a-kwi».",
         "exemplos": [
           {
             "es": "alojo · deja · viajeros",
-            "pt": "a-LO-kho · DÉ-kha · bia-KHÉ-ross — le j du fond de la gorge, jamais le j de « jour »"
+            "pt": "a-LO-kho · DE-kha · bia-KHE-ros — la j dal fondo della gola, mai la j di «ieri»"
           },
           {
-            "es": "Madrid",
-            "pt": "ma-DRI — le d final tombe, et ça sonne local"
+            "es": "ficha",
+            "pt": "FI-cia — il ⟨ch⟩ è il «ci» di «ciao», mai la [k] di «chiesa»"
           }
         ]
       }
