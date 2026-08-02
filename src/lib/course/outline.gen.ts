@@ -14,7 +14,7 @@ export const outline: ModuloOutline[] = [
   {
     nivel: 'basico',
     nome: 'Base · Me la cavo',
-    descricao: 'The Spanish that gets the day done: arriving, ordering, paying, moving, and getting help.',
+    descricao: 'Lo spagnolo che ti fa affrontare la giornata: arrivare, ordinare, pagare, muoverti e chiedere aiuto.',
     cor: 'terracota',
     licoes: [
       { id: 'b01', titulo: 'Dici quasi tutto giusto — tranne un suono', pronta: true },
@@ -40,7 +40,7 @@ export const outline: ModuloOutline[] = [
   {
     nivel: 'intermediario',
     nome: 'Intermedio · Me la godo',
-    descricao: 'Eat where they eat, when they eat, at the price they pay.',
+    descricao: 'Mangia dove mangiano loro, quando mangiano loro e al prezzo che pagano loro.',
     cor: 'oliva',
     licoes: [
       { id: 'i01', titulo: 'L\'orologio di qui', pronta: true },
@@ -58,7 +58,7 @@ export const outline: ModuloOutline[] = [
   {
     nivel: 'avancado',
     nome: 'Avanzato · Leggo la sala',
-    descricao: 'The humour, the pride, the old argument, and what their silence means.',
+    descricao: 'L’umorismo, l’orgoglio, la vecchia disputa e ciò che significa il loro silenzio.',
     cor: 'indigo',
     licoes: [
       { id: 'a01', titulo: 'Come parlano quando non è a te che parlano', pronta: true },
