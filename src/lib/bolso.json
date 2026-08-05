@@ -1,0 +1,69 @@
+{
+  "marca": "¡Dime!",
+  "cabecalho": "Spagna, in breve",
+  "titulo": "Tasca del viaggiatore",
+  "subtitulo": "L'essenziale resta disponibile in modalità aereo.",
+  "rotulos": {
+    "cambio": "Convertitore di valuta",
+    "valorEm": "Importo in",
+    "dataCotacao": "Data del cambio",
+    "avisoCotacao": "Solo indicativo. Controlla il tasso della tua carta o della tua banca prima di spendere.",
+    "tomadas": "Prese e corrente",
+    "emergencia": "Emergenze",
+    "ligar": "Chiama",
+    "saberUtil": "Utile da sapere"
+  },
+  "mesmaMoeda": "Spagna e Italia usano entrambe l'euro: niente cambio da fare, nessuna conversione e nessuna commissione di cambio.",
+  "moedas": {
+    "EUR": { "flag": "🇪🇺", "locale": "it-IT" }
+  },
+  "cambio": {
+    "date": "2026-08-05",
+    "rates": {}
+  },
+  "tomadas": "In Spagna la corrente è a 230 V / 50 Hz, come in Italia: nessun trasformatore serve. Cambia solo la presa: in Spagna si usano le prese tonde europee di tipo C e F (Schuko), quindi la spina italiana di tipo L (tre spinotti in fila) non entra — porta un adattatore L→Schuko, o usa i caricatori con spina europea a due spinotti tondi, che entrano senza problemi.",
+  "emergencia": [
+    { "numero": "112", "oQue": "Numero unico per tutto: polizia, ambulanza, vigili del fuoco. Risponde anche in inglese — in una vera emergenza chiama qui." },
+    { "numero": "091", "oQue": "Policía Nacional — reati e denunce in città." },
+    { "numero": "062", "oQue": "Guardia Civil — strade, aree rurali e coste." },
+    { "numero": "092", "oQue": "Policía Local — questioni urbane e controversie con esercizi commerciali (anche il rifiuto della hoja de reclamaciones)." }
+  ],
+  "saberUtil": [
+    {
+      "emoji": "💧",
+      "texto": "L'acqua del rubinetto nei bar e nei ristoranti è gratuita per legge (Ley 7/2022): chiedi «una jarra de agua del grifo, por favor»."
+    },
+    {
+      "emoji": "🧾",
+      "texto": "Il conto non arriva mai da solo: portarlo senza che tu lo chieda equivale a cacciarti. Devi chiederlo: «La cuenta, por favor»."
+    },
+    {
+      "emoji": "🪙",
+      "texto": "La mancia non è obbligatoria e non è lo stipendio di nessuno: il cameriere ha contratto collettivo. Si arrotonda, e basta — l'unico caso con una vera aspettativa è la guida turistica. Se il POS propone 10/15/20%, è facoltativo (OCU, 2026): cerca «Sin propina» o «Otra cantidad»."
+    },
+    {
+      "emoji": "🍽️",
+      "texto": "A pranzo nei giorni feriali molti ristoranti di quartiere fanno il «menú del día»: media nazionale €14,20 (Hostelería de España/Edenred, 2026). Nessuna legge lo impone, ma è il miglior rapporto qualità-prezzo del paese."
+    },
+    {
+      "emoji": "🧈",
+      "texto": "«Burro» in spagnolo è l'asino. Il burro si dice «mantequilla» — chiedilo così a colazione."
+    },
+    {
+      "emoji": "💊",
+      "texto": "In farmacia «constipado» vuol dire raffreddato, non costipato: per la stitichezza si dice «estreñido». Farmacia chiusa? Sulla porta è affissa la lista della «farmacia de guardia», quella di turno."
+    },
+    {
+      "emoji": "🏥",
+      "texto": "Porta la TEAM (il retro della tessera sanitaria): vale solo nella sanità pubblica e non sostituisce l'assicurazione di viaggio. Nelle cliniche private non copre nulla — prima di farti curare chiedi «¿Esto es público o privado?»."
+    },
+    {
+      "emoji": "👜",
+      "texto": "Il rischio è il borseggio in pieno giorno, non la rapina: a Barcellona metro L1, L3 e L5, con i picchi 8:00–9:30 e 17:00–20:00. Zaino davanti, telefono mai sul tavolo del dehors. E la polizia vera chiede i documenti, mai il portafoglio."
+    },
+    {
+      "emoji": "📕",
+      "texto": "Conto gonfiato, prezzo diverso da quello esposto, acqua del rubinetto negata: chiedi «la hoja de reclamaciones». Averla è obbligatorio e di solito la richiesta chiude la disputa sul posto."
+    }
+  ]
+}
